@@ -1,0 +1,51 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Society",
+      "subject": "Environment",
+      "topic": "Solid Waste Management",
+      "id": "M890431",
+      "groupTitle": "Waste Disposed Of And Recycled",
+      "title": "Waste Disposed Of And Recycled, Annual",
+      "frequency": "Annual",
+      "adjustmentType": "",
+      "dataSource": "MINISTRY OF SUSTAINABILITY AND THE ENVIRONMENT, NATIONAL ENVIRONMENT AGENCY",
+      "footnote": "Year 2020 was an anomalous year with lower waste generation and recycling rates due to the impact of COVID-19, particularly during the Circuit Breaker period (April to May 2020) when activities were curtailed. The pick-up in economic activity and resumption of business and social activities since 2021 has led to an increase in waste generated, disposed of and recycled.",
+      "dataLastUpdated": "21/07/2026",
+      "startPeriod": "2013",
+      "endPeriod": "2025",
+      "total": 52,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Waste Disposed Of",
+          "uoM": "Million Tonnes",
+          "footnote": "Comprises incinerable waste that are sent to the incineration plants and non-incinerable waste that are sent directly to Semakau Landfill.  Data from 2015 exclude metals recovered from incineration bottom ash in a metal recovery facility that is commissioned in 2015."
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "Domestic",
+          "uoM": "Million Tonnes",
+          "footnote": "Refers to waste collected from households and trade premises (e.g., shophouses, educational institutions, petrol stations, hawker centres and places of worship)."
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "Non-Domestic",
+          "uoM": "Million Tonnes",
+          "footnote": "Refers to waste generated at industrial and commercial premises."
+        },
+        {
+          "seriesNo": "2",
+          "rowText": "Waste Recycled",
+          "uoM": "Million Tonnes",
+          "footnote": "Refers to waste recovered and processed at local recycling facilities or exported overseas for recycling."
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

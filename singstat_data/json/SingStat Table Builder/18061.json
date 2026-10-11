@@ -1,0 +1,1676 @@
+{
+  "Data": {
+    "id": "18061",
+    "tableType": "Household Expenditure Survey 2017/18",
+    "groupTitle": null,
+    "title": "Resident Households by Household Living Arrangement and Selected Characteristics",
+    "frequency": "5 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "28/11/2024",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Household Expenditure",
+    "topic": "Household Expenditure Survey ",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total 1/",
+        "uoM": "Number",
+        "footnote": "1/ Total includes other types of dwellings not shown, e.g. non-HDB shophouses.",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "907250"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "683461"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "355176"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "328286"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "223789"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "94038"
+              },
+              {
+                "key": "Living Alone",
+                "value": "194383"
+              },
+              {
+                "key": "Others",
+                "value": "153475"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "By Type of Dwelling",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": ""
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": ""
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": ""
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": ""
+              },
+              {
+                "key": "Living Alone",
+                "value": ""
+              },
+              {
+                "key": "Others",
+                "value": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "HDB Dwellings",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "702233"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "529943"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "266753"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "263190"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "172291"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "83187"
+              },
+              {
+                "key": "Living Alone",
+                "value": "158890"
+              },
+              {
+                "key": "Others",
+                "value": "124597"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.1",
+        "rowText": "1- & 2-Room Flats 2/",
+        "uoM": "Number",
+        "footnote": "2/ 1- & 2-Room includes HDB studio apartments.",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27338"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "14617"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "10400"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "4217"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "12720"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "8819"
+              },
+              {
+                "key": "Living Alone",
+                "value": "28071"
+              },
+              {
+                "key": "Others",
+                "value": "12734"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.2",
+        "rowText": "3-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "113714"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "71933"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "39045"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "32888"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "41780"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "21313"
+              },
+              {
+                "key": "Living Alone",
+                "value": "64043"
+              },
+              {
+                "key": "Others",
+                "value": "41580"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.3",
+        "rowText": "4-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "306726"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "231570"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "104727"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "126843"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "75156"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "32558"
+              },
+              {
+                "key": "Living Alone",
+                "value": "47128"
+              },
+              {
+                "key": "Others",
+                "value": "44553"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.4",
+        "rowText": "5-Room & Executive Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "254456"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "211823"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "112580"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "99242"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "42633"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "20496"
+              },
+              {
+                "key": "Living Alone",
+                "value": "19648"
+              },
+              {
+                "key": "Others",
+                "value": "25729"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "Condominiums & Other Apartments",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "149526"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "109649"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "71630"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "38019"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "39877"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "8077"
+              },
+              {
+                "key": "Living Alone",
+                "value": "30214"
+              },
+              {
+                "key": "Others",
+                "value": "19464"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "Landed Properties",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "54270"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "43105"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "16473"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "26632"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "11165"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "2545"
+              },
+              {
+                "key": "Living Alone",
+                "value": "3633"
+              },
+              {
+                "key": "Others",
+                "value": "8591"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6",
+        "rowText": "By Income Quintile 3/",
+        "uoM": "Number",
+        "footnote": "3/ Based on ranking of all resident households by their monthly household income from all sources per household member (including employer CPF contributions). ",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": ""
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": ""
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": ""
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": ""
+              },
+              {
+                "key": "Living Alone",
+                "value": ""
+              },
+              {
+                "key": "Others",
+                "value": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "7",
+        "rowText": "1st - 20th Percentile 4/",
+        "uoM": "Number",
+        "footnote": "4/ It is notable that some resident households in the lowest 20% income group owned a car (13.5%), employed a domestic helper (14.7%), lived in private property (6.7%) or were with household reference persons aged 65 years and over (35.5%) in 2017/18.",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "152864"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "105587"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "65859"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "39728"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "47277"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "24897"
+              },
+              {
+                "key": "Living Alone",
+                "value": "48531"
+              },
+              {
+                "key": "Others",
+                "value": "43537"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "8",
+        "rowText": "21st - 40th Percentile",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "190679"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "149334"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "75690"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "73644"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "41345"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "22917"
+              },
+              {
+                "key": "Living Alone",
+                "value": "25647"
+              },
+              {
+                "key": "Others",
+                "value": "30586"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "9",
+        "rowText": "41st - 60th Percentile",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "199019"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "166289"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "77155"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "89133"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "32730"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "17942"
+              },
+              {
+                "key": "Living Alone",
+                "value": "25502"
+              },
+              {
+                "key": "Others",
+                "value": "27367"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "10",
+        "rowText": "61st - 80th Percentile",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "192599"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "156564"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "78689"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "77875"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "36035"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "19291"
+              },
+              {
+                "key": "Living Alone",
+                "value": "30217"
+              },
+              {
+                "key": "Others",
+                "value": "27722"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "11",
+        "rowText": "81st - 100th Percentile",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "172089"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "105688"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "57782"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "47906"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "66401"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "8991"
+              },
+              {
+                "key": "Living Alone",
+                "value": "64486"
+              },
+              {
+                "key": "Others",
+                "value": "24263"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "12",
+        "rowText": "By Monthly Income Group 5/",
+        "uoM": "Number",
+        "footnote": "5/ Income data include employer CPF contributions.",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": ""
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": ""
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": ""
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": ""
+              },
+              {
+                "key": "Living Alone",
+                "value": ""
+              },
+              {
+                "key": "Others",
+                "value": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "13",
+        "rowText": "Below 1,000",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9695"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "3032"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "2176"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "856"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "6662"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "3241"
+              },
+              {
+                "key": "Living Alone",
+                "value": "33872"
+              },
+              {
+                "key": "Others",
+                "value": "6111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "14",
+        "rowText": "1,000 - 1,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28204"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "9602"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "6231"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "3372"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "18601"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "6984"
+              },
+              {
+                "key": "Living Alone",
+                "value": "29718"
+              },
+              {
+                "key": "Others",
+                "value": "15037"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "15",
+        "rowText": "2,000 - 2,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34700"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "14554"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "8241"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "6313"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "20146"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "6078"
+              },
+              {
+                "key": "Living Alone",
+                "value": "25440"
+              },
+              {
+                "key": "Others",
+                "value": "12301"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "16",
+        "rowText": "3,000 - 3,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43635"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "22241"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "12929"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "9311"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "21394"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "8260"
+              },
+              {
+                "key": "Living Alone",
+                "value": "15911"
+              },
+              {
+                "key": "Others",
+                "value": "12903"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "17",
+        "rowText": "4,000 - 4,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "47558"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "30207"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "15538"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "14669"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "17351"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "8339"
+              },
+              {
+                "key": "Living Alone",
+                "value": "13693"
+              },
+              {
+                "key": "Others",
+                "value": "11349"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "18",
+        "rowText": "5,000 - 5,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45906"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "30799"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "15174"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "15625"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "15107"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "10584"
+              },
+              {
+                "key": "Living Alone",
+                "value": "12157"
+              },
+              {
+                "key": "Others",
+                "value": "10553"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "19",
+        "rowText": "6,000 - 7,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "93594"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "71772"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "36655"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "35117"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "21822"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "12108"
+              },
+              {
+                "key": "Living Alone",
+                "value": "20041"
+              },
+              {
+                "key": "Others",
+                "value": "16398"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "20",
+        "rowText": "8,000 - 9,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "92821"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "77457"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "36146"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "41311"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "15364"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "9471"
+              },
+              {
+                "key": "Living Alone",
+                "value": "13706"
+              },
+              {
+                "key": "Others",
+                "value": "15214"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "21",
+        "rowText": "10,000 - 11,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "82111"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "67622"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "30985"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "36637"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "14488"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "5742"
+              },
+              {
+                "key": "Living Alone",
+                "value": "9197"
+              },
+              {
+                "key": "Others",
+                "value": "10864"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "22",
+        "rowText": "12,000 - 14,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "107254"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "87895"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "43101"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "44795"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "19359"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "9607"
+              },
+              {
+                "key": "Living Alone",
+                "value": "7255"
+              },
+              {
+                "key": "Others",
+                "value": "13701"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "23",
+        "rowText": "15,000 - 19,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "120273"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "99545"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "52208"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "47337"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "20729"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "7859"
+              },
+              {
+                "key": "Living Alone",
+                "value": "4901"
+              },
+              {
+                "key": "Others",
+                "value": "12082"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "24",
+        "rowText": "20,000 - 24,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "73228"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "61707"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "35034"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "26673"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "11521"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "2408"
+              },
+              {
+                "key": "Living Alone",
+                "value": "3176"
+              },
+              {
+                "key": "Others",
+                "value": "7311"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "25",
+        "rowText": "25,000 - 29,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45680"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "36645"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "21230"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "15415"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "9035"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "1015"
+              },
+              {
+                "key": "Living Alone",
+                "value": "2006"
+              },
+              {
+                "key": "Others",
+                "value": "3225"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "26",
+        "rowText": "30,000 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Couple-Based Households",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "82591"
+              },
+              {
+                "key": "With Children in Household",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "70382"
+                  },
+                  {
+                    "key": "With Youngest Child Aged Below 16 Years",
+                    "value": "39528"
+                  },
+                  {
+                    "key": "With Youngest Child Aged 16 Years & Over",
+                    "value": "30854"
+                  }
+                ]
+              },
+              {
+                "key": "No Children in Household",
+                "value": "12209"
+              }
+            ]
+          },
+          {
+            "key": "Other Households",
+            "columns": [
+              {
+                "key": "Lone Parents",
+                "value": "2341"
+              },
+              {
+                "key": "Living Alone",
+                "value": "3309"
+              },
+              {
+                "key": "Others",
+                "value": "6428"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

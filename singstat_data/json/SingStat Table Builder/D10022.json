@@ -1,0 +1,110 @@
+{
+  "Data": {
+    "theme": "Households",
+    "subject": "Household Expenditure",
+    "topic": "Household Expenditure Survey ",
+    "id": "D10022",
+    "tableType": null,
+    "groupTitle": null,
+    "title": "[Multi-Dimensional Data Cube] Monthly Household Expenditure Among Resident Households 2002/03, 2007/08, 2012/13, 2017/18, 2023",
+    "frequency": "5 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "28/11/2024",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Number of Households (Number)",
+        "uoM": "Number / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "value": "1418472"
+          },
+          {
+            "key": "2017/18",
+            "value": "1349146"
+          },
+          {
+            "key": "2012/13",
+            "value": "1189793"
+          },
+          {
+            "key": "2007/08",
+            "value": "1091399"
+          },
+          {
+            "key": "2002/03",
+            "value": "992798"
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "Total Monthly Household Expenditure ($)",
+        "uoM": "Number / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "value": "8412964027"
+          },
+          {
+            "key": "2017/18",
+            "value": "6965298240"
+          },
+          {
+            "key": "2012/13",
+            "value": "5673517283"
+          },
+          {
+            "key": "2007/08",
+            "value": "4156984184"
+          },
+          {
+            "key": "2002/03",
+            "value": "3327769757"
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "Average Monthly Household Expenditure ($)",
+        "uoM": "Number / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "value": "5931"
+          },
+          {
+            "key": "2017/18",
+            "value": "5162.7"
+          },
+          {
+            "key": "2012/13",
+            "value": "4768.5"
+          },
+          {
+            "key": "2007/08",
+            "value": "3808.9"
+          },
+          {
+            "key": "2002/03",
+            "value": "3351.9"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

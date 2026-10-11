@@ -1,0 +1,1267 @@
+{
+  "Data": {
+    "theme": "Households",
+    "subject": "Household Expenditure",
+    "topic": "Household Expenditure Survey ",
+    "id": "D10046",
+    "tableType": null,
+    "groupTitle": null,
+    "title": "[Multi-Dimensional Data Cube] Distribution of Monthly Household Expenditure Among Resident Households by Type of Goods and Services (2-digit), 2002/03, 2007/08, 2012/13, 2017/18, 2023",
+    "frequency": "5 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "28/11/2024",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "TOTAL, including imputed rental for owner-occupied accommodation",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "100"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "7118.7"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "100"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "6160.8"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "100"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "5815.3"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "100"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "4432.5"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "100"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "3797.8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "FOOD AND NON-ALCOHOLIC BEVERAGES",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "6.4"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "455.9"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "6.4"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "394"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "7.5"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "433.3"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "8.2"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "364.6"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "9"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "340.5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "ALCOHOLIC BEVERAGES AND TOBACCO",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "0.6"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "39.7"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "0.7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "42.4"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "0.9"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "53.4"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "1"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "46.5"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "1.4"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "52.2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "CLOTHING AND FOOTWEAR",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "1.7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "119.6"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "2"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "122.9"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "2.7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "155.6"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "3.2"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "143.1"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "3.3"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "127"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "HOUSING AND UTILITIES",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "24.4"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1737.5"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "23.1"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1425.6"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "25.3"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1473.6"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "22.2"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "983.6"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "18.5"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "704.1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5.1",
+        "rowText": "Imputed Rental for Owner-Occupied Accommodation",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "16.7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1187.7"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "16.2"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "998"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "18"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1046.8"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "14.1"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "623.6"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "11.7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "445.9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6",
+        "rowText": "FURNISHING, HOUSEHOLD EQUIPMENT AND ROUTINE HOUSEHOLD MAINTENANCE",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "5.4"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "384.6"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "4.5"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "277.5"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "4.4"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "256.7"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "4.1"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "182.1"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "5.6"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "212.5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "7",
+        "rowText": "HEALTH",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "6.7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "473.5"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "5.2"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "320.1"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "4.3"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "253"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "4.8"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "211.4"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "4.3"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "163.5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "8",
+        "rowText": "TRANSPORT",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "13.4"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "951.2"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "16.9"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1038.2"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "14.7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "856.7"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "15.8"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "701.9"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "16.3"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "618.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "9",
+        "rowText": "INFORMATION AND COMMUNICATION",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "3.8"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "270.2"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "4.5"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "276.4"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "4.5"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "260"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "6.3"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "280.7"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "6.5"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "248.5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "10",
+        "rowText": "RECREATION, SPORT AND CULTURE",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "4.7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "334.7"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "5.5"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "340.8"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "6.1"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "352.7"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "309"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "9.6"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "365.4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "11",
+        "rowText": "EDUCATION",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "5.7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "404.2"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "6.1"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "374"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "5.7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "334.1"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "5.7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "251.6"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "5.5"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "209.1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "12",
+        "rowText": "FOOD AND BEVERAGE SERVING SERVICES",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "13.6"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "965.7"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "13.1"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "809.9"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "13.1"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "764.1"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "13.3"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "591.7"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "12.3"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "465.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "13",
+        "rowText": "ACCOMMODATION SERVICES",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "1.2"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "81.9"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "1.1"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "69.5"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "0.7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "39.5"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "0.7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "33"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "0.2"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "6.2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "14",
+        "rowText": "INSURANCE AND FINANCIAL SERVICES",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "8.3"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "590"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "6.2"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "381.8"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "5.1"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "294.6"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "2.5"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "110.6"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "2.4"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "89.7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "15",
+        "rowText": "PERSONAL CARE, SOCIAL SERVICES AND MISCELLANEOUS GOODS AND SERVICES",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "4"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "285.3"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "4.3"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "264.4"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "4.5"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "264.5"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "4.4"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "197"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "4.4"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "169"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "16",
+        "rowText": "NON-ASSIGNABLE EXPENDITURE",
+        "uoM": "% / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "0.3"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "24.6"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "0.4"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "23.4"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "0.4"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "23.6"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "0.6"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "25.6"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Distribution of Household Expenditure (%)",
+                "value": "0.7"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "26"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

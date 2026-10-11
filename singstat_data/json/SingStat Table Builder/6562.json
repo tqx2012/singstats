@@ -1,0 +1,1205 @@
+{
+  "Data": {
+    "id": "6562",
+    "tableType": "Census of Population 2000",
+    "groupTitle": null,
+    "title": "Resident Population Aged 15 Years and Over by Language Literate In, Residential Status and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "For more information, please refer to the publication on 'Singapore Census of Population 2000, Statistical Release 2: Education, Language and Religion' (https://www.singstat.gov.sg/find-data/explore-data-themes/population/education-language-spoken-and-literacy/related-information).",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "29/10/2015",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Education, Language Spoken and Literacy",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2494630"
+              },
+              {
+                "key": "Males",
+                "value": "1229758"
+              },
+              {
+                "key": "Females",
+                "value": "1264872"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2265333"
+              },
+              {
+                "key": "Males",
+                "value": "1123613"
+              },
+              {
+                "key": "Females",
+                "value": "1141721"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "229297"
+              },
+              {
+                "key": "Males",
+                "value": "106145"
+              },
+              {
+                "key": "Females",
+                "value": "123152"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "Not Literate",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "185865"
+              },
+              {
+                "key": "Males",
+                "value": "42240"
+              },
+              {
+                "key": "Females",
+                "value": "143624"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "179967"
+              },
+              {
+                "key": "Males",
+                "value": "41076"
+              },
+              {
+                "key": "Females",
+                "value": "138891"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5898"
+              },
+              {
+                "key": "Males",
+                "value": "1164"
+              },
+              {
+                "key": "Females",
+                "value": "4734"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "Literate",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2308765"
+              },
+              {
+                "key": "Males",
+                "value": "1187518"
+              },
+              {
+                "key": "Females",
+                "value": "1121248"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2085366"
+              },
+              {
+                "key": "Males",
+                "value": "1082536"
+              },
+              {
+                "key": "Females",
+                "value": "1002830"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "223399"
+              },
+              {
+                "key": "Males",
+                "value": "104982"
+              },
+              {
+                "key": "Females",
+                "value": "118418"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "One Language Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1015302"
+              },
+              {
+                "key": "Males",
+                "value": "514708"
+              },
+              {
+                "key": "Females",
+                "value": "500595"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "921100"
+              },
+              {
+                "key": "Males",
+                "value": "475012"
+              },
+              {
+                "key": "Females",
+                "value": "446088"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "94202"
+              },
+              {
+                "key": "Males",
+                "value": "39695"
+              },
+              {
+                "key": "Females",
+                "value": "54507"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.1",
+        "rowText": "Chinese Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "580369"
+              },
+              {
+                "key": "Males",
+                "value": "284546"
+              },
+              {
+                "key": "Females",
+                "value": "295823"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "525604"
+              },
+              {
+                "key": "Males",
+                "value": "263424"
+              },
+              {
+                "key": "Females",
+                "value": "262179"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "54765"
+              },
+              {
+                "key": "Males",
+                "value": "21122"
+              },
+              {
+                "key": "Females",
+                "value": "33643"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.2",
+        "rowText": "English Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "353801"
+              },
+              {
+                "key": "Males",
+                "value": "199217"
+              },
+              {
+                "key": "Females",
+                "value": "154584"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "323763"
+              },
+              {
+                "key": "Males",
+                "value": "183515"
+              },
+              {
+                "key": "Females",
+                "value": "140248"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30038"
+              },
+              {
+                "key": "Males",
+                "value": "15702"
+              },
+              {
+                "key": "Females",
+                "value": "14336"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.3",
+        "rowText": "Malay Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "62721"
+              },
+              {
+                "key": "Males",
+                "value": "24047"
+              },
+              {
+                "key": "Females",
+                "value": "38674"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "57762"
+              },
+              {
+                "key": "Males",
+                "value": "23027"
+              },
+              {
+                "key": "Females",
+                "value": "34735"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4959"
+              },
+              {
+                "key": "Males",
+                "value": "1019"
+              },
+              {
+                "key": "Females",
+                "value": "3940"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.4",
+        "rowText": "Tamil Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15293"
+              },
+              {
+                "key": "Males",
+                "value": "6438"
+              },
+              {
+                "key": "Females",
+                "value": "8854"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12115"
+              },
+              {
+                "key": "Males",
+                "value": "4689"
+              },
+              {
+                "key": "Females",
+                "value": "7426"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3178"
+              },
+              {
+                "key": "Males",
+                "value": "1749"
+              },
+              {
+                "key": "Females",
+                "value": "1428"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.5",
+        "rowText": "Non-Official Language Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3119"
+              },
+              {
+                "key": "Males",
+                "value": "460"
+              },
+              {
+                "key": "Females",
+                "value": "2660"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1857"
+              },
+              {
+                "key": "Males",
+                "value": "356"
+              },
+              {
+                "key": "Females",
+                "value": "1500"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1263"
+              },
+              {
+                "key": "Males",
+                "value": "103"
+              },
+              {
+                "key": "Females",
+                "value": "1159"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "Two Languages Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1244466"
+              },
+              {
+                "key": "Males",
+                "value": "646549"
+              },
+              {
+                "key": "Females",
+                "value": "597917"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1141134"
+              },
+              {
+                "key": "Males",
+                "value": "594713"
+              },
+              {
+                "key": "Females",
+                "value": "546421"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "103333"
+              },
+              {
+                "key": "Males",
+                "value": "51837"
+              },
+              {
+                "key": "Females",
+                "value": "51496"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5.1",
+        "rowText": "English & Chinese Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "877510"
+              },
+              {
+                "key": "Males",
+                "value": "449792"
+              },
+              {
+                "key": "Females",
+                "value": "427718"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "817125"
+              },
+              {
+                "key": "Males",
+                "value": "419931"
+              },
+              {
+                "key": "Females",
+                "value": "397195"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "60385"
+              },
+              {
+                "key": "Males",
+                "value": "29861"
+              },
+              {
+                "key": "Females",
+                "value": "30524"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5.2",
+        "rowText": "English & Malay Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "283342"
+              },
+              {
+                "key": "Males",
+                "value": "154707"
+              },
+              {
+                "key": "Females",
+                "value": "128635"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "264374"
+              },
+              {
+                "key": "Males",
+                "value": "144783"
+              },
+              {
+                "key": "Females",
+                "value": "119590"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18969"
+              },
+              {
+                "key": "Males",
+                "value": "9924"
+              },
+              {
+                "key": "Females",
+                "value": "9045"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5.3",
+        "rowText": "English & Tamil Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "64074"
+              },
+              {
+                "key": "Males",
+                "value": "33665"
+              },
+              {
+                "key": "Females",
+                "value": "30409"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "52660"
+              },
+              {
+                "key": "Males",
+                "value": "27081"
+              },
+              {
+                "key": "Females",
+                "value": "25579"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11414"
+              },
+              {
+                "key": "Males",
+                "value": "6584"
+              },
+              {
+                "key": "Females",
+                "value": "4830"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5.4",
+        "rowText": "English & Non-Official Language Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13809"
+              },
+              {
+                "key": "Males",
+                "value": "6294"
+              },
+              {
+                "key": "Females",
+                "value": "7516"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3807"
+              },
+              {
+                "key": "Males",
+                "value": "1762"
+              },
+              {
+                "key": "Females",
+                "value": "2045"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10002"
+              },
+              {
+                "key": "Males",
+                "value": "4531"
+              },
+              {
+                "key": "Females",
+                "value": "5471"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5.5",
+        "rowText": "Other Two Languages Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5731"
+              },
+              {
+                "key": "Males",
+                "value": "2092"
+              },
+              {
+                "key": "Females",
+                "value": "3639"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3167"
+              },
+              {
+                "key": "Males",
+                "value": "1155"
+              },
+              {
+                "key": "Females",
+                "value": "2012"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2564"
+              },
+              {
+                "key": "Males",
+                "value": "937"
+              },
+              {
+                "key": "Females",
+                "value": "1627"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6",
+        "rowText": "Three Or More Languages",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "48997"
+              },
+              {
+                "key": "Males",
+                "value": "26261"
+              },
+              {
+                "key": "Females",
+                "value": "22736"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23133"
+              },
+              {
+                "key": "Males",
+                "value": "12811"
+              },
+              {
+                "key": "Females",
+                "value": "10321"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25864"
+              },
+              {
+                "key": "Males",
+                "value": "13450"
+              },
+              {
+                "key": "Females",
+                "value": "12414"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6.1",
+        "rowText": "English, Chinese & Malay Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "26840"
+              },
+              {
+                "key": "Males",
+                "value": "14211"
+              },
+              {
+                "key": "Females",
+                "value": "12629"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6475"
+              },
+              {
+                "key": "Males",
+                "value": "3832"
+              },
+              {
+                "key": "Females",
+                "value": "2642"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20365"
+              },
+              {
+                "key": "Males",
+                "value": "10378"
+              },
+              {
+                "key": "Females",
+                "value": "9987"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6.2",
+        "rowText": "English, Chinese & Tamil Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "117"
+              },
+              {
+                "key": "Males",
+                "value": "69"
+              },
+              {
+                "key": "Females",
+                "value": "48"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "110"
+              },
+              {
+                "key": "Males",
+                "value": "63"
+              },
+              {
+                "key": "Females",
+                "value": "48"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7"
+              },
+              {
+                "key": "Males",
+                "value": "7"
+              },
+              {
+                "key": "Females"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6.3",
+        "rowText": "English, Malay & Tamil Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8374"
+              },
+              {
+                "key": "Males",
+                "value": "4989"
+              },
+              {
+                "key": "Females",
+                "value": "3385"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7295"
+              },
+              {
+                "key": "Males",
+                "value": "4217"
+              },
+              {
+                "key": "Females",
+                "value": "3077"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1079"
+              },
+              {
+                "key": "Males",
+                "value": "771"
+              },
+              {
+                "key": "Females",
+                "value": "307"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6.4",
+        "rowText": "Other Three Or More Languages",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13666"
+              },
+              {
+                "key": "Males",
+                "value": "6992"
+              },
+              {
+                "key": "Females",
+                "value": "6674"
+              }
+            ]
+          },
+          {
+            "key": "Singapore Citizens",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9253"
+              },
+              {
+                "key": "Males",
+                "value": "4699"
+              },
+              {
+                "key": "Females",
+                "value": "4554"
+              }
+            ]
+          },
+          {
+            "key": "Permanent Residents",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4414"
+              },
+              {
+                "key": "Males",
+                "value": "2293"
+              },
+              {
+                "key": "Females",
+                "value": "2120"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

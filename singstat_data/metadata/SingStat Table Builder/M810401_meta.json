@@ -1,0 +1,99 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Households",
+      "subject": "Resident Households",
+      "topic": "Household Characteristics",
+      "id": "M810401",
+      "groupTitle": "Resident Households By Tenancy",
+      "title": "Resident Households By Tenancy, Annual",
+      "frequency": "Annual",
+      "adjustmentType": "",
+      "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+      "footnote": "Data for 1980, 1990, 2000, 2010 and 2020 are based on the Census of Population while data for 1995, 2005, 2015 and 2025 are based on the General Household Survey.  Data for all other years are based on the Comprehensive June Labour Force Survey.  Survey estimates are subject to sampling variability.",
+      "dataLastUpdated": "30/06/2026",
+      "startPeriod": "1980",
+      "endPeriod": "2025",
+      "total": 348,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Resident Households",
+          "uoM": "Number",
+          "footnote": "Total includes resident households where the household reference person and/or any other member(s) in the household occupies whole or part of the dwelling unit without charge (provided free by other persons (e.g., employers, relatives, friends, or any other persons))."
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "Owner-Occupied",
+          "uoM": "Number",
+          "footnote": "Refers to a household where the household reference person and/or any other member(s) in the household owns the dwelling unit.  This includes those which are fully paid-up as well as those with outstanding housing loans."
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "Rented",
+          "uoM": "Number",
+          "footnote": "Refers to a household where the household reference person and/or any other member(s) in the household rents whole or part of the dwelling unit."
+        },
+        {
+          "seriesNo": "2",
+          "rowText": "Proportion Of Owner-Occupied Resident Households",
+          "uoM": "Per Cent",
+          "footnote": "Refers to the proportion of households where the household reference person and/or any other member(s) in the household owns the dwelling unit."
+        },
+        {
+          "seriesNo": "2.1",
+          "rowText": "Total HDB Dwellings",
+          "uoM": "Per Cent",
+          "footnote": "Data for years prior to 2018 includes non-privatised Housing and Urban Development Company (HUDC) flats."
+        },
+        {
+          "seriesNo": "2.1.1",
+          "rowText": "HDB 1- And 2-Room Flats",
+          "uoM": "Per Cent",
+          "footnote": "Includes HDB studio apartments and community care apartments."
+        },
+        {
+          "seriesNo": "2.1.2",
+          "rowText": "HDB 3-Room Flats",
+          "uoM": "Per Cent",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "2.1.3",
+          "rowText": "HDB 4-Room Flats",
+          "uoM": "Per Cent",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "2.1.4",
+          "rowText": "HDB 5-Room And Executive Flats",
+          "uoM": "Per Cent",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "2.2",
+          "rowText": "Condominiums & Other Apartments",
+          "uoM": "Per Cent",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "2.3",
+          "rowText": "Landed Properties",
+          "uoM": "Per Cent",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "2.4",
+          "rowText": "Other Types Of Dwelling",
+          "uoM": "Per Cent",
+          "footnote": ""
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

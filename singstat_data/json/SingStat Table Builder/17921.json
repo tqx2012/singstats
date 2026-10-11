@@ -1,0 +1,854 @@
+{
+  "Data": {
+    "id": "17921",
+    "tableType": "Household Income, Annual",
+    "groupTitle": null,
+    "title": "Average Annual Government Taxes Per Household Member Among Resident Households by Type of Dwelling, 2003 - 2025",
+    "frequency": "Annual",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Refer to the glossary (https://www.singstat.gov.sg/files/38edc794-eaa0-4582-9c6a-3d152e18bdd1.pdf) of the latest Key Household Income Trends paper for the Government taxes that are included. Data for the latest year are preliminary.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "09/02/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Household Income",
+    "topic": "Government Transfers and Taxes",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "2003",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "2303"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "613"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "960"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "1120"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "2070"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "6396"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "9424"
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "2004",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "2419"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "681"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "993"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "1183"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "2248"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "6505"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "9671"
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "2005",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "2443"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "673"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1114"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "1270"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "2230"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "7332"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "8056"
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "2006",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "2557"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "501"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1055"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "1256"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "2272"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "6808"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "10094"
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "2007",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "2963"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "540"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1200"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "1518"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "2491"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "8278"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "11308"
+          }
+        ]
+      },
+      {
+        "rowNo": "6",
+        "rowText": "2008",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "3087"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "623"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1308"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "1625"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "2620"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "8631"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "10447"
+          }
+        ]
+      },
+      {
+        "rowNo": "7",
+        "rowText": "2009",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "3026"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "606"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1379"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "1611"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "2600"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "8944"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "10010"
+          }
+        ]
+      },
+      {
+        "rowNo": "8",
+        "rowText": "2010",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "3254"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "615"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1483"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "1755"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "2724"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "9047"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "10457"
+          }
+        ]
+      },
+      {
+        "rowNo": "9",
+        "rowText": "2011",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "3411"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "619"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1531"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "1839"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "2816"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "9174"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "12282"
+          }
+        ]
+      },
+      {
+        "rowNo": "10",
+        "rowText": "2012",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "3760"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "718"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1521"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "1922"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "2943"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "10418"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "12983"
+          }
+        ]
+      },
+      {
+        "rowNo": "11",
+        "rowText": "2013",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "3656"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "702"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1529"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "1884"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "2897"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "10281"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "12748"
+          }
+        ]
+      },
+      {
+        "rowNo": "12",
+        "rowText": "2014",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "4098"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "741"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1650"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "2009"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "3230"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "10975"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "14215"
+          }
+        ]
+      },
+      {
+        "rowNo": "13",
+        "rowText": "2015",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "4099"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "782"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1598"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "2006"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "3109"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "11081"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "14221"
+          }
+        ]
+      },
+      {
+        "rowNo": "14",
+        "rowText": "2016",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "4132"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "813"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1680"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "2140"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "3252"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "11142"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "13105"
+          }
+        ]
+      },
+      {
+        "rowNo": "15",
+        "rowText": "2017",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "4270"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "895"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1692"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "2218"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "3329"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "10733"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "14063"
+          }
+        ]
+      },
+      {
+        "rowNo": "16",
+        "rowText": "2018",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "4549"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "915"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1760"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "2444"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "3599"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "11388"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "14550"
+          }
+        ]
+      },
+      {
+        "rowNo": "17",
+        "rowText": "2019",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "4628"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "1009"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1753"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "2465"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "3630"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "11662"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "14509"
+          }
+        ]
+      },
+      {
+        "rowNo": "18",
+        "rowText": "2020",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "4587"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "1082"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "1935"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "2513"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "3598"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "11275"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "14581"
+          }
+        ]
+      },
+      {
+        "rowNo": "19",
+        "rowText": "2021",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "4818"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "1156"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "2067"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "2621"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "3823"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "11747"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "14803"
+          }
+        ]
+      },
+      {
+        "rowNo": "20",
+        "rowText": "2022",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "5247"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "1164"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "2083"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "2775"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "4033"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "13188"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "15972"
+          }
+        ]
+      },
+      {
+        "rowNo": "21",
+        "rowText": "2023",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "5749"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "1340"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "2353"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "3193"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "4367"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "13896"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "17969"
+          }
+        ]
+      },
+      {
+        "rowNo": "22",
+        "rowText": "2024",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "6236"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "1441"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "2558"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "3413"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "4736"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "15049"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "19114"
+          }
+        ]
+      },
+      {
+        "rowNo": "23",
+        "rowText": "2025",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "6483"
+          },
+          {
+            "key": "HDB 1- & 2- Room Flats2/",
+            "value": "1535"
+          },
+          {
+            "key": "HDB 3-Room Flats",
+            "value": "2665"
+          },
+          {
+            "key": "HDB 4-Room Flats",
+            "value": "3604"
+          },
+          {
+            "key": "HDB 5-Room & Executive Flats",
+            "value": "5010"
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "15248"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "20410"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

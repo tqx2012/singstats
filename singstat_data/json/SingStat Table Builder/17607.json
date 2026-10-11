@@ -1,0 +1,2930 @@
+{
+  "Data": {
+    "id": "17607",
+    "tableType": "Census of Population 2020",
+    "groupTitle": null,
+    "title": "Employed Residents Aged 15 Years and Over by Usual Mode of Transport to Work, Industry and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data exclude employed persons who were full-time students or overseas for at least 6 months. Full-time students are covered in the tables on usual transport to school.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Mode of Transport",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2177456"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "218283"
+              },
+              {
+                "key": "Construction",
+                "value": "90321"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1848458"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "322653"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "208414"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "128840"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "105837"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "201202"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "53429"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "174509"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "130122"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "286615"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "139697"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "33162"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "63978"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "20394"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1163601"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "137901"
+              },
+              {
+                "key": "Construction",
+                "value": "63077"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "948128"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "160858"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "157302"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "55726"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "61918"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "95229"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "26878"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "89684"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "75534"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "151398"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "30610"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "16859"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "26133"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "14494"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1013856"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "80382"
+              },
+              {
+                "key": "Construction",
+                "value": "27244"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "900330"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "161796"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "51112"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "73114"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "43918"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "105974"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "26551"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "84826"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "54589"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "135217"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "109087"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "16303"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "37844"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "5900"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Public Bus Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "325779"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "33238"
+              },
+              {
+                "key": "Construction",
+                "value": "9965"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "280018"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "47350"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "25592"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "30508"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "10468"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "18371"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "6546"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "17230"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "31798"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "46494"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "28396"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "4547"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "12718"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "2558"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "142175"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "16910"
+              },
+              {
+                "key": "Construction",
+                "value": "4955"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "118798"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "17764"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "16090"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "11306"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "5710"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "7877"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "2970"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "7303"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "17785"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "21751"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "4061"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "2119"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "4063"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "1513"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "183603"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "16329"
+              },
+              {
+                "key": "Construction",
+                "value": "5010"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "161220"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "29586"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "9502"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "19202"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "4758"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "10494"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "3576"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "9927"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "14013"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "24743"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "24335"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "2428"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "8655"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "1045"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Rail (MRT/LRT) Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "308717"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "15370"
+              },
+              {
+                "key": "Construction",
+                "value": "6151"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "285082"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "41859"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "14643"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "19702"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "22224"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "53336"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "7616"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "37542"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "17358"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "33536"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "22197"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "6907"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "8162"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "2114"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "131632"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "7871"
+              },
+              {
+                "key": "Construction",
+                "value": "3299"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "119537"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "16352"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "8296"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "8353"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "12080"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "23094"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "2879"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "15657"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "8246"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "14942"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "4242"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "3075"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "2321"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "925"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "177085"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "7500"
+              },
+              {
+                "key": "Construction",
+                "value": "2851"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "165546"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "25508"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "6347"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "11349"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "10144"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "30242"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "4737"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "21886"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "9112"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "18593"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "17955"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "3832"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "5841"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "1188"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Rail (MRT/LRT) & Public Bus Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "574382"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "49639"
+              },
+              {
+                "key": "Construction",
+                "value": "18957"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "500825"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "81464"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "34831"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "33829"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "35181"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "60640"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "14021"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "48955"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "38047"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "83149"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "41622"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "12001"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "17085"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "4961"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "266284"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "28179"
+              },
+              {
+                "key": "Construction",
+                "value": "11267"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "223771"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "31989"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "20948"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "14198"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "19552"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "25461"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "6468"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "22043"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "20533"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "43752"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "7534"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "5492"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "5799"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "3068"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "308098"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "21460"
+              },
+              {
+                "key": "Construction",
+                "value": "7690"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "277054"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "49474"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "13882"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "19631"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "15629"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "35179"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "7553"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "26912"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "17514"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "39397"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "34089"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "6508"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "11286"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "1893"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "48556"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "10556"
+              },
+              {
+                "key": "Construction",
+                "value": "1610"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "35725"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "5302"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "4100"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "1709"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "1928"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "4803"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "673"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "3778"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "2074"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "7668"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "2119"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "850"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "721"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "665"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "26707"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "6347"
+              },
+              {
+                "key": "Construction",
+                "value": "963"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "18905"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "2480"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "2455"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "682"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "1146"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "2206"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "279"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "2079"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "1184"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "5339"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "317"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "475"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "263"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "492"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21849"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "4209"
+              },
+              {
+                "key": "Construction",
+                "value": "647"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "16820"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "2823"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "1645"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "1027"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "782"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "2597"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "394"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "1698"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "889"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "2328"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "1802"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "375"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "458"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "173"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "Taxi/Private Hire Car Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "66681"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "3718"
+              },
+              {
+                "key": "Construction",
+                "value": "1218"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "61461"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "8476"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "9028"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "4011"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "4298"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "7607"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "1552"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "6478"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "2346"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "10550"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "4529"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "827"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "1758"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "284"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29527"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "1946"
+              },
+              {
+                "key": "Construction",
+                "value": "746"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "26672"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "3804"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "4905"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "1636"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "2060"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "3233"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "577"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "3153"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "1238"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "4419"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "780"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "418"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "449"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "163"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "37154"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "1772"
+              },
+              {
+                "key": "Construction",
+                "value": "472"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "34789"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "4672"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "4122"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "2375"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "2237"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "4375"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "975"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "3325"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "1109"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "6131"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "3750"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "409"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "1309"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "121"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "Car Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "459796"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "57583"
+              },
+              {
+                "key": "Construction",
+                "value": "31035"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "365744"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "83011"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "25935"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "14970"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "19562"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "41617"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "15742"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "38896"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "14844"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "72232"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "22753"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "4297"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "11887"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "5434"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "299847"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "42363"
+              },
+              {
+                "key": "Construction",
+                "value": "24213"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "228661"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "54697"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "19379"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "8806"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "13510"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "24197"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "9354"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "26000"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "10003"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "43455"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "9364"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "2872"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "7024"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "4610"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "159949"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "15220"
+              },
+              {
+                "key": "Construction",
+                "value": "6822"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "137083"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "28314"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "6556"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "6165"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "6051"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "17420"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "6388"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "12895"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "4841"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "28777"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "13390"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "1424"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "4862"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "824"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "Private Chartered Bus/Van Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44883"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "15645"
+              },
+              {
+                "key": "Construction",
+                "value": "2940"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "25866"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "7374"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "6945"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "1046"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "786"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "1849"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "131"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "1581"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "2679"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "1880"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "538"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "144"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "914"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "432"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28361"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "9639"
+              },
+              {
+                "key": "Construction",
+                "value": "2380"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "16111"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "4963"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "4700"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "617"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "437"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "755"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "75"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "999"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "1900"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "623"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "256"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "85"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "703"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "231"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16522"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "6006"
+              },
+              {
+                "key": "Construction",
+                "value": "560"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "9755"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "2411"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "2245"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "429"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "349"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "1094"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "56"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "582"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "779"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "1257"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "282"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "60"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "211"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "201"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "Lorry/Pickup Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28894"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "4469"
+              },
+              {
+                "key": "Construction",
+                "value": "7330"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "16649"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "7105"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "3798"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "900"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "200"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "130"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "234"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "850"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "2180"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "298"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "137"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "63"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "755"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "446"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25879"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "3907"
+              },
+              {
+                "key": "Construction",
+                "value": "6941"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "14622"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "6215"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "3596"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "643"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "183"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "117"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "217"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "746"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "1973"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "184"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "80"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "23"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "646"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "409"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3016"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "562"
+              },
+              {
+                "key": "Construction",
+                "value": "390"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "2027"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "890"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "203"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "257"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "17"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "14"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "17"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "104"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "207"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "114"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "57"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "40"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "109"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "37"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.9",
+        "rowText": "Motorcycle/Scooter Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "73487"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "11845"
+              },
+              {
+                "key": "Construction",
+                "value": "4340"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "55200"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "7393"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "11542"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "3501"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "2181"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "3452"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "1579"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "3464"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "5369"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "10866"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "2774"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "1275"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "1803"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "2102"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "67155"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "11315"
+              },
+              {
+                "key": "Construction",
+                "value": "4230"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "49524"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "6638"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "11038"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "2944"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "1974"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "3115"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "1531"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "3172"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "5012"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "9700"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "1629"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "1125"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "1647"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "2085"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6332"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "530"
+              },
+              {
+                "key": "Construction",
+                "value": "110"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "5675"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "755"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "504"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "557"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "207"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "337"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "47"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "292"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "357"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "1166"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "1145"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "149"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "156"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "17"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.10",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "33375"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "5594"
+              },
+              {
+                "key": "Construction",
+                "value": "1218"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "25971"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "4602"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "4567"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "3203"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "563"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "1616"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "438"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "1128"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "3440"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "3250"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "1561"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "502"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "1102"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "592"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23572"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "4116"
+              },
+              {
+                "key": "Construction",
+                "value": "1032"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "17921"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "3176"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "4111"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "1572"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "344"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "978"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "321"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "762"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "2861"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "2061"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "540"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "427"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "768"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "504"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9803"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "1478"
+              },
+              {
+                "key": "Construction",
+                "value": "186"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "8050"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "1425"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "456"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "1631"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "219"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "637"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "117"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "366"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "579"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "1188"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "1021"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "75"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "334"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "89"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.11",
+        "rowText": "No Transport Required",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "212907"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "10625"
+              },
+              {
+                "key": "Construction",
+                "value": "5557"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "195918"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "28719"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "67434"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "15461"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "8445"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "7781"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "4897"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "14608"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "9986"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "16693"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "13070"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "1751"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "7073"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "807"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "122462"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "5309"
+              },
+              {
+                "key": "Construction",
+                "value": "3052"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "113606"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "12780"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "61784"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "4970"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "4922"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "4197"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "2207"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "7770"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "4798"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "5170"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "1809"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "748"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "2451"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "495"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "90445"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "5316"
+              },
+              {
+                "key": "Construction",
+                "value": "2505"
+              },
+              {
+                "key": "Services",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "82312"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "15939"
+                  },
+                  {
+                    "key": "Transportation & Storage",
+                    "value": "5650"
+                  },
+                  {
+                    "key": "Accommodation & Food Services",
+                    "value": "10491"
+                  },
+                  {
+                    "key": "Information & Communications",
+                    "value": "3523"
+                  },
+                  {
+                    "key": "Financial & Insurance Services",
+                    "value": "3584"
+                  },
+                  {
+                    "key": "Real Estate Services",
+                    "value": "2691"
+                  },
+                  {
+                    "key": "Professional Services",
+                    "value": "6838"
+                  },
+                  {
+                    "key": "Administrative & Support Services",
+                    "value": "5188"
+                  },
+                  {
+                    "key": "Public Administration & Education",
+                    "value": "11523"
+                  },
+                  {
+                    "key": "Health & Social Services",
+                    "value": "11261"
+                  },
+                  {
+                    "key": "Arts, Entertainment & Recreation",
+                    "value": "1003"
+                  },
+                  {
+                    "key": "Other Community, Social & Personal Services",
+                    "value": "4622"
+                  }
+                ]
+              },
+              {
+                "key": "Others1/",
+                "value": "312"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

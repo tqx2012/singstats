@@ -1,0 +1,1379 @@
+{
+  "Data": {
+    "id": "9036",
+    "tableType": "Census of Population 2000",
+    "groupTitle": null,
+    "title": "Resident Households by Type of Dwelling, Ethnic Group of Head of Household and Tenancy",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "01/04/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "915090"
+              },
+              {
+                "key": "Owner",
+                "value": "841649"
+              },
+              {
+                "key": "Tenant",
+                "value": "63393"
+              },
+              {
+                "key": "Others",
+                "value": "10048"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "720848"
+              },
+              {
+                "key": "Owner",
+                "value": "667530"
+              },
+              {
+                "key": "Tenant",
+                "value": "44995"
+              },
+              {
+                "key": "Others",
+                "value": "8324"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "108634"
+              },
+              {
+                "key": "Owner",
+                "value": "101467"
+              },
+              {
+                "key": "Tenant",
+                "value": "6507"
+              },
+              {
+                "key": "Others",
+                "value": "660"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "72933"
+              },
+              {
+                "key": "Owner",
+                "value": "62760"
+              },
+              {
+                "key": "Tenant",
+                "value": "9489"
+              },
+              {
+                "key": "Others",
+                "value": "684"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12674"
+              },
+              {
+                "key": "Owner",
+                "value": "9892"
+              },
+              {
+                "key": "Tenant",
+                "value": "2403"
+              },
+              {
+                "key": "Others",
+                "value": "380"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "HDB Dwellings^",
+        "uoM": "Number",
+        "footnote": "^ Includes non-privatised Housing and Urban Development Corporation (HUDC) flats.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "804973"
+              },
+              {
+                "key": "Owner",
+                "value": "749531"
+              },
+              {
+                "key": "Tenant",
+                "value": "49402"
+              },
+              {
+                "key": "Others",
+                "value": "6040"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "624462"
+              },
+              {
+                "key": "Owner",
+                "value": "584199"
+              },
+              {
+                "key": "Tenant",
+                "value": "35226"
+              },
+              {
+                "key": "Others",
+                "value": "5038"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "106882"
+              },
+              {
+                "key": "Owner",
+                "value": "100225"
+              },
+              {
+                "key": "Tenant",
+                "value": "6122"
+              },
+              {
+                "key": "Others",
+                "value": "535"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "65307"
+              },
+              {
+                "key": "Owner",
+                "value": "57567"
+              },
+              {
+                "key": "Tenant",
+                "value": "7359"
+              },
+              {
+                "key": "Others",
+                "value": "382"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8322"
+              },
+              {
+                "key": "Owner",
+                "value": "7541"
+              },
+              {
+                "key": "Tenant",
+                "value": "696"
+              },
+              {
+                "key": "Others",
+                "value": "85"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1",
+        "rowText": "1- And 2-Room Flats#",
+        "uoM": "Number",
+        "footnote": "# Includes HDB studio apartments.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45573"
+              },
+              {
+                "key": "Owner",
+                "value": "8792"
+              },
+              {
+                "key": "Tenant",
+                "value": "36458"
+              },
+              {
+                "key": "Others",
+                "value": "322"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "32046"
+              },
+              {
+                "key": "Owner",
+                "value": "6486"
+              },
+              {
+                "key": "Tenant",
+                "value": "25315"
+              },
+              {
+                "key": "Others",
+                "value": "246"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7069"
+              },
+              {
+                "key": "Owner",
+                "value": "1311"
+              },
+              {
+                "key": "Tenant",
+                "value": "5715"
+              },
+              {
+                "key": "Others",
+                "value": "43"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5924"
+              },
+              {
+                "key": "Owner",
+                "value": "880"
+              },
+              {
+                "key": "Tenant",
+                "value": "5015"
+              },
+              {
+                "key": "Others",
+                "value": "28"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "534"
+              },
+              {
+                "key": "Owner",
+                "value": "115"
+              },
+              {
+                "key": "Tenant",
+                "value": "413"
+              },
+              {
+                "key": "Others",
+                "value": "5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1.1",
+        "rowText": "3-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "235670"
+              },
+              {
+                "key": "Owner",
+                "value": "226534"
+              },
+              {
+                "key": "Tenant",
+                "value": "6775"
+              },
+              {
+                "key": "Others",
+                "value": "2360"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "184824"
+              },
+              {
+                "key": "Owner",
+                "value": "177628"
+              },
+              {
+                "key": "Tenant",
+                "value": "5254"
+              },
+              {
+                "key": "Others",
+                "value": "1942"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30827"
+              },
+              {
+                "key": "Owner",
+                "value": "30295"
+              },
+              {
+                "key": "Tenant",
+                "value": "330"
+              },
+              {
+                "key": "Others",
+                "value": "202"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17811"
+              },
+              {
+                "key": "Owner",
+                "value": "16559"
+              },
+              {
+                "key": "Tenant",
+                "value": "1070"
+              },
+              {
+                "key": "Others",
+                "value": "182"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2208"
+              },
+              {
+                "key": "Owner",
+                "value": "2053"
+              },
+              {
+                "key": "Tenant",
+                "value": "122"
+              },
+              {
+                "key": "Others",
+                "value": "34"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1.2",
+        "rowText": "4-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "302582"
+              },
+              {
+                "key": "Owner",
+                "value": "296536"
+              },
+              {
+                "key": "Tenant",
+                "value": "4000"
+              },
+              {
+                "key": "Others",
+                "value": "2046"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "232237"
+              },
+              {
+                "key": "Owner",
+                "value": "227490"
+              },
+              {
+                "key": "Tenant",
+                "value": "3027"
+              },
+              {
+                "key": "Others",
+                "value": "1720"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44583"
+              },
+              {
+                "key": "Owner",
+                "value": "44333"
+              },
+              {
+                "key": "Tenant",
+                "value": "47"
+              },
+              {
+                "key": "Others",
+                "value": "203"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23225"
+              },
+              {
+                "key": "Owner",
+                "value": "22267"
+              },
+              {
+                "key": "Tenant",
+                "value": "859"
+              },
+              {
+                "key": "Others",
+                "value": "100"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2537"
+              },
+              {
+                "key": "Owner",
+                "value": "2447"
+              },
+              {
+                "key": "Tenant",
+                "value": "66"
+              },
+              {
+                "key": "Others",
+                "value": "23"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1.3",
+        "rowText": "5-Room And Executive Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "215467"
+              },
+              {
+                "key": "Owner",
+                "value": "212294"
+              },
+              {
+                "key": "Tenant",
+                "value": "1921"
+              },
+              {
+                "key": "Others",
+                "value": "1252"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "170566"
+              },
+              {
+                "key": "Owner",
+                "value": "168006"
+              },
+              {
+                "key": "Tenant",
+                "value": "1478"
+              },
+              {
+                "key": "Others",
+                "value": "1083"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24219"
+              },
+              {
+                "key": "Owner",
+                "value": "24102"
+              },
+              {
+                "key": "Tenant",
+                "value": "30"
+              },
+              {
+                "key": "Others",
+                "value": "87"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17849"
+              },
+              {
+                "key": "Owner",
+                "value": "17429"
+              },
+              {
+                "key": "Tenant",
+                "value": "349"
+              },
+              {
+                "key": "Others",
+                "value": "71"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2833"
+              },
+              {
+                "key": "Owner",
+                "value": "2758"
+              },
+              {
+                "key": "Tenant",
+                "value": "64"
+              },
+              {
+                "key": "Others",
+                "value": "11"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1.4",
+        "rowText": "Condominiums And Other Apartments",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "59496"
+              },
+              {
+                "key": "Owner",
+                "value": "48091"
+              },
+              {
+                "key": "Tenant",
+                "value": "9365"
+              },
+              {
+                "key": "Others",
+                "value": "2041"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "51448"
+              },
+              {
+                "key": "Owner",
+                "value": "43666"
+              },
+              {
+                "key": "Tenant",
+                "value": "6199"
+              },
+              {
+                "key": "Others",
+                "value": "1583"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "917"
+              },
+              {
+                "key": "Owner",
+                "value": "555"
+              },
+              {
+                "key": "Tenant",
+                "value": "292"
+              },
+              {
+                "key": "Others",
+                "value": "71"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4180"
+              },
+              {
+                "key": "Owner",
+                "value": "2355"
+              },
+              {
+                "key": "Tenant",
+                "value": "1666"
+              },
+              {
+                "key": "Others",
+                "value": "158"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2951"
+              },
+              {
+                "key": "Owner",
+                "value": "1515"
+              },
+              {
+                "key": "Tenant",
+                "value": "1208"
+              },
+              {
+                "key": "Others",
+                "value": "229"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1.5",
+        "rowText": "Landed Properties",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "46348"
+              },
+              {
+                "key": "Owner",
+                "value": "41630"
+              },
+              {
+                "key": "Tenant",
+                "value": "3098"
+              },
+              {
+                "key": "Others",
+                "value": "1620"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41003"
+              },
+              {
+                "key": "Owner",
+                "value": "37376"
+              },
+              {
+                "key": "Tenant",
+                "value": "2228"
+              },
+              {
+                "key": "Others",
+                "value": "1399"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "794"
+              },
+              {
+                "key": "Owner",
+                "value": "671"
+              },
+              {
+                "key": "Tenant",
+                "value": "84"
+              },
+              {
+                "key": "Others",
+                "value": "40"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3179"
+              },
+              {
+                "key": "Owner",
+                "value": "2747"
+              },
+              {
+                "key": "Tenant",
+                "value": "318"
+              },
+              {
+                "key": "Others",
+                "value": "115"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1371"
+              },
+              {
+                "key": "Owner",
+                "value": "836"
+              },
+              {
+                "key": "Tenant",
+                "value": "469"
+              },
+              {
+                "key": "Others",
+                "value": "66"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1.5.1",
+        "rowText": "Bungalows",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7553"
+              },
+              {
+                "key": "Owner",
+                "value": "6669"
+              },
+              {
+                "key": "Tenant",
+                "value": "499"
+              },
+              {
+                "key": "Others",
+                "value": "384"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6464"
+              },
+              {
+                "key": "Owner",
+                "value": "5891"
+              },
+              {
+                "key": "Tenant",
+                "value": "245"
+              },
+              {
+                "key": "Others",
+                "value": "328"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "79"
+              },
+              {
+                "key": "Owner",
+                "value": "70"
+              },
+              {
+                "key": "Tenant",
+                "value": "10"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "577"
+              },
+              {
+                "key": "Owner",
+                "value": "500"
+              },
+              {
+                "key": "Tenant",
+                "value": "45"
+              },
+              {
+                "key": "Others",
+                "value": "32"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "433"
+              },
+              {
+                "key": "Owner",
+                "value": "209"
+              },
+              {
+                "key": "Tenant",
+                "value": "200"
+              },
+              {
+                "key": "Others",
+                "value": "25"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1.5.2",
+        "rowText": "Semi-Detached Bungalows",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16221"
+              },
+              {
+                "key": "Owner",
+                "value": "14649"
+              },
+              {
+                "key": "Tenant",
+                "value": "1044"
+              },
+              {
+                "key": "Others",
+                "value": "527"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14396"
+              },
+              {
+                "key": "Owner",
+                "value": "13212"
+              },
+              {
+                "key": "Tenant",
+                "value": "749"
+              },
+              {
+                "key": "Others",
+                "value": "436"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "244"
+              },
+              {
+                "key": "Owner",
+                "value": "197"
+              },
+              {
+                "key": "Tenant",
+                "value": "29"
+              },
+              {
+                "key": "Others",
+                "value": "19"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1121"
+              },
+              {
+                "key": "Owner",
+                "value": "974"
+              },
+              {
+                "key": "Tenant",
+                "value": "111"
+              },
+              {
+                "key": "Others",
+                "value": "36"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "459"
+              },
+              {
+                "key": "Owner",
+                "value": "267"
+              },
+              {
+                "key": "Tenant",
+                "value": "156"
+              },
+              {
+                "key": "Others",
+                "value": "36"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1.5.3",
+        "rowText": "Terrace Houses",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22574"
+              },
+              {
+                "key": "Owner",
+                "value": "20312"
+              },
+              {
+                "key": "Tenant",
+                "value": "1554"
+              },
+              {
+                "key": "Others",
+                "value": "708"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20143"
+              },
+              {
+                "key": "Owner",
+                "value": "18274"
+              },
+              {
+                "key": "Tenant",
+                "value": "1233"
+              },
+              {
+                "key": "Others",
+                "value": "636"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "471"
+              },
+              {
+                "key": "Owner",
+                "value": "405"
+              },
+              {
+                "key": "Tenant",
+                "value": "46"
+              },
+              {
+                "key": "Others",
+                "value": "20"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1481"
+              },
+              {
+                "key": "Owner",
+                "value": "1273"
+              },
+              {
+                "key": "Tenant",
+                "value": "162"
+              },
+              {
+                "key": "Others",
+                "value": "46"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "479"
+              },
+              {
+                "key": "Owner",
+                "value": "361"
+              },
+              {
+                "key": "Tenant",
+                "value": "113"
+              },
+              {
+                "key": "Others",
+                "value": "5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1.6",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4273"
+              },
+              {
+                "key": "Owner",
+                "value": "2397"
+              },
+              {
+                "key": "Tenant",
+                "value": "1529"
+              },
+              {
+                "key": "Others",
+                "value": "348"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3936"
+              },
+              {
+                "key": "Owner",
+                "value": "2289"
+              },
+              {
+                "key": "Tenant",
+                "value": "1343"
+              },
+              {
+                "key": "Others",
+                "value": "304"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "40"
+              },
+              {
+                "key": "Owner",
+                "value": "16"
+              },
+              {
+                "key": "Tenant",
+                "value": "10"
+              },
+              {
+                "key": "Others",
+                "value": "14"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "268"
+              },
+              {
+                "key": "Owner",
+                "value": "92"
+              },
+              {
+                "key": "Tenant",
+                "value": "146"
+              },
+              {
+                "key": "Others",
+                "value": "30"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31"
+              },
+              {
+                "key": "Owner"
+              },
+              {
+                "key": "Tenant",
+                "value": "31"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

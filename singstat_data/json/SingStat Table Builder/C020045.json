@@ -1,0 +1,641 @@
+{
+  "Data": {
+    "id": "C020045",
+    "tableType": "General Household Survey 2025",
+    "groupTitle": null,
+    "title": "Resident Population Aged 15 Years and Over by Language Most / Second Most Frequently Spoken at Home, Highest Qualification Attained and Ethnic Group (Indians)",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: Data exclude persons who were unable to speak, and those in one-person households and households comprising only unrelated persons.\nData pertain to residents who were not attending educational institutions as full-time students and include those who were upgrading their qualifications through part-time courses.\nData has been rounded to the nearest 100 and may not add up due to rounding.\n‘ - ’ denotes Nil or negligible. Users are advised to exercise caution when drawing inferences from survey estimates with small sample sizes or those denoted as ‘ - ’, as these estimates are based on a sample survey and subject to sampling variability. For more information, refer to the write up on the GHS 2025 Sample Design and Sampling Variability (https://go.gov.sg/ghs2025-sample-design-and-variability).",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Education, Language Spoken and Literacy",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "254100"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "32200"
+              },
+              {
+                "key": "Secondary",
+                "value": "31800"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "29700"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "21600"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "20200"
+              },
+              {
+                "key": "University",
+                "value": "118700"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "English1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "160000"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "15600"
+              },
+              {
+                "key": "Secondary",
+                "value": "20200"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "19100"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "15600"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "13000"
+              },
+              {
+                "key": "University",
+                "value": "76500"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.1",
+        "rowText": "English Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35200"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "3000"
+              },
+              {
+                "key": "Secondary",
+                "value": "4000"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "4100"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "2400"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "2900"
+              },
+              {
+                "key": "University",
+                "value": "18800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.2",
+        "rowText": "English & Malay",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20600"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "3500"
+              },
+              {
+                "key": "Secondary",
+                "value": "3800"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "2800"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "3700"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "1900"
+              },
+              {
+                "key": "University",
+                "value": "5000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.3",
+        "rowText": "English & Tamil",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "72400"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "7900"
+              },
+              {
+                "key": "Secondary",
+                "value": "10700"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "9900"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "7800"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "6300"
+              },
+              {
+                "key": "University",
+                "value": "29800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.4",
+        "rowText": "English & Other Indian Language",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28700"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "900"
+              },
+              {
+                "key": "Secondary",
+                "value": "1500"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "2100"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "1200"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "1800"
+              },
+              {
+                "key": "University",
+                "value": "21200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Malay1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14200"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "4300"
+              },
+              {
+                "key": "Secondary",
+                "value": "2800"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "3100"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "1500"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "1200"
+              },
+              {
+                "key": "University",
+                "value": "1200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.0.1",
+        "rowText": "Malay & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9400"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "2000"
+              },
+              {
+                "key": "Secondary",
+                "value": "2200"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "2200"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "1200"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "900"
+              },
+              {
+                "key": "University",
+                "value": "1000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Indian Languages",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "79100"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "12200"
+              },
+              {
+                "key": "Secondary",
+                "value": "8600"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "7200"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "4400"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "6000"
+              },
+              {
+                "key": "University",
+                "value": "40700"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "Tamil1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "62300"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "11200"
+              },
+              {
+                "key": "Secondary",
+                "value": "8000"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "5900"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "3900"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "5100"
+              },
+              {
+                "key": "University",
+                "value": "28200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1.1",
+        "rowText": "Tamil Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15600"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "4700"
+              },
+              {
+                "key": "Secondary",
+                "value": "1800"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "1600"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "800"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "800"
+              },
+              {
+                "key": "University",
+                "value": "5900"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1.2",
+        "rowText": "Tamil & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45800"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "6300"
+              },
+              {
+                "key": "Secondary",
+                "value": "6200"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "4300"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "3000"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "4300"
+              },
+              {
+                "key": "University",
+                "value": "21700"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Other Indian Languages1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16800"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "1000"
+              },
+              {
+                "key": "Secondary",
+                "value": "600"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "1300"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "500"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "900"
+              },
+              {
+                "key": "University",
+                "value": "12500"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2.1",
+        "rowText": "Other Indian Language & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11900"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "500"
+              },
+              {
+                "key": "Secondary",
+                "value": "600"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "900"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "400"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "600"
+              },
+              {
+                "key": "University",
+                "value": "9000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Other Languages2/",
+        "uoM": "Number",
+        "footnote": "2/ Not elsewhere included.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "700"
+              },
+              {
+                "key": "Below Secondary",
+                "value": "100"
+              },
+              {
+                "key": "Secondary",
+                "value": "200"
+              },
+              {
+                "key": "Post-Secondary (Non-Tertiary)",
+                "value": "200"
+              },
+              {
+                "key": "Polytechnic Diploma",
+                "value": "100"
+              },
+              {
+                "key": "Professional Qualification & Other Diploma",
+                "value": "-"
+              },
+              {
+                "key": "University",
+                "value": "200"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

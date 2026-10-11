@@ -1,0 +1,39 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Industry",
+      "subject": "InfoComm and Media",
+      "topic": "InfoComm",
+      "id": "M651191",
+      "groupTitle": "Telecommunications",
+      "title": "Telecommunications, Quarterly",
+      "frequency": "Quarterly",
+      "adjustmentType": "",
+      "dataSource": "INFO-COMMUNCATIONS MEDIA DEVELOPMENT AUTHORITY",
+      "footnote": "With effect from 1 Oct 2016, the Infocomm Development Authority and the Media Development Authority were restructured to form the Info-communications Media Development Authority and the Government Technology Agency of Singapore.",
+      "dataLastUpdated": "28/08/2026",
+      "startPeriod": "2004 3Q",
+      "endPeriod": "2025 4Q",
+      "total": 158,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Total Number Of SMS Messages",
+          "uoM": "Million",
+          "footnote": "Data include SMS messages sent and received over the following mobile networks: - 2G (from July 2004 to April 2007), 3G (from May 2005) and 4G (from March 2013)."
+        },
+        {
+          "seriesNo": "2",
+          "rowText": "Mobile Data Usage",
+          "uoM": "Petabyte",
+          "footnote": "Mobile data usage reflects the amount of bi-directional (the aggregated total downloaded) mobile data sent over the mobile networks, including MMS and any other data upload/download but excludes video telephony and SMS.  The data usuage figures are monthly average figures for each quarter, derived by taking the total data usage in a quarter, and then dividing by three.  1 Petabyte is equivalent to 1,048,576 Gigabyte."
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

@@ -1,0 +1,956 @@
+{
+  "Data": {
+    "id": "17544",
+    "tableType": "Census of Population 2020",
+    "groupTitle": null,
+    "title": "Employed Residents Aged 15 Years and Over by Usual Hours Worked, Employment Status and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data exclude national servicemen.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "18/06/2021",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Economic Characteristics",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2166462"
+              },
+              {
+                "key": "Males",
+                "value": "1136535"
+              },
+              {
+                "key": "Females",
+                "value": "1029927"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "102846"
+              },
+              {
+                "key": "Males",
+                "value": "71899"
+              },
+              {
+                "key": "Females",
+                "value": "30946"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "206755"
+              },
+              {
+                "key": "Males",
+                "value": "144759"
+              },
+              {
+                "key": "Females",
+                "value": "61996"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1849397"
+              },
+              {
+                "key": "Males",
+                "value": "917169"
+              },
+              {
+                "key": "Females",
+                "value": "932228"
+              }
+            ]
+          },
+          {
+            "key": "Contributing Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7465"
+              },
+              {
+                "key": "Males",
+                "value": "2709"
+              },
+              {
+                "key": "Females",
+                "value": "4757"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Below 30",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "165802"
+              },
+              {
+                "key": "Males",
+                "value": "61430"
+              },
+              {
+                "key": "Females",
+                "value": "104372"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7388"
+              },
+              {
+                "key": "Males",
+                "value": "3723"
+              },
+              {
+                "key": "Females",
+                "value": "3665"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "40206"
+              },
+              {
+                "key": "Males",
+                "value": "21236"
+              },
+              {
+                "key": "Females",
+                "value": "18970"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "114920"
+              },
+              {
+                "key": "Males",
+                "value": "35369"
+              },
+              {
+                "key": "Females",
+                "value": "79552"
+              }
+            ]
+          },
+          {
+            "key": "Contributing Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3288"
+              },
+              {
+                "key": "Males",
+                "value": "1103"
+              },
+              {
+                "key": "Females",
+                "value": "2185"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "30 - 34",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "60712"
+              },
+              {
+                "key": "Males",
+                "value": "26045"
+              },
+              {
+                "key": "Females",
+                "value": "34667"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3030"
+              },
+              {
+                "key": "Males",
+                "value": "1426"
+              },
+              {
+                "key": "Females",
+                "value": "1604"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15084"
+              },
+              {
+                "key": "Males",
+                "value": "9983"
+              },
+              {
+                "key": "Females",
+                "value": "5101"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41875"
+              },
+              {
+                "key": "Males",
+                "value": "14385"
+              },
+              {
+                "key": "Females",
+                "value": "27490"
+              }
+            ]
+          },
+          {
+            "key": "Contributing Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "723"
+              },
+              {
+                "key": "Males",
+                "value": "251"
+              },
+              {
+                "key": "Females",
+                "value": "472"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "35 - 39",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "124281"
+              },
+              {
+                "key": "Males",
+                "value": "61295"
+              },
+              {
+                "key": "Females",
+                "value": "62987"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9905"
+              },
+              {
+                "key": "Males",
+                "value": "6257"
+              },
+              {
+                "key": "Females",
+                "value": "3648"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22686"
+              },
+              {
+                "key": "Males",
+                "value": "14613"
+              },
+              {
+                "key": "Females",
+                "value": "8073"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "91129"
+              },
+              {
+                "key": "Males",
+                "value": "40212"
+              },
+              {
+                "key": "Females",
+                "value": "50916"
+              }
+            ]
+          },
+          {
+            "key": "Contributing Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "562"
+              },
+              {
+                "key": "Males",
+                "value": "213"
+              },
+              {
+                "key": "Females",
+                "value": "349"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "40 - 44",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1075204"
+              },
+              {
+                "key": "Males",
+                "value": "534364"
+              },
+              {
+                "key": "Females",
+                "value": "540840"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "39974"
+              },
+              {
+                "key": "Males",
+                "value": "28574"
+              },
+              {
+                "key": "Females",
+                "value": "11400"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "47283"
+              },
+              {
+                "key": "Males",
+                "value": "33095"
+              },
+              {
+                "key": "Females",
+                "value": "14189"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "987021"
+              },
+              {
+                "key": "Males",
+                "value": "472298"
+              },
+              {
+                "key": "Females",
+                "value": "514723"
+              }
+            ]
+          },
+          {
+            "key": "Contributing Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "925"
+              },
+              {
+                "key": "Males",
+                "value": "397"
+              },
+              {
+                "key": "Females",
+                "value": "529"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "45 - 49",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "341446"
+              },
+              {
+                "key": "Males",
+                "value": "190827"
+              },
+              {
+                "key": "Females",
+                "value": "150619"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13277"
+              },
+              {
+                "key": "Males",
+                "value": "10020"
+              },
+              {
+                "key": "Females",
+                "value": "3256"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17983"
+              },
+              {
+                "key": "Males",
+                "value": "13381"
+              },
+              {
+                "key": "Females",
+                "value": "4602"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "309669"
+              },
+              {
+                "key": "Males",
+                "value": "167135"
+              },
+              {
+                "key": "Females",
+                "value": "142534"
+              }
+            ]
+          },
+          {
+            "key": "Contributing Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "518"
+              },
+              {
+                "key": "Males",
+                "value": "290"
+              },
+              {
+                "key": "Females",
+                "value": "227"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "50 - 54",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "178801"
+              },
+              {
+                "key": "Males",
+                "value": "108007"
+              },
+              {
+                "key": "Females",
+                "value": "70794"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10821"
+              },
+              {
+                "key": "Males",
+                "value": "8124"
+              },
+              {
+                "key": "Females",
+                "value": "2697"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15603"
+              },
+              {
+                "key": "Males",
+                "value": "11730"
+              },
+              {
+                "key": "Females",
+                "value": "3873"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "152081"
+              },
+              {
+                "key": "Males",
+                "value": "88076"
+              },
+              {
+                "key": "Females",
+                "value": "64005"
+              }
+            ]
+          },
+          {
+            "key": "Contributing Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "296"
+              },
+              {
+                "key": "Males",
+                "value": "76"
+              },
+              {
+                "key": "Females",
+                "value": "220"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "55 - 59",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "49246"
+              },
+              {
+                "key": "Males",
+                "value": "32271"
+              },
+              {
+                "key": "Females",
+                "value": "16976"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3244"
+              },
+              {
+                "key": "Males",
+                "value": "2329"
+              },
+              {
+                "key": "Females",
+                "value": "915"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8070"
+              },
+              {
+                "key": "Males",
+                "value": "6594"
+              },
+              {
+                "key": "Females",
+                "value": "1476"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "37752"
+              },
+              {
+                "key": "Males",
+                "value": "23293"
+              },
+              {
+                "key": "Females",
+                "value": "14459"
+              }
+            ]
+          },
+          {
+            "key": "Contributing Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "180"
+              },
+              {
+                "key": "Males",
+                "value": "54"
+              },
+              {
+                "key": "Females",
+                "value": "126"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "60 - 64",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "93136"
+              },
+              {
+                "key": "Males",
+                "value": "63135"
+              },
+              {
+                "key": "Females",
+                "value": "30002"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7723"
+              },
+              {
+                "key": "Males",
+                "value": "5751"
+              },
+              {
+                "key": "Females",
+                "value": "1973"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15058"
+              },
+              {
+                "key": "Males",
+                "value": "12626"
+              },
+              {
+                "key": "Females",
+                "value": "2433"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "69978"
+              },
+              {
+                "key": "Males",
+                "value": "44601"
+              },
+              {
+                "key": "Females",
+                "value": "25376"
+              }
+            ]
+          },
+          {
+            "key": "Contributing Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "378"
+              },
+              {
+                "key": "Males",
+                "value": "157"
+              },
+              {
+                "key": "Females",
+                "value": "220"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.9",
+        "rowText": "65 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "77833"
+              },
+              {
+                "key": "Males",
+                "value": "59162"
+              },
+              {
+                "key": "Females",
+                "value": "18671"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7484"
+              },
+              {
+                "key": "Males",
+                "value": "5696"
+              },
+              {
+                "key": "Females",
+                "value": "1788"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24781"
+              },
+              {
+                "key": "Males",
+                "value": "21500"
+              },
+              {
+                "key": "Females",
+                "value": "3281"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44972"
+              },
+              {
+                "key": "Males",
+                "value": "31799"
+              },
+              {
+                "key": "Females",
+                "value": "13173"
+              }
+            ]
+          },
+          {
+            "key": "Contributing Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "596"
+              },
+              {
+                "key": "Males",
+                "value": "167"
+              },
+              {
+                "key": "Females",
+                "value": "429"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

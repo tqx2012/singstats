@@ -1,0 +1,1550 @@
+{
+  "Data": {
+    "id": "8699",
+    "tableType": "General Household Survey 2005",
+    "groupTitle": null,
+    "title": "Resident Households by Type of Dwelling, Household Size and Tenancy",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "28/03/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1024458"
+              },
+              {
+                "key": "Owner",
+                "value": "933653"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "90805"
+              }
+            ]
+          },
+          {
+            "key": "1 Person",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "103271"
+              },
+              {
+                "key": "Owner",
+                "value": "71852"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "31420"
+              }
+            ]
+          },
+          {
+            "key": "2 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "191200"
+              },
+              {
+                "key": "Owner",
+                "value": "167267"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "23933"
+              }
+            ]
+          },
+          {
+            "key": "3 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "206034"
+              },
+              {
+                "key": "Owner",
+                "value": "191395"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "14638"
+              }
+            ]
+          },
+          {
+            "key": "4 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "247337"
+              },
+              {
+                "key": "Owner",
+                "value": "236831"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "10507"
+              }
+            ]
+          },
+          {
+            "key": "5 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "163055"
+              },
+              {
+                "key": "Owner",
+                "value": "156979"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "6077"
+              }
+            ]
+          },
+          {
+            "key": "6 Or More Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "113561"
+              },
+              {
+                "key": "Owner",
+                "value": "109329"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "4231"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "HDB Dwellings^",
+        "uoM": "Number",
+        "footnote": "^ Includes non-privatised Housing and Urban Development Company (HUDC) flats.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "865053"
+              },
+              {
+                "key": "Owner",
+                "value": "804412"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "60641"
+              }
+            ]
+          },
+          {
+            "key": "1 Person",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "84432"
+              },
+              {
+                "key": "Owner",
+                "value": "61861"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "22571"
+              }
+            ]
+          },
+          {
+            "key": "2 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "167334"
+              },
+              {
+                "key": "Owner",
+                "value": "148876"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "18458"
+              }
+            ]
+          },
+          {
+            "key": "3 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "181770"
+              },
+              {
+                "key": "Owner",
+                "value": "171992"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "9778"
+              }
+            ]
+          },
+          {
+            "key": "4 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "212266"
+              },
+              {
+                "key": "Owner",
+                "value": "206511"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "5755"
+              }
+            ]
+          },
+          {
+            "key": "5 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "133667"
+              },
+              {
+                "key": "Owner",
+                "value": "131273"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "2394"
+              }
+            ]
+          },
+          {
+            "key": "6 Or More Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "85585"
+              },
+              {
+                "key": "Owner",
+                "value": "83898"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "1686"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1",
+        "rowText": "1- And 2-Room Flats#",
+        "uoM": "Number",
+        "footnote": "# Includes HDB studio apartments.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44460"
+              },
+              {
+                "key": "Owner",
+                "value": "10581"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "33879"
+              }
+            ]
+          },
+          {
+            "key": "1 Person",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17032"
+              },
+              {
+                "key": "Owner",
+                "value": "3985"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "13047"
+              }
+            ]
+          },
+          {
+            "key": "2 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16393"
+              },
+              {
+                "key": "Owner",
+                "value": "3855"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "12538"
+              }
+            ]
+          },
+          {
+            "key": "3 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6314"
+              },
+              {
+                "key": "Owner",
+                "value": "1525"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "4789"
+              }
+            ]
+          },
+          {
+            "key": "4 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2846"
+              },
+              {
+                "key": "Owner",
+                "value": "695"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "2151"
+              }
+            ]
+          },
+          {
+            "key": "5 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1167"
+              },
+              {
+                "key": "Owner",
+                "value": "340"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "827"
+              }
+            ]
+          },
+          {
+            "key": "6 Or More Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "708"
+              },
+              {
+                "key": "Owner",
+                "value": "181"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "527"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.2",
+        "rowText": "3-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "211606"
+              },
+              {
+                "key": "Owner",
+                "value": "199705"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "11901"
+              }
+            ]
+          },
+          {
+            "key": "1 Person",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43794"
+              },
+              {
+                "key": "Owner",
+                "value": "39943"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "3851"
+              }
+            ]
+          },
+          {
+            "key": "2 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "55218"
+              },
+              {
+                "key": "Owner",
+                "value": "51926"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "3291"
+              }
+            ]
+          },
+          {
+            "key": "3 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "49659"
+              },
+              {
+                "key": "Owner",
+                "value": "47119"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "2540"
+              }
+            ]
+          },
+          {
+            "key": "4 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "37646"
+              },
+              {
+                "key": "Owner",
+                "value": "36146"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "1500"
+              }
+            ]
+          },
+          {
+            "key": "5 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17198"
+              },
+              {
+                "key": "Owner",
+                "value": "16689"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "509"
+              }
+            ]
+          },
+          {
+            "key": "6 Or More Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8091"
+              },
+              {
+                "key": "Owner",
+                "value": "7882"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "209"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.3",
+        "rowText": "4-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "333171"
+              },
+              {
+                "key": "Owner",
+                "value": "324240"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "8931"
+              }
+            ]
+          },
+          {
+            "key": "1 Person",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15797"
+              },
+              {
+                "key": "Owner",
+                "value": "12368"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "3429"
+              }
+            ]
+          },
+          {
+            "key": "2 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "54667"
+              },
+              {
+                "key": "Owner",
+                "value": "53106"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "1561"
+              }
+            ]
+          },
+          {
+            "key": "3 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "73283"
+              },
+              {
+                "key": "Owner",
+                "value": "71837"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "1447"
+              }
+            ]
+          },
+          {
+            "key": "4 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "94032"
+              },
+              {
+                "key": "Owner",
+                "value": "92828"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "1204"
+              }
+            ]
+          },
+          {
+            "key": "5 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "59129"
+              },
+              {
+                "key": "Owner",
+                "value": "58311"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "818"
+              }
+            ]
+          },
+          {
+            "key": "6 Or More Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36262"
+              },
+              {
+                "key": "Owner",
+                "value": "35790"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "472"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.4",
+        "rowText": "5-Room And Executive Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "272961"
+              },
+              {
+                "key": "Owner",
+                "value": "267237"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "5724"
+              }
+            ]
+          },
+          {
+            "key": "1 Person",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7621"
+              },
+              {
+                "key": "Owner",
+                "value": "5409"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "2212"
+              }
+            ]
+          },
+          {
+            "key": "2 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "40665"
+              },
+              {
+                "key": "Owner",
+                "value": "39626"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "1038"
+              }
+            ]
+          },
+          {
+            "key": "3 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "52125"
+              },
+              {
+                "key": "Owner",
+                "value": "51152"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "974"
+              }
+            ]
+          },
+          {
+            "key": "4 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "76830"
+              },
+              {
+                "key": "Owner",
+                "value": "76005"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "825"
+              }
+            ]
+          },
+          {
+            "key": "5 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "55744"
+              },
+              {
+                "key": "Owner",
+                "value": "55504"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "240"
+              }
+            ]
+          },
+          {
+            "key": "6 Or More Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "39976"
+              },
+              {
+                "key": "Owner",
+                "value": "39541"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "435"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Condominiums And Other Apartments",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "100093"
+              },
+              {
+                "key": "Owner",
+                "value": "77235"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "22858"
+              }
+            ]
+          },
+          {
+            "key": "1 Person",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14737"
+              },
+              {
+                "key": "Owner",
+                "value": "7592"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "7146"
+              }
+            ]
+          },
+          {
+            "key": "2 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17126"
+              },
+              {
+                "key": "Owner",
+                "value": "12940"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "4186"
+              }
+            ]
+          },
+          {
+            "key": "3 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15880"
+              },
+              {
+                "key": "Owner",
+                "value": "12336"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "3545"
+              }
+            ]
+          },
+          {
+            "key": "4 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23406"
+              },
+              {
+                "key": "Owner",
+                "value": "19636"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "3770"
+              }
+            ]
+          },
+          {
+            "key": "5 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17461"
+              },
+              {
+                "key": "Owner",
+                "value": "14622"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "2839"
+              }
+            ]
+          },
+          {
+            "key": "6 Or More Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11483"
+              },
+              {
+                "key": "Owner",
+                "value": "10109"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "1373"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Landed Properties",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "55531"
+              },
+              {
+                "key": "Owner",
+                "value": "49848"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "5684"
+              }
+            ]
+          },
+          {
+            "key": "1 Person",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2924"
+              },
+              {
+                "key": "Owner",
+                "value": "2021"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "903"
+              }
+            ]
+          },
+          {
+            "key": "2 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5965"
+              },
+              {
+                "key": "Owner",
+                "value": "4958"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "1007"
+              }
+            ]
+          },
+          {
+            "key": "3 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7865"
+              },
+              {
+                "key": "Owner",
+                "value": "6777"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "1088"
+              }
+            ]
+          },
+          {
+            "key": "4 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11088"
+              },
+              {
+                "key": "Owner",
+                "value": "10172"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "916"
+              }
+            ]
+          },
+          {
+            "key": "5 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11591"
+              },
+              {
+                "key": "Owner",
+                "value": "10880"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "711"
+              }
+            ]
+          },
+          {
+            "key": "6 Or More Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16098"
+              },
+              {
+                "key": "Owner",
+                "value": "15039"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "1058"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "Bungalows",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6709"
+              },
+              {
+                "key": "Owner",
+                "value": "5720"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "989"
+              }
+            ]
+          },
+          {
+            "key": "1 Person",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "194"
+              },
+              {
+                "key": "Owner",
+                "value": "167"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "28"
+              }
+            ]
+          },
+          {
+            "key": "2 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "641"
+              },
+              {
+                "key": "Owner",
+                "value": "528"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "113"
+              }
+            ]
+          },
+          {
+            "key": "3 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "996"
+              },
+              {
+                "key": "Owner",
+                "value": "746"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "251"
+              }
+            ]
+          },
+          {
+            "key": "4 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1115"
+              },
+              {
+                "key": "Owner",
+                "value": "952"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "163"
+              }
+            ]
+          },
+          {
+            "key": "5 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1359"
+              },
+              {
+                "key": "Owner",
+                "value": "1156"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "203"
+              }
+            ]
+          },
+          {
+            "key": "6 Or More Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2403"
+              },
+              {
+                "key": "Owner",
+                "value": "2172"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "231"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Semi-Detached Bungalows",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19130"
+              },
+              {
+                "key": "Owner",
+                "value": "17397"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "1733"
+              }
+            ]
+          },
+          {
+            "key": "1 Person",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "731"
+              },
+              {
+                "key": "Owner",
+                "value": "534"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "197"
+              }
+            ]
+          },
+          {
+            "key": "2 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2014"
+              },
+              {
+                "key": "Owner",
+                "value": "1696"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "319"
+              }
+            ]
+          },
+          {
+            "key": "3 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2649"
+              },
+              {
+                "key": "Owner",
+                "value": "2339"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "310"
+              }
+            ]
+          },
+          {
+            "key": "4 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3673"
+              },
+              {
+                "key": "Owner",
+                "value": "3423"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "250"
+              }
+            ]
+          },
+          {
+            "key": "5 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3871"
+              },
+              {
+                "key": "Owner",
+                "value": "3614"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "257"
+              }
+            ]
+          },
+          {
+            "key": "6 Or More Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6191"
+              },
+              {
+                "key": "Owner",
+                "value": "5791"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "399"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.3",
+        "rowText": "Terrace Houses",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29693"
+              },
+              {
+                "key": "Owner",
+                "value": "26731"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "2962"
+              }
+            ]
+          },
+          {
+            "key": "1 Person",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1998"
+              },
+              {
+                "key": "Owner",
+                "value": "1320"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "678"
+              }
+            ]
+          },
+          {
+            "key": "2 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3310"
+              },
+              {
+                "key": "Owner",
+                "value": "2735"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "575"
+              }
+            ]
+          },
+          {
+            "key": "3 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4220"
+              },
+              {
+                "key": "Owner",
+                "value": "3692"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "528"
+              }
+            ]
+          },
+          {
+            "key": "4 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6299"
+              },
+              {
+                "key": "Owner",
+                "value": "5797"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "503"
+              }
+            ]
+          },
+          {
+            "key": "5 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6362"
+              },
+              {
+                "key": "Owner",
+                "value": "6111"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "250"
+              }
+            ]
+          },
+          {
+            "key": "6 Or More Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7504"
+              },
+              {
+                "key": "Owner",
+                "value": "7076"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "428"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3781"
+              },
+              {
+                "key": "Owner",
+                "value": "2158"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "1622"
+              }
+            ]
+          },
+          {
+            "key": "1 Person",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1179"
+              },
+              {
+                "key": "Owner",
+                "value": "379"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "800"
+              }
+            ]
+          },
+          {
+            "key": "2 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "775"
+              },
+              {
+                "key": "Owner",
+                "value": "492"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "282"
+              }
+            ]
+          },
+          {
+            "key": "3 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "518"
+              },
+              {
+                "key": "Owner",
+                "value": "290"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "227"
+              }
+            ]
+          },
+          {
+            "key": "4 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "577"
+              },
+              {
+                "key": "Owner",
+                "value": "512"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "66"
+              }
+            ]
+          },
+          {
+            "key": "5 Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "336"
+              },
+              {
+                "key": "Owner",
+                "value": "203"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "133"
+              }
+            ]
+          },
+          {
+            "key": "6 Or More Persons",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "396"
+              },
+              {
+                "key": "Owner",
+                "value": "282"
+              },
+              {
+                "key": "Non-Owner",
+                "value": "114"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

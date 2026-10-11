@@ -1,0 +1,2627 @@
+{
+  "Data": {
+    "id": "C010012",
+    "tableType": "Census of Population 2020",
+    "groupTitle": null,
+    "title": "Resident Households by Monthly Household Market Income Per Household Member and Age Group of Household Reference Person & Household Living Arrangement",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data on Household Living Arrangement have been revised in June 2026 to be based on the composition of members within the household, instead of the characteristics of the household reference person, to provide a more holistic view of household living arrangements.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Household Income",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1372559"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "691279"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "230197"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "127987"
+              },
+              {
+                "key": "One-Person",
+                "value": "220270"
+              },
+              {
+                "key": "Others",
+                "value": "102828"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "130367"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "50874"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "32595"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "8414"
+              },
+              {
+                "key": "One-Person",
+                "value": "25009"
+              },
+              {
+                "key": "Others",
+                "value": "13475"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "446511"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "269120"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "50393"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "38388"
+              },
+              {
+                "key": "One-Person",
+                "value": "63363"
+              },
+              {
+                "key": "Others",
+                "value": "25247"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "500232"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "281941"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "56782"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "59335"
+              },
+              {
+                "key": "One-Person",
+                "value": "68101"
+              },
+              {
+                "key": "Others",
+                "value": "34072"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "295450"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "89343"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "90427"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "21850"
+              },
+              {
+                "key": "One-Person",
+                "value": "63797"
+              },
+              {
+                "key": "Others",
+                "value": "30033"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.1",
+        "rowText": "Below 500",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "115568"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "19178"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "27545"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "14471"
+              },
+              {
+                "key": "One-Person",
+                "value": "36741"
+              },
+              {
+                "key": "Others",
+                "value": "17634"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6268"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "1856"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "231"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1249"
+              },
+              {
+                "key": "One-Person",
+                "value": "2060"
+              },
+              {
+                "key": "Others",
+                "value": "872"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16405"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "6579"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "668"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "4265"
+              },
+              {
+                "key": "One-Person",
+                "value": "3037"
+              },
+              {
+                "key": "Others",
+                "value": "1857"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30908"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "7507"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "3835"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "6140"
+              },
+              {
+                "key": "One-Person",
+                "value": "9556"
+              },
+              {
+                "key": "Others",
+                "value": "3869"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "61987"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "3236"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "22811"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "2817"
+              },
+              {
+                "key": "One-Person",
+                "value": "22087"
+              },
+              {
+                "key": "Others",
+                "value": "11036"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.2",
+        "rowText": "500 - 999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "106245"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "40659"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "23110"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "12976"
+              },
+              {
+                "key": "One-Person",
+                "value": "19967"
+              },
+              {
+                "key": "Others",
+                "value": "9534"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5248"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "3484"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "231"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "749"
+              },
+              {
+                "key": "One-Person",
+                "value": "413"
+              },
+              {
+                "key": "Others",
+                "value": "373"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20640"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "13207"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "520"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "3797"
+              },
+              {
+                "key": "One-Person",
+                "value": "1981"
+              },
+              {
+                "key": "Others",
+                "value": "1135"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38815"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "18054"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "4780"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "5878"
+              },
+              {
+                "key": "One-Person",
+                "value": "6522"
+              },
+              {
+                "key": "Others",
+                "value": "3581"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41541"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "5914"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "17579"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "2553"
+              },
+              {
+                "key": "One-Person",
+                "value": "11051"
+              },
+              {
+                "key": "Others",
+                "value": "4444"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.3",
+        "rowText": "1,000 - 1,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "117138"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "59338"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "20384"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "14328"
+              },
+              {
+                "key": "One-Person",
+                "value": "14011"
+              },
+              {
+                "key": "Others",
+                "value": "9077"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7663"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "5582"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "347"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "957"
+              },
+              {
+                "key": "One-Person",
+                "value": "203"
+              },
+              {
+                "key": "Others",
+                "value": "575"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28669"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "20342"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1101"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "4070"
+              },
+              {
+                "key": "One-Person",
+                "value": "1497"
+              },
+              {
+                "key": "Others",
+                "value": "1659"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45943"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "25494"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "5468"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "6565"
+              },
+              {
+                "key": "One-Person",
+                "value": "4945"
+              },
+              {
+                "key": "Others",
+                "value": "3471"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34862"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "7921"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "13467"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "2735"
+              },
+              {
+                "key": "One-Person",
+                "value": "7366"
+              },
+              {
+                "key": "Others",
+                "value": "3373"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.4",
+        "rowText": "1,500 - 1,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "125639"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "70878"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "17367"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "15081"
+              },
+              {
+                "key": "One-Person",
+                "value": "13891"
+              },
+              {
+                "key": "Others",
+                "value": "8423"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9045"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "5994"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "730"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1132"
+              },
+              {
+                "key": "One-Person",
+                "value": "357"
+              },
+              {
+                "key": "Others",
+                "value": "832"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "33799"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "24782"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1428"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "4542"
+              },
+              {
+                "key": "One-Person",
+                "value": "1454"
+              },
+              {
+                "key": "Others",
+                "value": "1593"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "52363"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "30308"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "5590"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "7367"
+              },
+              {
+                "key": "One-Person",
+                "value": "5647"
+              },
+              {
+                "key": "Others",
+                "value": "3451"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30431"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "9794"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "9618"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "2040"
+              },
+              {
+                "key": "One-Person",
+                "value": "6432"
+              },
+              {
+                "key": "Others",
+                "value": "2546"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.5",
+        "rowText": "2,000 - 2,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "122484"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "73475"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "14868"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "13136"
+              },
+              {
+                "key": "One-Person",
+                "value": "12209"
+              },
+              {
+                "key": "Others",
+                "value": "8797"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9593"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "5885"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1092"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1022"
+              },
+              {
+                "key": "One-Person",
+                "value": "632"
+              },
+              {
+                "key": "Others",
+                "value": "960"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36709"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "27372"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1846"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "3685"
+              },
+              {
+                "key": "One-Person",
+                "value": "1833"
+              },
+              {
+                "key": "Others",
+                "value": "1973"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "50903"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "30644"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "5245"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "6167"
+              },
+              {
+                "key": "One-Person",
+                "value": "4915"
+              },
+              {
+                "key": "Others",
+                "value": "3932"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25279"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "9573"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "6684"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "2261"
+              },
+              {
+                "key": "One-Person",
+                "value": "4829"
+              },
+              {
+                "key": "Others",
+                "value": "1931"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.6",
+        "rowText": "2,500 - 2,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "109133"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "69645"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "13099"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "10179"
+              },
+              {
+                "key": "One-Person",
+                "value": "9536"
+              },
+              {
+                "key": "Others",
+                "value": "6674"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9578"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "5762"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1547"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "780"
+              },
+              {
+                "key": "One-Person",
+                "value": "579"
+              },
+              {
+                "key": "Others",
+                "value": "911"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35098"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "26240"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "2387"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "3030"
+              },
+              {
+                "key": "One-Person",
+                "value": "1818"
+              },
+              {
+                "key": "Others",
+                "value": "1623"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45520"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "29117"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "4363"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "5001"
+              },
+              {
+                "key": "One-Person",
+                "value": "4304"
+              },
+              {
+                "key": "Others",
+                "value": "2735"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18937"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "8526"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "4803"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1368"
+              },
+              {
+                "key": "One-Person",
+                "value": "2835"
+              },
+              {
+                "key": "Others",
+                "value": "1405"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.7",
+        "rowText": "3,000 - 3,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "97683"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "62168"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "11403"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "8913"
+              },
+              {
+                "key": "One-Person",
+                "value": "9170"
+              },
+              {
+                "key": "Others",
+                "value": "6030"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9695"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "5139"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1735"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "540"
+              },
+              {
+                "key": "One-Person",
+                "value": "1204"
+              },
+              {
+                "key": "Others",
+                "value": "1077"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34436"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "24731"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "2920"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "2826"
+              },
+              {
+                "key": "One-Person",
+                "value": "2260"
+              },
+              {
+                "key": "Others",
+                "value": "1699"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "37752"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "24262"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "3744"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "4002"
+              },
+              {
+                "key": "One-Person",
+                "value": "3442"
+              },
+              {
+                "key": "Others",
+                "value": "2302"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15800"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "8036"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "3004"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1545"
+              },
+              {
+                "key": "One-Person",
+                "value": "2264"
+              },
+              {
+                "key": "Others",
+                "value": "951"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.8",
+        "rowText": "3,500 - 3,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "84248"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "51773"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "10667"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "7473"
+              },
+              {
+                "key": "One-Person",
+                "value": "8667"
+              },
+              {
+                "key": "Others",
+                "value": "5667"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9138"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "3905"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "2137"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "455"
+              },
+              {
+                "key": "One-Person",
+                "value": "1424"
+              },
+              {
+                "key": "Others",
+                "value": "1217"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29866"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "20382"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "3005"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "2298"
+              },
+              {
+                "key": "One-Person",
+                "value": "2520"
+              },
+              {
+                "key": "Others",
+                "value": "1662"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "32243"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "20331"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "3114"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "3568"
+              },
+              {
+                "key": "One-Person",
+                "value": "3312"
+              },
+              {
+                "key": "Others",
+                "value": "1919"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13001"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "7156"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "2411"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1152"
+              },
+              {
+                "key": "One-Person",
+                "value": "1412"
+              },
+              {
+                "key": "Others",
+                "value": "869"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.9",
+        "rowText": "4,000 - 4,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "72314"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "44486"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "9079"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "6175"
+              },
+              {
+                "key": "One-Person",
+                "value": "7628"
+              },
+              {
+                "key": "Others",
+                "value": "4946"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7829"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "3111"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1890"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "408"
+              },
+              {
+                "key": "One-Person",
+                "value": "1395"
+              },
+              {
+                "key": "Others",
+                "value": "1026"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27894"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "18673"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "2923"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1840"
+              },
+              {
+                "key": "One-Person",
+                "value": "2604"
+              },
+              {
+                "key": "Others",
+                "value": "1855"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "26353"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "17022"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "2464"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "3005"
+              },
+              {
+                "key": "One-Person",
+                "value": "2448"
+              },
+              {
+                "key": "Others",
+                "value": "1415"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10237"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "5680"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1803"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "922"
+              },
+              {
+                "key": "One-Person",
+                "value": "1181"
+              },
+              {
+                "key": "Others",
+                "value": "651"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.10",
+        "rowText": "4,500 - 4,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "59103"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "35815"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "7904"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "4685"
+              },
+              {
+                "key": "One-Person",
+                "value": "7327"
+              },
+              {
+                "key": "Others",
+                "value": "3372"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7050"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "2315"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1882"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "293"
+              },
+              {
+                "key": "One-Person",
+                "value": "1806"
+              },
+              {
+                "key": "Others",
+                "value": "755"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22538"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "14573"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "2797"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1474"
+              },
+              {
+                "key": "One-Person",
+                "value": "2481"
+              },
+              {
+                "key": "Others",
+                "value": "1213"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21312"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "13898"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1945"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "2120"
+              },
+              {
+                "key": "One-Person",
+                "value": "2339"
+              },
+              {
+                "key": "Others",
+                "value": "1010"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8202"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "5029"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1280"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "798"
+              },
+              {
+                "key": "One-Person",
+                "value": "701"
+              },
+              {
+                "key": "Others",
+                "value": "394"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.11",
+        "rowText": "5,000 - 5,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "51527"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "29108"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "7833"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "3988"
+              },
+              {
+                "key": "One-Person",
+                "value": "6961"
+              },
+              {
+                "key": "Others",
+                "value": "3637"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7290"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "1889"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "2143"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "325"
+              },
+              {
+                "key": "One-Person",
+                "value": "1946"
+              },
+              {
+                "key": "Others",
+                "value": "988"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20577"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "12407"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "2959"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1235"
+              },
+              {
+                "key": "One-Person",
+                "value": "2747"
+              },
+              {
+                "key": "Others",
+                "value": "1229"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17454"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "11169"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1717"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1828"
+              },
+              {
+                "key": "One-Person",
+                "value": "1718"
+              },
+              {
+                "key": "Others",
+                "value": "1022"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6206"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "3644"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1015"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "600"
+              },
+              {
+                "key": "One-Person",
+                "value": "550"
+              },
+              {
+                "key": "Others",
+                "value": "398"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.12",
+        "rowText": "5,500 - 5,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "42327"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "23207"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "7034"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "3395"
+              },
+              {
+                "key": "One-Person",
+                "value": "6156"
+              },
+              {
+                "key": "Others",
+                "value": "2533"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5639"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "1107"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "2293"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "237"
+              },
+              {
+                "key": "One-Person",
+                "value": "1481"
+              },
+              {
+                "key": "Others",
+                "value": "521"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16907"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "10309"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "2434"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "868"
+              },
+              {
+                "key": "One-Person",
+                "value": "2362"
+              },
+              {
+                "key": "Others",
+                "value": "934"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14666"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "8838"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1558"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1658"
+              },
+              {
+                "key": "One-Person",
+                "value": "1814"
+              },
+              {
+                "key": "Others",
+                "value": "797"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5115"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "2953"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "750"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "632"
+              },
+              {
+                "key": "One-Person",
+                "value": "499"
+              },
+              {
+                "key": "Others",
+                "value": "281"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.13",
+        "rowText": "6,000 - 6,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "64952"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "33960"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "11980"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "3958"
+              },
+              {
+                "key": "One-Person",
+                "value": "11004"
+              },
+              {
+                "key": "Others",
+                "value": "4049"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10069"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "2089"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "4126"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "138"
+              },
+              {
+                "key": "One-Person",
+                "value": "2757"
+              },
+              {
+                "key": "Others",
+                "value": "959"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "26666"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "15098"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "4086"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1398"
+              },
+              {
+                "key": "One-Person",
+                "value": "4678"
+              },
+              {
+                "key": "Others",
+                "value": "1406"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21270"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "12921"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "2469"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1690"
+              },
+              {
+                "key": "One-Person",
+                "value": "3047"
+              },
+              {
+                "key": "Others",
+                "value": "1144"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6946"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "3852"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1299"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "733"
+              },
+              {
+                "key": "One-Person",
+                "value": "522"
+              },
+              {
+                "key": "Others",
+                "value": "540"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.14",
+        "rowText": "7,000 - 7,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "47347"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "22557"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "9912"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "2839"
+              },
+              {
+                "key": "One-Person",
+                "value": "9170"
+              },
+              {
+                "key": "Others",
+                "value": "2869"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7058"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "1046"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "3091"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "78"
+              },
+              {
+                "key": "One-Person",
+                "value": "2200"
+              },
+              {
+                "key": "Others",
+                "value": "643"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20462"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "10384"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "3964"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "769"
+              },
+              {
+                "key": "One-Person",
+                "value": "4204"
+              },
+              {
+                "key": "Others",
+                "value": "1140"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14977"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "8716"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1917"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1248"
+              },
+              {
+                "key": "One-Person",
+                "value": "2297"
+              },
+              {
+                "key": "Others",
+                "value": "799"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4851"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "2411"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "940"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "743"
+              },
+              {
+                "key": "One-Person",
+                "value": "470"
+              },
+              {
+                "key": "Others",
+                "value": "287"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.15",
+        "rowText": "8,000 - 8,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "33757"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "15052"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "8022"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1894"
+              },
+              {
+                "key": "One-Person",
+                "value": "6928"
+              },
+              {
+                "key": "Others",
+                "value": "1860"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5389"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "628"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "2640"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "10"
+              },
+              {
+                "key": "One-Person",
+                "value": "1646"
+              },
+              {
+                "key": "Others",
+                "value": "465"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15253"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "6777"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "3326"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "758"
+              },
+              {
+                "key": "One-Person",
+                "value": "3586"
+              },
+              {
+                "key": "Others",
+                "value": "806"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10293"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "6168"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "1430"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "833"
+              },
+              {
+                "key": "One-Person",
+                "value": "1406"
+              },
+              {
+                "key": "Others",
+                "value": "456"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2821"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "1479"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "625"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "294"
+              },
+              {
+                "key": "One-Person",
+                "value": "291"
+              },
+              {
+                "key": "Others",
+                "value": "133"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.16",
+        "rowText": "9,000 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "123094"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "39979"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "29991"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "4496"
+              },
+              {
+                "key": "One-Person",
+                "value": "40903"
+              },
+              {
+                "key": "Others",
+                "value": "7725"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged Below 35 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13814"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "1084"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "6481"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "43"
+              },
+              {
+                "key": "One-Person",
+                "value": "4905"
+              },
+              {
+                "key": "Others",
+                "value": "1301"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 35 - 49 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "60589"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "17264"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "14029"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "1533"
+              },
+              {
+                "key": "One-Person",
+                "value": "24302"
+              },
+              {
+                "key": "Others",
+                "value": "3462"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 50 - 64 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "39458"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "17493"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "7143"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "2263"
+              },
+              {
+                "key": "One-Person",
+                "value": "10390"
+              },
+              {
+                "key": "Others",
+                "value": "2169"
+              }
+            ]
+          },
+          {
+            "key": "Household Reference Person Aged 65 Years and Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9232"
+              },
+              {
+                "key": "Married Couple-Based with Children",
+                "value": "4137"
+              },
+              {
+                "key": "Married Couple-Based without Children",
+                "value": "2339"
+              },
+              {
+                "key": "Lone Parent",
+                "value": "657"
+              },
+              {
+                "key": "One-Person",
+                "value": "1307"
+              },
+              {
+                "key": "Others",
+                "value": "792"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

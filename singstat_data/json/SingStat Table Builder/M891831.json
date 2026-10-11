@@ -1,0 +1,184 @@
+{
+  "Data": {
+    "theme": "Society",
+    "subject": "Environment",
+    "topic": "Water and Sanitation",
+    "id": "M891831",
+    "groupTitle": null,
+    "title": "Water Quality Of Catchment Waters, Annual",
+    "frequency": "Annual",
+    "adjustmentType": null,
+    "datasource": "NATIONAL ENVIRONMENT AGENCY",
+    "footnote": "The inland water monitoring programme comprises 74 sampling locations in water catchment areas (flow into reservoirs) and non-catchment (flow out to sea) areas, with sampling carried out on fortnightly to quarterly basis. Water samples are analysed for a range of physical, chemical, biological and microbiological parameters, and benchmarked against international standards. National Environment Agency's guidelines for dissolved oxygen, biochemical oxygen demand, and total suspended solids in non-catchment waters are aligned with the ASEAN 2005 ASEAN Strategic Plan of Action on Water Resources Management of >=3 mg/l, ",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "17/08/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "sortBy": null,
+    "timeFilter": null,
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "seriesNo": "1",
+        "rowText": "Dissolved Oxygen",
+        "uoM": "Mean (mg/l)",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "5.7"
+          },
+          {
+            "key": "2011",
+            "value": "5.5"
+          },
+          {
+            "key": "2012",
+            "value": "5.4"
+          },
+          {
+            "key": "2013",
+            "value": "5.2"
+          },
+          {
+            "key": "2014",
+            "value": "5"
+          },
+          {
+            "key": "2015",
+            "value": "4.7"
+          },
+          {
+            "key": "2016",
+            "value": "4.5"
+          },
+          {
+            "key": "2017",
+            "value": "4.2"
+          },
+          {
+            "key": "2018",
+            "value": "5.7"
+          },
+          {
+            "key": "2019",
+            "value": "6.3"
+          },
+          {
+            "key": "2020",
+            "value": "6.1"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2",
+        "rowText": "Total Suspended Solids",
+        "uoM": "Mean (mg/l)",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "13"
+          },
+          {
+            "key": "2011",
+            "value": "9"
+          },
+          {
+            "key": "2012",
+            "value": "16"
+          },
+          {
+            "key": "2013",
+            "value": "12"
+          },
+          {
+            "key": "2014",
+            "value": "20"
+          },
+          {
+            "key": "2015",
+            "value": "7"
+          },
+          {
+            "key": "2016",
+            "value": "11"
+          },
+          {
+            "key": "2017",
+            "value": "12"
+          },
+          {
+            "key": "2018",
+            "value": "11"
+          },
+          {
+            "key": "2019",
+            "value": "11"
+          },
+          {
+            "key": "2020",
+            "value": "10"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3",
+        "rowText": "Biochemical Oxygen Demand",
+        "uoM": "Mean (mg/l)",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "3"
+          },
+          {
+            "key": "2011",
+            "value": "3"
+          },
+          {
+            "key": "2012",
+            "value": "4"
+          },
+          {
+            "key": "2013",
+            "value": "3"
+          },
+          {
+            "key": "2014",
+            "value": "3"
+          },
+          {
+            "key": "2015",
+            "value": "3"
+          },
+          {
+            "key": "2016",
+            "value": "4"
+          },
+          {
+            "key": "2017",
+            "value": "3"
+          },
+          {
+            "key": "2018",
+            "value": "2"
+          },
+          {
+            "key": "2019",
+            "value": "3"
+          },
+          {
+            "key": "2020",
+            "value": "3"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

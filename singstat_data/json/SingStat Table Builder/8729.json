@@ -1,0 +1,774 @@
+{
+  "Data": {
+    "id": "8729",
+    "tableType": "General Household Survey 2005",
+    "groupTitle": null,
+    "title": "Resident Households by Monthly Household Income from Work and Highest Qualification Attained of Head of Household",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: Data exclude heads who were students.\nData on income from work have been updated to include Additional MediSave Contributions from employers with the release of the Key Household Income Trends 2025 report in February 2026. For more information, you may refer to the Technical Note on Household Income (https://go.gov.sg/khit2025-tech-note) which explains the concepts and components of our household income coverage.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "09/07/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Household Income",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1022642"
+          },
+          {
+            "key": "No Qualification",
+            "value": "155071"
+          },
+          {
+            "key": "Primary",
+            "value": "120202"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "127908"
+          },
+          {
+            "key": "Secondary",
+            "value": "223542"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "98424"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "67568"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "48431"
+          },
+          {
+            "key": "University",
+            "value": "181496"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "No Working Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "101378"
+          },
+          {
+            "key": "No Qualification",
+            "value": "39789"
+          },
+          {
+            "key": "Primary",
+            "value": "14963"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "12655"
+          },
+          {
+            "key": "Secondary",
+            "value": "15762"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "5663"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "1910"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "3422"
+          },
+          {
+            "key": "University",
+            "value": "7214"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Below 1,000",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "43784"
+          },
+          {
+            "key": "No Qualification",
+            "value": "15149"
+          },
+          {
+            "key": "Primary",
+            "value": "9089"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "6946"
+          },
+          {
+            "key": "Secondary",
+            "value": "7440"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "1826"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "727"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "864"
+          },
+          {
+            "key": "University",
+            "value": "1743"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "1,000 - 1,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "53968"
+          },
+          {
+            "key": "No Qualification",
+            "value": "13683"
+          },
+          {
+            "key": "Primary",
+            "value": "11695"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "10837"
+          },
+          {
+            "key": "Secondary",
+            "value": "11789"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "3208"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "867"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "909"
+          },
+          {
+            "key": "University",
+            "value": "982"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "1,500 - 1,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "57492"
+          },
+          {
+            "key": "No Qualification",
+            "value": "11758"
+          },
+          {
+            "key": "Primary",
+            "value": "11612"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "10675"
+          },
+          {
+            "key": "Secondary",
+            "value": "15013"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "4432"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "1305"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "1346"
+          },
+          {
+            "key": "University",
+            "value": "1351"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "2,000 - 2,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "61645"
+          },
+          {
+            "key": "No Qualification",
+            "value": "10183"
+          },
+          {
+            "key": "Primary",
+            "value": "10826"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "11488"
+          },
+          {
+            "key": "Secondary",
+            "value": "16853"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "5282"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "2267"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "2173"
+          },
+          {
+            "key": "University",
+            "value": "2575"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "2,500 - 2,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "54591"
+          },
+          {
+            "key": "No Qualification",
+            "value": "8716"
+          },
+          {
+            "key": "Primary",
+            "value": "8866"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "9587"
+          },
+          {
+            "key": "Secondary",
+            "value": "14834"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "5952"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "1889"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "1871"
+          },
+          {
+            "key": "University",
+            "value": "2875"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "3,000 - 3,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "57908"
+          },
+          {
+            "key": "No Qualification",
+            "value": "7478"
+          },
+          {
+            "key": "Primary",
+            "value": "8158"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "9547"
+          },
+          {
+            "key": "Secondary",
+            "value": "15991"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "6490"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "2931"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "2262"
+          },
+          {
+            "key": "University",
+            "value": "5052"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "3,500 - 3,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "51468"
+          },
+          {
+            "key": "No Qualification",
+            "value": "6920"
+          },
+          {
+            "key": "Primary",
+            "value": "6377"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "7676"
+          },
+          {
+            "key": "Secondary",
+            "value": "15183"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "6016"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "2849"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "2437"
+          },
+          {
+            "key": "University",
+            "value": "4010"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.9",
+        "rowText": "4,000 - 4,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "48915"
+          },
+          {
+            "key": "No Qualification",
+            "value": "5670"
+          },
+          {
+            "key": "Primary",
+            "value": "6444"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "6890"
+          },
+          {
+            "key": "Secondary",
+            "value": "13345"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "6008"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "3423"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "2160"
+          },
+          {
+            "key": "University",
+            "value": "4976"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.10",
+        "rowText": "4,500 - 4,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "44456"
+          },
+          {
+            "key": "No Qualification",
+            "value": "4948"
+          },
+          {
+            "key": "Primary",
+            "value": "4705"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "6167"
+          },
+          {
+            "key": "Secondary",
+            "value": "12476"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "5426"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "3491"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "2373"
+          },
+          {
+            "key": "University",
+            "value": "4870"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.11",
+        "rowText": "5,000 - 5,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "80730"
+          },
+          {
+            "key": "No Qualification",
+            "value": "7819"
+          },
+          {
+            "key": "Primary",
+            "value": "7741"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "9902"
+          },
+          {
+            "key": "Secondary",
+            "value": "21244"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "10595"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "7507"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "4320"
+          },
+          {
+            "key": "University",
+            "value": "11602"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.12",
+        "rowText": "6,000 - 6,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "65692"
+          },
+          {
+            "key": "No Qualification",
+            "value": "5859"
+          },
+          {
+            "key": "Primary",
+            "value": "5645"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "6518"
+          },
+          {
+            "key": "Secondary",
+            "value": "15613"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "8620"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "7141"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "3953"
+          },
+          {
+            "key": "University",
+            "value": "12344"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.13",
+        "rowText": "7,000 - 7,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "55058"
+          },
+          {
+            "key": "No Qualification",
+            "value": "4144"
+          },
+          {
+            "key": "Primary",
+            "value": "4008"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "5158"
+          },
+          {
+            "key": "Secondary",
+            "value": "12572"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "6545"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "6794"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "4131"
+          },
+          {
+            "key": "University",
+            "value": "11707"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.14",
+        "rowText": "8,000 - 8,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "45573"
+          },
+          {
+            "key": "No Qualification",
+            "value": "3182"
+          },
+          {
+            "key": "Primary",
+            "value": "2776"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "3796"
+          },
+          {
+            "key": "Secondary",
+            "value": "9822"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "5138"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "5327"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "2874"
+          },
+          {
+            "key": "University",
+            "value": "12658"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.15",
+        "rowText": "9,000 - 9,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "35181"
+          },
+          {
+            "key": "No Qualification",
+            "value": "2566"
+          },
+          {
+            "key": "Primary",
+            "value": "1926"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "2650"
+          },
+          {
+            "key": "Secondary",
+            "value": "6229"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "3905"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "4039"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "2169"
+          },
+          {
+            "key": "University",
+            "value": "11697"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.16",
+        "rowText": "10,000 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "164802"
+          },
+          {
+            "key": "No Qualification",
+            "value": "7209"
+          },
+          {
+            "key": "Primary",
+            "value": "5373"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "7415"
+          },
+          {
+            "key": "Secondary",
+            "value": "19376"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "13319"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "15103"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "11169"
+          },
+          {
+            "key": "University",
+            "value": "85839"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

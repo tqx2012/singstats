@@ -1,0 +1,108 @@
+{
+  "Data": {
+    "theme": "Population",
+    "subject": "Education, Language Spoken and Literacy",
+    "topic": "Training and Education",
+    "id": "M850871",
+    "groupTitle": null,
+    "title": "Participation Rate Of Youth And Adults In Formal And Non-Formal Education And Training In The Previous 12 Months By Sex And Age Group",
+    "frequency": "Ad-Hoc",
+    "adjustmentType": null,
+    "datasource": "ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT",
+    "footnote": "Data were taken from Organisation for Economic Co-operation and Development (OECD)'s Programme for the International Assessment of Adult Competencies (PIAAC), targeting adults aged 16 - 65. This includes students in their regular cycle of studies. Data are used for SDG 4.3.1 'Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex'. Please refer to the Sustainable Development Goals (SDG) Global Metadata (https://unstats.un.org/sdgs/metadata) for more information on SDG 4.3.1.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "10/02/2025",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "sortBy": null,
+    "timeFilter": null,
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "seriesNo": "1",
+        "rowText": "Total",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "56.6"
+          },
+          {
+            "key": "2023",
+            "value": "46.9"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2",
+        "rowText": "Males",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "60.4"
+          },
+          {
+            "key": "2023",
+            "value": "47.6"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3",
+        "rowText": "Females",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "52.9"
+          },
+          {
+            "key": "2023",
+            "value": "46.2"
+          }
+        ]
+      },
+      {
+        "seriesNo": "4",
+        "rowText": "16 - 24 Years",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "92.7"
+          },
+          {
+            "key": "2023",
+            "value": "89.8"
+          }
+        ]
+      },
+      {
+        "seriesNo": "5",
+        "rowText": "25 - 65 Years",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "56.6"
+          },
+          {
+            "key": "2023",
+            "value": "47.2"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

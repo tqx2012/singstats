@@ -1,0 +1,57 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Industry",
+      "subject": "Building, Real Estate, Construction and Housing",
+      "topic": "Real Estate",
+      "id": "M400871",
+      "groupTitle": "JTC Ready-Built Facilities",
+      "title": "JTC Ready-Built Facilities, Annual",
+      "frequency": "Annual",
+      "adjustmentType": "",
+      "dataSource": "JTC CORPORATION",
+      "footnote": "Figures may not add up due to rounding.  Figures are subject to changes due to adjustments in transaction period.  Data for 'Total Allocated', 'Supply' and 'Occupancy Rate' are as at end of period.  With effect from 2018, the coverage includes industrial properties transferred from HDB.",
+      "dataLastUpdated": "23/07/2026",
+      "startPeriod": "2006",
+      "endPeriod": "2025",
+      "total": 100,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Gross Allocation",
+          "uoM": "Thousand Square Metres",
+          "footnote": "Industrial land or space that is leased or tenanted to companies within the reference period.  This excludes land that is leased out under the Industrial Government Land Sales programme and land for JTC's ready-built facilities."
+        },
+        {
+          "seriesNo": "2",
+          "rowText": "Returns",
+          "uoM": "Thousand Square Metres",
+          "footnote": "Industrial land or space that is returned to JTC Corporation within the reference period.  This excludes land that is leased out under the Industrial Government Land Sales programme and land for JTC's ready-built facilities."
+        },
+        {
+          "seriesNo": "3",
+          "rowText": "Total Allocated",
+          "uoM": "Thousand Square Metres",
+          "footnote": "Total industrial land or space allocated to tenants or lessees as at end of the reference period."
+        },
+        {
+          "seriesNo": "4",
+          "rowText": "Supply",
+          "uoM": "Thousand Square Metres",
+          "footnote": "Sum of allocated and vacant industrial land or space as at end of the reference period."
+        },
+        {
+          "seriesNo": "5",
+          "rowText": "Occupancy Rate",
+          "uoM": "Per Cent",
+          "footnote": "The percentage of industrial space that is occupied by lessees or tenants as at the end of the reference period."
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

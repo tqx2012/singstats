@@ -1,0 +1,250 @@
+{
+  "Data": {
+    "id": "C010017",
+    "tableType": "Census of Population 2020",
+    "groupTitle": null,
+    "title": "Average Monthly Household Market Income Per Household Member Among Resident Households by Income Source and Ethnic Group of Household Reference Person",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: The average monthly household income per member from each income source is computed based on all resident households, regardless of whether households have received income from the specified source. Other income comprises contributions from other households (e.g., allowance from children to parents not staying in the same household, alimony), pensions, annuities, royalties, and regular payouts from CPF and insurance. ",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Household Income",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "4111"
+          },
+          {
+            "key": "Chinese",
+            "value": "4311"
+          },
+          {
+            "key": "Malays",
+            "value": "2303"
+          },
+          {
+            "key": "Indians",
+            "value": "4028"
+          },
+          {
+            "key": "Others",
+            "value": "6047"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Employment Income",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "3494"
+          },
+          {
+            "key": "Chinese",
+            "value": "3622"
+          },
+          {
+            "key": "Malays",
+            "value": "2010"
+          },
+          {
+            "key": "Indians",
+            "value": "3590"
+          },
+          {
+            "key": "Others",
+            "value": "5576"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Investment Income",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "396"
+          },
+          {
+            "key": "Chinese",
+            "value": "436"
+          },
+          {
+            "key": "Malays",
+            "value": "232"
+          },
+          {
+            "key": "Indians",
+            "value": "282"
+          },
+          {
+            "key": "Others",
+            "value": "316"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.1",
+        "rowText": "Interest from Savings & Dividends from Investment",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "49"
+          },
+          {
+            "key": "Chinese",
+            "value": "61"
+          },
+          {
+            "key": "Malays",
+            "value": "2"
+          },
+          {
+            "key": "Indians",
+            "value": "11"
+          },
+          {
+            "key": "Others",
+            "value": "10"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.2",
+        "rowText": "Interest from CPF Balances",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "348"
+          },
+          {
+            "key": "Chinese",
+            "value": "375"
+          },
+          {
+            "key": "Malays",
+            "value": "230"
+          },
+          {
+            "key": "Indians",
+            "value": "271"
+          },
+          {
+            "key": "Others",
+            "value": "306"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Rental Income",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "157"
+          },
+          {
+            "key": "Chinese",
+            "value": "184"
+          },
+          {
+            "key": "Malays",
+            "value": "17"
+          },
+          {
+            "key": "Indians",
+            "value": "107"
+          },
+          {
+            "key": "Others",
+            "value": "122"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Other Income",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "63"
+          },
+          {
+            "key": "Chinese",
+            "value": "69"
+          },
+          {
+            "key": "Malays",
+            "value": "44"
+          },
+          {
+            "key": "Indians",
+            "value": "48"
+          },
+          {
+            "key": "Others",
+            "value": "33"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.1",
+        "rowText": "Payouts from CPF Retirement Sum Scheme (RSS) & Lifelong Income for the Elderly (LIFE)",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "48"
+          },
+          {
+            "key": "Chinese",
+            "value": "52"
+          },
+          {
+            "key": "Malays",
+            "value": "35"
+          },
+          {
+            "key": "Indians",
+            "value": "34"
+          },
+          {
+            "key": "Others",
+            "value": "22"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

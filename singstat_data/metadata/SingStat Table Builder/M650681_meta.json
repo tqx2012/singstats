@@ -1,0 +1,63 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Industry",
+      "subject": "Transport",
+      "topic": "Land Transport (including MRT and LRT)",
+      "id": "M650681",
+      "groupTitle": "Car Population By CC Rating (End Of Period)",
+      "title": "Car Population By CC Rating (End Of Period), Annual",
+      "frequency": "Annual",
+      "adjustmentType": "",
+      "dataSource": "LAND TRANSPORT AUTHORITY",
+      "footnote": "Data refer to private cars, company cars and private hire cars only.  They exclude taxis and tax exempted cars.",
+      "dataLastUpdated": "01/04/2026",
+      "startPeriod": "1986",
+      "endPeriod": "2025",
+      "total": 240,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Total",
+          "uoM": "Number",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "1,000 cc & Below",
+          "uoM": "Number",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "1,001 cc To 1,600 cc",
+          "uoM": "Number",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.3",
+          "rowText": "1,601 cc To 2,000 cc",
+          "uoM": "Number",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.4",
+          "rowText": "2,001 cc To 3,000 cc",
+          "uoM": "Number",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.5",
+          "rowText": "3,001 cc & Above",
+          "uoM": "Number",
+          "footnote": ""
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

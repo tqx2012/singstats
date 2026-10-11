@@ -1,0 +1,644 @@
+{
+  "Data": {
+    "id": "9043",
+    "tableType": "Census of Population 2000",
+    "groupTitle": null,
+    "title": "Resident Households by Household Structure and Household Size",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "01/04/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "915090"
+          },
+          {
+            "key": "1 Person",
+            "value": "75389"
+          },
+          {
+            "key": "2 Persons",
+            "value": "157237"
+          },
+          {
+            "key": "3 Persons",
+            "value": "175126"
+          },
+          {
+            "key": "4 Persons",
+            "value": "233430"
+          },
+          {
+            "key": "5 Persons",
+            "value": "163717"
+          },
+          {
+            "key": "6 Persons",
+            "value": "71525"
+          },
+          {
+            "key": "7 Persons",
+            "value": "25064"
+          },
+          {
+            "key": "8 Or More Persons",
+            "value": "13601"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "No Family Nucleus",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "113831"
+          },
+          {
+            "key": "1 Person",
+            "value": "75389"
+          },
+          {
+            "key": "2 Persons",
+            "value": "27472"
+          },
+          {
+            "key": "3 Persons",
+            "value": "7078"
+          },
+          {
+            "key": "4 Persons",
+            "value": "2440"
+          },
+          {
+            "key": "5 Persons",
+            "value": "882"
+          },
+          {
+            "key": "6 Persons",
+            "value": "332"
+          },
+          {
+            "key": "7 Persons",
+            "value": "113"
+          },
+          {
+            "key": "8 Or More Persons",
+            "value": "126"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1",
+        "rowText": "One Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "75389"
+          },
+          {
+            "key": "1 Person",
+            "value": "75389"
+          },
+          {
+            "key": "2 Persons"
+          },
+          {
+            "key": "3 Persons"
+          },
+          {
+            "key": "4 Persons"
+          },
+          {
+            "key": "5 Persons"
+          },
+          {
+            "key": "6 Persons"
+          },
+          {
+            "key": "7 Persons"
+          },
+          {
+            "key": "8 Or More Persons"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.2",
+        "rowText": "Two Or More Persons",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "38442"
+          },
+          {
+            "key": "1 Person"
+          },
+          {
+            "key": "2 Persons",
+            "value": "27472"
+          },
+          {
+            "key": "3 Persons",
+            "value": "7078"
+          },
+          {
+            "key": "4 Persons",
+            "value": "2440"
+          },
+          {
+            "key": "5 Persons",
+            "value": "882"
+          },
+          {
+            "key": "6 Persons",
+            "value": "332"
+          },
+          {
+            "key": "7 Persons",
+            "value": "113"
+          },
+          {
+            "key": "8 Or More Persons",
+            "value": "126"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "One Family Nucleus",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "750119"
+          },
+          {
+            "key": "1 Person"
+          },
+          {
+            "key": "2 Persons",
+            "value": "129765"
+          },
+          {
+            "key": "3 Persons",
+            "value": "168048"
+          },
+          {
+            "key": "4 Persons",
+            "value": "224131"
+          },
+          {
+            "key": "5 Persons",
+            "value": "151202"
+          },
+          {
+            "key": "6 Persons",
+            "value": "57703"
+          },
+          {
+            "key": "7 Persons",
+            "value": "14462"
+          },
+          {
+            "key": "8 Or More Persons",
+            "value": "4808"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.1",
+        "rowText": "One Generation",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "97208"
+          },
+          {
+            "key": "1 Person"
+          },
+          {
+            "key": "2 Persons",
+            "value": "87560"
+          },
+          {
+            "key": "3 Persons",
+            "value": "7180"
+          },
+          {
+            "key": "4 Persons",
+            "value": "1693"
+          },
+          {
+            "key": "5 Persons",
+            "value": "464"
+          },
+          {
+            "key": "6 Persons",
+            "value": "214"
+          },
+          {
+            "key": "7 Persons",
+            "value": "50"
+          },
+          {
+            "key": "8 Or More Persons",
+            "value": "47"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.2",
+        "rowText": "Two Generations",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "593228"
+          },
+          {
+            "key": "1 Person"
+          },
+          {
+            "key": "2 Persons",
+            "value": "42195"
+          },
+          {
+            "key": "3 Persons",
+            "value": "157281"
+          },
+          {
+            "key": "4 Persons",
+            "value": "209262"
+          },
+          {
+            "key": "5 Persons",
+            "value": "130650"
+          },
+          {
+            "key": "6 Persons",
+            "value": "42258"
+          },
+          {
+            "key": "7 Persons",
+            "value": "8826"
+          },
+          {
+            "key": "8 Or More Persons",
+            "value": "2756"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.3",
+        "rowText": "Three Or More Generations",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "59683"
+          },
+          {
+            "key": "1 Person"
+          },
+          {
+            "key": "2 Persons",
+            "value": "9"
+          },
+          {
+            "key": "3 Persons",
+            "value": "3587"
+          },
+          {
+            "key": "4 Persons",
+            "value": "13177"
+          },
+          {
+            "key": "5 Persons",
+            "value": "20089"
+          },
+          {
+            "key": "6 Persons",
+            "value": "15230"
+          },
+          {
+            "key": "7 Persons",
+            "value": "5586"
+          },
+          {
+            "key": "8 Or More Persons",
+            "value": "2004"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Two Family Nuclei",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "49224"
+          },
+          {
+            "key": "1 Person"
+          },
+          {
+            "key": "2 Persons"
+          },
+          {
+            "key": "3 Persons"
+          },
+          {
+            "key": "4 Persons",
+            "value": "6859"
+          },
+          {
+            "key": "5 Persons",
+            "value": "11633"
+          },
+          {
+            "key": "6 Persons",
+            "value": "13324"
+          },
+          {
+            "key": "7 Persons",
+            "value": "10154"
+          },
+          {
+            "key": "8 Or More Persons",
+            "value": "7254"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "One Generation",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "201"
+          },
+          {
+            "key": "1 Person"
+          },
+          {
+            "key": "2 Persons"
+          },
+          {
+            "key": "3 Persons"
+          },
+          {
+            "key": "4 Persons",
+            "value": "163"
+          },
+          {
+            "key": "5 Persons",
+            "value": "38"
+          },
+          {
+            "key": "6 Persons"
+          },
+          {
+            "key": "7 Persons"
+          },
+          {
+            "key": "8 Or More Persons"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Two Generations",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "13607"
+          },
+          {
+            "key": "1 Person"
+          },
+          {
+            "key": "2 Persons"
+          },
+          {
+            "key": "3 Persons"
+          },
+          {
+            "key": "4 Persons",
+            "value": "5302"
+          },
+          {
+            "key": "5 Persons",
+            "value": "4312"
+          },
+          {
+            "key": "6 Persons",
+            "value": "2402"
+          },
+          {
+            "key": "7 Persons",
+            "value": "993"
+          },
+          {
+            "key": "8 Or More Persons",
+            "value": "598"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.3",
+        "rowText": "Three Or More Generations",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "35416"
+          },
+          {
+            "key": "1 Person"
+          },
+          {
+            "key": "2 Persons"
+          },
+          {
+            "key": "3 Persons"
+          },
+          {
+            "key": "4 Persons",
+            "value": "1394"
+          },
+          {
+            "key": "5 Persons",
+            "value": "7283"
+          },
+          {
+            "key": "6 Persons",
+            "value": "10922"
+          },
+          {
+            "key": "7 Persons",
+            "value": "9160"
+          },
+          {
+            "key": "8 Or More Persons",
+            "value": "6656"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Three Or More Family Nuclei",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1916"
+          },
+          {
+            "key": "1 Person"
+          },
+          {
+            "key": "2 Persons"
+          },
+          {
+            "key": "3 Persons"
+          },
+          {
+            "key": "4 Persons"
+          },
+          {
+            "key": "5 Persons"
+          },
+          {
+            "key": "6 Persons",
+            "value": "167"
+          },
+          {
+            "key": "7 Persons",
+            "value": "335"
+          },
+          {
+            "key": "8 Or More Persons",
+            "value": "1414"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.1",
+        "rowText": "One Or Two Generations",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "236"
+          },
+          {
+            "key": "1 Person"
+          },
+          {
+            "key": "2 Persons"
+          },
+          {
+            "key": "3 Persons"
+          },
+          {
+            "key": "4 Persons"
+          },
+          {
+            "key": "5 Persons"
+          },
+          {
+            "key": "6 Persons",
+            "value": "127"
+          },
+          {
+            "key": "7 Persons",
+            "value": "48"
+          },
+          {
+            "key": "8 Or More Persons",
+            "value": "61"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.2",
+        "rowText": "Three Or More Generations",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1680"
+          },
+          {
+            "key": "1 Person"
+          },
+          {
+            "key": "2 Persons"
+          },
+          {
+            "key": "3 Persons"
+          },
+          {
+            "key": "4 Persons"
+          },
+          {
+            "key": "5 Persons"
+          },
+          {
+            "key": "6 Persons",
+            "value": "40"
+          },
+          {
+            "key": "7 Persons",
+            "value": "288"
+          },
+          {
+            "key": "8 Or More Persons",
+            "value": "1353"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

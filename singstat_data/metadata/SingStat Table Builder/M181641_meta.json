@@ -1,0 +1,57 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Economy & Prices",
+      "subject": "Labour, Employment, Wages and Productivity",
+      "topic": "Employment",
+      "id": "M181641",
+      "groupTitle": "Labour Market Statistics",
+      "title": "Labour Market Statistics, Quarterly",
+      "frequency": "Quarterly",
+      "adjustmentType": "",
+      "dataSource": "MINISTRY OF MANPOWER",
+      "footnote": "",
+      "dataLastUpdated": "22/09/2026",
+      "startPeriod": "1992 1Q",
+      "endPeriod": "2026 2Q",
+      "total": 674,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Resident Unemployed Persons (Seasonally Adjusted)",
+          "uoM": "Thousand",
+          "footnote": "Residents refer to Singapore citizens and permanent residents.  The seasonally adjusted figures are derived using X-12 ARIMA to remove the seasonal influences in the data series.  The seasonally adjusted unemployment figures are subject to annual revisions when the latest set of seasonal factors is updated, taking into account observations for the latest available year."
+        },
+        {
+          "seriesNo": "2",
+          "rowText": "Job Vacancy To Unemployed Person Ratio (Seasonally Adjusted)",
+          "uoM": "Ratio",
+          "footnote": "Data on job vacancy to unemployed persons ratio has been adjusted to reflect the whole economy.  Seasonally adjusted data on Job Vacancy to Unemployed Person ratio for the preceding five years are revised every March using the latest set of seasonal factors.  The revision is done to take into account observations for the latest available year and is updated in line with standard seasonal adjustment procedure.  There is a break in the series.  A new methodology was introduced in Q1 2010 to improve the estimation of job vacancies.  Data spanning from 2006 to current have been revised using this methodology."
+        },
+        {
+          "seriesNo": "3",
+          "rowText": "Job Vacancy Rate",
+          "uoM": "Per Cent",
+          "footnote": "Job Vacancy Rate for a quarter is defined as the total number of job vacancies divided by the total demand for manpower at the end of the quarter.  The total demand for manpower is defined as the sum of the number of employees and job vacancies at the end of the quarter.  Before 2006, data on job vacancies pertain to private sector establishments each with at least 25 employees.  From 2006 onwards, data also include the public sector.  A new methodology was introduced in Q1 2010 to improve the estimation of job vacancies.  Data spanning back to 2006 have been revised using this methodology. "
+        },
+        {
+          "seriesNo": "4",
+          "rowText": "Overall Unemployed Persons (Non Seasonally Adjusted)",
+          "uoM": "Thousand",
+          "footnote": "Data were obtained from the General Household Survey (June 1995 and 2005) and Population Census (June 2000) conducted by the Singapore Department of Statistics, Ministry of Trade and Industry.  The Labour Force Survey was not conducted in these periods."
+        },
+        {
+          "seriesNo": "5",
+          "rowText": "Resident Unemployed Persons (Non Seasonally Adjusted)",
+          "uoM": "Thousand",
+          "footnote": "Residents refer to Singapore citizens and permanent residents.  Data were obtained from the General Household Survey (June 1995 and 2005) and Population Census (June 2000) conducted by the Singapore Department of Statistics, Ministry of Trade and Industry.  The Labour Force Survey was not conducted in these periods."
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

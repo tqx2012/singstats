@@ -1,0 +1,770 @@
+{
+  "Data": {
+    "theme": "Households",
+    "subject": "Household Expenditure",
+    "topic": "Household Expenditure Survey ",
+    "id": "D10068",
+    "tableType": null,
+    "groupTitle": null,
+    "title": "[Multi-Dimensional Data Cube] Monthly Household Expenditure Among Resident Households Comprising Solely Non-Employed Persons Aged 65 Years and Over by Type of Dwelling, 2002/03, 2007/08, 2012/13, 2017/18, 2023",
+    "frequency": "5 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "28/11/2024",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total 1/",
+        "uoM": "Number / $",
+        "footnote": "1/ 2002/03: Total includes other types of dwelling not shown, e.g. non-HDB shophouses.1/ 2007/08: Total includes other types of dwelling not shown, e.g. non-HDB shophouses.1/ 2012/13: Total includes other types of dwelling not shown, e.g. non-HDB shophouses.1/ 2017/18: Total includes other types of dwelling not shown, e.g. non-HDB shophouses.1/ 2023: Total includes other types of dwelling not shown, e.g. non-HDB shophouses.",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "131956"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "309995829"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "2349.2"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "82998"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "168638688"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "2031.8"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "60080"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "100064361"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1665.5"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "43334"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "52653246"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1215.1"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "28008"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "23914006"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "853.8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "HDB Dwellings 2/",
+        "uoM": "Number / $",
+        "footnote": "2/ 2002/03: Data prior to 2017/18 include non-privatised HUDC flats. As at 2017/18, all HUDC flats had been privatised and are grouped with Condominiums and Other Apartments.2/ 2007/08: Data prior to 2017/18 include non-privatised HUDC flats. As at 2017/18, all HUDC flats had been privatised and are grouped with Condominiums and Other Apartments.2/ 2012/13: Data prior to 2017/18 include non-privatised HUDC flats. As at 2017/18, all HUDC flats had been privatised and are grouped with Condominiums and Other Apartments.",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "109578"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "190709635"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1740.4"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "67523"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "94349431"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1397.3"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "49454"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "59214226"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1197.4"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "35831"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "32168166"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "897.8"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "23924"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "16531838"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "691"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "HDB 1- & 2-Room Flats",
+        "uoM": "Number / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "24196"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "31737609"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1311.7"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "14449"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "12881710"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "891.6"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "10677"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "8753894"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "819.9"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "9595"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "4713897"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "491.3"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "8474"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "3551924"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "419.1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "HDB 3-Room Flats",
+        "uoM": "Number / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "35634"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "54967195"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1542.5"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "21792"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "26340597"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1208.7"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "20537"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "20597025"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1002.9"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "13590"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "12642620"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "930.3"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "10316"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "7816502"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "757.7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "HDB 4-Room Flats",
+        "uoM": "Number / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "32197"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "58183627"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1807.1"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "19398"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "30173838"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1555.5"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "11662"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "16176595"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1387.1"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "8928"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "9422250"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1055.3"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "3579"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "3530902"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "986.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6",
+        "rowText": "HDB 5-Room & Executive Flats",
+        "uoM": "Number / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "17550"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "45821204"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "2610.8"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "11884"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "24953286"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "2099.8"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "6269"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "12532703"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1999.1"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "3717"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "5389400"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1449.9"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "1555"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "1632510"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1049.9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "7",
+        "rowText": "Condominiums & Other Apartments",
+        "uoM": "Number / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "14364"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "69785864"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "4858.2"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "7621"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "35870361"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "4706.9"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "5193"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "17667488"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "3402.4"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "2844"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "8711335"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "3063"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "1252"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "1810053"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "1445.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "8",
+        "rowText": "Landed Properties",
+        "uoM": "Number / $",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2023",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "7869"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "49062474"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "6235.1"
+              }
+            ]
+          },
+          {
+            "key": "2017/18",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "7627"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "37959962"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "4977.2"
+              }
+            ]
+          },
+          {
+            "key": "2012/13",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "5434"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "23182648"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "4266.5"
+              }
+            ]
+          },
+          {
+            "key": "2007/08",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "4509"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "11615409"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "2576.1"
+              }
+            ]
+          },
+          {
+            "key": "2002/03",
+            "columns": [
+              {
+                "key": "Number of Households (Number)",
+                "value": "2537"
+              },
+              {
+                "key": "Total Monthly Household Expenditure ($)",
+                "value": "5464673"
+              },
+              {
+                "key": "Average Monthly Household Expenditure ($)",
+                "value": "2154"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

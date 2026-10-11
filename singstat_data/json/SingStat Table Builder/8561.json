@@ -1,0 +1,863 @@
+{
+  "Data": {
+    "id": "8561",
+    "tableType": "Census of Population 2010",
+    "groupTitle": null,
+    "title": "Resident Households by Household Size, Marital Status and Sex of Head of Household",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "22/03/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1145920"
+              },
+              {
+                "key": "Males",
+                "value": "898196"
+              },
+              {
+                "key": "Females",
+                "value": "247724"
+              }
+            ]
+          },
+          {
+            "key": "Single",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "154249"
+              },
+              {
+                "key": "Males",
+                "value": "78089"
+              },
+              {
+                "key": "Females",
+                "value": "76160"
+              }
+            ]
+          },
+          {
+            "key": "Married",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "845127"
+              },
+              {
+                "key": "Males",
+                "value": "782448"
+              },
+              {
+                "key": "Females",
+                "value": "62679"
+              }
+            ]
+          },
+          {
+            "key": "Widowed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "79185"
+              },
+              {
+                "key": "Males",
+                "value": "14854"
+              },
+              {
+                "key": "Females",
+                "value": "64331"
+              }
+            ]
+          },
+          {
+            "key": "Divorced/Separated",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "67360"
+              },
+              {
+                "key": "Males",
+                "value": "22806"
+              },
+              {
+                "key": "Females",
+                "value": "44554"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "1 Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "139876"
+              },
+              {
+                "key": "Males",
+                "value": "68497"
+              },
+              {
+                "key": "Females",
+                "value": "71379"
+              }
+            ]
+          },
+          {
+            "key": "Single",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "80194"
+              },
+              {
+                "key": "Males",
+                "value": "40969"
+              },
+              {
+                "key": "Females",
+                "value": "39224"
+              }
+            ]
+          },
+          {
+            "key": "Married",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20836"
+              },
+              {
+                "key": "Males",
+                "value": "13619"
+              },
+              {
+                "key": "Females",
+                "value": "7217"
+              }
+            ]
+          },
+          {
+            "key": "Widowed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19597"
+              },
+              {
+                "key": "Males",
+                "value": "3765"
+              },
+              {
+                "key": "Females",
+                "value": "15832"
+              }
+            ]
+          },
+          {
+            "key": "Divorced/Separated",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19250"
+              },
+              {
+                "key": "Males",
+                "value": "10144"
+              },
+              {
+                "key": "Females",
+                "value": "9106"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "2 Persons",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "215005"
+              },
+              {
+                "key": "Males",
+                "value": "149632"
+              },
+              {
+                "key": "Females",
+                "value": "65373"
+              }
+            ]
+          },
+          {
+            "key": "Single",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "37178"
+              },
+              {
+                "key": "Males",
+                "value": "18615"
+              },
+              {
+                "key": "Females",
+                "value": "18564"
+              }
+            ]
+          },
+          {
+            "key": "Married",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "133999"
+              },
+              {
+                "key": "Males",
+                "value": "121023"
+              },
+              {
+                "key": "Females",
+                "value": "12976"
+              }
+            ]
+          },
+          {
+            "key": "Widowed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24703"
+              },
+              {
+                "key": "Males",
+                "value": "4263"
+              },
+              {
+                "key": "Females",
+                "value": "20440"
+              }
+            ]
+          },
+          {
+            "key": "Divorced/Separated",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19124"
+              },
+              {
+                "key": "Males",
+                "value": "5731"
+              },
+              {
+                "key": "Females",
+                "value": "13393"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "3 Persons",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "231351"
+              },
+              {
+                "key": "Males",
+                "value": "180722"
+              },
+              {
+                "key": "Females",
+                "value": "50629"
+              }
+            ]
+          },
+          {
+            "key": "Single",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20692"
+              },
+              {
+                "key": "Males",
+                "value": "10441"
+              },
+              {
+                "key": "Females",
+                "value": "10251"
+              }
+            ]
+          },
+          {
+            "key": "Married",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "178004"
+              },
+              {
+                "key": "Males",
+                "value": "163440"
+              },
+              {
+                "key": "Females",
+                "value": "14564"
+              }
+            ]
+          },
+          {
+            "key": "Widowed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17870"
+              },
+              {
+                "key": "Males",
+                "value": "3404"
+              },
+              {
+                "key": "Females",
+                "value": "14466"
+              }
+            ]
+          },
+          {
+            "key": "Divorced/Separated",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14785"
+              },
+              {
+                "key": "Males",
+                "value": "3437"
+              },
+              {
+                "key": "Females",
+                "value": "11348"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "4 Persons",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "263944"
+              },
+              {
+                "key": "Males",
+                "value": "232441"
+              },
+              {
+                "key": "Females",
+                "value": "31502"
+              }
+            ]
+          },
+          {
+            "key": "Single",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9423"
+              },
+              {
+                "key": "Males",
+                "value": "4858"
+              },
+              {
+                "key": "Females",
+                "value": "4565"
+              }
+            ]
+          },
+          {
+            "key": "Married",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "237249"
+              },
+              {
+                "key": "Males",
+                "value": "223848"
+              },
+              {
+                "key": "Females",
+                "value": "13402"
+              }
+            ]
+          },
+          {
+            "key": "Widowed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9075"
+              },
+              {
+                "key": "Males",
+                "value": "1789"
+              },
+              {
+                "key": "Females",
+                "value": "7286"
+              }
+            ]
+          },
+          {
+            "key": "Divorced/Separated",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8196"
+              },
+              {
+                "key": "Males",
+                "value": "1946"
+              },
+              {
+                "key": "Females",
+                "value": "6250"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "5 Persons",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "167993"
+              },
+              {
+                "key": "Males",
+                "value": "151938"
+              },
+              {
+                "key": "Females",
+                "value": "16055"
+              }
+            ]
+          },
+          {
+            "key": "Single",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3768"
+              },
+              {
+                "key": "Males",
+                "value": "1747"
+              },
+              {
+                "key": "Females",
+                "value": "2021"
+              }
+            ]
+          },
+          {
+            "key": "Married",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "156197"
+              },
+              {
+                "key": "Males",
+                "value": "148312"
+              },
+              {
+                "key": "Females",
+                "value": "7886"
+              }
+            ]
+          },
+          {
+            "key": "Widowed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4246"
+              },
+              {
+                "key": "Males",
+                "value": "904"
+              },
+              {
+                "key": "Females",
+                "value": "3342"
+              }
+            ]
+          },
+          {
+            "key": "Divorced/Separated",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3781"
+              },
+              {
+                "key": "Males",
+                "value": "975"
+              },
+              {
+                "key": "Females",
+                "value": "2806"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "6 Persons",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "78203"
+              },
+              {
+                "key": "Males",
+                "value": "70547"
+              },
+              {
+                "key": "Females",
+                "value": "7656"
+              }
+            ]
+          },
+          {
+            "key": "Single",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1794"
+              },
+              {
+                "key": "Males",
+                "value": "844"
+              },
+              {
+                "key": "Females",
+                "value": "950"
+              }
+            ]
+          },
+          {
+            "key": "Married",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "72966"
+              },
+              {
+                "key": "Males",
+                "value": "68950"
+              },
+              {
+                "key": "Females",
+                "value": "4017"
+              }
+            ]
+          },
+          {
+            "key": "Widowed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2087"
+              },
+              {
+                "key": "Males",
+                "value": "446"
+              },
+              {
+                "key": "Females",
+                "value": "1641"
+              }
+            ]
+          },
+          {
+            "key": "Divorced/Separated",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1355"
+              },
+              {
+                "key": "Males",
+                "value": "307"
+              },
+              {
+                "key": "Females",
+                "value": "1048"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "7 Persons",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30857"
+              },
+              {
+                "key": "Males",
+                "value": "27829"
+              },
+              {
+                "key": "Females",
+                "value": "3027"
+              }
+            ]
+          },
+          {
+            "key": "Single",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "672"
+              },
+              {
+                "key": "Males",
+                "value": "345"
+              },
+              {
+                "key": "Females",
+                "value": "326"
+              }
+            ]
+          },
+          {
+            "key": "Married",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28751"
+              },
+              {
+                "key": "Males",
+                "value": "27147"
+              },
+              {
+                "key": "Females",
+                "value": "1604"
+              }
+            ]
+          },
+          {
+            "key": "Widowed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "908"
+              },
+              {
+                "key": "Males",
+                "value": "177"
+              },
+              {
+                "key": "Females",
+                "value": "731"
+              }
+            ]
+          },
+          {
+            "key": "Divorced/Separated",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "526"
+              },
+              {
+                "key": "Males",
+                "value": "160"
+              },
+              {
+                "key": "Females",
+                "value": "366"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "8 Or More Persons",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18692"
+              },
+              {
+                "key": "Males",
+                "value": "16590"
+              },
+              {
+                "key": "Females",
+                "value": "2102"
+              }
+            ]
+          },
+          {
+            "key": "Single",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "527"
+              },
+              {
+                "key": "Males",
+                "value": "269"
+              },
+              {
+                "key": "Females",
+                "value": "258"
+              }
+            ]
+          },
+          {
+            "key": "Married",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17124"
+              },
+              {
+                "key": "Males",
+                "value": "16110"
+              },
+              {
+                "key": "Females",
+                "value": "1014"
+              }
+            ]
+          },
+          {
+            "key": "Widowed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "698"
+              },
+              {
+                "key": "Males",
+                "value": "105"
+              },
+              {
+                "key": "Females",
+                "value": "593"
+              }
+            ]
+          },
+          {
+            "key": "Divorced/Separated",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "343"
+              },
+              {
+                "key": "Males",
+                "value": "106"
+              },
+              {
+                "key": "Females",
+                "value": "237"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

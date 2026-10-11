@@ -1,0 +1,2784 @@
+{
+  "Data": {
+    "id": "8946",
+    "tableType": "Census of Population 2000",
+    "groupTitle": null,
+    "title": "Resident Working Persons Aged 15 Years and Over by Monthly Income from Work, Industry and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data on income from work have been updated to include Additional MediSave Contributions from employers with the release of the Key Household Income Trends 2025 report in February 2026. For more information, you may refer to the Technical Note on Household Income (https://go.gov.sg/khit2025-tech-note) which explains the concepts and components of our household income coverage.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "09/07/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Economic Characteristics",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1482579"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "391674"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "289661"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "90894"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "11119"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1090905"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "253673"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "93184"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "178038"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "87156"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "191236"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "287619"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "889482"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "261743"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "176451"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "76313"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "8979"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "627739"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "148140"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "47409"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "132810"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "34846"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "108856"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "155678"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "593097"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "129930"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "113210"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "14581"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "2140"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "463166"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "105532"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "45775"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "45228"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "52310"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "82379"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "131941"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Below 500",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "50037"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "2405"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "1523"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "805"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "77"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "47632"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "3451"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "4967"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "1162"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "171"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "1812"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "36069"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "39074"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1104"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "374"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "691"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "39"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "37971"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "1158"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "1338"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "832"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "48"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "755"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "33840"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10962"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1301"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "1149"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "113"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "38"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "9662"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "2293"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "3629"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "330"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "123"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "1058"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "2229"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "500 - 999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "99398"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "21919"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "14526"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "6938"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "456"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "77480"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "15938"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "19140"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "10485"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "773"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "13303"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "17840"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "47338"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "9912"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "3685"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "5864"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "363"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "37426"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "7190"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "6705"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "8736"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "312"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "6897"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "7586"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "52060"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "12007"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "10841"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "1073"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "92"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "40054"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "8748"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "12435"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "1749"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "460"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "6406"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "10254"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "1,000 - 1,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "196190"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "53869"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "39441"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "13319"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "1109"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "142321"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "38849"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "24131"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "24929"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "3247"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "18677"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "32489"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "100629"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "25808"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "13587"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "11399"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "822"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "74821"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "18776"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "10862"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "21070"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "1027"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "11615"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "11471"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "95561"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "28061"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "25855"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "1919"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "287"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "67500"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "20073"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "13269"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "3859"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "2220"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "7061"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "21018"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "1,500 - 1,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "206070"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "56370"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "41555"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "13506"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "1309"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "149700"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "43716"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "15574"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "29983"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "6597"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "21096"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "32734"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "114911"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "32500"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "20481"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "11002"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "1017"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "82410"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "24459"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "8792"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "23182"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "1883"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "10873"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "13220"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "91159"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "23869"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "21074"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "2503"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "292"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "67290"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "19257"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "6781"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "6801"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "4713"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "10223"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "19514"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "2,000 - 2,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "341592"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "93423"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "66948"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "23787"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "2689"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "248169"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "62086"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "16835"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "48846"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "19981"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "42251"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "58169"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "197616"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "63002"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "41406"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "19427"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "2169"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "134613"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "35871"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "10792"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "33966"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "5618"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "20939"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "27428"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "143976"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "30421"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "25542"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "4360"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "520"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "113555"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "26215"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "6043"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "14881"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "14364"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "21312"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "30741"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "3,000 - 3,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "225933"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "65638"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "48562"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "14928"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "2148"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "160295"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "35659"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "7045"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "29229"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "15079"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "32182"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "41103"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "141623"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "49731"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "35444"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "12586"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "1702"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "91892"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "22156"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "4887"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "20123"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "5299"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "17263"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "22164"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "84310"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "15906"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "13118"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "2342"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "446"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "68404"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "13503"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "2158"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "9106"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "9779"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "14919"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "18939"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "4,000 - 4,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "117088"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "34503"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "26501"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "6969"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "1033"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "82585"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "17256"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "2198"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "13164"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "10507"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "18148"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "21313"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "74949"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "26942"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "20178"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "5890"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "875"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "48007"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "11162"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "1548"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "9117"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "3797"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "10424"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "11959"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "42139"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "7561"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "6324"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "1079"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "158"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "34579"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "6094"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "650"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "4047"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "6710"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "7724"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "9354"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "5,000 - 5,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "72640"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "20768"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "15989"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "3972"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "807"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "51872"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "10840"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "1208"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "6655"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "6860"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "12255"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "14055"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "48577"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "16911"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "12734"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "3492"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "684"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "31666"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "7688"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "908"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "4809"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "2862"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "7993"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "7407"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24062"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "3857"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "3254"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "480"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "123"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "20206"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "3152"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "300"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "1846"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "3998"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "4262"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "6648"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.9",
+        "rowText": "6,000 - 6,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "48440"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "13244"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "10329"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "2358"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "557"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "35196"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "7392"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "690"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "3523"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "4721"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "8413"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "10458"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "32074"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "10786"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "8245"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "2060"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "481"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "21288"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "5287"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "483"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "2563"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "2028"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "5379"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "5548"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16366"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "2458"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "2083"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "298"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "76"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "13908"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "2105"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "207"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "959"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "2693"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "3033"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "4910"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.10",
+        "rowText": "7,000 - 7,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30932"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "8053"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "6564"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "1322"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "167"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "22879"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "4144"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "395"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "2527"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "3269"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "5345"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "7198"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21063"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "6607"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "5293"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "1168"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "147"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "14456"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "3069"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "317"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "2009"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "1652"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "3591"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "3818"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9869"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1446"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "1271"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "155"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "21"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "8423"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "1076"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "78"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "518"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "1618"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "1754"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "3380"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.11",
+        "rowText": "8,000 - 8,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22143"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "5118"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "4134"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "843"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "141"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "17025"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "3316"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "232"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "1653"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "2598"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "3949"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "5278"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15691"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "4279"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "3410"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "762"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "107"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "11412"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "2541"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "175"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "1328"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "1361"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "2771"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "3237"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6451"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "838"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "724"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "81"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "33"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "5613"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "775"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "57"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "325"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "1237"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "1178"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "2041"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.12",
+        "rowText": "9,000 - 9,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15035"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "3692"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "3076"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "476"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "141"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "11342"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "2374"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "160"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "1272"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "2037"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "2809"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "2691"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10868"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "3066"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "2521"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "418"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "127"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "7802"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "1809"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "112"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "1043"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "1130"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "1933"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "1774"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4167"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "626"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "555"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "57"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "14"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "3540"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "564"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "48"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "230"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "907"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "875"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "916"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.13",
+        "rowText": "10,000 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "57081"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "12674"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "10514"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "1674"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "486"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "44408"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "8652"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "609"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "4609"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "11316"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "10997"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "8224"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45068"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "11094"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "9093"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "1554"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "446"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "33974"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "6974"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "490"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "4032"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "7829"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "8424"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "6227"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12013"
+              },
+              {
+                "key": "Goods Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1580"
+                  },
+                  {
+                    "key": "Manufacturing",
+                    "value": "1420"
+                  },
+                  {
+                    "key": "Construction",
+                    "value": "120"
+                  },
+                  {
+                    "key": "Other Goods Industries^",
+                    "value": "40"
+                  }
+                ]
+              },
+              {
+                "key": "Services Producing Industries",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "10433"
+                  },
+                  {
+                    "key": "Wholesale & Retail Trade",
+                    "value": "1679"
+                  },
+                  {
+                    "key": "Hotels & Restaurants",
+                    "value": "119"
+                  },
+                  {
+                    "key": "Transport & Communications",
+                    "value": "577"
+                  },
+                  {
+                    "key": "Financial Services",
+                    "value": "3488"
+                  },
+                  {
+                    "key": "Business Services",
+                    "value": "2573"
+                  },
+                  {
+                    "key": "Other Services Industries",
+                    "value": "1997"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

@@ -1,0 +1,100 @@
+{
+  "Data": {
+    "theme": "Industry",
+    "subject": "Finance and Insurance",
+    "topic": "Money and Banking",
+    "id": "M701201",
+    "groupTitle": null,
+    "title": "Proportion Of Adults Aged 15 Years And Above With An Account At A Financial Institution Or Mobile-Money-Service Provider By Sex, Triennial",
+    "frequency": "Triennial",
+    "adjustmentType": null,
+    "datasource": "GLOBAL SDG INDICATORS DATABASE",
+    "footnote": "Data are collected every 3 years. Surveying for 2020 was delayed to 2021 due to COVID-19 restrictions. Data are used for SDG 8.10.2 'Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider'. Please refer to the Sustainable Development Goals (SDG) Global Metadata (https://unstats.un.org/sdgs/metadata) for more information on SDG 8.10.2.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "13/01/2025",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "sortBy": null,
+    "timeFilter": null,
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "seriesNo": "1",
+        "rowText": "Total",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2011",
+            "value": "98.2"
+          },
+          {
+            "key": "2014",
+            "value": "96.4"
+          },
+          {
+            "key": "2017",
+            "value": "97.9"
+          },
+          {
+            "key": "2021",
+            "value": "97.5"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.1",
+        "rowText": "Males",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2011",
+            "value": "98.2"
+          },
+          {
+            "key": "2014",
+            "value": "96.6"
+          },
+          {
+            "key": "2017",
+            "value": "99.7"
+          },
+          {
+            "key": "2021",
+            "value": "98.3"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.2",
+        "rowText": "Females",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2011",
+            "value": "98.2"
+          },
+          {
+            "key": "2014",
+            "value": "96.1"
+          },
+          {
+            "key": "2017",
+            "value": "96.3"
+          },
+          {
+            "key": "2021",
+            "value": "96.9"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

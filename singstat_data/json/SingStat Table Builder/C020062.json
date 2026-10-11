@@ -1,0 +1,956 @@
+{
+  "Data": {
+    "id": "C020062",
+    "tableType": "General Household Survey 2025",
+    "groupTitle": null,
+    "title": "Employed Residents Aged 15 Years and Over by Occupation, Ethnic Group and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: Data has been rounded to the nearest 100 and may not add up due to rounding.\n‘ - ’ denotes Nil or negligible. Users are advised to exercise caution when drawing inferences from survey estimates with small sample sizes or those denoted as ‘ - ’, as these estimates are based on a sample survey and subject to sampling variability. For more information, refer to the write up on the GHS 2025 Sample Design and Sampling Variability (https://go.gov.sg/ghs2025-sample-design-and-variability). ",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Economic Characteristics",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2379300"
+              },
+              {
+                "key": "Males",
+                "value": "1244800"
+              },
+              {
+                "key": "Females",
+                "value": "1134500"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1793800"
+              },
+              {
+                "key": "Males",
+                "value": "922200"
+              },
+              {
+                "key": "Females",
+                "value": "871600"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "279700"
+              },
+              {
+                "key": "Males",
+                "value": "157600"
+              },
+              {
+                "key": "Females",
+                "value": "122100"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "215000"
+              },
+              {
+                "key": "Males",
+                "value": "124400"
+              },
+              {
+                "key": "Females",
+                "value": "90700"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "90800"
+              },
+              {
+                "key": "Males",
+                "value": "40700"
+              },
+              {
+                "key": "Females",
+                "value": "50100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Legislators, Senior Officials & Managers",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "406800"
+              },
+              {
+                "key": "Males",
+                "value": "245500"
+              },
+              {
+                "key": "Females",
+                "value": "161300"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "334600"
+              },
+              {
+                "key": "Males",
+                "value": "195400"
+              },
+              {
+                "key": "Females",
+                "value": "139200"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11100"
+              },
+              {
+                "key": "Males",
+                "value": "6900"
+              },
+              {
+                "key": "Females",
+                "value": "4200"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "40200"
+              },
+              {
+                "key": "Males",
+                "value": "29200"
+              },
+              {
+                "key": "Females",
+                "value": "11100"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20900"
+              },
+              {
+                "key": "Males",
+                "value": "14000"
+              },
+              {
+                "key": "Females",
+                "value": "6900"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Professionals",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "625100"
+              },
+              {
+                "key": "Males",
+                "value": "313400"
+              },
+              {
+                "key": "Females",
+                "value": "311600"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "491700"
+              },
+              {
+                "key": "Males",
+                "value": "243000"
+              },
+              {
+                "key": "Females",
+                "value": "248700"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "42400"
+              },
+              {
+                "key": "Males",
+                "value": "22300"
+              },
+              {
+                "key": "Females",
+                "value": "20100"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "60900"
+              },
+              {
+                "key": "Males",
+                "value": "33400"
+              },
+              {
+                "key": "Females",
+                "value": "27500"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30000"
+              },
+              {
+                "key": "Males",
+                "value": "14800"
+              },
+              {
+                "key": "Females",
+                "value": "15200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Associate Professionals & Technicians",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "496100"
+              },
+              {
+                "key": "Males",
+                "value": "237900"
+              },
+              {
+                "key": "Females",
+                "value": "258200"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "359200"
+              },
+              {
+                "key": "Males",
+                "value": "165700"
+              },
+              {
+                "key": "Females",
+                "value": "193500"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "76800"
+              },
+              {
+                "key": "Males",
+                "value": "43400"
+              },
+              {
+                "key": "Females",
+                "value": "33500"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44500"
+              },
+              {
+                "key": "Males",
+                "value": "23500"
+              },
+              {
+                "key": "Females",
+                "value": "21000"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15600"
+              },
+              {
+                "key": "Males",
+                "value": "5400"
+              },
+              {
+                "key": "Females",
+                "value": "10200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Clerical Support Workers",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "201100"
+              },
+              {
+                "key": "Males",
+                "value": "51400"
+              },
+              {
+                "key": "Females",
+                "value": "149700"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "143000"
+              },
+              {
+                "key": "Males",
+                "value": "37700"
+              },
+              {
+                "key": "Females",
+                "value": "105300"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34600"
+              },
+              {
+                "key": "Males",
+                "value": "8000"
+              },
+              {
+                "key": "Females",
+                "value": "26600"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18400"
+              },
+              {
+                "key": "Males",
+                "value": "5000"
+              },
+              {
+                "key": "Females",
+                "value": "13400"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5100"
+              },
+              {
+                "key": "Males",
+                "value": "600"
+              },
+              {
+                "key": "Females",
+                "value": "4500"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "Service & Sales Workers",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "247200"
+              },
+              {
+                "key": "Males",
+                "value": "109900"
+              },
+              {
+                "key": "Females",
+                "value": "137300"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "170500"
+              },
+              {
+                "key": "Males",
+                "value": "73700"
+              },
+              {
+                "key": "Females",
+                "value": "96800"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "42700"
+              },
+              {
+                "key": "Males",
+                "value": "21900"
+              },
+              {
+                "key": "Females",
+                "value": "20800"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22900"
+              },
+              {
+                "key": "Males",
+                "value": "12400"
+              },
+              {
+                "key": "Females",
+                "value": "10600"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11100"
+              },
+              {
+                "key": "Males",
+                "value": "1900"
+              },
+              {
+                "key": "Females",
+                "value": "9200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "Craftsmen & Related Trades Workers",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "51700"
+              },
+              {
+                "key": "Males",
+                "value": "43400"
+              },
+              {
+                "key": "Females",
+                "value": "8300"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "39400"
+              },
+              {
+                "key": "Males",
+                "value": "33200"
+              },
+              {
+                "key": "Females",
+                "value": "6300"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8400"
+              },
+              {
+                "key": "Males",
+                "value": "7200"
+              },
+              {
+                "key": "Females",
+                "value": "1100"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3500"
+              },
+              {
+                "key": "Males",
+                "value": "2800"
+              },
+              {
+                "key": "Females",
+                "value": "700"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "400"
+              },
+              {
+                "key": "Males",
+                "value": "200"
+              },
+              {
+                "key": "Females",
+                "value": "200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "Plant & Machine Operators & Assemblers",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "128900"
+              },
+              {
+                "key": "Males",
+                "value": "117000"
+              },
+              {
+                "key": "Females",
+                "value": "12000"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "92700"
+              },
+              {
+                "key": "Males",
+                "value": "83600"
+              },
+              {
+                "key": "Females",
+                "value": "9100"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27200"
+              },
+              {
+                "key": "Males",
+                "value": "25200"
+              },
+              {
+                "key": "Females",
+                "value": "2100"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7500"
+              },
+              {
+                "key": "Males",
+                "value": "7000"
+              },
+              {
+                "key": "Females",
+                "value": "500"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1500"
+              },
+              {
+                "key": "Males",
+                "value": "1200"
+              },
+              {
+                "key": "Females",
+                "value": "300"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "Cleaners, Labourers & Related Workers",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "167700"
+              },
+              {
+                "key": "Males",
+                "value": "74000"
+              },
+              {
+                "key": "Females",
+                "value": "93700"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "123300"
+              },
+              {
+                "key": "Males",
+                "value": "52600"
+              },
+              {
+                "key": "Females",
+                "value": "70700"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29600"
+              },
+              {
+                "key": "Males",
+                "value": "15800"
+              },
+              {
+                "key": "Females",
+                "value": "13800"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10600"
+              },
+              {
+                "key": "Males",
+                "value": "4900"
+              },
+              {
+                "key": "Females",
+                "value": "5700"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4200"
+              },
+              {
+                "key": "Males",
+                "value": "700"
+              },
+              {
+                "key": "Females",
+                "value": "3500"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.9",
+        "rowText": "Others1/",
+        "uoM": "Number",
+        "footnote": "1/ Include Agricultural & Fishery Workers and Workers Not Elsewhere Classified.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "54700"
+              },
+              {
+                "key": "Males",
+                "value": "52300"
+              },
+              {
+                "key": "Females",
+                "value": "2300"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "39400"
+              },
+              {
+                "key": "Males",
+                "value": "37300"
+              },
+              {
+                "key": "Females",
+                "value": "2100"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6900"
+              },
+              {
+                "key": "Males",
+                "value": "6900"
+              },
+              {
+                "key": "Females",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6400"
+              },
+              {
+                "key": "Males",
+                "value": "6300"
+              },
+              {
+                "key": "Females",
+                "value": "100"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2000"
+              },
+              {
+                "key": "Males",
+                "value": "1900"
+              },
+              {
+                "key": "Females",
+                "value": "100"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

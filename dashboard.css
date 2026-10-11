@@ -1,0 +1,1489 @@
+/* ==========================================================================
+   SINGSTAT EXECUTIVE BI STUDIO
+   Google Store Look & Feel (Clean White Aesthetic & Material You Design)
+   ========================================================================== */
+
+:root,
+[data-theme="light"] {
+  /* Google Store Clean White Palette */
+  --bg-primary: #ffffff;
+  --bg-secondary: #ffffff;
+  --bg-subtle: #f8f9fa;
+  --bg-tertiary: #f1f3f4;
+  --bg-card: #ffffff;
+  --bg-hover: #f1f3f4;
+  --bg-active: #e8f0fe;
+
+  /* Google Borders & Outlines */
+  --border-color: #e8eaed;
+  --border-light: #dadce0;
+  --border-focus: #1a73e8;
+
+  /* Google High-Legibility Typography */
+  --text-primary: #202124;
+  --text-secondary: #5f6368;
+  --text-muted: #80868b;
+  --text-inverse: #ffffff;
+
+  /* Google Store Signature Accents */
+  --google-blue: #1a73e8;
+  --google-blue-hover: #1557b0;
+  --google-red: #ea4335;
+  --google-yellow: #f9ab00;
+  --google-green: #34a853;
+
+  /* Dimension Pills (Google Blue Pastels) */
+  --accent-dim: #1967d2;
+  --accent-dim-bg: #e8f0fe;
+  --accent-dim-border: #d2e3fc;
+
+  /* Measure Pills (Google Green Pastels) */
+  --accent-meas: #137333;
+  --accent-meas-bg: #e6f4ea;
+  --accent-meas-border: #ceead6;
+
+  /* Filter Pills (Google Amber Pastels) */
+  --accent-filt: #b06000;
+  --accent-filt-bg: #fef7e0;
+  --accent-filt-border: #feefc3;
+
+  /* Primary Button / Highlight */
+  --accent-primary: #1a73e8;
+  --accent-primary-hover: #1557b0;
+  --accent-color: #1a73e8;
+
+  /* Alert & Status Badges */
+  --danger: #d93025;
+  --danger-bg: #fce8e6;
+  --danger-border: #fad2cf;
+  --warning: #b06000;
+  --warning-bg: #fef7e0;
+  --warning-border: #feefc3;
+  --safe: #137333;
+  --safe-bg: #e6f4ea;
+  --safe-border: #ceead6;
+
+  /* Google Store Elevation & Shadows */
+  --shadow-xs: 0 1px 2px 0 rgba(60, 64, 67, 0.08);
+  --shadow-sm: 0 1px 3px 0 rgba(60, 64, 67, 0.1), 0 1px 2px 0 rgba(60, 64, 67, 0.06);
+  --shadow-md: 0 1px 3px 0 rgba(60, 64, 67, 0.12), 0 4px 12px 0 rgba(60, 64, 67, 0.08);
+  --shadow-card: 0 1px 3px 0 rgba(60, 64, 67, 0.06), 0 4px 16px 0 rgba(60, 64, 67, 0.04);
+  --shadow-hover: 0 2px 8px 0 rgba(60, 64, 67, 0.12), 0 8px 24px 2px rgba(60, 64, 67, 0.08);
+  --shadow-modal: 0 12px 40px 0 rgba(60, 64, 67, 0.2);
+
+  /* Google Pill Curves */
+  --radius-pill: 9999px;
+  --radius-xs: 6px;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-card: 22px;
+  --radius-modal: 28px;
+
+  /* Easing */
+  --transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Dark Mode Alternate (Google Material Dark standard) */
+[data-theme="dark"] {
+  --bg-primary: #121212;
+  --bg-secondary: #1e1e1e;
+  --bg-subtle: #181818;
+  --bg-tertiary: #2d2d2d;
+  --bg-card: #1e1e1e;
+  --bg-hover: #2d2d2d;
+  --bg-active: #1e3a5f;
+
+  --border-color: #2e2e2e;
+  --border-light: #3d3d3d;
+  --border-focus: #8ab4f8;
+
+  --text-primary: #e8eaed;
+  --text-secondary: #9aa0a6;
+  --text-muted: #5f6368;
+  --text-inverse: #202124;
+
+  --google-blue: #8ab4f8;
+  --google-blue-hover: #aecbfa;
+  --google-red: #f28b82;
+  --google-yellow: #fdd663;
+  --google-green: #81c995;
+
+  --accent-dim: #8ab4f8;
+  --accent-dim-bg: rgba(138, 180, 248, 0.15);
+  --accent-dim-border: rgba(138, 180, 248, 0.35);
+
+  --accent-meas: #81c995;
+  --accent-meas-bg: rgba(129, 201, 149, 0.15);
+  --accent-meas-border: rgba(129, 201, 149, 0.35);
+
+  --accent-filt: #fdd663;
+  --accent-filt-bg: rgba(253, 214, 99, 0.15);
+  --accent-filt-border: rgba(253, 214, 99, 0.35);
+
+  --accent-primary: #8ab4f8;
+  --accent-primary-hover: #aecbfa;
+  --accent-color: #8ab4f8;
+
+  --danger: #f28b82;
+  --danger-bg: rgba(242, 139, 130, 0.15);
+  --danger-border: rgba(242, 139, 130, 0.35);
+
+  --warning: #fdd663;
+  --warning-bg: rgba(253, 214, 99, 0.15);
+  --warning-border: rgba(253, 214, 99, 0.35);
+
+  --safe: #81c995;
+  --safe-bg: rgba(129, 201, 149, 0.15);
+  --safe-border: rgba(129, 201, 149, 0.35);
+
+  --shadow-xs: 0 1px 2px 0 rgba(0, 0, 0, 0.4);
+  --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.5);
+  --shadow-md: 0 4px 12px 0 rgba(0, 0, 0, 0.5);
+  --shadow-card: 0 4px 16px 0 rgba(0, 0, 0, 0.4);
+  --shadow-hover: 0 8px 24px 2px rgba(0, 0, 0, 0.6);
+  --shadow-modal: 0 16px 48px 0 rgba(0, 0, 0, 0.8);
+}
+
+/* ==========================================================================
+   BASE & RESET
+   ========================================================================== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Google Sans Text', 'Google Sans', Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  user-select: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom Google Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-light);
+  border-radius: var(--radius-pill);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* ==========================================================================
+   TOP APP HEADER (Google Store Style Bar)
+   ========================================================================== */
+.app-header {
+  height: 64px;
+  background-color: var(--bg-primary);
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  z-index: 50;
+  box-shadow: var(--shadow-xs);
+  flex-shrink: 0;
+}
+
+.brand-section {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.brand-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  background: linear-gradient(135deg, #ea4335 0%, #d93025 100%);
+  color: #ffffff;
+  font-weight: 700;
+  font-family: 'Google Sans', Roboto, sans-serif;
+  border-radius: 12px;
+  font-size: 14px;
+  letter-spacing: -0.2px;
+  box-shadow: 0 2px 6px rgba(234, 67, 53, 0.28);
+}
+
+.brand-title {
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: -0.2px;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.brand-title span.sub {
+  font-family: 'Google Sans Text', Roboto, sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 10px;
+  background: var(--accent-dim-bg);
+  color: var(--google-blue);
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--accent-dim-border);
+  letter-spacing: 0.2px;
+}
+
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Google Store Pill Selectors */
+.dataset-select-wrap {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--bg-subtle);
+  padding: 5px 12px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-color);
+  transition: var(--transition);
+}
+
+.dataset-select-wrap:hover,
+.dataset-select-wrap:focus-within {
+  border-color: var(--border-light);
+  background: var(--bg-primary);
+  box-shadow: var(--shadow-sm);
+}
+
+.dataset-select-wrap label {
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  font-family: 'Google Sans Text', Roboto, sans-serif;
+}
+
+.dataset-select-wrap select {
+  background: transparent;
+  border: none;
+  color: var(--text-primary);
+  font-size: 12px;
+  font-weight: 600;
+  font-family: 'Google Sans Text', Roboto, sans-serif;
+  outline: none;
+  cursor: pointer;
+  max-width: 210px;
+}
+
+.dataset-select-wrap select option {
+  background: var(--bg-card);
+  color: var(--text-primary);
+}
+
+.dataset-select-wrap select optgroup {
+  font-weight: 700;
+  color: var(--text-secondary);
+}
+
+/* Google Store Pill Action Buttons */
+.btn-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  padding: 6px 12px;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: 'Google Sans', 'Google Sans Text', Roboto, sans-serif;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-light);
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: var(--transition);
+  white-space: nowrap;
+}
+
+.btn:hover {
+  background: var(--bg-hover);
+  border-color: var(--google-blue);
+  color: var(--google-blue);
+  box-shadow: var(--shadow-xs);
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
+/* Primary Action Pill (Google Store Solid Blue) */
+.btn-primary {
+  background: var(--google-blue);
+  border-color: var(--google-blue);
+  color: #ffffff;
+  font-weight: 600;
+  box-shadow: 0 1px 3px rgba(26, 115, 232, 0.25);
+}
+
+.btn-primary:hover {
+  background: var(--google-blue-hover);
+  border-color: var(--google-blue-hover);
+  color: #ffffff;
+  box-shadow: 0 2px 8px rgba(26, 115, 232, 0.35);
+}
+
+.btn-icon {
+  padding: 6px 10px;
+}
+
+/* Google Store Featured Story Hub Pill */
+.btn-story-hub {
+  background: var(--accent-dim-bg);
+  border: 1px solid var(--accent-dim-border);
+  color: var(--google-blue);
+  font-weight: 600;
+  padding: 7px 18px;
+  box-shadow: var(--shadow-xs);
+}
+
+.btn-story-hub:hover {
+  background: var(--google-blue);
+  border-color: var(--google-blue);
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(26, 115, 232, 0.25);
+  transform: translateY(-1px);
+}
+
+/* ==========================================================================
+   MAIN APP LAYOUT
+   ========================================================================== */
+.app-body {
+  flex: 1;
+  display: flex;
+  overflow: hidden;
+  background: var(--bg-subtle);
+}
+
+/* ==========================================================================
+   SIDEBAR: FIELD PALETTE (Google Store Minimalist Clean Panel)
+   ========================================================================== */
+.sidebar {
+  width: 280px;
+  background: var(--bg-primary);
+  border-right: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  transition: width 0.25s ease;
+  flex-shrink: 0;
+}
+
+.sidebar-header {
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.sidebar-title {
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--text-secondary);
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Google Store Pill Search Input */
+.field-search-input {
+  width: 100%;
+  padding: 8px 16px;
+  background: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-pill);
+  color: var(--text-primary);
+  font-family: 'Google Sans Text', Roboto, sans-serif;
+  font-size: 12.5px;
+  outline: none;
+  transition: var(--transition);
+}
+
+.field-search-input:hover {
+  border-color: var(--border-light);
+  background: var(--bg-primary);
+}
+
+.field-search-input:focus {
+  border-color: var(--google-blue);
+  background: var(--bg-primary);
+  box-shadow: 0 0 0 2px rgba(26, 115, 232, 0.15);
+}
+
+.sidebar-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 14px 16px;
+}
+
+.field-section {
+  margin-bottom: 22px;
+}
+
+.field-section-title {
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--text-secondary);
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.field-list {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+/* DRAGGABLE FIELD PILLS (Google Store Pill Aesthetic) */
+.field-pill {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 14px;
+  border-radius: var(--radius-pill);
+  font-family: 'Google Sans Text', Roboto, sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: grab;
+  transition: var(--transition);
+  border: 1px solid transparent;
+  user-select: none;
+  box-shadow: 0 1px 2px rgba(60, 64, 67, 0.05);
+}
+
+.field-pill:active {
+  cursor: grabbing;
+}
+
+.field-pill.dimension {
+  background: var(--accent-dim-bg);
+  color: var(--accent-dim);
+  border-color: var(--accent-dim-border);
+}
+
+.field-pill.measure {
+  background: var(--accent-meas-bg);
+  color: var(--accent-meas);
+  border-color: var(--accent-meas-border);
+}
+
+.field-pill.filter {
+  background: var(--accent-filt-bg);
+  color: var(--accent-filt);
+  border-color: var(--accent-filt-border);
+}
+
+.field-pill:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+  filter: brightness(0.97);
+}
+
+[data-theme="dark"] .field-pill:hover {
+  filter: brightness(1.1);
+}
+
+.field-pill-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.field-icon {
+  font-size: 12px;
+  opacity: 0.9;
+}
+
+.field-actions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+.field-pill:hover .field-actions {
+  opacity: 1;
+}
+
+.btn-pill-action {
+  background: transparent;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  padding: 2px 6px;
+  border-radius: var(--radius-pill);
+  font-size: 11px;
+  transition: background 0.15s ease;
+}
+
+.btn-pill-action:hover {
+  background: rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="dark"] .btn-pill-action:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+/* ==========================================================================
+   MAIN WORKSPACE
+   ========================================================================== */
+.main-workspace {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--bg-subtle);
+}
+
+/* ==========================================================================
+   SHELVES CONTAINER (Tableau-style Drag-and-Drop)
+   ========================================================================== */
+.shelves-container {
+  background: var(--bg-primary);
+  border-bottom: 1px solid var(--border-color);
+  padding: 12px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  box-shadow: var(--shadow-xs);
+  flex-shrink: 0;
+}
+
+.shelf-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.shelf-label {
+  width: 95px;
+  min-width: 95px;
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 11.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.shelf-dropzone {
+  flex: 1;
+  min-height: 36px;
+  border: 1.5px dashed var(--border-light);
+  border-radius: var(--radius-md);
+  background: var(--bg-subtle);
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding: 4px 10px;
+  transition: var(--transition);
+}
+
+.shelf-dropzone.drag-over {
+  border-color: var(--google-blue);
+  background: var(--accent-dim-bg);
+  border-style: solid;
+}
+
+.shelf-empty-hint {
+  font-family: 'Google Sans Text', Roboto, sans-serif;
+  font-size: 11.5px;
+  color: var(--text-muted);
+  font-style: normal;
+  pointer-events: none;
+}
+
+/* Shelf Pill */
+.shelf-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px;
+  border-radius: var(--radius-pill);
+  font-family: 'Google Sans Text', Roboto, sans-serif;
+  font-size: 11.5px;
+  font-weight: 600;
+  border: 1px solid transparent;
+  cursor: pointer;
+  white-space: nowrap;
+  box-shadow: 0 1px 2px rgba(60, 64, 67, 0.08);
+  transition: var(--transition);
+}
+
+.shelf-pill:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+
+.shelf-pill.dimension {
+  background: var(--accent-dim-bg);
+  color: var(--accent-dim);
+  border-color: var(--accent-dim-border);
+}
+
+.shelf-pill.measure {
+  background: var(--accent-meas-bg);
+  color: var(--accent-meas);
+  border-color: var(--accent-meas-border);
+}
+
+.shelf-pill.filter {
+  background: var(--accent-filt-bg);
+  color: var(--accent-filt);
+  border-color: var(--accent-filt-border);
+}
+
+.shelf-pill-menu {
+  display: inline-flex;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.08);
+  padding: 2px 7px;
+  border-radius: var(--radius-pill);
+  font-size: 10px;
+  font-weight: 700;
+}
+
+[data-theme="dark"] .shelf-pill-menu {
+  background: rgba(0, 0, 0, 0.35);
+}
+
+.shelf-pill-remove {
+  background: transparent;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1;
+  opacity: 0.65;
+  padding: 0 2px;
+  transition: opacity 0.15s ease;
+}
+
+.shelf-pill-remove:hover {
+  opacity: 1;
+}
+
+/* ==========================================================================
+   VISUALIZATION TYPE SELECTOR RIBBON (Google Segmented Pill Bar)
+   ========================================================================== */
+.viz-ribbon {
+  height: 48px;
+  background: var(--bg-primary);
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  flex-shrink: 0;
+}
+
+.viz-types-bar {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: var(--bg-subtle);
+  padding: 4px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-color);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.viz-types-bar::-webkit-scrollbar {
+  display: none;
+}
+
+.viz-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border-radius: var(--radius-pill);
+  border: none;
+  background: transparent;
+  color: var(--text-secondary);
+  font-family: 'Google Sans', 'Google Sans Text', Roboto, sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: var(--transition);
+  white-space: nowrap;
+}
+
+.viz-btn:hover {
+  background: rgba(0, 0, 0, 0.04);
+  color: var(--text-primary);
+}
+
+[data-theme="dark"] .viz-btn:hover {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.viz-btn.active {
+  background: var(--bg-card);
+  color: var(--google-blue);
+  font-weight: 700;
+  box-shadow: 0 1px 3px rgba(60, 64, 67, 0.15), 0 1px 2px rgba(60, 64, 67, 0.1);
+}
+
+/* ==========================================================================
+   STORY BANNER (Google Store Hero Feature Banner)
+   ========================================================================== */
+.story-banner {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-lg);
+  padding: 14px 20px;
+  margin: 12px 18px 0 18px;
+  box-shadow: var(--shadow-sm);
+  animation: slideDown 0.25s ease-out;
+  flex-shrink: 0;
+}
+
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.story-banner-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.story-tag-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+/* Google Store Product Tag Badges */
+.story-badge {
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 10.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 4px 12px;
+  border-radius: var(--radius-pill);
+}
+
+.story-badge.critical {
+  background: var(--danger-bg);
+  color: var(--danger);
+  border: 1px solid var(--danger-border);
+}
+
+.story-badge.warning {
+  background: var(--warning-bg);
+  color: var(--warning);
+  border: 1px solid var(--warning-border);
+}
+
+.story-badge.strategic {
+  background: var(--accent-dim-bg);
+  color: var(--accent-dim);
+  border: 1px solid var(--accent-dim-border);
+}
+
+.story-badge.foundational {
+  background: var(--bg-tertiary);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-color);
+}
+
+.story-banner-title {
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0;
+  letter-spacing: -0.2px;
+}
+
+.story-banner-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.story-chapter-pills {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background: var(--bg-subtle);
+  padding: 3px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-color);
+}
+
+.chapter-pill {
+  background: transparent;
+  border: none;
+  color: var(--text-secondary);
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 11.5px;
+  font-weight: 600;
+  padding: 5px 12px;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+.chapter-pill:hover {
+  color: var(--text-primary);
+  background: var(--bg-hover);
+}
+
+.chapter-pill.active {
+  background: var(--google-blue);
+  color: #ffffff;
+  box-shadow: 0 1px 3px rgba(26, 115, 232, 0.3);
+}
+
+.story-banner-body {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+.story-narrative-text {
+  font-family: 'Google Sans Text', Roboto, sans-serif;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--text-secondary);
+  flex: 1;
+  min-width: 280px;
+}
+
+.story-kpi-chips {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+/* Google Store Metric Micro-Cards */
+.story-kpi-chip {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 8px 14px;
+  display: flex;
+  flex-direction: column;
+  min-width: 95px;
+  box-shadow: var(--shadow-xs);
+  transition: var(--transition);
+}
+
+.story-kpi-chip:hover {
+  border-color: var(--border-focus);
+  box-shadow: var(--shadow-sm);
+}
+
+.story-kpi-chip .kpi-label {
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 700;
+  letter-spacing: 0.3px;
+  margin-bottom: 2px;
+}
+
+.story-kpi-chip .kpi-value {
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.story-kpi-chip.kpi-danger .kpi-value {
+  color: var(--danger);
+}
+
+.story-kpi-chip.kpi-warning .kpi-value {
+  color: var(--warning);
+}
+
+.story-kpi-chip.kpi-success .kpi-value {
+  color: var(--safe);
+}
+
+.story-kpi-chip.kpi-highlight .kpi-value {
+  color: var(--google-blue);
+}
+
+/* ==========================================================================
+   CHART VIEWPORT & CARD (Google Store Floating Showcase Card)
+   ========================================================================== */
+.chart-viewport {
+  flex: 1;
+  min-height: 0; /* Critical: allows flex child to shrink below content size */
+  position: relative;
+  overflow: hidden;
+  padding: 14px 18px 14px 18px;
+  display: flex;
+  flex-direction: column;
+}
+
+.chart-card {
+  flex: 1;
+  min-height: 0; /* Allow shrinking in flex column */
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-card);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  transition: var(--transition);
+}
+
+.chart-card-header {
+  height: 48px;
+  border-bottom: 1px solid var(--border-color);
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--bg-primary);
+  flex-shrink: 0;
+}
+
+.chart-title-wrap {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.chart-title {
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: -0.2px;
+}
+
+.chart-subtitle {
+  font-family: 'Google Sans Text', Roboto, sans-serif;
+  font-size: 11.5px;
+  color: var(--text-muted);
+}
+
+.chart-content {
+  flex: 1;
+  width: 100%;
+  min-height: 0; /* Allow flex child to shrink below its content size */
+  position: relative;
+  overflow: hidden;
+  background: var(--bg-card);
+}
+
+#echarts-canvas {
+  width: 100%;
+  height: 100%;
+  min-height: 200px; /* Reasonable minimum, but allows shrinking when banner is visible */
+}
+
+/* ==========================================================================
+   PIVOT TABLE STYLING (Google Sheets Aesthetic)
+   ========================================================================== */
+.pivot-table-wrap {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  padding: 16px;
+  background: var(--bg-primary);
+}
+
+.pivot-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12.5px;
+  text-align: left;
+  border: 1px solid var(--border-color);
+}
+
+.pivot-table th, .pivot-table td {
+  padding: 10px 14px;
+  border: 1px solid var(--border-color);
+}
+
+.pivot-table th {
+  background: var(--bg-subtle);
+  color: var(--text-secondary);
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-weight: 700;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  border-bottom: 2px solid var(--border-light);
+}
+
+.pivot-table tr:nth-child(even) {
+  background: var(--bg-subtle);
+}
+
+.pivot-table tr:hover {
+  background: var(--bg-hover);
+}
+
+.pivot-table td.numeric {
+  text-align: right;
+  font-family: 'Roboto Mono', 'Google Sans Text', monospace;
+  font-size: 12px;
+}
+
+.pivot-table .row-total {
+  font-weight: 700;
+  background: var(--bg-subtle);
+  color: var(--text-primary);
+}
+
+/* ==========================================================================
+   KPI SCORECARD GRID (Google Store Spec Tiles)
+   ========================================================================== */
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 18px;
+  padding: 24px;
+  background: var(--bg-primary);
+  height: 100%;
+  overflow-y: auto;
+}
+
+.kpi-card {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-lg);
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  box-shadow: var(--shadow-sm);
+  transition: var(--transition);
+}
+
+.kpi-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-hover);
+  border-color: var(--google-blue);
+}
+
+.kpi-card-label {
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 11.5px;
+  font-weight: 700;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+}
+
+.kpi-card-value {
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--text-primary);
+  font-feature-settings: "tnum";
+  letter-spacing: -0.5px;
+}
+
+.kpi-card-sub {
+  font-family: 'Google Sans Text', Roboto, sans-serif;
+  font-size: 12px;
+  color: var(--safe);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+/* ==========================================================================
+   STATUS BAR
+   ========================================================================== */
+.app-statusbar {
+  height: 32px;
+  background: var(--bg-primary);
+  border-top: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  font-size: 11.5px;
+  color: var(--text-secondary);
+  flex-shrink: 0;
+}
+
+.statusbar-left, .statusbar-right {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.status-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.status-item strong {
+  color: var(--text-primary);
+}
+
+/* ==========================================================================
+   MODALS (Google Store Showcase Dialogs with Rounded 28px Corners)
+   ========================================================================== */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(32, 33, 36, 0.4);
+  backdrop-filter: blur(8px);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.modal-overlay.active {
+  display: flex;
+}
+
+.modal-box {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-modal);
+  box-shadow: var(--shadow-modal);
+  width: 90%;
+  max-width: 620px;
+  max-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  animation: modalIn 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@keyframes modalIn {
+  from { opacity: 0; transform: scale(0.96); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.modal-header {
+  padding: 18px 24px;
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--bg-primary);
+}
+
+.modal-title {
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: -0.2px;
+}
+
+.modal-close {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  border-radius: 50%;
+  color: var(--text-secondary);
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.modal-close:hover {
+  background: var(--bg-hover);
+  color: var(--text-primary);
+}
+
+.modal-body {
+  padding: 20px 24px;
+  flex: 1;
+  overflow-y: auto;
+  background: var(--bg-primary);
+}
+
+.modal-footer {
+  padding: 16px 24px;
+  border-top: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 12px;
+  background: var(--bg-primary);
+}
+
+/* FILTER CHECKBOX LIST */
+.filter-search-wrap {
+  margin-bottom: 14px;
+}
+
+.filter-actions-bar {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.filter-items-list {
+  max-height: 320px;
+  overflow-y: auto;
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  background: var(--bg-primary);
+  padding: 8px;
+}
+
+.filter-item-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+  font-family: 'Google Sans Text', Roboto, sans-serif;
+  font-size: 13px;
+  color: var(--text-primary);
+  transition: background 0.15s ease;
+}
+
+.filter-item-row:hover {
+  background: var(--bg-hover);
+}
+
+.filter-item-row input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  accent-color: var(--google-blue);
+  cursor: pointer;
+}
+
+/* CATALOG SEARCH MODAL */
+.catalog-results-list {
+  max-height: 440px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.catalog-item-card {
+  padding: 14px 18px;
+  background: var(--bg-primary);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: var(--transition);
+}
+
+.catalog-item-card:hover {
+  border-color: var(--google-blue);
+  box-shadow: var(--shadow-sm);
+}
+
+.catalog-item-title {
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 13.5px;
+  font-weight: 600;
+  margin-bottom: 4px;
+  color: var(--text-primary);
+}
+
+.catalog-item-meta {
+  font-size: 11.5px;
+  color: var(--text-secondary);
+}
+
+/* ==========================================================================
+   FEATURED STORIES HUB (Google Store Product Showcase Grid)
+   ========================================================================== */
+.story-hub-filter-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 12px;
+  overflow-x: auto;
+}
+
+.story-tab-btn {
+  background: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 12.5px;
+  font-weight: 500;
+  padding: 7px 18px;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.story-tab-btn:hover {
+  background: var(--bg-hover);
+  color: var(--text-primary);
+  border-color: var(--border-light);
+}
+
+.story-tab-btn.active {
+  background: var(--google-blue);
+  color: #ffffff;
+  border-color: var(--google-blue);
+  box-shadow: 0 1px 3px rgba(26, 115, 232, 0.25);
+}
+
+.story-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+}
+
+/* Google Store Product Showcase Card */
+.story-card {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-lg);
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: var(--transition-smooth);
+  box-shadow: var(--shadow-xs);
+}
+
+.story-card:hover {
+  border-color: var(--google-blue);
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-hover);
+}
+
+.story-card-header {
+  margin-bottom: 12px;
+}
+
+.story-card-top-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.story-card-title {
+  font-family: 'Google Sans', Roboto, sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1.35;
+  margin-bottom: 8px;
+  letter-spacing: -0.2px;
+}
+
+.story-card-desc {
+  font-family: 'Google Sans Text', Roboto, sans-serif;
+  font-size: 12.5px;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin-bottom: 14px;
+}
+
+.story-card-metrics {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+
+.story-card-metric-badge {
+  background: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  font-family: 'Google Sans Text', Roboto, sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: var(--radius-pill);
+  color: var(--text-primary);
+}
+
+.story-card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 12px;
+  border-top: 1px solid var(--border-color);
+}
+
+.story-card-dataset {
+  font-size: 11px;
+  color: var(--text-muted);
+}

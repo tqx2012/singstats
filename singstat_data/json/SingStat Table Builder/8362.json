@@ -1,0 +1,818 @@
+{
+  "Data": {
+    "id": "8362",
+    "tableType": "General Household Survey 2015",
+    "groupTitle": null,
+    "title": "Resident Population Aged 15 Years and Over by Highest Qualification Attained, Ethnic Group and Language Most Frequently Spoken at Home",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes:Data exclude persons who were unable to speak, and those in one-person households and households comprising only unrelated persons.Data pertain to residents who are not attending educational institutions as full-time students. The data include those who are upgrading their qualifications through part-time courses while working. For more information, please refer to the publication on 'General Household Survey 2015' (https://www.singstat.gov.sg/find-data/explore-data-themes/population/education-language-spoken-and-literacy/related-information).",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "11/03/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Education, Language Spoken and Literacy",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "684.1"
+              },
+              {
+                "key": "Mandarin",
+                "value": "1007.9"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "422.4"
+              },
+              {
+                "key": "Others1/",
+                "value": "7.9"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "57.6"
+              },
+              {
+                "key": "Malay",
+                "value": "272.6"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.3"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "93.5"
+              },
+              {
+                "key": "Malay",
+                "value": "14"
+              },
+              {
+                "key": "Tamil",
+                "value": "91.2"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "31.4"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.7"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "52.7"
+              },
+              {
+                "key": "Malay",
+                "value": "3.1"
+              },
+              {
+                "key": "Others1/",
+                "value": "26.8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "No Qualification",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "6.7"
+              },
+              {
+                "key": "Mandarin",
+                "value": "99"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "168.4"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.8"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "1"
+              },
+              {
+                "key": "Malay",
+                "value": "38.4"
+              },
+              {
+                "key": "Others1/",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "1.5"
+              },
+              {
+                "key": "Malay",
+                "value": "2.2"
+              },
+              {
+                "key": "Tamil",
+                "value": "9.5"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "1.3"
+              },
+              {
+                "key": "Others1/",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "0.7"
+              },
+              {
+                "key": "Malay",
+                "value": "0.4"
+              },
+              {
+                "key": "Others1/",
+                "value": "1.2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Primary",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "8.7"
+              },
+              {
+                "key": "Mandarin",
+                "value": "82.8"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "52.3"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.3"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "1.9"
+              },
+              {
+                "key": "Malay",
+                "value": "28.1"
+              },
+              {
+                "key": "Others1/",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "3"
+              },
+              {
+                "key": "Malay",
+                "value": "1.7"
+              },
+              {
+                "key": "Tamil",
+                "value": "7.8"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "0.7"
+              },
+              {
+                "key": "Others1/",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "0.6"
+              },
+              {
+                "key": "Malay",
+                "value": "0.2"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Lower Secondary",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "22.5"
+              },
+              {
+                "key": "Mandarin",
+                "value": "100.2"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "43.5"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.5"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "2.7"
+              },
+              {
+                "key": "Malay",
+                "value": "31.9"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.1"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "5.8"
+              },
+              {
+                "key": "Malay",
+                "value": "1.6"
+              },
+              {
+                "key": "Tamil",
+                "value": "8.1"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "1.2"
+              },
+              {
+                "key": "Others1/",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "1.5"
+              },
+              {
+                "key": "Malay",
+                "value": "0.4"
+              },
+              {
+                "key": "Others1/",
+                "value": "1.1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Secondary",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "125.8"
+              },
+              {
+                "key": "Mandarin",
+                "value": "195.4"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "62.3"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.8"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "14.5"
+              },
+              {
+                "key": "Malay",
+                "value": "68.3"
+              },
+              {
+                "key": "Others1/",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "17.3"
+              },
+              {
+                "key": "Malay",
+                "value": "3"
+              },
+              {
+                "key": "Tamil",
+                "value": "15.4"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "2.9"
+              },
+              {
+                "key": "Others1/",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "5"
+              },
+              {
+                "key": "Malay",
+                "value": "0.5"
+              },
+              {
+                "key": "Others1/",
+                "value": "1.5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "Post-Secondary (Non-Tertiary)",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "68.4"
+              },
+              {
+                "key": "Mandarin",
+                "value": "102.6"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "24.2"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.7"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "11.9"
+              },
+              {
+                "key": "Malay",
+                "value": "53.4"
+              },
+              {
+                "key": "Others1/",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "10.6"
+              },
+              {
+                "key": "Malay",
+                "value": "2.3"
+              },
+              {
+                "key": "Tamil",
+                "value": "8.4"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "1.2"
+              },
+              {
+                "key": "Others1/",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "4.8"
+              },
+              {
+                "key": "Malay",
+                "value": "0.3"
+              },
+              {
+                "key": "Others1/",
+                "value": "1.3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "Polytechnic",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "75.7"
+              },
+              {
+                "key": "Mandarin",
+                "value": "110.5"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "14.6"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.3"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "9.2"
+              },
+              {
+                "key": "Malay",
+                "value": "25.9"
+              },
+              {
+                "key": "Others1/",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "9.1"
+              },
+              {
+                "key": "Malay",
+                "value": "1.5"
+              },
+              {
+                "key": "Tamil",
+                "value": "7.3"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "1.4"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.1"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "2.8"
+              },
+              {
+                "key": "Malay",
+                "value": "0.4"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "Professional Qualification And Other Diploma",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "64.9"
+              },
+              {
+                "key": "Mandarin",
+                "value": "77.6"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "15.9"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.3"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "5.8"
+              },
+              {
+                "key": "Malay",
+                "value": "12.6"
+              },
+              {
+                "key": "Others1/",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "9"
+              },
+              {
+                "key": "Malay",
+                "value": "0.6"
+              },
+              {
+                "key": "Tamil",
+                "value": "5.8"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "2.2"
+              },
+              {
+                "key": "Others1/",
+                "value": "0"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "5.7"
+              },
+              {
+                "key": "Malay",
+                "value": "0.1"
+              },
+              {
+                "key": "Others1/",
+                "value": "1.3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "University",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "311.4"
+              },
+              {
+                "key": "Mandarin",
+                "value": "240"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "41.2"
+              },
+              {
+                "key": "Others1/",
+                "value": "4.3"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "10.5"
+              },
+              {
+                "key": "Malay",
+                "value": "14"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.2"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "37.2"
+              },
+              {
+                "key": "Malay",
+                "value": "0.9"
+              },
+              {
+                "key": "Tamil",
+                "value": "28.9"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "20.4"
+              },
+              {
+                "key": "Others1/",
+                "value": "0.6"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "31.6"
+              },
+              {
+                "key": "Malay",
+                "value": "0.8"
+              },
+              {
+                "key": "Others1/",
+                "value": "18.8"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

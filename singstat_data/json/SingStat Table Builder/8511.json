@@ -1,0 +1,1951 @@
+{
+  "Data": {
+    "id": "8511",
+    "tableType": "Census of Population 2010",
+    "groupTitle": null,
+    "title": "Resident Population Aged 15 Years and Over by Place of Birth, Highest Qualification Attained and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data exclude residents who were students. For more information, please refer to the publication on 'Singapore Census of Population 2010, Statistical Release 1: Demographic Characteristics, Education, Language and Religion' (https://www.singstat.gov.sg/find-data/explore-data-themes/population/education-language-spoken-and-literacy/related-information).",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "22/03/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Education, Language Spoken and Literacy",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2779524"
+              },
+              {
+                "key": "Males",
+                "value": "1354723"
+              },
+              {
+                "key": "Females",
+                "value": "1424800"
+              }
+            ]
+          },
+          {
+            "key": "No Qualification",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "424443"
+              },
+              {
+                "key": "Males",
+                "value": "159806"
+              },
+              {
+                "key": "Females",
+                "value": "264637"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "193181"
+              },
+              {
+                "key": "Males",
+                "value": "91940"
+              },
+              {
+                "key": "Females",
+                "value": "101242"
+              }
+            ]
+          },
+          {
+            "key": "Lower Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "282523"
+              },
+              {
+                "key": "Males",
+                "value": "142894"
+              },
+              {
+                "key": "Females",
+                "value": "139629"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "526359"
+              },
+              {
+                "key": "Males",
+                "value": "242851"
+              },
+              {
+                "key": "Females",
+                "value": "283508"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "307562"
+              },
+              {
+                "key": "Males",
+                "value": "174939"
+              },
+              {
+                "key": "Females",
+                "value": "132623"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "250213"
+              },
+              {
+                "key": "Males",
+                "value": "148657"
+              },
+              {
+                "key": "Females",
+                "value": "101556"
+              }
+            ]
+          },
+          {
+            "key": "Professional Qualification And Other Diploma",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "161144"
+              },
+              {
+                "key": "Males",
+                "value": "67190"
+              },
+              {
+                "key": "Females",
+                "value": "93954"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "634098"
+              },
+              {
+                "key": "Males",
+                "value": "326446"
+              },
+              {
+                "key": "Females",
+                "value": "307652"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "Singapore",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2042384"
+              },
+              {
+                "key": "Males",
+                "value": "1033711"
+              },
+              {
+                "key": "Females",
+                "value": "1008673"
+              }
+            ]
+          },
+          {
+            "key": "No Qualification",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "314184"
+              },
+              {
+                "key": "Males",
+                "value": "127555"
+              },
+              {
+                "key": "Females",
+                "value": "186629"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "148906"
+              },
+              {
+                "key": "Males",
+                "value": "77283"
+              },
+              {
+                "key": "Females",
+                "value": "71623"
+              }
+            ]
+          },
+          {
+            "key": "Lower Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "209886"
+              },
+              {
+                "key": "Males",
+                "value": "115270"
+              },
+              {
+                "key": "Females",
+                "value": "94616"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "435866"
+              },
+              {
+                "key": "Males",
+                "value": "208941"
+              },
+              {
+                "key": "Females",
+                "value": "226926"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "249818"
+              },
+              {
+                "key": "Males",
+                "value": "147994"
+              },
+              {
+                "key": "Females",
+                "value": "101823"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "207063"
+              },
+              {
+                "key": "Males",
+                "value": "125105"
+              },
+              {
+                "key": "Females",
+                "value": "81959"
+              }
+            ]
+          },
+          {
+            "key": "Professional Qualification And Other Diploma",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "107678"
+              },
+              {
+                "key": "Males",
+                "value": "45532"
+              },
+              {
+                "key": "Females",
+                "value": "62146"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "368983"
+              },
+              {
+                "key": "Males",
+                "value": "186032"
+              },
+              {
+                "key": "Females",
+                "value": "182951"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "Outside Singapore",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "737140"
+              },
+              {
+                "key": "Males",
+                "value": "321012"
+              },
+              {
+                "key": "Females",
+                "value": "416127"
+              }
+            ]
+          },
+          {
+            "key": "No Qualification",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "110259"
+              },
+              {
+                "key": "Males",
+                "value": "32252"
+              },
+              {
+                "key": "Females",
+                "value": "78008"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44276"
+              },
+              {
+                "key": "Males",
+                "value": "14657"
+              },
+              {
+                "key": "Females",
+                "value": "29618"
+              }
+            ]
+          },
+          {
+            "key": "Lower Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "72637"
+              },
+              {
+                "key": "Males",
+                "value": "27624"
+              },
+              {
+                "key": "Females",
+                "value": "45013"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "90493"
+              },
+              {
+                "key": "Males",
+                "value": "33910"
+              },
+              {
+                "key": "Females",
+                "value": "56583"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "57744"
+              },
+              {
+                "key": "Males",
+                "value": "26945"
+              },
+              {
+                "key": "Females",
+                "value": "30799"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43150"
+              },
+              {
+                "key": "Males",
+                "value": "23553"
+              },
+              {
+                "key": "Females",
+                "value": "19597"
+              }
+            ]
+          },
+          {
+            "key": "Professional Qualification And Other Diploma",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "53466"
+              },
+              {
+                "key": "Males",
+                "value": "21658"
+              },
+              {
+                "key": "Females",
+                "value": "31809"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "265115"
+              },
+              {
+                "key": "Males",
+                "value": "140414"
+              },
+              {
+                "key": "Females",
+                "value": "124701"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.1",
+        "rowText": "Malaysia",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "345447"
+              },
+              {
+                "key": "Males",
+                "value": "145549"
+              },
+              {
+                "key": "Females",
+                "value": "199899"
+              }
+            ]
+          },
+          {
+            "key": "No Qualification",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "57339"
+              },
+              {
+                "key": "Males",
+                "value": "16316"
+              },
+              {
+                "key": "Females",
+                "value": "41023"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30567"
+              },
+              {
+                "key": "Males",
+                "value": "10020"
+              },
+              {
+                "key": "Females",
+                "value": "20546"
+              }
+            ]
+          },
+          {
+            "key": "Lower Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "47965"
+              },
+              {
+                "key": "Males",
+                "value": "19859"
+              },
+              {
+                "key": "Females",
+                "value": "28106"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "60584"
+              },
+              {
+                "key": "Males",
+                "value": "23498"
+              },
+              {
+                "key": "Females",
+                "value": "37086"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27331"
+              },
+              {
+                "key": "Males",
+                "value": "14045"
+              },
+              {
+                "key": "Females",
+                "value": "13286"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19529"
+              },
+              {
+                "key": "Males",
+                "value": "10661"
+              },
+              {
+                "key": "Females",
+                "value": "8868"
+              }
+            ]
+          },
+          {
+            "key": "Professional Qualification And Other Diploma",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27746"
+              },
+              {
+                "key": "Males",
+                "value": "10083"
+              },
+              {
+                "key": "Females",
+                "value": "17663"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "74387"
+              },
+              {
+                "key": "Males",
+                "value": "41066"
+              },
+              {
+                "key": "Females",
+                "value": "33321"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.2",
+        "rowText": "Mainland China, Hong Kong And Macao",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "146623"
+              },
+              {
+                "key": "Males",
+                "value": "60505"
+              },
+              {
+                "key": "Females",
+                "value": "86118"
+              }
+            ]
+          },
+          {
+            "key": "No Qualification",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35907"
+              },
+              {
+                "key": "Males",
+                "value": "12236"
+              },
+              {
+                "key": "Females",
+                "value": "23671"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6221"
+              },
+              {
+                "key": "Males",
+                "value": "2930"
+              },
+              {
+                "key": "Females",
+                "value": "3291"
+              }
+            ]
+          },
+          {
+            "key": "Lower Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11625"
+              },
+              {
+                "key": "Males",
+                "value": "4539"
+              },
+              {
+                "key": "Females",
+                "value": "7086"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14044"
+              },
+              {
+                "key": "Males",
+                "value": "5347"
+              },
+              {
+                "key": "Females",
+                "value": "8697"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14397"
+              },
+              {
+                "key": "Males",
+                "value": "5604"
+              },
+              {
+                "key": "Females",
+                "value": "8793"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9596"
+              },
+              {
+                "key": "Males",
+                "value": "3558"
+              },
+              {
+                "key": "Females",
+                "value": "6038"
+              }
+            ]
+          },
+          {
+            "key": "Professional Qualification And Other Diploma",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9491"
+              },
+              {
+                "key": "Males",
+                "value": "2506"
+              },
+              {
+                "key": "Females",
+                "value": "6986"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45342"
+              },
+              {
+                "key": "Males",
+                "value": "23784"
+              },
+              {
+                "key": "Females",
+                "value": "21558"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.3",
+        "rowText": "India, Pakistan, Bangladesh And Sri Lanka",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "105019"
+              },
+              {
+                "key": "Males",
+                "value": "57519"
+              },
+              {
+                "key": "Females",
+                "value": "47500"
+              }
+            ]
+          },
+          {
+            "key": "No Qualification",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6064"
+              },
+              {
+                "key": "Males",
+                "value": "2275"
+              },
+              {
+                "key": "Females",
+                "value": "3789"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2905"
+              },
+              {
+                "key": "Males",
+                "value": "1164"
+              },
+              {
+                "key": "Females",
+                "value": "1740"
+              }
+            ]
+          },
+          {
+            "key": "Lower Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4842"
+              },
+              {
+                "key": "Males",
+                "value": "1893"
+              },
+              {
+                "key": "Females",
+                "value": "2949"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6436"
+              },
+              {
+                "key": "Males",
+                "value": "2846"
+              },
+              {
+                "key": "Females",
+                "value": "3590"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6547"
+              },
+              {
+                "key": "Males",
+                "value": "3990"
+              },
+              {
+                "key": "Females",
+                "value": "2557"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7261"
+              },
+              {
+                "key": "Males",
+                "value": "5949"
+              },
+              {
+                "key": "Females",
+                "value": "1313"
+              }
+            ]
+          },
+          {
+            "key": "Professional Qualification And Other Diploma",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6766"
+              },
+              {
+                "key": "Males",
+                "value": "4698"
+              },
+              {
+                "key": "Females",
+                "value": "2068"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "64198"
+              },
+              {
+                "key": "Males",
+                "value": "34704"
+              },
+              {
+                "key": "Females",
+                "value": "29494"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.4",
+        "rowText": "Indonesia",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45511"
+              },
+              {
+                "key": "Males",
+                "value": "13787"
+              },
+              {
+                "key": "Females",
+                "value": "31724"
+              }
+            ]
+          },
+          {
+            "key": "No Qualification",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8324"
+              },
+              {
+                "key": "Males",
+                "value": "1258"
+              },
+              {
+                "key": "Females",
+                "value": "7066"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2934"
+              },
+              {
+                "key": "Males",
+                "value": "397"
+              },
+              {
+                "key": "Females",
+                "value": "2538"
+              }
+            ]
+          },
+          {
+            "key": "Lower Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4312"
+              },
+              {
+                "key": "Males",
+                "value": "788"
+              },
+              {
+                "key": "Females",
+                "value": "3524"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4242"
+              },
+              {
+                "key": "Males",
+                "value": "836"
+              },
+              {
+                "key": "Females",
+                "value": "3406"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3274"
+              },
+              {
+                "key": "Males",
+                "value": "966"
+              },
+              {
+                "key": "Females",
+                "value": "2308"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1867"
+              },
+              {
+                "key": "Males",
+                "value": "655"
+              },
+              {
+                "key": "Females",
+                "value": "1212"
+              }
+            ]
+          },
+          {
+            "key": "Professional Qualification And Other Diploma",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2094"
+              },
+              {
+                "key": "Males",
+                "value": "517"
+              },
+              {
+                "key": "Females",
+                "value": "1578"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18462"
+              },
+              {
+                "key": "Males",
+                "value": "8370"
+              },
+              {
+                "key": "Females",
+                "value": "10092"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.5",
+        "rowText": "Other Asian Countries",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "74948"
+              },
+              {
+                "key": "Males",
+                "value": "30453"
+              },
+              {
+                "key": "Females",
+                "value": "44496"
+              }
+            ]
+          },
+          {
+            "key": "No Qualification",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2451"
+              },
+              {
+                "key": "Males",
+                "value": "101"
+              },
+              {
+                "key": "Females",
+                "value": "2350"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1591"
+              },
+              {
+                "key": "Males",
+                "value": "100"
+              },
+              {
+                "key": "Females",
+                "value": "1491"
+              }
+            ]
+          },
+          {
+            "key": "Lower Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3565"
+              },
+              {
+                "key": "Males",
+                "value": "376"
+              },
+              {
+                "key": "Females",
+                "value": "3189"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4219"
+              },
+              {
+                "key": "Males",
+                "value": "902"
+              },
+              {
+                "key": "Females",
+                "value": "3316"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4604"
+              },
+              {
+                "key": "Males",
+                "value": "1321"
+              },
+              {
+                "key": "Females",
+                "value": "3283"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4176"
+              },
+              {
+                "key": "Males",
+                "value": "2256"
+              },
+              {
+                "key": "Females",
+                "value": "1921"
+              }
+            ]
+          },
+          {
+            "key": "Professional Qualification And Other Diploma",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4916"
+              },
+              {
+                "key": "Males",
+                "value": "2106"
+              },
+              {
+                "key": "Females",
+                "value": "2811"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "49426"
+              },
+              {
+                "key": "Males",
+                "value": "23291"
+              },
+              {
+                "key": "Females",
+                "value": "26135"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.6",
+        "rowText": "European Countries",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11295"
+              },
+              {
+                "key": "Males",
+                "value": "8017"
+              },
+              {
+                "key": "Females",
+                "value": "3278"
+              }
+            ]
+          },
+          {
+            "key": "No Qualification",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22"
+              },
+              {
+                "key": "Males",
+                "value": "8"
+              },
+              {
+                "key": "Females",
+                "value": "14"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8"
+              },
+              {
+                "key": "Males",
+                "value": "8"
+              },
+              {
+                "key": "Females"
+              }
+            ]
+          },
+          {
+            "key": "Lower Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "138"
+              },
+              {
+                "key": "Males",
+                "value": "77"
+              },
+              {
+                "key": "Females",
+                "value": "61"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "489"
+              },
+              {
+                "key": "Males",
+                "value": "252"
+              },
+              {
+                "key": "Females",
+                "value": "237"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "913"
+              },
+              {
+                "key": "Males",
+                "value": "573"
+              },
+              {
+                "key": "Females",
+                "value": "339"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "430"
+              },
+              {
+                "key": "Males",
+                "value": "293"
+              },
+              {
+                "key": "Females",
+                "value": "136"
+              }
+            ]
+          },
+          {
+            "key": "Professional Qualification And Other Diploma",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1670"
+              },
+              {
+                "key": "Males",
+                "value": "1238"
+              },
+              {
+                "key": "Females",
+                "value": "432"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7627"
+              },
+              {
+                "key": "Males",
+                "value": "5568"
+              },
+              {
+                "key": "Females",
+                "value": "2059"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.7",
+        "rowText": "USA And Canada",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3182"
+              },
+              {
+                "key": "Males",
+                "value": "2136"
+              },
+              {
+                "key": "Females",
+                "value": "1046"
+              }
+            ]
+          },
+          {
+            "key": "No Qualification",
+            "columns": [
+              {
+                "key": "Total"
+              },
+              {
+                "key": "Males"
+              },
+              {
+                "key": "Females"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6"
+              },
+              {
+                "key": "Males",
+                "value": "6"
+              },
+              {
+                "key": "Females"
+              }
+            ]
+          },
+          {
+            "key": "Lower Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8"
+              },
+              {
+                "key": "Males",
+                "value": "8"
+              },
+              {
+                "key": "Females"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "89"
+              },
+              {
+                "key": "Males",
+                "value": "49"
+              },
+              {
+                "key": "Females",
+                "value": "40"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "259"
+              },
+              {
+                "key": "Males",
+                "value": "200"
+              },
+              {
+                "key": "Females",
+                "value": "59"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "119"
+              },
+              {
+                "key": "Males",
+                "value": "79"
+              },
+              {
+                "key": "Females",
+                "value": "40"
+              }
+            ]
+          },
+          {
+            "key": "Professional Qualification And Other Diploma",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "139"
+              },
+              {
+                "key": "Males",
+                "value": "107"
+              },
+              {
+                "key": "Females",
+                "value": "32"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2562"
+              },
+              {
+                "key": "Males",
+                "value": "1687"
+              },
+              {
+                "key": "Females",
+                "value": "875"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.8",
+        "rowText": "Australia And New Zealand",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2538"
+              },
+              {
+                "key": "Males",
+                "value": "1563"
+              },
+              {
+                "key": "Females",
+                "value": "975"
+              }
+            ]
+          },
+          {
+            "key": "No Qualification",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25"
+              },
+              {
+                "key": "Males",
+                "value": "6"
+              },
+              {
+                "key": "Females",
+                "value": "18"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12"
+              },
+              {
+                "key": "Males",
+                "value": "12"
+              },
+              {
+                "key": "Females"
+              }
+            ]
+          },
+          {
+            "key": "Lower Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "68"
+              },
+              {
+                "key": "Males",
+                "value": "32"
+              },
+              {
+                "key": "Females",
+                "value": "36"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "176"
+              },
+              {
+                "key": "Males",
+                "value": "82"
+              },
+              {
+                "key": "Females",
+                "value": "94"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "229"
+              },
+              {
+                "key": "Males",
+                "value": "150"
+              },
+              {
+                "key": "Females",
+                "value": "79"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "47"
+              },
+              {
+                "key": "Males",
+                "value": "31"
+              },
+              {
+                "key": "Females",
+                "value": "16"
+              }
+            ]
+          },
+          {
+            "key": "Professional Qualification And Other Diploma",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "375"
+              },
+              {
+                "key": "Males",
+                "value": "231"
+              },
+              {
+                "key": "Females",
+                "value": "144"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1605"
+              },
+              {
+                "key": "Males",
+                "value": "1018"
+              },
+              {
+                "key": "Females",
+                "value": "588"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.9",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2575"
+              },
+              {
+                "key": "Males",
+                "value": "1485"
+              },
+              {
+                "key": "Females",
+                "value": "1091"
+              }
+            ]
+          },
+          {
+            "key": "No Qualification",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "127"
+              },
+              {
+                "key": "Males",
+                "value": "52"
+              },
+              {
+                "key": "Females",
+                "value": "76"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31"
+              },
+              {
+                "key": "Males",
+                "value": "19"
+              },
+              {
+                "key": "Females",
+                "value": "12"
+              }
+            ]
+          },
+          {
+            "key": "Lower Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "113"
+              },
+              {
+                "key": "Males",
+                "value": "52"
+              },
+              {
+                "key": "Females",
+                "value": "61"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "214"
+              },
+              {
+                "key": "Males",
+                "value": "97"
+              },
+              {
+                "key": "Females",
+                "value": "117"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "189"
+              },
+              {
+                "key": "Males",
+                "value": "94"
+              },
+              {
+                "key": "Females",
+                "value": "95"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "125"
+              },
+              {
+                "key": "Males",
+                "value": "72"
+              },
+              {
+                "key": "Females",
+                "value": "54"
+              }
+            ]
+          },
+          {
+            "key": "Professional Qualification And Other Diploma",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "269"
+              },
+              {
+                "key": "Males",
+                "value": "174"
+              },
+              {
+                "key": "Females",
+                "value": "95"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1505"
+              },
+              {
+                "key": "Males",
+                "value": "926"
+              },
+              {
+                "key": "Females",
+                "value": "579"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

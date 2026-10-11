@@ -1,0 +1,566 @@
+{
+  "Data": {
+    "id": "8580",
+    "tableType": "Census of Population 2010",
+    "groupTitle": null,
+    "title": "Resident Households by Monthly Household Income from Work Per Household Member and Number of Working Persons in Household",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data on income from work have been updated to include Additional MediSave Contributions from employers with the release of the Key Household Income Trends 2025 report in February 2026. For more information, you may refer to the Technical Note on Household Income (https://go.gov.sg/khit2025-tech-note) which explains the concepts and components of our household income coverage.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "03/07/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Household Income",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1145920"
+          },
+          {
+            "key": "No Working Person",
+            "value": "120010"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "410078"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "424152"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "132195"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "46528"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "12956"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.1",
+        "rowText": "No Working Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "120010"
+          },
+          {
+            "key": "No Working Person",
+            "value": "120010"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "-"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "-"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "-"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "-"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.2",
+        "rowText": "Below 250",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "17870"
+          },
+          {
+            "key": "No Working Person",
+            "value": "-"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "16316"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "1439"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "96"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "12"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "6"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.3",
+        "rowText": "250 - 499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "58364"
+          },
+          {
+            "key": "No Working Person",
+            "value": "-"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "44353"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "12160"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "1580"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "215"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "56"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.4",
+        "rowText": "500 - 749",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "79954"
+          },
+          {
+            "key": "No Working Person",
+            "value": "-"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "47220"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "26046"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "5574"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "964"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "151"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.5",
+        "rowText": "750 - 999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "85010"
+          },
+          {
+            "key": "No Working Person",
+            "value": "-"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "40098"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "32483"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "9594"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "2245"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "590"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.6",
+        "rowText": "1,000 - 1,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "167326"
+          },
+          {
+            "key": "No Working Person",
+            "value": "-"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "61898"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "69295"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "26144"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "8108"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "1881"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.7",
+        "rowText": "1,500 - 1,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "142066"
+          },
+          {
+            "key": "No Working Person",
+            "value": "-"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "43928"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "60492"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "25304"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "9403"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "2940"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.8",
+        "rowText": "2,000 - 2,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "109373"
+          },
+          {
+            "key": "No Working Person",
+            "value": "-"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "32107"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "48446"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "18545"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "7883"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "2392"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.9",
+        "rowText": "2,500 - 2,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "80063"
+          },
+          {
+            "key": "No Working Person",
+            "value": "-"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "23025"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "36500"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "13080"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "5685"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "1774"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.10",
+        "rowText": "3,000 - 3,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "61160"
+          },
+          {
+            "key": "No Working Person",
+            "value": "-"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "18864"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "28437"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "9009"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "3643"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "1206"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.11",
+        "rowText": "3,500 - 3,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "43888"
+          },
+          {
+            "key": "No Working Person",
+            "value": "-"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "13077"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "21559"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "6072"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "2596"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "583"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.12",
+        "rowText": "4,000 - 4,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "35081"
+          },
+          {
+            "key": "No Working Person",
+            "value": "-"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "11307"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "17014"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "4510"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "1706"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "545"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.13",
+        "rowText": "4,500 - 4,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "24916"
+          },
+          {
+            "key": "No Working Person",
+            "value": "-"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "7926"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "12605"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "3124"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "1020"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "241"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.14",
+        "rowText": "5,000 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "120839"
+          },
+          {
+            "key": "No Working Person",
+            "value": "-"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "49959"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "57676"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "9564"
+          },
+          {
+            "key": "4 Working Persons",
+            "value": "3048"
+          },
+          {
+            "key": "5 or More Working Persons",
+            "value": "593"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

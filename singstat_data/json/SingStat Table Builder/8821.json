@@ -1,0 +1,953 @@
+{
+  "Data": {
+    "id": "8821",
+    "tableType": "General Household Survey 2005",
+    "groupTitle": null,
+    "title": "Resident Unemployed Persons Aged 15 Years and Over by Age Group, Highest Qualification Attained and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "29/03/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Economic Characteristics",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "97513"
+              },
+              {
+                "key": "Males",
+                "value": "50202"
+              },
+              {
+                "key": "Females",
+                "value": "47311"
+              }
+            ]
+          },
+          {
+            "key": "Below Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35190"
+              },
+              {
+                "key": "Males",
+                "value": "20437"
+              },
+              {
+                "key": "Females",
+                "value": "14753"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24304"
+              },
+              {
+                "key": "Males",
+                "value": "11976"
+              },
+              {
+                "key": "Females",
+                "value": "12327"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23247"
+              },
+              {
+                "key": "Males",
+                "value": "11568"
+              },
+              {
+                "key": "Females",
+                "value": "11679"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14772"
+              },
+              {
+                "key": "Males",
+                "value": "6221"
+              },
+              {
+                "key": "Females",
+                "value": "8552"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "15 - 19",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3166"
+              },
+              {
+                "key": "Males",
+                "value": "578"
+              },
+              {
+                "key": "Females",
+                "value": "2588"
+              }
+            ]
+          },
+          {
+            "key": "Below Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1193"
+              },
+              {
+                "key": "Males",
+                "value": "328"
+              },
+              {
+                "key": "Females",
+                "value": "866"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1152"
+              },
+              {
+                "key": "Males",
+                "value": "219"
+              },
+              {
+                "key": "Females",
+                "value": "933"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "820"
+              },
+              {
+                "key": "Males",
+                "value": "31"
+              },
+              {
+                "key": "Females",
+                "value": "789"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total"
+              },
+              {
+                "key": "Males"
+              },
+              {
+                "key": "Females"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "20 - 24",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11981"
+              },
+              {
+                "key": "Males",
+                "value": "5286"
+              },
+              {
+                "key": "Females",
+                "value": "6695"
+              }
+            ]
+          },
+          {
+            "key": "Below Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1704"
+              },
+              {
+                "key": "Males",
+                "value": "978"
+              },
+              {
+                "key": "Females",
+                "value": "726"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3149"
+              },
+              {
+                "key": "Males",
+                "value": "1717"
+              },
+              {
+                "key": "Females",
+                "value": "1433"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5142"
+              },
+              {
+                "key": "Males",
+                "value": "2173"
+              },
+              {
+                "key": "Females",
+                "value": "2969"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1987"
+              },
+              {
+                "key": "Males",
+                "value": "418"
+              },
+              {
+                "key": "Females",
+                "value": "1569"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "25 - 29",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12503"
+              },
+              {
+                "key": "Males",
+                "value": "6597"
+              },
+              {
+                "key": "Females",
+                "value": "5906"
+              }
+            ]
+          },
+          {
+            "key": "Below Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2072"
+              },
+              {
+                "key": "Males",
+                "value": "1140"
+              },
+              {
+                "key": "Females",
+                "value": "932"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2207"
+              },
+              {
+                "key": "Males",
+                "value": "1276"
+              },
+              {
+                "key": "Females",
+                "value": "932"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4231"
+              },
+              {
+                "key": "Males",
+                "value": "2455"
+              },
+              {
+                "key": "Females",
+                "value": "1776"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3992"
+              },
+              {
+                "key": "Males",
+                "value": "1726"
+              },
+              {
+                "key": "Females",
+                "value": "2266"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "30 - 34",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10933"
+              },
+              {
+                "key": "Males",
+                "value": "4896"
+              },
+              {
+                "key": "Females",
+                "value": "6037"
+              }
+            ]
+          },
+          {
+            "key": "Below Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2142"
+              },
+              {
+                "key": "Males",
+                "value": "1171"
+              },
+              {
+                "key": "Females",
+                "value": "971"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2820"
+              },
+              {
+                "key": "Males",
+                "value": "1410"
+              },
+              {
+                "key": "Females",
+                "value": "1410"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2991"
+              },
+              {
+                "key": "Males",
+                "value": "1330"
+              },
+              {
+                "key": "Females",
+                "value": "1661"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2980"
+              },
+              {
+                "key": "Males",
+                "value": "985"
+              },
+              {
+                "key": "Females",
+                "value": "1995"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "35 - 39",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11423"
+              },
+              {
+                "key": "Males",
+                "value": "5429"
+              },
+              {
+                "key": "Females",
+                "value": "5994"
+              }
+            ]
+          },
+          {
+            "key": "Below Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3517"
+              },
+              {
+                "key": "Males",
+                "value": "1976"
+              },
+              {
+                "key": "Females",
+                "value": "1541"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3122"
+              },
+              {
+                "key": "Males",
+                "value": "1450"
+              },
+              {
+                "key": "Females",
+                "value": "1672"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2706"
+              },
+              {
+                "key": "Males",
+                "value": "1177"
+              },
+              {
+                "key": "Females",
+                "value": "1529"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2078"
+              },
+              {
+                "key": "Males",
+                "value": "826"
+              },
+              {
+                "key": "Females",
+                "value": "1253"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "40 - 44",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12319"
+              },
+              {
+                "key": "Males",
+                "value": "5974"
+              },
+              {
+                "key": "Females",
+                "value": "6345"
+              }
+            ]
+          },
+          {
+            "key": "Below Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5356"
+              },
+              {
+                "key": "Males",
+                "value": "2922"
+              },
+              {
+                "key": "Females",
+                "value": "2434"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3289"
+              },
+              {
+                "key": "Males",
+                "value": "1247"
+              },
+              {
+                "key": "Females",
+                "value": "2042"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2148"
+              },
+              {
+                "key": "Males",
+                "value": "1089"
+              },
+              {
+                "key": "Females",
+                "value": "1059"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1525"
+              },
+              {
+                "key": "Males",
+                "value": "716"
+              },
+              {
+                "key": "Females",
+                "value": "810"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "45 - 49",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12799"
+              },
+              {
+                "key": "Males",
+                "value": "6712"
+              },
+              {
+                "key": "Females",
+                "value": "6087"
+              }
+            ]
+          },
+          {
+            "key": "Below Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6545"
+              },
+              {
+                "key": "Males",
+                "value": "3611"
+              },
+              {
+                "key": "Females",
+                "value": "2934"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3256"
+              },
+              {
+                "key": "Males",
+                "value": "1385"
+              },
+              {
+                "key": "Females",
+                "value": "1872"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2152"
+              },
+              {
+                "key": "Males",
+                "value": "1184"
+              },
+              {
+                "key": "Females",
+                "value": "968"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "845"
+              },
+              {
+                "key": "Males",
+                "value": "533"
+              },
+              {
+                "key": "Females",
+                "value": "313"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "50 - 54",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10673"
+              },
+              {
+                "key": "Males",
+                "value": "6443"
+              },
+              {
+                "key": "Females",
+                "value": "4231"
+              }
+            ]
+          },
+          {
+            "key": "Below Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5444"
+              },
+              {
+                "key": "Males",
+                "value": "3167"
+              },
+              {
+                "key": "Females",
+                "value": "2277"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2734"
+              },
+              {
+                "key": "Males",
+                "value": "1608"
+              },
+              {
+                "key": "Females",
+                "value": "1126"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1722"
+              },
+              {
+                "key": "Males",
+                "value": "1142"
+              },
+              {
+                "key": "Females",
+                "value": "580"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "773"
+              },
+              {
+                "key": "Males",
+                "value": "525"
+              },
+              {
+                "key": "Females",
+                "value": "248"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.9",
+        "rowText": "55 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11715"
+              },
+              {
+                "key": "Males",
+                "value": "8287"
+              },
+              {
+                "key": "Females",
+                "value": "3428"
+              }
+            ]
+          },
+          {
+            "key": "Below Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7217"
+              },
+              {
+                "key": "Males",
+                "value": "5144"
+              },
+              {
+                "key": "Females",
+                "value": "2072"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2573"
+              },
+              {
+                "key": "Males",
+                "value": "1665"
+              },
+              {
+                "key": "Females",
+                "value": "908"
+              }
+            ]
+          },
+          {
+            "key": "Post-Secondary*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1335"
+              },
+              {
+                "key": "Males",
+                "value": "985"
+              },
+              {
+                "key": "Females",
+                "value": "350"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "591"
+              },
+              {
+                "key": "Males",
+                "value": "492"
+              },
+              {
+                "key": "Females",
+                "value": "98"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

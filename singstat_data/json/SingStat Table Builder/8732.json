@@ -1,0 +1,1012 @@
+{
+  "Data": {
+    "id": "8732",
+    "tableType": "General Household Survey 2005",
+    "groupTitle": null,
+    "title": "Resident Households by Monthly Household Income from Work and Household Structure",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data on income from work have been updated to include Additional MediSave Contributions from employers with the release of the Key Household Income Trends 2025 report in February 2026. For more information, you may refer to the Technical Note on Household Income (https://go.gov.sg/khit2025-tech-note) which explains the concepts and components of our household income coverage.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "09/07/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Household Income",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1024458"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "149217"
+              },
+              {
+                "key": "One Person",
+                "value": "103271"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "45945"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "819814"
+              },
+              {
+                "key": "One Generation",
+                "value": "120938"
+              },
+              {
+                "key": "Two Generations",
+                "value": "630637"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "68238"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "53670"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "1758"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "No Working Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "102361"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "42522"
+              },
+              {
+                "key": "One Person",
+                "value": "34232"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "8290"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "58612"
+              },
+              {
+                "key": "One Generation",
+                "value": "26269"
+              },
+              {
+                "key": "Two Generations",
+                "value": "29615"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "2728"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "1188"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "38"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Below 1,000",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "43851"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13681"
+              },
+              {
+                "key": "One Person",
+                "value": "10391"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "3289"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29376"
+              },
+              {
+                "key": "One Generation",
+                "value": "5297"
+              },
+              {
+                "key": "Two Generations",
+                "value": "21949"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "2130"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "794"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "1,000 - 1,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "54048"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12731"
+              },
+              {
+                "key": "One Person",
+                "value": "9327"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "3405"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "40181"
+              },
+              {
+                "key": "One Generation",
+                "value": "5535"
+              },
+              {
+                "key": "Two Generations",
+                "value": "31842"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "2804"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "1123"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "13"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "1,500 - 1,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "57533"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10729"
+              },
+              {
+                "key": "One Person",
+                "value": "7923"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "2807"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45142"
+              },
+              {
+                "key": "One Generation",
+                "value": "4857"
+              },
+              {
+                "key": "Two Generations",
+                "value": "36789"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "3496"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "1649"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "13"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "2,000 - 2,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "61747"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9935"
+              },
+              {
+                "key": "One Person",
+                "value": "7064"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "2871"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "49798"
+              },
+              {
+                "key": "One Generation",
+                "value": "5073"
+              },
+              {
+                "key": "Two Generations",
+                "value": "40310"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "4415"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "1977"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "36"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "2,500 - 2,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "54683"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7711"
+              },
+              {
+                "key": "One Person",
+                "value": "5190"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "2521"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44863"
+              },
+              {
+                "key": "One Generation",
+                "value": "4538"
+              },
+              {
+                "key": "Two Generations",
+                "value": "36769"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "3556"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "2054"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "55"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "3,000 - 3,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "57994"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7681"
+              },
+              {
+                "key": "One Person",
+                "value": "5581"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "2100"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "47946"
+              },
+              {
+                "key": "One Generation",
+                "value": "4580"
+              },
+              {
+                "key": "Two Generations",
+                "value": "39142"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "4224"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "2341"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "26"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "3,500 - 3,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "51509"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5574"
+              },
+              {
+                "key": "One Person",
+                "value": "3408"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "2165"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43493"
+              },
+              {
+                "key": "One Generation",
+                "value": "4084"
+              },
+              {
+                "key": "Two Generations",
+                "value": "35271"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "4138"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "2393"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "50"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.9",
+        "rowText": "4,000 - 4,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "49020"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4480"
+              },
+              {
+                "key": "One Person",
+                "value": "2798"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "1682"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "42010"
+              },
+              {
+                "key": "One Generation",
+                "value": "4603"
+              },
+              {
+                "key": "Two Generations",
+                "value": "33896"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "3511"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "2479"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "51"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.10",
+        "rowText": "4,500 - 4,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "44497"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3894"
+              },
+              {
+                "key": "One Person",
+                "value": "2290"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "1604"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38114"
+              },
+              {
+                "key": "One Generation",
+                "value": "4116"
+              },
+              {
+                "key": "Two Generations",
+                "value": "30740"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "3258"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "2488"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.11",
+        "rowText": "5,000 - 5,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "80810"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6498"
+              },
+              {
+                "key": "One Person",
+                "value": "3520"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "2978"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "68911"
+              },
+              {
+                "key": "One Generation",
+                "value": "8167"
+              },
+              {
+                "key": "Two Generations",
+                "value": "54847"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "5897"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "5195"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "206"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.12",
+        "rowText": "6,000 - 6,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "65750"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4805"
+              },
+              {
+                "key": "One Person",
+                "value": "2384"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "2421"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "56477"
+              },
+              {
+                "key": "One Generation",
+                "value": "7202"
+              },
+              {
+                "key": "Two Generations",
+                "value": "44123"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "5152"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "4347"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "121"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.13",
+        "rowText": "7,000 - 7,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "55070"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3757"
+              },
+              {
+                "key": "One Person",
+                "value": "1583"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "2174"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "47039"
+              },
+              {
+                "key": "One Generation",
+                "value": "6483"
+              },
+              {
+                "key": "Two Generations",
+                "value": "36650"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "3906"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "4144"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "131"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.14",
+        "rowText": "8,000 - 8,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "45589"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2965"
+              },
+              {
+                "key": "One Person",
+                "value": "1437"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "1528"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38873"
+              },
+              {
+                "key": "One Generation",
+                "value": "5666"
+              },
+              {
+                "key": "Two Generations",
+                "value": "30096"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "3111"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "3700"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "51"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.15",
+        "rowText": "9,000 - 9,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "35181"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2465"
+              },
+              {
+                "key": "One Person",
+                "value": "1257"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "1208"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29448"
+              },
+              {
+                "key": "One Generation",
+                "value": "4471"
+              },
+              {
+                "key": "Two Generations",
+                "value": "22498"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "2478"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "3205"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "63"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.16",
+        "rowText": "10,000 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "164816"
+          },
+          {
+            "key": "No Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9789"
+              },
+              {
+                "key": "One Person",
+                "value": "4885"
+              },
+              {
+                "key": "Two or More Persons",
+                "value": "4904"
+              }
+            ]
+          },
+          {
+            "key": "One Family Nucleus",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "139530"
+              },
+              {
+                "key": "One Generation",
+                "value": "19998"
+              },
+              {
+                "key": "Two Generations",
+                "value": "106100"
+              },
+              {
+                "key": "Three or More Generations",
+                "value": "13432"
+              }
+            ]
+          },
+          {
+            "key": "Two Family Nuclei",
+            "value": "14592"
+          },
+          {
+            "key": "Three or More Family Nuclei",
+            "value": "905"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

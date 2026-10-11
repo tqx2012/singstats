@@ -1,0 +1,2630 @@
+{
+  "Data": {
+    "id": "C020041",
+    "tableType": "General Household Survey 2025",
+    "groupTitle": null,
+    "title": "Resident Population Aged 15 Years and Over by Language Most / Second Most Frequently Spoken at Home, Labour Force Status and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: Data exclude persons who were unable to speak, and those in one-person households and households comprising only unrelated persons.Data has been rounded to the nearest 100 and may not add up due to rounding.\n‘ - ’ denotes Nil or negligible. Users are advised to exercise caution when drawing inferences from survey estimates with small sample sizes or those denoted as ‘ - ’, as these estimates are based on a sample survey and subject to sampling variability. For more information, refer to the write up on the GHS 2025 Sample Design and Sampling Variability (https://go.gov.sg/ghs2025-sample-design-and-variability). ",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Education, Language Spoken and Literacy",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3118600"
+              },
+              {
+                "key": "Males",
+                "value": "1518400"
+              },
+              {
+                "key": "Females",
+                "value": "1600200"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2116800"
+              },
+              {
+                "key": "Males",
+                "value": "1114200"
+              },
+              {
+                "key": "Females",
+                "value": "1002600"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2049800"
+              },
+              {
+                "key": "Males",
+                "value": "1079900"
+              },
+              {
+                "key": "Females",
+                "value": "969900"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "67000"
+              },
+              {
+                "key": "Males",
+                "value": "34300"
+              },
+              {
+                "key": "Females",
+                "value": "32700"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1001800"
+              },
+              {
+                "key": "Males",
+                "value": "404200"
+              },
+              {
+                "key": "Females",
+                "value": "597600"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1723500"
+              },
+              {
+                "key": "Males",
+                "value": "853300"
+              },
+              {
+                "key": "Females",
+                "value": "870200"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1213300"
+              },
+              {
+                "key": "Males",
+                "value": "634900"
+              },
+              {
+                "key": "Females",
+                "value": "578400"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1173500"
+              },
+              {
+                "key": "Males",
+                "value": "615100"
+              },
+              {
+                "key": "Females",
+                "value": "558400"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "39800"
+              },
+              {
+                "key": "Males",
+                "value": "19800"
+              },
+              {
+                "key": "Females",
+                "value": "20100"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "510200"
+              },
+              {
+                "key": "Males",
+                "value": "218400"
+              },
+              {
+                "key": "Females",
+                "value": "291800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.1",
+        "rowText": "English Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "340100"
+              },
+              {
+                "key": "Males",
+                "value": "173200"
+              },
+              {
+                "key": "Females",
+                "value": "166900"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "227900"
+              },
+              {
+                "key": "Males",
+                "value": "121500"
+              },
+              {
+                "key": "Females",
+                "value": "106300"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "220700"
+              },
+              {
+                "key": "Males",
+                "value": "117400"
+              },
+              {
+                "key": "Females",
+                "value": "103300"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7200"
+              },
+              {
+                "key": "Males",
+                "value": "4200"
+              },
+              {
+                "key": "Females",
+                "value": "3000"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "112200"
+              },
+              {
+                "key": "Males",
+                "value": "51700"
+              },
+              {
+                "key": "Females",
+                "value": "60500"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.2",
+        "rowText": "English & Mandarin",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "936200"
+              },
+              {
+                "key": "Males",
+                "value": "461300"
+              },
+              {
+                "key": "Females",
+                "value": "474900"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "683000"
+              },
+              {
+                "key": "Males",
+                "value": "351400"
+              },
+              {
+                "key": "Females",
+                "value": "331600"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "661800"
+              },
+              {
+                "key": "Males",
+                "value": "340100"
+              },
+              {
+                "key": "Females",
+                "value": "321700"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21200"
+              },
+              {
+                "key": "Males",
+                "value": "11300"
+              },
+              {
+                "key": "Females",
+                "value": "9900"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "253300"
+              },
+              {
+                "key": "Males",
+                "value": "109900"
+              },
+              {
+                "key": "Females",
+                "value": "143400"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.3",
+        "rowText": "English & Chinese Dialect",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "81600"
+              },
+              {
+                "key": "Males",
+                "value": "40200"
+              },
+              {
+                "key": "Females",
+                "value": "41300"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "47200"
+              },
+              {
+                "key": "Males",
+                "value": "24900"
+              },
+              {
+                "key": "Females",
+                "value": "22300"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45100"
+              },
+              {
+                "key": "Males",
+                "value": "23900"
+              },
+              {
+                "key": "Females",
+                "value": "21300"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2100"
+              },
+              {
+                "key": "Males",
+                "value": "1100"
+              },
+              {
+                "key": "Females",
+                "value": "1100"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34300"
+              },
+              {
+                "key": "Males",
+                "value": "15300"
+              },
+              {
+                "key": "Females",
+                "value": "19000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.4",
+        "rowText": "English & Malay",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "220100"
+              },
+              {
+                "key": "Males",
+                "value": "108000"
+              },
+              {
+                "key": "Females",
+                "value": "112200"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "150500"
+              },
+              {
+                "key": "Males",
+                "value": "81700"
+              },
+              {
+                "key": "Females",
+                "value": "68800"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "145800"
+              },
+              {
+                "key": "Males",
+                "value": "80200"
+              },
+              {
+                "key": "Females",
+                "value": "65600"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4700"
+              },
+              {
+                "key": "Males",
+                "value": "1500"
+              },
+              {
+                "key": "Females",
+                "value": "3200"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "69600"
+              },
+              {
+                "key": "Males",
+                "value": "26200"
+              },
+              {
+                "key": "Females",
+                "value": "43400"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.5",
+        "rowText": "English & Tamil",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "82300"
+              },
+              {
+                "key": "Males",
+                "value": "40400"
+              },
+              {
+                "key": "Females",
+                "value": "42000"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "60300"
+              },
+              {
+                "key": "Males",
+                "value": "32100"
+              },
+              {
+                "key": "Females",
+                "value": "28200"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "57300"
+              },
+              {
+                "key": "Males",
+                "value": "30800"
+              },
+              {
+                "key": "Females",
+                "value": "26600"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2900"
+              },
+              {
+                "key": "Males",
+                "value": "1300"
+              },
+              {
+                "key": "Females",
+                "value": "1600"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22100"
+              },
+              {
+                "key": "Males",
+                "value": "8300"
+              },
+              {
+                "key": "Females",
+                "value": "13800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.6",
+        "rowText": "English & Other Indian Language",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34800"
+              },
+              {
+                "key": "Males",
+                "value": "17900"
+              },
+              {
+                "key": "Females",
+                "value": "16900"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23000"
+              },
+              {
+                "key": "Males",
+                "value": "13200"
+              },
+              {
+                "key": "Females",
+                "value": "9800"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21700"
+              },
+              {
+                "key": "Males",
+                "value": "13000"
+              },
+              {
+                "key": "Females",
+                "value": "8700"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1300"
+              },
+              {
+                "key": "Males",
+                "value": "300"
+              },
+              {
+                "key": "Females",
+                "value": "1100"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11800"
+              },
+              {
+                "key": "Males",
+                "value": "4700"
+              },
+              {
+                "key": "Females",
+                "value": "7100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.7",
+        "rowText": "English & Other Language",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28400"
+              },
+              {
+                "key": "Males",
+                "value": "12300"
+              },
+              {
+                "key": "Females",
+                "value": "16100"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21500"
+              },
+              {
+                "key": "Males",
+                "value": "10100"
+              },
+              {
+                "key": "Females",
+                "value": "11500"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21100"
+              },
+              {
+                "key": "Males",
+                "value": "9900"
+              },
+              {
+                "key": "Females",
+                "value": "11200"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "500"
+              },
+              {
+                "key": "Males",
+                "value": "200"
+              },
+              {
+                "key": "Females",
+                "value": "300"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6900"
+              },
+              {
+                "key": "Males",
+                "value": "2200"
+              },
+              {
+                "key": "Females",
+                "value": "4700"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Mandarin1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "884900"
+              },
+              {
+                "key": "Males",
+                "value": "420600"
+              },
+              {
+                "key": "Females",
+                "value": "464300"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "607400"
+              },
+              {
+                "key": "Males",
+                "value": "311000"
+              },
+              {
+                "key": "Females",
+                "value": "296400"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "591900"
+              },
+              {
+                "key": "Males",
+                "value": "303200"
+              },
+              {
+                "key": "Females",
+                "value": "288600"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15500"
+              },
+              {
+                "key": "Males",
+                "value": "7800"
+              },
+              {
+                "key": "Females",
+                "value": "7800"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "277500"
+              },
+              {
+                "key": "Males",
+                "value": "109600"
+              },
+              {
+                "key": "Females",
+                "value": "167900"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.0.1",
+        "rowText": "Mandarin Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "324500"
+              },
+              {
+                "key": "Males",
+                "value": "147700"
+              },
+              {
+                "key": "Females",
+                "value": "176800"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "205400"
+              },
+              {
+                "key": "Males",
+                "value": "102200"
+              },
+              {
+                "key": "Females",
+                "value": "103200"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "200500"
+              },
+              {
+                "key": "Males",
+                "value": "99900"
+              },
+              {
+                "key": "Females",
+                "value": "100600"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4900"
+              },
+              {
+                "key": "Males",
+                "value": "2300"
+              },
+              {
+                "key": "Females",
+                "value": "2600"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "119100"
+              },
+              {
+                "key": "Males",
+                "value": "45500"
+              },
+              {
+                "key": "Females",
+                "value": "73600"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.0.2",
+        "rowText": "Mandarin & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "386500"
+              },
+              {
+                "key": "Males",
+                "value": "190200"
+              },
+              {
+                "key": "Females",
+                "value": "196300"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "296900"
+              },
+              {
+                "key": "Males",
+                "value": "152000"
+              },
+              {
+                "key": "Females",
+                "value": "144900"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "288600"
+              },
+              {
+                "key": "Males",
+                "value": "147800"
+              },
+              {
+                "key": "Females",
+                "value": "140800"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8300"
+              },
+              {
+                "key": "Males",
+                "value": "4200"
+              },
+              {
+                "key": "Females",
+                "value": "4200"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "89600"
+              },
+              {
+                "key": "Males",
+                "value": "38200"
+              },
+              {
+                "key": "Females",
+                "value": "51400"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.0.3",
+        "rowText": "Mandarin & Chinese Dialect",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "171500"
+              },
+              {
+                "key": "Males",
+                "value": "81600"
+              },
+              {
+                "key": "Females",
+                "value": "89900"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "103300"
+              },
+              {
+                "key": "Males",
+                "value": "55900"
+              },
+              {
+                "key": "Females",
+                "value": "47400"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "101100"
+              },
+              {
+                "key": "Males",
+                "value": "54700"
+              },
+              {
+                "key": "Females",
+                "value": "46500"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2200"
+              },
+              {
+                "key": "Males",
+                "value": "1300"
+              },
+              {
+                "key": "Females",
+                "value": "900"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "68100"
+              },
+              {
+                "key": "Males",
+                "value": "25700"
+              },
+              {
+                "key": "Females",
+                "value": "42500"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Chinese Dialects1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "173100"
+              },
+              {
+                "key": "Males",
+                "value": "79700"
+              },
+              {
+                "key": "Females",
+                "value": "93400"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "83400"
+              },
+              {
+                "key": "Males",
+                "value": "44200"
+              },
+              {
+                "key": "Females",
+                "value": "39200"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "81000"
+              },
+              {
+                "key": "Males",
+                "value": "42900"
+              },
+              {
+                "key": "Females",
+                "value": "38100"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2400"
+              },
+              {
+                "key": "Males",
+                "value": "1300"
+              },
+              {
+                "key": "Females",
+                "value": "1100"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "89700"
+              },
+              {
+                "key": "Males",
+                "value": "35500"
+              },
+              {
+                "key": "Females",
+                "value": "54200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.0.1",
+        "rowText": "Chinese Dialect Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "51800"
+              },
+              {
+                "key": "Males",
+                "value": "21400"
+              },
+              {
+                "key": "Females",
+                "value": "30500"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19000"
+              },
+              {
+                "key": "Males",
+                "value": "9700"
+              },
+              {
+                "key": "Females",
+                "value": "9200"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18500"
+              },
+              {
+                "key": "Males",
+                "value": "9400"
+              },
+              {
+                "key": "Females",
+                "value": "9100"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "500"
+              },
+              {
+                "key": "Males",
+                "value": "300"
+              },
+              {
+                "key": "Females",
+                "value": "100"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "32900"
+              },
+              {
+                "key": "Males",
+                "value": "11700"
+              },
+              {
+                "key": "Females",
+                "value": "21200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.0.2",
+        "rowText": "Chinese Dialect & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27600"
+              },
+              {
+                "key": "Males",
+                "value": "13200"
+              },
+              {
+                "key": "Females",
+                "value": "14400"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16400"
+              },
+              {
+                "key": "Males",
+                "value": "8300"
+              },
+              {
+                "key": "Females",
+                "value": "8100"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15900"
+              },
+              {
+                "key": "Males",
+                "value": "8200"
+              },
+              {
+                "key": "Females",
+                "value": "7700"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "600"
+              },
+              {
+                "key": "Males",
+                "value": "100"
+              },
+              {
+                "key": "Females",
+                "value": "400"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11200"
+              },
+              {
+                "key": "Males",
+                "value": "4900"
+              },
+              {
+                "key": "Females",
+                "value": "6300"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.0.3",
+        "rowText": "Chinese Dialect & Mandarin",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "87700"
+              },
+              {
+                "key": "Males",
+                "value": "42300"
+              },
+              {
+                "key": "Females",
+                "value": "45400"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45900"
+              },
+              {
+                "key": "Males",
+                "value": "24900"
+              },
+              {
+                "key": "Females",
+                "value": "21000"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44800"
+              },
+              {
+                "key": "Males",
+                "value": "24300"
+              },
+              {
+                "key": "Females",
+                "value": "20500"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1100"
+              },
+              {
+                "key": "Males",
+                "value": "600"
+              },
+              {
+                "key": "Females",
+                "value": "500"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41800"
+              },
+              {
+                "key": "Males",
+                "value": "17400"
+              },
+              {
+                "key": "Females",
+                "value": "24400"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Malay1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "226900"
+              },
+              {
+                "key": "Males",
+                "value": "112500"
+              },
+              {
+                "key": "Females",
+                "value": "114400"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "135000"
+              },
+              {
+                "key": "Males",
+                "value": "80200"
+              },
+              {
+                "key": "Females",
+                "value": "54800"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "129100"
+              },
+              {
+                "key": "Males",
+                "value": "76600"
+              },
+              {
+                "key": "Females",
+                "value": "52500"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5800"
+              },
+              {
+                "key": "Males",
+                "value": "3500"
+              },
+              {
+                "key": "Females",
+                "value": "2300"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "91900"
+              },
+              {
+                "key": "Males",
+                "value": "32300"
+              },
+              {
+                "key": "Females",
+                "value": "59600"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.0.1",
+        "rowText": "Malay Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "69700"
+              },
+              {
+                "key": "Males",
+                "value": "31000"
+              },
+              {
+                "key": "Females",
+                "value": "38700"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31100"
+              },
+              {
+                "key": "Males",
+                "value": "18200"
+              },
+              {
+                "key": "Females",
+                "value": "12900"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29600"
+              },
+              {
+                "key": "Males",
+                "value": "17100"
+              },
+              {
+                "key": "Females",
+                "value": "12500"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1400"
+              },
+              {
+                "key": "Males",
+                "value": "1100"
+              },
+              {
+                "key": "Females",
+                "value": "300"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38600"
+              },
+              {
+                "key": "Males",
+                "value": "12800"
+              },
+              {
+                "key": "Females",
+                "value": "25800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.0.2",
+        "rowText": "Malay & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "155500"
+              },
+              {
+                "key": "Males",
+                "value": "80700"
+              },
+              {
+                "key": "Females",
+                "value": "74900"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "103200"
+              },
+              {
+                "key": "Males",
+                "value": "61600"
+              },
+              {
+                "key": "Females",
+                "value": "41600"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "98800"
+              },
+              {
+                "key": "Males",
+                "value": "59100"
+              },
+              {
+                "key": "Females",
+                "value": "39700"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4400"
+              },
+              {
+                "key": "Males",
+                "value": "2400"
+              },
+              {
+                "key": "Females",
+                "value": "2000"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "52300"
+              },
+              {
+                "key": "Males",
+                "value": "19100"
+              },
+              {
+                "key": "Females",
+                "value": "33200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "Indian Languages",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "88800"
+              },
+              {
+                "key": "Males",
+                "value": "43100"
+              },
+              {
+                "key": "Females",
+                "value": "45700"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "61600"
+              },
+              {
+                "key": "Males",
+                "value": "36200"
+              },
+              {
+                "key": "Females",
+                "value": "25400"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "58600"
+              },
+              {
+                "key": "Males",
+                "value": "34600"
+              },
+              {
+                "key": "Females",
+                "value": "24100"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3000"
+              },
+              {
+                "key": "Males",
+                "value": "1600"
+              },
+              {
+                "key": "Females",
+                "value": "1300"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27200"
+              },
+              {
+                "key": "Males",
+                "value": "6900"
+              },
+              {
+                "key": "Females",
+                "value": "20300"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5.1",
+        "rowText": "Tamil1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "70100"
+              },
+              {
+                "key": "Males",
+                "value": "33600"
+              },
+              {
+                "key": "Females",
+                "value": "36500"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "48500"
+              },
+              {
+                "key": "Males",
+                "value": "28200"
+              },
+              {
+                "key": "Females",
+                "value": "20400"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "46400"
+              },
+              {
+                "key": "Males",
+                "value": "27000"
+              },
+              {
+                "key": "Females",
+                "value": "19400"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2100"
+              },
+              {
+                "key": "Males",
+                "value": "1100"
+              },
+              {
+                "key": "Females",
+                "value": "1000"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21600"
+              },
+              {
+                "key": "Males",
+                "value": "5500"
+              },
+              {
+                "key": "Females",
+                "value": "16100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5.1.1",
+        "rowText": "Tamil Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16800"
+              },
+              {
+                "key": "Males",
+                "value": "7200"
+              },
+              {
+                "key": "Females",
+                "value": "9600"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10900"
+              },
+              {
+                "key": "Males",
+                "value": "6400"
+              },
+              {
+                "key": "Females",
+                "value": "4400"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10400"
+              },
+              {
+                "key": "Males",
+                "value": "6200"
+              },
+              {
+                "key": "Females",
+                "value": "4200"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "400"
+              },
+              {
+                "key": "Males",
+                "value": "200"
+              },
+              {
+                "key": "Females",
+                "value": "200"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5900"
+              },
+              {
+                "key": "Males",
+                "value": "800"
+              },
+              {
+                "key": "Females",
+                "value": "5100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5.1.2",
+        "rowText": "Tamil & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "52300"
+              },
+              {
+                "key": "Males",
+                "value": "25900"
+              },
+              {
+                "key": "Females",
+                "value": "26400"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "37200"
+              },
+              {
+                "key": "Males",
+                "value": "21300"
+              },
+              {
+                "key": "Females",
+                "value": "15900"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35500"
+              },
+              {
+                "key": "Males",
+                "value": "20400"
+              },
+              {
+                "key": "Females",
+                "value": "15200"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1600"
+              },
+              {
+                "key": "Males",
+                "value": "900"
+              },
+              {
+                "key": "Females",
+                "value": "700"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15100"
+              },
+              {
+                "key": "Males",
+                "value": "4600"
+              },
+              {
+                "key": "Females",
+                "value": "10600"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5.2",
+        "rowText": "Other Indian Languages1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18700"
+              },
+              {
+                "key": "Males",
+                "value": "9500"
+              },
+              {
+                "key": "Females",
+                "value": "9200"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13100"
+              },
+              {
+                "key": "Males",
+                "value": "8000"
+              },
+              {
+                "key": "Females",
+                "value": "5000"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12200"
+              },
+              {
+                "key": "Males",
+                "value": "7500"
+              },
+              {
+                "key": "Females",
+                "value": "4700"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "800"
+              },
+              {
+                "key": "Males",
+                "value": "500"
+              },
+              {
+                "key": "Females",
+                "value": "300"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5600"
+              },
+              {
+                "key": "Males",
+                "value": "1500"
+              },
+              {
+                "key": "Females",
+                "value": "4200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5.2.1",
+        "rowText": "Other Indian Language & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13300"
+              },
+              {
+                "key": "Males",
+                "value": "6700"
+              },
+              {
+                "key": "Females",
+                "value": "6500"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9400"
+              },
+              {
+                "key": "Males",
+                "value": "5700"
+              },
+              {
+                "key": "Females",
+                "value": "3800"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8900"
+              },
+              {
+                "key": "Males",
+                "value": "5300"
+              },
+              {
+                "key": "Females",
+                "value": "3500"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "600"
+              },
+              {
+                "key": "Males",
+                "value": "400"
+              },
+              {
+                "key": "Females",
+                "value": "200"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3800"
+              },
+              {
+                "key": "Males",
+                "value": "1000"
+              },
+              {
+                "key": "Females",
+                "value": "2800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "Other Languages1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21300"
+              },
+              {
+                "key": "Males",
+                "value": "9200"
+              },
+              {
+                "key": "Females",
+                "value": "12100"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16100"
+              },
+              {
+                "key": "Males",
+                "value": "7800"
+              },
+              {
+                "key": "Females",
+                "value": "8300"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15600"
+              },
+              {
+                "key": "Males",
+                "value": "7500"
+              },
+              {
+                "key": "Females",
+                "value": "8200"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "500"
+              },
+              {
+                "key": "Males",
+                "value": "300"
+              },
+              {
+                "key": "Females",
+                "value": "200"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5200"
+              },
+              {
+                "key": "Males",
+                "value": "1400"
+              },
+              {
+                "key": "Females",
+                "value": "3800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6.0.1",
+        "rowText": "Other Language & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14200"
+              },
+              {
+                "key": "Males",
+                "value": "6200"
+              },
+              {
+                "key": "Females",
+                "value": "7900"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10500"
+              },
+              {
+                "key": "Males",
+                "value": "5300"
+              },
+              {
+                "key": "Females",
+                "value": "5200"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Employed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10100"
+              },
+              {
+                "key": "Males",
+                "value": "5100"
+              },
+              {
+                "key": "Females",
+                "value": "5000"
+              }
+            ]
+          },
+          {
+            "key": "Labour Force - Unemployed",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "400"
+              },
+              {
+                "key": "Males",
+                "value": "200"
+              },
+              {
+                "key": "Females",
+                "value": "200"
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3700"
+              },
+              {
+                "key": "Males",
+                "value": "900"
+              },
+              {
+                "key": "Females",
+                "value": "2700"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

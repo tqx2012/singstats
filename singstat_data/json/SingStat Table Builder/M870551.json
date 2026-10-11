@@ -1,0 +1,72 @@
+{
+  "Data": {
+    "theme": "Society",
+    "subject": "Health",
+    "topic": "Indicators on Health",
+    "id": "M870551",
+    "groupTitle": null,
+    "title": "Percentage Of Bloodstream Infections Due To Selected Antimicrobial-Resistant Organisms, Annual",
+    "frequency": "Annual",
+    "adjustmentType": null,
+    "datasource": "GLOBAL SDG INDICATORS DATABASE",
+    "footnote": "Data are obtained from selected sentinel sites which may be updated from time to time.  Data are used for SDG 3.d.2 'Percentage of bloodstream infections due to selected antimicrobial-resistant organisms'. Please refer to the Sustainable Development Goals (SDG) Global Metadata (https://unstats.un.org/sdgs/metadata) for more information on SDG 3.d.2.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "11/07/2025",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "sortBy": null,
+    "timeFilter": null,
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "seriesNo": "1",
+        "rowText": "Escherichia Coli Resistant To 3rd-Generation Cephalosporin (e.g. ESBL- E. Coli)",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2019",
+            "value": "28.69"
+          },
+          {
+            "key": "2020",
+            "value": "30.48"
+          },
+          {
+            "key": "2021",
+            "value": "25.8"
+          },
+          {
+            "key": "2022",
+            "value": "24.97"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2",
+        "rowText": "Methicillin-Resistant Staphylococcus Aureus (MRSA)",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2019",
+            "value": "28.65"
+          },
+          {
+            "key": "2021",
+            "value": "32.5"
+          },
+          {
+            "key": "2022",
+            "value": "35.71"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

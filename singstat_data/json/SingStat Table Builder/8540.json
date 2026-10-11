@@ -1,0 +1,554 @@
+{
+  "Data": {
+    "id": "8540",
+    "tableType": "Census of Population 2010",
+    "groupTitle": null,
+    "title": "Resident Households by Type of Dwelling and Highest Qualification Attained of Head of Household",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data exclude heads who were students.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "24/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1142295"
+          },
+          {
+            "key": "No Qualification",
+            "value": "170620"
+          },
+          {
+            "key": "Primary",
+            "value": "86812"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "135631"
+          },
+          {
+            "key": "Secondary",
+            "value": "218992"
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "value": "112382"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "81384"
+          },
+          {
+            "key": "Professional Qualification and Other Diploma",
+            "value": "66065"
+          },
+          {
+            "key": "University",
+            "value": "270408"
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "HDB Dwellings*",
+        "uoM": "Number",
+        "footnote": "* Includes non-privatised Housing and Urban Development Corporation (HUDC) flats.",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "941128"
+          },
+          {
+            "key": "No Qualification",
+            "value": "162537"
+          },
+          {
+            "key": "Primary",
+            "value": "82599"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "125278"
+          },
+          {
+            "key": "Secondary",
+            "value": "193898"
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "value": "96170"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "67010"
+          },
+          {
+            "key": "Professional Qualification and Other Diploma",
+            "value": "50399"
+          },
+          {
+            "key": "University",
+            "value": "163238"
+          }
+        ]
+      },
+      {
+        "rowNo": "2.1",
+        "rowText": "1- and 2-Room Flats^",
+        "uoM": "Number",
+        "footnote": "^ Includes HDB studio apartments. ",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "52218"
+          },
+          {
+            "key": "No Qualification",
+            "value": "25121"
+          },
+          {
+            "key": "Primary",
+            "value": "8507"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "8197"
+          },
+          {
+            "key": "Secondary",
+            "value": "6500"
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "value": "2126"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "493"
+          },
+          {
+            "key": "Professional Qualification and Other Diploma",
+            "value": "456"
+          },
+          {
+            "key": "University",
+            "value": "818"
+          }
+        ]
+      },
+      {
+        "rowNo": "2.2",
+        "rowText": "3-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "229062"
+          },
+          {
+            "key": "No Qualification",
+            "value": "58387"
+          },
+          {
+            "key": "Primary",
+            "value": "25919"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "34701"
+          },
+          {
+            "key": "Secondary",
+            "value": "43790"
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "value": "18932"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "10445"
+          },
+          {
+            "key": "Professional Qualification and Other Diploma",
+            "value": "10092"
+          },
+          {
+            "key": "University",
+            "value": "26796"
+          }
+        ]
+      },
+      {
+        "rowNo": "2.3",
+        "rowText": "4-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "364410"
+          },
+          {
+            "key": "No Qualification",
+            "value": "59767"
+          },
+          {
+            "key": "Primary",
+            "value": "35055"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "54288"
+          },
+          {
+            "key": "Secondary",
+            "value": "79156"
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "value": "38817"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "23725"
+          },
+          {
+            "key": "Professional Qualification and Other Diploma",
+            "value": "18308"
+          },
+          {
+            "key": "University",
+            "value": "55292"
+          }
+        ]
+      },
+      {
+        "rowNo": "2.4",
+        "rowText": "5-Room and Executive Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "292532"
+          },
+          {
+            "key": "No Qualification",
+            "value": "19201"
+          },
+          {
+            "key": "Primary",
+            "value": "13050"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "27944"
+          },
+          {
+            "key": "Secondary",
+            "value": "63973"
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "value": "35976"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "32090"
+          },
+          {
+            "key": "Professional Qualification and Other Diploma",
+            "value": "21186"
+          },
+          {
+            "key": "University",
+            "value": "79114"
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "Condominiums and Other Apartments",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "131108"
+          },
+          {
+            "key": "No Qualification",
+            "value": "2816"
+          },
+          {
+            "key": "Primary",
+            "value": "1695"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "5306"
+          },
+          {
+            "key": "Secondary",
+            "value": "14451"
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "value": "9885"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "10162"
+          },
+          {
+            "key": "Professional Qualification and Other Diploma",
+            "value": "10189"
+          },
+          {
+            "key": "University",
+            "value": "76606"
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "Landed Properties",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "64771"
+          },
+          {
+            "key": "No Qualification",
+            "value": "4313"
+          },
+          {
+            "key": "Primary",
+            "value": "2085"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "4143"
+          },
+          {
+            "key": "Secondary",
+            "value": "9625"
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "value": "5858"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "3943"
+          },
+          {
+            "key": "Professional Qualification and Other Diploma",
+            "value": "5229"
+          },
+          {
+            "key": "University",
+            "value": "29574"
+          }
+        ]
+      },
+      {
+        "rowNo": "4.1",
+        "rowText": "Bungalows",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "8286"
+          },
+          {
+            "key": "No Qualification",
+            "value": "429"
+          },
+          {
+            "key": "Primary",
+            "value": "172"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "436"
+          },
+          {
+            "key": "Secondary",
+            "value": "950"
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "value": "814"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "334"
+          },
+          {
+            "key": "Professional Qualification and Other Diploma",
+            "value": "568"
+          },
+          {
+            "key": "University",
+            "value": "4582"
+          }
+        ]
+      },
+      {
+        "rowNo": "4.2",
+        "rowText": "Semi-Detached Bungalows",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "19486"
+          },
+          {
+            "key": "No Qualification",
+            "value": "1250"
+          },
+          {
+            "key": "Primary",
+            "value": "661"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "1254"
+          },
+          {
+            "key": "Secondary",
+            "value": "2765"
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "value": "1600"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "1117"
+          },
+          {
+            "key": "Professional Qualification and Other Diploma",
+            "value": "1477"
+          },
+          {
+            "key": "University",
+            "value": "9362"
+          }
+        ]
+      },
+      {
+        "rowNo": "4.3",
+        "rowText": "Terrace Houses",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "36999"
+          },
+          {
+            "key": "No Qualification",
+            "value": "2634"
+          },
+          {
+            "key": "Primary",
+            "value": "1253"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "2453"
+          },
+          {
+            "key": "Secondary",
+            "value": "5910"
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "value": "3443"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "2492"
+          },
+          {
+            "key": "Professional Qualification and Other Diploma",
+            "value": "3184"
+          },
+          {
+            "key": "University",
+            "value": "15629"
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "5288"
+          },
+          {
+            "key": "No Qualification",
+            "value": "954"
+          },
+          {
+            "key": "Primary",
+            "value": "433"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "904"
+          },
+          {
+            "key": "Secondary",
+            "value": "1019"
+          },
+          {
+            "key": "Post-Secondary (Non-Tertiary)",
+            "value": "471"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "270"
+          },
+          {
+            "key": "Professional Qualification and Other Diploma",
+            "value": "248"
+          },
+          {
+            "key": "University",
+            "value": "990"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

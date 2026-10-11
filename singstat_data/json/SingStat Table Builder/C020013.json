@@ -1,0 +1,1856 @@
+{
+  "Data": {
+    "id": "C020013",
+    "tableType": "General Household Survey 2025",
+    "groupTitle": null,
+    "title": "Resident Ever-Married Females Aged 15 Years and Over by Age Group, Number of Children Born and Labour Force Status",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: Data has been rounded to the nearest 100 and may not add up due to rounding.\n‘ - ’ denotes Nil or negligible. Users are advised to exercise caution when drawing inferences from survey estimates with small sample sizes or those denoted as ‘ - ’, as these estimates are based on a sample survey and subject to sampling variability. For more information, refer to the write up on the GHS 2025 Sample Design and Sampling Variability (https://go.gov.sg/ghs2025-sample-design-and-variability).",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Births and Fertility",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1370200"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "207700"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "321300"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "511200"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "226600"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "67400"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "36000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "852800"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "162300"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "217200"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "320800"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "115100"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "28700"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "8600"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "517400"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "45400"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "104100"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "190300"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "111500"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "38700"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "27400"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "15 - 24",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2700"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "800"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "1200"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "600"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "100"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "-"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2300"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "700"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "1100"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "500"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "100"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "-"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "400"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "100"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "100"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "200"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "100"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "-"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "25 - 29",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29200"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "18400"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "6800"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "2600"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "900"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "300"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "26700"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "17400"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "6300"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "2100"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "800"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "100"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2500"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "1100"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "600"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "500"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "100"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "200"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "30 - 34",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "99700"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "39200"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "32400"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "19900"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "5600"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "1900"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "600"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "88900"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "37000"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "29300"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "17100"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "3900"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "1300"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "300"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10900"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "2300"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "3200"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "2700"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "1800"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "600"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "300"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "35 - 39",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "131000"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "28700"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "37800"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "46900"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "12600"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "3600"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "1300"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "116500"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "26200"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "34600"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "41500"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "10500"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "3100"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "600"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14400"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "2600"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "3200"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "5400"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "2100"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "500"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "700"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "40 - 44",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "141600"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "23500"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "35400"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "56500"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "18700"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "5300"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "2200"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "119000"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "20200"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "29900"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "48300"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "15300"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "3700"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "1400"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22600"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "3200"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "5500"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "8200"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "3400"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "1500"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "800"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "45 - 49",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "140400"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "21900"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "36500"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "57800"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "17800"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "4800"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "1700"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "113400"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "18100"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "29300"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "47100"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "14200"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "3500"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "1100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27000"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "3700"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "7200"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "10700"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "3600"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "1300"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "600"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "50 - 54",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "145200"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "19100"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "35900"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "61700"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "21400"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "5500"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "1500"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "112500"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "15800"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "27600"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "49100"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "15700"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "3600"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "700"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "32700"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "3300"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "8300"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "12700"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "5800"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "1900"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "800"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "55 - 59",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "141600"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "17200"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "36100"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "56400"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "22900"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "7000"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "2000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "96000"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "12200"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "24300"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "39400"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "14700"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "4400"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "1000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45600"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "5000"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "11800"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "16900"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "8200"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "2600"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "1000"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.9",
+        "rowText": "60 - 64",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "134900"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "11400"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "23400"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "58400"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "32400"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "7000"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "2400"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "76800"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "7300"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "13900"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "34900"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "16500"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "3300"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "1000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "58100"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "4100"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "9500"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "23500"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "15900"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "3700"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "1300"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.10",
+        "rowText": "65 - 69",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "130800"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "10100"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "21900"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "55000"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "32500"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "8600"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "2700"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "53800"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "4800"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "10500"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "22200"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "12300"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "2800"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "1000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "77000"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "5300"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "11300"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "32800"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "20100"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "5800"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "1700"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.11",
+        "rowText": "70 - 74",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "109200"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "7100"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "19600"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "46200"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "26600"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "7600"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "2100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29300"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "1600"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "5600"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "12800"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "7000"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "1800"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "600"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "79900"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "5500"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "14000"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "33400"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "19600"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "5800"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "1600"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.12",
+        "rowText": "75 - 79",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "78600"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "5000"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "15100"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "30400"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "18800"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "6500"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "2900"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13900"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "900"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "3500"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "4800"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "3700"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "700"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "200"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "64700"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "4100"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "11500"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "25600"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "15000"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "5700"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "2700"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.13",
+        "rowText": "80 - 84",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41300"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "3000"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "9400"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "10400"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "8900"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "5300"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "4300"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2600"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "100"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "900"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "600"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "200"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "300"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "400"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38700"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "2800"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "8500"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "9800"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "8700"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "5000"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "3900"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.14",
+        "rowText": "85 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44200"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "2300"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "9800"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "8300"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "7400"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "4100"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "12300"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1400"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "100"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "500"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "500"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "300"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "100"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Outside the Labour Force",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "42800"
+              },
+              {
+                "key": "Number of Children Born",
+                "columns": [
+                  {
+                    "key": "None",
+                    "value": "2200"
+                  },
+                  {
+                    "key": "1 Child",
+                    "value": "9400"
+                  },
+                  {
+                    "key": "2 Children",
+                    "value": "7900"
+                  },
+                  {
+                    "key": "3 Children",
+                    "value": "7100"
+                  },
+                  {
+                    "key": "4 Children",
+                    "value": "4000"
+                  },
+                  {
+                    "key": "5 or More Children",
+                    "value": "12200"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

@@ -1,0 +1,964 @@
+{
+  "Data": {
+    "theme": "Industry",
+    "subject": "Enterprises and Corporate Sector",
+    "topic": "Corporate Sector Performance",
+    "id": "M085571",
+    "groupTitle": null,
+    "title": "Profit Before Tax By Broad Industry, Annual",
+    "frequency": "Annual",
+    "adjustmentType": null,
+    "datasource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "The industries are classified according to Singapore Standard Industrial Classification 2025. Please refer to the Technical Notes (https://www.singstat.gov.sg/find-data/explore-data-themes/industry/enterprises-and-corporate-sector/our-data-explained) for more information on the methodology and concepts of Singapore’s Corporate Sector. Dividends Paid By Industry - This table has been discontinued with effect from April 2026.  Interest Paid By Industry - This table has been discontinued with effect from April 2026. ",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "27/04/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "sortBy": null,
+    "timeFilter": null,
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "seriesNo": "1",
+        "rowText": "Total",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "154788"
+          },
+          {
+            "key": "2010",
+            "value": "190146"
+          },
+          {
+            "key": "2011",
+            "value": "180019"
+          },
+          {
+            "key": "2012",
+            "value": "208354"
+          },
+          {
+            "key": "2013",
+            "value": "200239"
+          },
+          {
+            "key": "2014",
+            "value": "234804"
+          },
+          {
+            "key": "2015",
+            "value": "218650"
+          },
+          {
+            "key": "2016",
+            "value": "253168"
+          },
+          {
+            "key": "2017",
+            "value": "304816"
+          },
+          {
+            "key": "2018",
+            "value": "493006"
+          },
+          {
+            "key": "2019",
+            "value": "353733"
+          },
+          {
+            "key": "2020",
+            "value": "511773"
+          },
+          {
+            "key": "2021",
+            "value": "642099"
+          },
+          {
+            "key": "2022",
+            "value": "489762"
+          },
+          {
+            "key": "2023",
+            "value": "580393"
+          },
+          {
+            "key": "2024",
+            "value": "698431"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.1",
+        "rowText": "Manufacturing",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "31787"
+          },
+          {
+            "key": "2010",
+            "value": "33839"
+          },
+          {
+            "key": "2011",
+            "value": "31599"
+          },
+          {
+            "key": "2012",
+            "value": "38130"
+          },
+          {
+            "key": "2013",
+            "value": "30652"
+          },
+          {
+            "key": "2014",
+            "value": "40452"
+          },
+          {
+            "key": "2015",
+            "value": "37255"
+          },
+          {
+            "key": "2016",
+            "value": "45655"
+          },
+          {
+            "key": "2017",
+            "value": "49887"
+          },
+          {
+            "key": "2018",
+            "value": "158093"
+          },
+          {
+            "key": "2019",
+            "value": "62856"
+          },
+          {
+            "key": "2020",
+            "value": "80160"
+          },
+          {
+            "key": "2021",
+            "value": "77208"
+          },
+          {
+            "key": "2022",
+            "value": "84751"
+          },
+          {
+            "key": "2023",
+            "value": "57303"
+          },
+          {
+            "key": "2024",
+            "value": "76686"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.2",
+        "rowText": "Construction",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "3165"
+          },
+          {
+            "key": "2010",
+            "value": "3391"
+          },
+          {
+            "key": "2011",
+            "value": "3134"
+          },
+          {
+            "key": "2012",
+            "value": "2292"
+          },
+          {
+            "key": "2013",
+            "value": "1608"
+          },
+          {
+            "key": "2014",
+            "value": "1752"
+          },
+          {
+            "key": "2015",
+            "value": "1321"
+          },
+          {
+            "key": "2016",
+            "value": "842"
+          },
+          {
+            "key": "2017",
+            "value": "1029"
+          },
+          {
+            "key": "2018",
+            "value": "527"
+          },
+          {
+            "key": "2019",
+            "value": "591"
+          },
+          {
+            "key": "2020",
+            "value": "-672"
+          },
+          {
+            "key": "2021",
+            "value": "89"
+          },
+          {
+            "key": "2022",
+            "value": "170"
+          },
+          {
+            "key": "2023",
+            "value": "668"
+          },
+          {
+            "key": "2024",
+            "value": "1496"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.3",
+        "rowText": "Wholesale & Retail Trade",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "24706"
+          },
+          {
+            "key": "2010",
+            "value": "28993"
+          },
+          {
+            "key": "2011",
+            "value": "34772"
+          },
+          {
+            "key": "2012",
+            "value": "37522"
+          },
+          {
+            "key": "2013",
+            "value": "39443"
+          },
+          {
+            "key": "2014",
+            "value": "40791"
+          },
+          {
+            "key": "2015",
+            "value": "44432"
+          },
+          {
+            "key": "2016",
+            "value": "40539"
+          },
+          {
+            "key": "2017",
+            "value": "48248"
+          },
+          {
+            "key": "2018",
+            "value": "50022"
+          },
+          {
+            "key": "2019",
+            "value": "52908"
+          },
+          {
+            "key": "2020",
+            "value": "98754"
+          },
+          {
+            "key": "2021",
+            "value": "90164"
+          },
+          {
+            "key": "2022",
+            "value": "116549"
+          },
+          {
+            "key": "2023",
+            "value": "115055"
+          },
+          {
+            "key": "2024",
+            "value": "117603"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.4",
+        "rowText": "Transportation & Storage",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "6093"
+          },
+          {
+            "key": "2010",
+            "value": "3714"
+          },
+          {
+            "key": "2011",
+            "value": "3094"
+          },
+          {
+            "key": "2012",
+            "value": "3673"
+          },
+          {
+            "key": "2013",
+            "value": "4517"
+          },
+          {
+            "key": "2014",
+            "value": "5816"
+          },
+          {
+            "key": "2015",
+            "value": "8879"
+          },
+          {
+            "key": "2016",
+            "value": "34"
+          },
+          {
+            "key": "2017",
+            "value": "7476"
+          },
+          {
+            "key": "2018",
+            "value": "2325"
+          },
+          {
+            "key": "2019",
+            "value": "2509"
+          },
+          {
+            "key": "2020",
+            "value": "9340"
+          },
+          {
+            "key": "2021",
+            "value": "66017"
+          },
+          {
+            "key": "2022",
+            "value": "90132"
+          },
+          {
+            "key": "2023",
+            "value": "29310"
+          },
+          {
+            "key": "2024",
+            "value": "46573"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.5",
+        "rowText": "Accommodation & Food Services",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "1076"
+          },
+          {
+            "key": "2010",
+            "value": "1085"
+          },
+          {
+            "key": "2011",
+            "value": "1458"
+          },
+          {
+            "key": "2012",
+            "value": "1139"
+          },
+          {
+            "key": "2013",
+            "value": "1209"
+          },
+          {
+            "key": "2014",
+            "value": "1982"
+          },
+          {
+            "key": "2015",
+            "value": "1436"
+          },
+          {
+            "key": "2016",
+            "value": "1037"
+          },
+          {
+            "key": "2017",
+            "value": "1505"
+          },
+          {
+            "key": "2018",
+            "value": "1148"
+          },
+          {
+            "key": "2019",
+            "value": "800"
+          },
+          {
+            "key": "2020",
+            "value": "-1094"
+          },
+          {
+            "key": "2021",
+            "value": "-210"
+          },
+          {
+            "key": "2022",
+            "value": "1392"
+          },
+          {
+            "key": "2023",
+            "value": "1783"
+          },
+          {
+            "key": "2024",
+            "value": "2026"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.6",
+        "rowText": "Information & Communications",
+        "uoM": "Million Dollars",
+        "footnote": "The Information & Communications industry consists of Section J: Publishing, Broadcasting, and Content Production and Distribution Activities, and Section K: Telecommunications, Computer Programming, Consultancy, Computing Infrastructure, and Other Information Service Activities according to the Singapore Standard Industrial Classification 2025.",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "3576"
+          },
+          {
+            "key": "2010",
+            "value": "10392"
+          },
+          {
+            "key": "2011",
+            "value": "7315"
+          },
+          {
+            "key": "2012",
+            "value": "11273"
+          },
+          {
+            "key": "2013",
+            "value": "6428"
+          },
+          {
+            "key": "2014",
+            "value": "6767"
+          },
+          {
+            "key": "2015",
+            "value": "5672"
+          },
+          {
+            "key": "2016",
+            "value": "2126"
+          },
+          {
+            "key": "2017",
+            "value": "6906"
+          },
+          {
+            "key": "2018",
+            "value": "3246"
+          },
+          {
+            "key": "2019",
+            "value": "3490"
+          },
+          {
+            "key": "2020",
+            "value": "2936"
+          },
+          {
+            "key": "2021",
+            "value": "3027"
+          },
+          {
+            "key": "2022",
+            "value": "-2713"
+          },
+          {
+            "key": "2023",
+            "value": "606"
+          },
+          {
+            "key": "2024",
+            "value": "9501"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.7",
+        "rowText": "Publishing, Broadcasting & Content Production",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "-"
+          },
+          {
+            "key": "2010",
+            "value": "-"
+          },
+          {
+            "key": "2011",
+            "value": "-"
+          },
+          {
+            "key": "2012",
+            "value": "-"
+          },
+          {
+            "key": "2013",
+            "value": "-"
+          },
+          {
+            "key": "2014",
+            "value": "-"
+          },
+          {
+            "key": "2015",
+            "value": "-"
+          },
+          {
+            "key": "2016",
+            "value": "-"
+          },
+          {
+            "key": "2017",
+            "value": "-"
+          },
+          {
+            "key": "2018",
+            "value": "-"
+          },
+          {
+            "key": "2019",
+            "value": "-"
+          },
+          {
+            "key": "2020",
+            "value": "1725"
+          },
+          {
+            "key": "2021",
+            "value": "3401"
+          },
+          {
+            "key": "2022",
+            "value": "2854"
+          },
+          {
+            "key": "2023",
+            "value": "2786"
+          },
+          {
+            "key": "2024",
+            "value": "5302"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.8",
+        "rowText": "Telecommunications & Information Technology Services",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "-"
+          },
+          {
+            "key": "2010",
+            "value": "-"
+          },
+          {
+            "key": "2011",
+            "value": "-"
+          },
+          {
+            "key": "2012",
+            "value": "-"
+          },
+          {
+            "key": "2013",
+            "value": "-"
+          },
+          {
+            "key": "2014",
+            "value": "-"
+          },
+          {
+            "key": "2015",
+            "value": "-"
+          },
+          {
+            "key": "2016",
+            "value": "-"
+          },
+          {
+            "key": "2017",
+            "value": "-"
+          },
+          {
+            "key": "2018",
+            "value": "-"
+          },
+          {
+            "key": "2019",
+            "value": "-"
+          },
+          {
+            "key": "2020",
+            "value": "1212"
+          },
+          {
+            "key": "2021",
+            "value": "-374"
+          },
+          {
+            "key": "2022",
+            "value": "-5567"
+          },
+          {
+            "key": "2023",
+            "value": "-2180"
+          },
+          {
+            "key": "2024",
+            "value": "4198"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.9",
+        "rowText": "Finance & Insurance",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "62450"
+          },
+          {
+            "key": "2010",
+            "value": "74431"
+          },
+          {
+            "key": "2011",
+            "value": "65694"
+          },
+          {
+            "key": "2012",
+            "value": "83570"
+          },
+          {
+            "key": "2013",
+            "value": "83540"
+          },
+          {
+            "key": "2014",
+            "value": "104969"
+          },
+          {
+            "key": "2015",
+            "value": "85293"
+          },
+          {
+            "key": "2016",
+            "value": "132024"
+          },
+          {
+            "key": "2017",
+            "value": "149364"
+          },
+          {
+            "key": "2018",
+            "value": "178523"
+          },
+          {
+            "key": "2019",
+            "value": "189297"
+          },
+          {
+            "key": "2020",
+            "value": "302619"
+          },
+          {
+            "key": "2021",
+            "value": "388056"
+          },
+          {
+            "key": "2022",
+            "value": "202545"
+          },
+          {
+            "key": "2023",
+            "value": "334727"
+          },
+          {
+            "key": "2024",
+            "value": "398843"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.10",
+        "rowText": "Real Estate",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "7239"
+          },
+          {
+            "key": "2010",
+            "value": "22069"
+          },
+          {
+            "key": "2011",
+            "value": "21361"
+          },
+          {
+            "key": "2012",
+            "value": "19554"
+          },
+          {
+            "key": "2013",
+            "value": "20461"
+          },
+          {
+            "key": "2014",
+            "value": "19567"
+          },
+          {
+            "key": "2015",
+            "value": "17635"
+          },
+          {
+            "key": "2016",
+            "value": "13624"
+          },
+          {
+            "key": "2017",
+            "value": "16368"
+          },
+          {
+            "key": "2018",
+            "value": "16674"
+          },
+          {
+            "key": "2019",
+            "value": "12954"
+          },
+          {
+            "key": "2020",
+            "value": "4816"
+          },
+          {
+            "key": "2021",
+            "value": "14512"
+          },
+          {
+            "key": "2022",
+            "value": "17000"
+          },
+          {
+            "key": "2023",
+            "value": "14584"
+          },
+          {
+            "key": "2024",
+            "value": "14924"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.11",
+        "rowText": "Professional And Administrative & Support Services",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "6936"
+          },
+          {
+            "key": "2010",
+            "value": "8168"
+          },
+          {
+            "key": "2011",
+            "value": "5985"
+          },
+          {
+            "key": "2012",
+            "value": "6487"
+          },
+          {
+            "key": "2013",
+            "value": "7494"
+          },
+          {
+            "key": "2014",
+            "value": "6166"
+          },
+          {
+            "key": "2015",
+            "value": "9894"
+          },
+          {
+            "key": "2016",
+            "value": "12775"
+          },
+          {
+            "key": "2017",
+            "value": "18420"
+          },
+          {
+            "key": "2018",
+            "value": "75235"
+          },
+          {
+            "key": "2019",
+            "value": "23909"
+          },
+          {
+            "key": "2020",
+            "value": "15383"
+          },
+          {
+            "key": "2021",
+            "value": "-1619"
+          },
+          {
+            "key": "2022",
+            "value": "-29760"
+          },
+          {
+            "key": "2023",
+            "value": "12503"
+          },
+          {
+            "key": "2024",
+            "value": "16980"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.12",
+        "rowText": "Others",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "7760"
+          },
+          {
+            "key": "2010",
+            "value": "4065"
+          },
+          {
+            "key": "2011",
+            "value": "5608"
+          },
+          {
+            "key": "2012",
+            "value": "4715"
+          },
+          {
+            "key": "2013",
+            "value": "4887"
+          },
+          {
+            "key": "2014",
+            "value": "6541"
+          },
+          {
+            "key": "2015",
+            "value": "6834"
+          },
+          {
+            "key": "2016",
+            "value": "4512"
+          },
+          {
+            "key": "2017",
+            "value": "5612"
+          },
+          {
+            "key": "2018",
+            "value": "7212"
+          },
+          {
+            "key": "2019",
+            "value": "4417"
+          },
+          {
+            "key": "2020",
+            "value": "-469"
+          },
+          {
+            "key": "2021",
+            "value": "4855"
+          },
+          {
+            "key": "2022",
+            "value": "9697"
+          },
+          {
+            "key": "2023",
+            "value": "13855"
+          },
+          {
+            "key": "2024",
+            "value": "13798"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

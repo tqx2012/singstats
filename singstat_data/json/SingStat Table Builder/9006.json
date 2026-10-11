@@ -1,0 +1,2696 @@
+{
+  "Data": {
+    "id": "9006",
+    "tableType": "Census of Population 2000",
+    "groupTitle": null,
+    "title": "Resident Working Persons Aged 15 Years and Over by Usual Mode of Transport to Work, Monthly Income from Work and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: Data exclude working persons who were overseas for at least 6 months.Income from work includes employer CPF contributions.Data on income from work have been updated to include Additional MediSave Contributions from employers with the release of the Key Household Income Trends 2025 report in February 2026. For more information, you may refer to the Technical Note on Household Income (https://go.gov.sg/khit2025-tech-note) which explains the concepts and components of our household income coverage.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "09/07/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Mode of Transport",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1482579"
+              },
+              {
+                "key": "Males",
+                "value": "889482"
+              },
+              {
+                "key": "Females",
+                "value": "593097"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "149435"
+              },
+              {
+                "key": "Males",
+                "value": "86413"
+              },
+              {
+                "key": "Females",
+                "value": "63022"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "196190"
+              },
+              {
+                "key": "Males",
+                "value": "100629"
+              },
+              {
+                "key": "Females",
+                "value": "95561"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "206070"
+              },
+              {
+                "key": "Males",
+                "value": "114911"
+              },
+              {
+                "key": "Females",
+                "value": "91159"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "193804"
+              },
+              {
+                "key": "Males",
+                "value": "111580"
+              },
+              {
+                "key": "Females",
+                "value": "82224"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "147788"
+              },
+              {
+                "key": "Males",
+                "value": "86035"
+              },
+              {
+                "key": "Females",
+                "value": "61753"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "225933"
+              },
+              {
+                "key": "Males",
+                "value": "141623"
+              },
+              {
+                "key": "Females",
+                "value": "84310"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "117088"
+              },
+              {
+                "key": "Males",
+                "value": "74949"
+              },
+              {
+                "key": "Females",
+                "value": "42139"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "72640"
+              },
+              {
+                "key": "Males",
+                "value": "48577"
+              },
+              {
+                "key": "Females",
+                "value": "24062"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "173631"
+              },
+              {
+                "key": "Males",
+                "value": "124765"
+              },
+              {
+                "key": "Females",
+                "value": "48866"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "No Transport Required",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "90298"
+              },
+              {
+                "key": "Males",
+                "value": "52247"
+              },
+              {
+                "key": "Females",
+                "value": "38050"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22442"
+              },
+              {
+                "key": "Males",
+                "value": "9208"
+              },
+              {
+                "key": "Females",
+                "value": "13233"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24170"
+              },
+              {
+                "key": "Males",
+                "value": "13920"
+              },
+              {
+                "key": "Females",
+                "value": "10250"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17380"
+              },
+              {
+                "key": "Males",
+                "value": "12174"
+              },
+              {
+                "key": "Females",
+                "value": "5206"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9663"
+              },
+              {
+                "key": "Males",
+                "value": "6457"
+              },
+              {
+                "key": "Females",
+                "value": "3206"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5056"
+              },
+              {
+                "key": "Males",
+                "value": "3239"
+              },
+              {
+                "key": "Females",
+                "value": "1817"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5684"
+              },
+              {
+                "key": "Males",
+                "value": "3494"
+              },
+              {
+                "key": "Females",
+                "value": "2190"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2273"
+              },
+              {
+                "key": "Males",
+                "value": "1427"
+              },
+              {
+                "key": "Females",
+                "value": "846"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1261"
+              },
+              {
+                "key": "Males",
+                "value": "730"
+              },
+              {
+                "key": "Females",
+                "value": "531"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2369"
+              },
+              {
+                "key": "Males",
+                "value": "1597"
+              },
+              {
+                "key": "Females",
+                "value": "772"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "One Mode of Transport",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1086999"
+              },
+              {
+                "key": "Males",
+                "value": "679634"
+              },
+              {
+                "key": "Females",
+                "value": "407365"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "98215"
+              },
+              {
+                "key": "Males",
+                "value": "57534"
+              },
+              {
+                "key": "Females",
+                "value": "40681"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "137732"
+              },
+              {
+                "key": "Males",
+                "value": "71062"
+              },
+              {
+                "key": "Females",
+                "value": "66670"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "146133"
+              },
+              {
+                "key": "Males",
+                "value": "83568"
+              },
+              {
+                "key": "Females",
+                "value": "62564"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "140210"
+              },
+              {
+                "key": "Males",
+                "value": "84949"
+              },
+              {
+                "key": "Females",
+                "value": "55261"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "107391"
+              },
+              {
+                "key": "Males",
+                "value": "66181"
+              },
+              {
+                "key": "Females",
+                "value": "41210"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "166605"
+              },
+              {
+                "key": "Males",
+                "value": "110316"
+              },
+              {
+                "key": "Females",
+                "value": "56289"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "87439"
+              },
+              {
+                "key": "Males",
+                "value": "58231"
+              },
+              {
+                "key": "Females",
+                "value": "29208"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "56176"
+              },
+              {
+                "key": "Males",
+                "value": "39313"
+              },
+              {
+                "key": "Females",
+                "value": "16863"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "147098"
+              },
+              {
+                "key": "Males",
+                "value": "108478"
+              },
+              {
+                "key": "Females",
+                "value": "38620"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.1",
+        "rowText": "Public Bus Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "370062"
+              },
+              {
+                "key": "Males",
+                "value": "182951"
+              },
+              {
+                "key": "Females",
+                "value": "187111"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "60859"
+              },
+              {
+                "key": "Males",
+                "value": "33705"
+              },
+              {
+                "key": "Females",
+                "value": "27153"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "70392"
+              },
+              {
+                "key": "Males",
+                "value": "30555"
+              },
+              {
+                "key": "Females",
+                "value": "39837"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "63040"
+              },
+              {
+                "key": "Males",
+                "value": "28714"
+              },
+              {
+                "key": "Females",
+                "value": "34326"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "51026"
+              },
+              {
+                "key": "Males",
+                "value": "23842"
+              },
+              {
+                "key": "Females",
+                "value": "27184"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36788"
+              },
+              {
+                "key": "Males",
+                "value": "18194"
+              },
+              {
+                "key": "Females",
+                "value": "18595"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "46048"
+              },
+              {
+                "key": "Males",
+                "value": "24578"
+              },
+              {
+                "key": "Females",
+                "value": "21471"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19459"
+              },
+              {
+                "key": "Males",
+                "value": "10494"
+              },
+              {
+                "key": "Females",
+                "value": "8966"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9433"
+              },
+              {
+                "key": "Males",
+                "value": "5407"
+              },
+              {
+                "key": "Females",
+                "value": "4025"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13017"
+              },
+              {
+                "key": "Males",
+                "value": "7463"
+              },
+              {
+                "key": "Females",
+                "value": "5554"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.2",
+        "rowText": "Private Chartered Bus/Van Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "98784"
+              },
+              {
+                "key": "Males",
+                "value": "60313"
+              },
+              {
+                "key": "Females",
+                "value": "38471"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5925"
+              },
+              {
+                "key": "Males",
+                "value": "2556"
+              },
+              {
+                "key": "Females",
+                "value": "3369"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16578"
+              },
+              {
+                "key": "Males",
+                "value": "6979"
+              },
+              {
+                "key": "Females",
+                "value": "9600"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19405"
+              },
+              {
+                "key": "Males",
+                "value": "11079"
+              },
+              {
+                "key": "Females",
+                "value": "8326"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17001"
+              },
+              {
+                "key": "Males",
+                "value": "10998"
+              },
+              {
+                "key": "Females",
+                "value": "6003"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12488"
+              },
+              {
+                "key": "Males",
+                "value": "8597"
+              },
+              {
+                "key": "Females",
+                "value": "3892"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15702"
+              },
+              {
+                "key": "Males",
+                "value": "11491"
+              },
+              {
+                "key": "Females",
+                "value": "4211"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6150"
+              },
+              {
+                "key": "Males",
+                "value": "4479"
+              },
+              {
+                "key": "Females",
+                "value": "1670"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2685"
+              },
+              {
+                "key": "Males",
+                "value": "2021"
+              },
+              {
+                "key": "Females",
+                "value": "664"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2851"
+              },
+              {
+                "key": "Males",
+                "value": "2114"
+              },
+              {
+                "key": "Females",
+                "value": "736"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.3",
+        "rowText": "MRT Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "127838"
+              },
+              {
+                "key": "Males",
+                "value": "58896"
+              },
+              {
+                "key": "Females",
+                "value": "68942"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9251"
+              },
+              {
+                "key": "Males",
+                "value": "5443"
+              },
+              {
+                "key": "Females",
+                "value": "3808"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14047"
+              },
+              {
+                "key": "Males",
+                "value": "5571"
+              },
+              {
+                "key": "Females",
+                "value": "8476"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18550"
+              },
+              {
+                "key": "Males",
+                "value": "7502"
+              },
+              {
+                "key": "Females",
+                "value": "11048"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19419"
+              },
+              {
+                "key": "Males",
+                "value": "7942"
+              },
+              {
+                "key": "Females",
+                "value": "11477"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15388"
+              },
+              {
+                "key": "Males",
+                "value": "6250"
+              },
+              {
+                "key": "Females",
+                "value": "9138"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22222"
+              },
+              {
+                "key": "Males",
+                "value": "10469"
+              },
+              {
+                "key": "Females",
+                "value": "11752"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11501"
+              },
+              {
+                "key": "Males",
+                "value": "5507"
+              },
+              {
+                "key": "Females",
+                "value": "5994"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6684"
+              },
+              {
+                "key": "Males",
+                "value": "3683"
+              },
+              {
+                "key": "Females",
+                "value": "3001"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10775"
+              },
+              {
+                "key": "Males",
+                "value": "6529"
+              },
+              {
+                "key": "Females",
+                "value": "4246"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.4",
+        "rowText": "Car Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "351553"
+              },
+              {
+                "key": "Males",
+                "value": "255094"
+              },
+              {
+                "key": "Females",
+                "value": "96460"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9493"
+              },
+              {
+                "key": "Males",
+                "value": "5483"
+              },
+              {
+                "key": "Females",
+                "value": "4009"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16014"
+              },
+              {
+                "key": "Males",
+                "value": "9829"
+              },
+              {
+                "key": "Females",
+                "value": "6185"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20448"
+              },
+              {
+                "key": "Males",
+                "value": "13437"
+              },
+              {
+                "key": "Females",
+                "value": "7011"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29969"
+              },
+              {
+                "key": "Males",
+                "value": "21144"
+              },
+              {
+                "key": "Females",
+                "value": "8826"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "26197"
+              },
+              {
+                "key": "Males",
+                "value": "18093"
+              },
+              {
+                "key": "Females",
+                "value": "8103"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "60029"
+              },
+              {
+                "key": "Males",
+                "value": "43664"
+              },
+              {
+                "key": "Females",
+                "value": "16365"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41654"
+              },
+              {
+                "key": "Males",
+                "value": "30491"
+              },
+              {
+                "key": "Females",
+                "value": "11163"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "33710"
+              },
+              {
+                "key": "Males",
+                "value": "25272"
+              },
+              {
+                "key": "Females",
+                "value": "8437"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "114040"
+              },
+              {
+                "key": "Males",
+                "value": "87680"
+              },
+              {
+                "key": "Females",
+                "value": "26359"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.5",
+        "rowText": "Taxi Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18412"
+              },
+              {
+                "key": "Males",
+                "value": "9180"
+              },
+              {
+                "key": "Females",
+                "value": "9232"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1348"
+              },
+              {
+                "key": "Males",
+                "value": "706"
+              },
+              {
+                "key": "Females",
+                "value": "642"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1328"
+              },
+              {
+                "key": "Males",
+                "value": "597"
+              },
+              {
+                "key": "Females",
+                "value": "731"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1357"
+              },
+              {
+                "key": "Males",
+                "value": "705"
+              },
+              {
+                "key": "Females",
+                "value": "652"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1625"
+              },
+              {
+                "key": "Males",
+                "value": "752"
+              },
+              {
+                "key": "Females",
+                "value": "873"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1465"
+              },
+              {
+                "key": "Males",
+                "value": "600"
+              },
+              {
+                "key": "Females",
+                "value": "865"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3390"
+              },
+              {
+                "key": "Males",
+                "value": "1439"
+              },
+              {
+                "key": "Females",
+                "value": "1951"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2339"
+              },
+              {
+                "key": "Males",
+                "value": "1095"
+              },
+              {
+                "key": "Females",
+                "value": "1244"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1396"
+              },
+              {
+                "key": "Males",
+                "value": "726"
+              },
+              {
+                "key": "Females",
+                "value": "670"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4164"
+              },
+              {
+                "key": "Males",
+                "value": "2560"
+              },
+              {
+                "key": "Females",
+                "value": "1604"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.6",
+        "rowText": "Lorry/Pickup Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31689"
+              },
+              {
+                "key": "Males",
+                "value": "30156"
+              },
+              {
+                "key": "Females",
+                "value": "1533"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2473"
+              },
+              {
+                "key": "Males",
+                "value": "2015"
+              },
+              {
+                "key": "Females",
+                "value": "459"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5495"
+              },
+              {
+                "key": "Males",
+                "value": "5057"
+              },
+              {
+                "key": "Females",
+                "value": "438"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7553"
+              },
+              {
+                "key": "Males",
+                "value": "7375"
+              },
+              {
+                "key": "Females",
+                "value": "178"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6627"
+              },
+              {
+                "key": "Males",
+                "value": "6455"
+              },
+              {
+                "key": "Females",
+                "value": "172"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3418"
+              },
+              {
+                "key": "Males",
+                "value": "3308"
+              },
+              {
+                "key": "Females",
+                "value": "110"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4370"
+              },
+              {
+                "key": "Males",
+                "value": "4248"
+              },
+              {
+                "key": "Females",
+                "value": "123"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1075"
+              },
+              {
+                "key": "Males",
+                "value": "1041"
+              },
+              {
+                "key": "Females",
+                "value": "33"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "360"
+              },
+              {
+                "key": "Males",
+                "value": "356"
+              },
+              {
+                "key": "Females",
+                "value": "5"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "317"
+              },
+              {
+                "key": "Males",
+                "value": "303"
+              },
+              {
+                "key": "Females",
+                "value": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.7",
+        "rowText": "Motorcycle/Scooter Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "70865"
+              },
+              {
+                "key": "Males",
+                "value": "68367"
+              },
+              {
+                "key": "Females",
+                "value": "2498"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5539"
+              },
+              {
+                "key": "Males",
+                "value": "5225"
+              },
+              {
+                "key": "Females",
+                "value": "314"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9618"
+              },
+              {
+                "key": "Males",
+                "value": "9057"
+              },
+              {
+                "key": "Females",
+                "value": "561"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12657"
+              },
+              {
+                "key": "Males",
+                "value": "12083"
+              },
+              {
+                "key": "Females",
+                "value": "574"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12115"
+              },
+              {
+                "key": "Males",
+                "value": "11699"
+              },
+              {
+                "key": "Females",
+                "value": "416"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10281"
+              },
+              {
+                "key": "Males",
+                "value": "9963"
+              },
+              {
+                "key": "Females",
+                "value": "319"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13158"
+              },
+              {
+                "key": "Males",
+                "value": "12937"
+              },
+              {
+                "key": "Females",
+                "value": "221"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4640"
+              },
+              {
+                "key": "Males",
+                "value": "4583"
+              },
+              {
+                "key": "Females",
+                "value": "57"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1583"
+              },
+              {
+                "key": "Males",
+                "value": "1562"
+              },
+              {
+                "key": "Females",
+                "value": "21"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1274"
+              },
+              {
+                "key": "Males",
+                "value": "1260"
+              },
+              {
+                "key": "Females",
+                "value": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.8",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17796"
+              },
+              {
+                "key": "Males",
+                "value": "14677"
+              },
+              {
+                "key": "Females",
+                "value": "3119"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3328"
+              },
+              {
+                "key": "Males",
+                "value": "2403"
+              },
+              {
+                "key": "Females",
+                "value": "926"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4259"
+              },
+              {
+                "key": "Males",
+                "value": "3418"
+              },
+              {
+                "key": "Females",
+                "value": "842"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3123"
+              },
+              {
+                "key": "Males",
+                "value": "2674"
+              },
+              {
+                "key": "Females",
+                "value": "449"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2428"
+              },
+              {
+                "key": "Males",
+                "value": "2119"
+              },
+              {
+                "key": "Females",
+                "value": "309"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1366"
+              },
+              {
+                "key": "Males",
+                "value": "1178"
+              },
+              {
+                "key": "Females",
+                "value": "188"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1685"
+              },
+              {
+                "key": "Males",
+                "value": "1491"
+              },
+              {
+                "key": "Females",
+                "value": "194"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "620"
+              },
+              {
+                "key": "Males",
+                "value": "541"
+              },
+              {
+                "key": "Females",
+                "value": "80"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "325"
+              },
+              {
+                "key": "Males",
+                "value": "286"
+              },
+              {
+                "key": "Females",
+                "value": "40"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "661"
+              },
+              {
+                "key": "Males",
+                "value": "570"
+              },
+              {
+                "key": "Females",
+                "value": "91"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Two or More Modes of Transport",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "305282"
+              },
+              {
+                "key": "Males",
+                "value": "157601"
+              },
+              {
+                "key": "Females",
+                "value": "147681"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28778"
+              },
+              {
+                "key": "Males",
+                "value": "19670"
+              },
+              {
+                "key": "Females",
+                "value": "9109"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34288"
+              },
+              {
+                "key": "Males",
+                "value": "15647"
+              },
+              {
+                "key": "Females",
+                "value": "18641"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "42557"
+              },
+              {
+                "key": "Males",
+                "value": "19169"
+              },
+              {
+                "key": "Females",
+                "value": "23389"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43931"
+              },
+              {
+                "key": "Males",
+                "value": "20174"
+              },
+              {
+                "key": "Females",
+                "value": "23758"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35341"
+              },
+              {
+                "key": "Males",
+                "value": "16615"
+              },
+              {
+                "key": "Females",
+                "value": "18726"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "53644"
+              },
+              {
+                "key": "Males",
+                "value": "27812"
+              },
+              {
+                "key": "Females",
+                "value": "25831"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27376"
+              },
+              {
+                "key": "Males",
+                "value": "15291"
+              },
+              {
+                "key": "Females",
+                "value": "12085"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15203"
+              },
+              {
+                "key": "Males",
+                "value": "8534"
+              },
+              {
+                "key": "Females",
+                "value": "6669"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24164"
+              },
+              {
+                "key": "Males",
+                "value": "14689"
+              },
+              {
+                "key": "Females",
+                "value": "9475"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "MRT & Public Bus Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "205869"
+              },
+              {
+                "key": "Males",
+                "value": "104615"
+              },
+              {
+                "key": "Females",
+                "value": "101255"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21435"
+              },
+              {
+                "key": "Males",
+                "value": "14725"
+              },
+              {
+                "key": "Females",
+                "value": "6710"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25366"
+              },
+              {
+                "key": "Males",
+                "value": "11260"
+              },
+              {
+                "key": "Females",
+                "value": "14106"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31702"
+              },
+              {
+                "key": "Males",
+                "value": "13965"
+              },
+              {
+                "key": "Females",
+                "value": "17738"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31511"
+              },
+              {
+                "key": "Males",
+                "value": "14057"
+              },
+              {
+                "key": "Females",
+                "value": "17454"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24148"
+              },
+              {
+                "key": "Males",
+                "value": "11032"
+              },
+              {
+                "key": "Females",
+                "value": "13116"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35368"
+              },
+              {
+                "key": "Males",
+                "value": "18475"
+              },
+              {
+                "key": "Females",
+                "value": "16893"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16892"
+              },
+              {
+                "key": "Males",
+                "value": "9575"
+              },
+              {
+                "key": "Females",
+                "value": "7317"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8679"
+              },
+              {
+                "key": "Males",
+                "value": "4922"
+              },
+              {
+                "key": "Females",
+                "value": "3757"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10767"
+              },
+              {
+                "key": "Males",
+                "value": "6604"
+              },
+              {
+                "key": "Females",
+                "value": "4164"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "MRT & Car Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6583"
+              },
+              {
+                "key": "Males",
+                "value": "2875"
+              },
+              {
+                "key": "Females",
+                "value": "3708"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "236"
+              },
+              {
+                "key": "Males",
+                "value": "144"
+              },
+              {
+                "key": "Females",
+                "value": "92"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "222"
+              },
+              {
+                "key": "Males",
+                "value": "87"
+              },
+              {
+                "key": "Females",
+                "value": "135"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "304"
+              },
+              {
+                "key": "Males",
+                "value": "113"
+              },
+              {
+                "key": "Females",
+                "value": "191"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "687"
+              },
+              {
+                "key": "Males",
+                "value": "247"
+              },
+              {
+                "key": "Females",
+                "value": "440"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "612"
+              },
+              {
+                "key": "Males",
+                "value": "209"
+              },
+              {
+                "key": "Females",
+                "value": "403"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1150"
+              },
+              {
+                "key": "Males",
+                "value": "372"
+              },
+              {
+                "key": "Females",
+                "value": "778"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "860"
+              },
+              {
+                "key": "Males",
+                "value": "285"
+              },
+              {
+                "key": "Females",
+                "value": "575"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "667"
+              },
+              {
+                "key": "Males",
+                "value": "299"
+              },
+              {
+                "key": "Females",
+                "value": "368"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1845"
+              },
+              {
+                "key": "Males",
+                "value": "1119"
+              },
+              {
+                "key": "Females",
+                "value": "725"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.3",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "92830"
+              },
+              {
+                "key": "Males",
+                "value": "50111"
+              },
+              {
+                "key": "Females",
+                "value": "42718"
+              }
+            ]
+          },
+          {
+            "key": "Below $1,000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7107"
+              },
+              {
+                "key": "Males",
+                "value": "4801"
+              },
+              {
+                "key": "Females",
+                "value": "2306"
+              }
+            ]
+          },
+          {
+            "key": "$1,000 - $1,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8700"
+              },
+              {
+                "key": "Males",
+                "value": "4301"
+              },
+              {
+                "key": "Females",
+                "value": "4399"
+              }
+            ]
+          },
+          {
+            "key": "$1,500 - $1,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10551"
+              },
+              {
+                "key": "Males",
+                "value": "5091"
+              },
+              {
+                "key": "Females",
+                "value": "5460"
+              }
+            ]
+          },
+          {
+            "key": "$2,000 - $2,499",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11733"
+              },
+              {
+                "key": "Males",
+                "value": "5869"
+              },
+              {
+                "key": "Females",
+                "value": "5864"
+              }
+            ]
+          },
+          {
+            "key": "$2,500 - $2,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10580"
+              },
+              {
+                "key": "Males",
+                "value": "5374"
+              },
+              {
+                "key": "Females",
+                "value": "5207"
+              }
+            ]
+          },
+          {
+            "key": "$3,000 - $3,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17126"
+              },
+              {
+                "key": "Males",
+                "value": "8965"
+              },
+              {
+                "key": "Females",
+                "value": "8160"
+              }
+            ]
+          },
+          {
+            "key": "$4,000 - $4,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9624"
+              },
+              {
+                "key": "Males",
+                "value": "5431"
+              },
+              {
+                "key": "Females",
+                "value": "4193"
+              }
+            ]
+          },
+          {
+            "key": "$5,000 - $5,999",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5857"
+              },
+              {
+                "key": "Males",
+                "value": "3313"
+              },
+              {
+                "key": "Females",
+                "value": "2544"
+              }
+            ]
+          },
+          {
+            "key": "$6,000 & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11552"
+              },
+              {
+                "key": "Males",
+                "value": "6966"
+              },
+              {
+                "key": "Females",
+                "value": "4586"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

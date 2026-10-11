@@ -1,0 +1,100 @@
+{
+  "Data": {
+    "theme": "Economy & Prices",
+    "subject": "Labour, Employment, Wages and Productivity",
+    "topic": "Labour Relations",
+    "id": "M184211",
+    "groupTitle": null,
+    "title": "Discrimination Or Harassment Experienced At Work Or During Job Search, Annual",
+    "frequency": "Annual",
+    "adjustmentType": null,
+    "datasource": "MINISTRY OF MANPOWER",
+    "footnote": "Data are taken from Ministry of Manpower (MOM)'s Supplementary Survey on Fair Employment Practices. Data are used for SDG 10.3.1/16.b.1 'Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law'. Please refer to the Sustainable Development Goals (SDG) Global Metadata (https://unstats.un.org/sdgs/metadata) for more information on SDG 10.3.1.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "24/12/2025",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "sortBy": null,
+    "timeFilter": null,
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "seriesNo": "1",
+        "rowText": "Felt Discriminated Against During Job Search",
+        "uoM": "Per Cent",
+        "footnote": "Data are based on those with job search activity in the year prior to the conduct of the survey.",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "42.7"
+          },
+          {
+            "key": "2021",
+            "value": "25.8"
+          },
+          {
+            "key": "2022",
+            "value": "23.8"
+          },
+          {
+            "key": "2023",
+            "value": "23.4"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2",
+        "rowText": "Felt Discriminated Against At Work",
+        "uoM": "Per Cent",
+        "footnote": "Data are based on those who have worked as an employee in the year prior to the conduct of the survey.",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "24.1"
+          },
+          {
+            "key": "2021",
+            "value": "8.5"
+          },
+          {
+            "key": "2022",
+            "value": "8.2"
+          },
+          {
+            "key": "2023",
+            "value": "6"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3",
+        "rowText": "Personally Experienced Harassment At Work",
+        "uoM": "Per Cent",
+        "footnote": "Data are based on those who have worked as an employee in the year prior to the conduct of the survey.",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "2.4"
+          },
+          {
+            "key": "2021",
+            "value": "3.1"
+          },
+          {
+            "key": "2022",
+            "value": "5.4"
+          },
+          {
+            "key": "2023",
+            "value": "5.5"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

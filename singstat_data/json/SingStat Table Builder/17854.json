@@ -1,0 +1,3106 @@
+{
+  "Data": {
+    "id": "17854",
+    "tableType": "Census of Population 2000",
+    "groupTitle": null,
+    "title": "Married Couples in Resident Households by Highest Qualification Attained of Husband and Wife, and Ethnic Group of Couple",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data on inter-ethnic married couples have been updated as at 26 July 2023 to include only couples where both husband and wife are of different CMIO group.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "11/09/2023",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "728193"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "112527"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "97522"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "94669"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "180658"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "68545"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "41367"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "34662"
+                  },
+                  {
+                    "key": "University",
+                    "value": "97521"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "723"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "556369"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "93310"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "73720"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "68340"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "127779"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "50444"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "36042"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "27238"
+                  },
+                  {
+                    "key": "University",
+                    "value": "78939"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "556"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "87491"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "12965"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "15238"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "15626"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "29127"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "9127"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "2134"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "1821"
+                  },
+                  {
+                    "key": "University",
+                    "value": "1401"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "52"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "49260"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "4127"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "5441"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "6372"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "13164"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "4944"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "1642"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "3055"
+                  },
+                  {
+                    "key": "University",
+                    "value": "10446"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "70"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Other Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3520"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "137"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "93"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "265"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "806"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "382"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "89"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "261"
+                  },
+                  {
+                    "key": "University",
+                    "value": "1488"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Inter-Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31552"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "1988"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "3031"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "4065"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "9781"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "3647"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "1460"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "2287"
+                  },
+                  {
+                    "key": "University",
+                    "value": "5247"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "45"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "No Qualification",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "153676"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "82377"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "28534"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "20865"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "15878"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "4127"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "623"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "835"
+                  },
+                  {
+                    "key": "University",
+                    "value": "423"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "14"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "123780"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "69344"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "22274"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "15766"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "11723"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "3239"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "480"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "641"
+                  },
+                  {
+                    "key": "University",
+                    "value": "308"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19703"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "9199"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "4188"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "3237"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "2461"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "495"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "44"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "59"
+                  },
+                  {
+                    "key": "University",
+                    "value": "10"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "10"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6290"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "2645"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "1245"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "1085"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "939"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "218"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "32"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "76"
+                  },
+                  {
+                    "key": "University",
+                    "value": "49"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Other Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "210"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "93"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "27"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "33"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "45"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "-"
+                  },
+                  {
+                    "key": "University",
+                    "value": "12"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Inter-Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3692"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "1097"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "799"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "743"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "710"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "175"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "66"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "59"
+                  },
+                  {
+                    "key": "University",
+                    "value": "43"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "Primary",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "106076"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "11869"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "36711"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "19770"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "27193"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "6855"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "1207"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "1670"
+                  },
+                  {
+                    "key": "University",
+                    "value": "796"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "79416"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "9706"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "27985"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "14353"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "19336"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "5206"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "1023"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "1231"
+                  },
+                  {
+                    "key": "University",
+                    "value": "571"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15589"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "1290"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "5421"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "3154"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "4482"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "976"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "71"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "167"
+                  },
+                  {
+                    "key": "University",
+                    "value": "29"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7123"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "584"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "2320"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "1509"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "1973"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "403"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "42"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "137"
+                  },
+                  {
+                    "key": "University",
+                    "value": "156"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Other Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "203"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "38"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "33"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "93"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "11"
+                  },
+                  {
+                    "key": "University",
+                    "value": "18"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Inter-Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3745"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "285"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "948"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "721"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "1310"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "265"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "70"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "124"
+                  },
+                  {
+                    "key": "University",
+                    "value": "23"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "Lower Secondary",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "83602"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "9881"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "11871"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "24027"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "23999"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "7138"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "2596"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "2329"
+                  },
+                  {
+                    "key": "University",
+                    "value": "1742"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "19"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "60880"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "7697"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "8779"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "17353"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "16517"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "5217"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "2165"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "1871"
+                  },
+                  {
+                    "key": "University",
+                    "value": "1260"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "19"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12730"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "1353"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "1972"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "3863"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "4239"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "940"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "186"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "144"
+                  },
+                  {
+                    "key": "University",
+                    "value": "33"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6121"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "491"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "727"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "1722"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "1957"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "581"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "131"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "196"
+                  },
+                  {
+                    "key": "University",
+                    "value": "316"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Other Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "309"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "22"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "116"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "110"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "23"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "-"
+                  },
+                  {
+                    "key": "University",
+                    "value": "17"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Inter-Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3561"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "317"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "376"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "973"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "1176"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "378"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "108"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "117"
+                  },
+                  {
+                    "key": "University",
+                    "value": "116"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "Secondary",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "193347"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "6688"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "16506"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "23002"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "82502"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "24462"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "14486"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "11145"
+                  },
+                  {
+                    "key": "University",
+                    "value": "14428"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "130"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "141616"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "5136"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "11616"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "15871"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "58000"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "17475"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "12635"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "8835"
+                  },
+                  {
+                    "key": "University",
+                    "value": "11957"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "90"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28175"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "976"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "3188"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "4353"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "13942"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "3853"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "787"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "729"
+                  },
+                  {
+                    "key": "University",
+                    "value": "332"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "14"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12737"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "337"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "993"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "1522"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "5662"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "1749"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "553"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "818"
+                  },
+                  {
+                    "key": "University",
+                    "value": "1094"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "10"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Other Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "868"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "11"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "55"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "388"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "152"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "11"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "69"
+                  },
+                  {
+                    "key": "University",
+                    "value": "167"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Inter-Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9950"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "222"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "697"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "1201"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "4511"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "1233"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "500"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "694"
+                  },
+                  {
+                    "key": "University",
+                    "value": "877"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "15"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6",
+        "rowText": "Upper Secondary",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "66646"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "1230"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "2812"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "4705"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "17408"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "16263"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "6845"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "5852"
+                  },
+                  {
+                    "key": "University",
+                    "value": "11452"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "78"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "50474"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "1008"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "2196"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "3281"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "11911"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "12143"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "5890"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "4645"
+                  },
+                  {
+                    "key": "University",
+                    "value": "9351"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "49"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7256"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "114"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "382"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "833"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "2954"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "2015"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "397"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "282"
+                  },
+                  {
+                    "key": "University",
+                    "value": "269"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "10"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4785"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "55"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "95"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "321"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "1351"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "1107"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "331"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "484"
+                  },
+                  {
+                    "key": "University",
+                    "value": "1025"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "15"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Other Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "491"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "93"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "151"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "18"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "37"
+                  },
+                  {
+                    "key": "University",
+                    "value": "186"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Inter-Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3639"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "53"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "138"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "265"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "1099"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "847"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "209"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "403"
+                  },
+                  {
+                    "key": "University",
+                    "value": "620"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "5"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "7",
+        "rowText": "Polytechnic",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21457"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "76"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "232"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "516"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "3120"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "2230"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "7186"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "1479"
+                  },
+                  {
+                    "key": "University",
+                    "value": "6537"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "81"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18849"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "71"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "208"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "396"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "2594"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "1732"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "6573"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "1285"
+                  },
+                  {
+                    "key": "University",
+                    "value": "5918"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "71"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1080"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "14"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "43"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "240"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "292"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "338"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "78"
+                  },
+                  {
+                    "key": "University",
+                    "value": "76"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "598"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "26"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "106"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "94"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "128"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "45"
+                  },
+                  {
+                    "key": "University",
+                    "value": "194"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Other Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "75"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "12"
+                  },
+                  {
+                    "key": "University",
+                    "value": "47"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Inter-Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "856"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "10"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "45"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "175"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "112"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "142"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "60"
+                  },
+                  {
+                    "key": "University",
+                    "value": "302"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "5"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "8",
+        "rowText": "Other Diploma",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38176"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "300"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "682"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "1271"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "7386"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "4695"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "4648"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "7834"
+                  },
+                  {
+                    "key": "University",
+                    "value": "11264"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "95"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "32104"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "271"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "551"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "989"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "5708"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "3636"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "4258"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "6622"
+                  },
+                  {
+                    "key": "University",
+                    "value": "9995"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "74"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1761"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "24"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "62"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "110"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "609"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "400"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "178"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "276"
+                  },
+                  {
+                    "key": "University",
+                    "value": "98"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2035"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "40"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "85"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "562"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "328"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "92"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "430"
+                  },
+                  {
+                    "key": "University",
+                    "value": "493"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Other Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "272"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "17"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "55"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "17"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "6"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "77"
+                  },
+                  {
+                    "key": "University",
+                    "value": "100"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Inter-Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2003"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "29"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "70"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "453"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "314"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "115"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "428"
+                  },
+                  {
+                    "key": "University",
+                    "value": "579"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "11"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "9",
+        "rowText": "University",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "64055"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "96"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "170"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "476"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "3046"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "2670"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "3652"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "3387"
+                  },
+                  {
+                    "key": "University",
+                    "value": "50324"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "234"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "48382"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "66"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "106"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "294"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "1904"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "1736"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "2932"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "2010"
+                  },
+                  {
+                    "key": "University",
+                    "value": "39138"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "195"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1114"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "10"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "10"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "33"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "186"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "143"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "114"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "71"
+                  },
+                  {
+                    "key": "University",
+                    "value": "542"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9472"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "15"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "20"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "101"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "605"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "444"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "332"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "868"
+                  },
+                  {
+                    "key": "University",
+                    "value": "7058"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "30"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Other Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1086"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "18"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "34"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "38"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "55"
+                  },
+                  {
+                    "key": "University",
+                    "value": "940"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Inter-Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4002"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "34"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "48"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "333"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "313"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "235"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "383"
+                  },
+                  {
+                    "key": "University",
+                    "value": "2646"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "5"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "10",
+        "rowText": "Students",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1159"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "9"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "38"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "125"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "104"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "125"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "130"
+                  },
+                  {
+                    "key": "University",
+                    "value": "556"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "67"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "868"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "9"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "38"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "85"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "58"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "85"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "98"
+                  },
+                  {
+                    "key": "University",
+                    "value": "441"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "48"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "82"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "14"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "14"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "19"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "14"
+                  },
+                  {
+                    "key": "University",
+                    "value": "11"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "10"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "98"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "10"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "21"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "-"
+                  },
+                  {
+                    "key": "University",
+                    "value": "62"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Both Other Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "-"
+                  },
+                  {
+                    "key": "University",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Inter-Ethnic Group",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "104"
+              },
+              {
+                "key": "Highest Qualification Attained of Husband",
+                "columns": [
+                  {
+                    "key": "No Qualification",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Primary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Lower Secondary",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Secondary",
+                    "value": "15"
+                  },
+                  {
+                    "key": "Upper Secondary",
+                    "value": "10"
+                  },
+                  {
+                    "key": "Polytechnic",
+                    "value": "15"
+                  },
+                  {
+                    "key": "Other Diploma",
+                    "value": "18"
+                  },
+                  {
+                    "key": "University",
+                    "value": "42"
+                  },
+                  {
+                    "key": "Students",
+                    "value": "5"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

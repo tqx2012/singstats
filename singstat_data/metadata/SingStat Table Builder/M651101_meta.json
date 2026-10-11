@@ -1,0 +1,93 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Industry",
+      "subject": "Transport",
+      "topic": "Sea Transport",
+      "id": "M651101",
+      "groupTitle": "Sea Cargo And Shipping Statistics",
+      "title": "Sea Cargo And Shipping Statistics, Monthly",
+      "frequency": "Monthly",
+      "adjustmentType": "",
+      "dataSource": "MARITIME AND PORT AUTHORITY OF SINGAPORE",
+      "footnote": "",
+      "dataLastUpdated": "15/09/2026",
+      "startPeriod": "1995 Jan",
+      "endPeriod": "2026 Aug",
+      "total": 4180,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Vessel Arrivals",
+          "uoM": "Number",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "2",
+          "rowText": "Vessel Arrivals - Shipping Tonnage",
+          "uoM": "Thousand Gross Tonnes",
+          "footnote": "GT refers to Gross Tonnage"
+        },
+        {
+          "seriesNo": "3",
+          "rowText": "Total Cargo",
+          "uoM": "Thousand Tonnes",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "3.1",
+          "rowText": "Cargo (General)",
+          "uoM": "Thousand Tonnes",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "3.2",
+          "rowText": "Cargo (Bulk)",
+          "uoM": "Thousand Tonnes",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "3.2.1",
+          "rowText": "Cargo (Oil-In-Bulk)",
+          "uoM": "Thousand Tonnes",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "3.3",
+          "rowText": "Cargo (General & Non-Oil In Bulk)",
+          "uoM": "Thousand Tonnes",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "4",
+          "rowText": "Total Container Throughput",
+          "uoM": "Thousand Twenty-Foot Equivalent Units",
+          "footnote": "TEU refers to Twenty-Foot Equivalent Unit."
+        },
+        {
+          "seriesNo": "5",
+          "rowText": "Bunker Sales",
+          "uoM": "Thousand Tonnes",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "6",
+          "rowText": "Singapore Registry Of Ships (End Of Period) - Number",
+          "uoM": "Number",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "7",
+          "rowText": "Singapore Registry Of Ships (End Of Period) - '000 GT",
+          "uoM": "Thousand Gross Tonnes",
+          "footnote": "GT refers to Gross Tonnage"
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

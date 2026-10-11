@@ -1,0 +1,696 @@
+{
+  "Data": {
+    "id": "8745",
+    "tableType": "General Household Survey 2005",
+    "groupTitle": null,
+    "title": "Resident Households by Predominant Household Language and Occupation of Head of Household",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data exclude one-person households, households comprising only unrelated persons and those with non-working heads.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "28/03/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "711331"
+          },
+          {
+            "key": "Senior Officials & Managers",
+            "value": "134349"
+          },
+          {
+            "key": "Professionals",
+            "value": "81327"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "112552"
+          },
+          {
+            "key": "Clerical Workers",
+            "value": "56088"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "93938"
+          },
+          {
+            "key": "Agricultural & Fishery Workers",
+            "value": "852"
+          },
+          {
+            "key": "Production Craftsmen & Related Workers",
+            "value": "74458"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "107850"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "39689"
+          },
+          {
+            "key": "Workers Not Classifiable By Occupation",
+            "value": "10228"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "222628"
+          },
+          {
+            "key": "Senior Officials & Managers",
+            "value": "68818"
+          },
+          {
+            "key": "Professionals",
+            "value": "38929"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "47388"
+          },
+          {
+            "key": "Clerical Workers",
+            "value": "17012"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "18697"
+          },
+          {
+            "key": "Agricultural & Fishery Workers",
+            "value": "76"
+          },
+          {
+            "key": "Production Craftsmen & Related Workers",
+            "value": "10447"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "13489"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "2433"
+          },
+          {
+            "key": "Workers Not Classifiable By Occupation",
+            "value": "5340"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Mandarin",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "268476"
+          },
+          {
+            "key": "Senior Officials & Managers",
+            "value": "45597"
+          },
+          {
+            "key": "Professionals",
+            "value": "24840"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "38187"
+          },
+          {
+            "key": "Clerical Workers",
+            "value": "17690"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "36588"
+          },
+          {
+            "key": "Agricultural & Fishery Workers",
+            "value": "559"
+          },
+          {
+            "key": "Production Craftsmen & Related Workers",
+            "value": "37541"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "51169"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "12869"
+          },
+          {
+            "key": "Workers Not Classifiable By Occupation",
+            "value": "3435"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Chinese Dialects",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "98473"
+          },
+          {
+            "key": "Senior Officials & Managers",
+            "value": "12399"
+          },
+          {
+            "key": "Professionals",
+            "value": "5817"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "11566"
+          },
+          {
+            "key": "Clerical Workers",
+            "value": "8630"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "16916"
+          },
+          {
+            "key": "Agricultural & Fishery Workers",
+            "value": "126"
+          },
+          {
+            "key": "Production Craftsmen & Related Workers",
+            "value": "11979"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "19042"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "11416"
+          },
+          {
+            "key": "Workers Not Classifiable By Occupation",
+            "value": "581"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "Hokkien",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "47541"
+          },
+          {
+            "key": "Senior Officials & Managers",
+            "value": "4988"
+          },
+          {
+            "key": "Professionals",
+            "value": "1583"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "4153"
+          },
+          {
+            "key": "Clerical Workers",
+            "value": "3716"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "8524"
+          },
+          {
+            "key": "Agricultural & Fishery Workers",
+            "value": "88"
+          },
+          {
+            "key": "Production Craftsmen & Related Workers",
+            "value": "6034"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "11261"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "6890"
+          },
+          {
+            "key": "Workers Not Classifiable By Occupation",
+            "value": "303"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Teochew",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "18823"
+          },
+          {
+            "key": "Senior Officials & Managers",
+            "value": "2445"
+          },
+          {
+            "key": "Professionals",
+            "value": "764"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "2293"
+          },
+          {
+            "key": "Clerical Workers",
+            "value": "1775"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "3930"
+          },
+          {
+            "key": "Agricultural & Fishery Workers",
+            "value": "38"
+          },
+          {
+            "key": "Production Craftsmen & Related Workers",
+            "value": "1898"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "3681"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "1872"
+          },
+          {
+            "key": "Workers Not Classifiable By Occupation",
+            "value": "126"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.3",
+        "rowText": "Cantonese",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "25623"
+          },
+          {
+            "key": "Senior Officials & Managers",
+            "value": "4153"
+          },
+          {
+            "key": "Professionals",
+            "value": "2762"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "4142"
+          },
+          {
+            "key": "Clerical Workers",
+            "value": "2429"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "3355"
+          },
+          {
+            "key": "Agricultural & Fishery Workers"
+          },
+          {
+            "key": "Production Craftsmen & Related Workers",
+            "value": "3205"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "3256"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "2221"
+          },
+          {
+            "key": "Workers Not Classifiable By Occupation",
+            "value": "101"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.4",
+        "rowText": "Other Chinese Dialects",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "6486"
+          },
+          {
+            "key": "Senior Officials & Managers",
+            "value": "814"
+          },
+          {
+            "key": "Professionals",
+            "value": "707"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "978"
+          },
+          {
+            "key": "Clerical Workers",
+            "value": "711"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "1106"
+          },
+          {
+            "key": "Agricultural & Fishery Workers"
+          },
+          {
+            "key": "Production Craftsmen & Related Workers",
+            "value": "843"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "844"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "433"
+          },
+          {
+            "key": "Workers Not Classifiable By Occupation",
+            "value": "51"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Malay",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "86372"
+          },
+          {
+            "key": "Senior Officials & Managers",
+            "value": "2124"
+          },
+          {
+            "key": "Professionals",
+            "value": "2025"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "10291"
+          },
+          {
+            "key": "Clerical Workers",
+            "value": "10413"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "17524"
+          },
+          {
+            "key": "Agricultural & Fishery Workers",
+            "value": "78"
+          },
+          {
+            "key": "Production Craftsmen & Related Workers",
+            "value": "12174"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "20735"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "10604"
+          },
+          {
+            "key": "Workers Not Classifiable By Occupation",
+            "value": "404"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "Indian Languages",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "31440"
+          },
+          {
+            "key": "Senior Officials & Managers",
+            "value": "4321"
+          },
+          {
+            "key": "Professionals",
+            "value": "8039"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "4321"
+          },
+          {
+            "key": "Clerical Workers",
+            "value": "2262"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "4104"
+          },
+          {
+            "key": "Agricultural & Fishery Workers",
+            "value": "13"
+          },
+          {
+            "key": "Production Craftsmen & Related Workers",
+            "value": "2225"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "3319"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "2367"
+          },
+          {
+            "key": "Workers Not Classifiable By Occupation",
+            "value": "468"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5.1",
+        "rowText": "Tamil",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "23724"
+          },
+          {
+            "key": "Senior Officials & Managers",
+            "value": "2633"
+          },
+          {
+            "key": "Professionals",
+            "value": "4518"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "3023"
+          },
+          {
+            "key": "Clerical Workers",
+            "value": "2020"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "3682"
+          },
+          {
+            "key": "Agricultural & Fishery Workers",
+            "value": "13"
+          },
+          {
+            "key": "Production Craftsmen & Related Workers",
+            "value": "2037"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "3069"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "2288"
+          },
+          {
+            "key": "Workers Not Classifiable By Occupation",
+            "value": "441"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5.2",
+        "rowText": "Other Indian Languages",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "7716"
+          },
+          {
+            "key": "Senior Officials & Managers",
+            "value": "1688"
+          },
+          {
+            "key": "Professionals",
+            "value": "3521"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "1297"
+          },
+          {
+            "key": "Clerical Workers",
+            "value": "242"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "422"
+          },
+          {
+            "key": "Agricultural & Fishery Workers"
+          },
+          {
+            "key": "Production Craftsmen & Related Workers",
+            "value": "188"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "250"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "80"
+          },
+          {
+            "key": "Workers Not Classifiable By Occupation",
+            "value": "27"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "3942"
+          },
+          {
+            "key": "Senior Officials & Managers",
+            "value": "1088"
+          },
+          {
+            "key": "Professionals",
+            "value": "1677"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "799"
+          },
+          {
+            "key": "Clerical Workers",
+            "value": "81"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "109"
+          },
+          {
+            "key": "Agricultural & Fishery Workers"
+          },
+          {
+            "key": "Production Craftsmen & Related Workers",
+            "value": "92"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "96"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers"
+          },
+          {
+            "key": "Workers Not Classifiable By Occupation"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

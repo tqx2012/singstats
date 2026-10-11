@@ -1,0 +1,3516 @@
+{
+  "Data": {
+    "id": "9041",
+    "tableType": "Census of Population 2000",
+    "groupTitle": null,
+    "title": "Resident Households by Household Structure, Type of Dwelling and Ethnic Group of Head of Household",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "01/04/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "915090"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "804973"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "45573"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "235670"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "302582"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "215467"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "59496"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "46348"
+              },
+              {
+                "key": "Others",
+                "value": "4273"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "720848"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "624462"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "32046"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "184824"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "232237"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "170566"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "51448"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "41003"
+              },
+              {
+                "key": "Others",
+                "value": "3936"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "108634"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "106882"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "7069"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "30827"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "44583"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "24219"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "917"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "794"
+              },
+              {
+                "key": "Others",
+                "value": "40"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "72933"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "65307"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "5924"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "17811"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "23225"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "17849"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "4180"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "3179"
+              },
+              {
+                "key": "Others",
+                "value": "268"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12674"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "8322"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "534"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "2208"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "2537"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "2833"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "2951"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "1371"
+              },
+              {
+                "key": "Others",
+                "value": "31"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "No Family Nucleus",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "113831"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "96950"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "22799"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "48133"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "17639"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "7923"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "10686"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "4491"
+              },
+              {
+                "key": "Others",
+                "value": "1704"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "94747"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "80293"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "16784"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "41144"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "15208"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "6788"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "9059"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "3874"
+              },
+              {
+                "key": "Others",
+                "value": "1521"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7176"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "6833"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "2071"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "3306"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "1101"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "350"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "235"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "87"
+              },
+              {
+                "key": "Others",
+                "value": "20"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9556"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "8439"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "3631"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "3031"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "1129"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "606"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "646"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "315"
+              },
+              {
+                "key": "Others",
+                "value": "156"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2352"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "1386"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "314"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "651"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "202"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "178"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "746"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "214"
+              },
+              {
+                "key": "Others",
+                "value": "6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1",
+        "rowText": "One Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "75389"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "63743"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "15888"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "34636"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "8809"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "4102"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "7984"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "2399"
+              },
+              {
+                "key": "Others",
+                "value": "1262"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "63334"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "53385"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "12249"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "29782"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "7636"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "3480"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "6767"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "2024"
+              },
+              {
+                "key": "Others",
+                "value": "1159"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4647"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "4423"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "1445"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "2245"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "525"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "203"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "152"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "63"
+              },
+              {
+                "key": "Others",
+                "value": "10"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5744"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "5026"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "1973"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "2168"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "541"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "318"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "452"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "178"
+              },
+              {
+                "key": "Others",
+                "value": "88"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1664"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "910"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "221"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "440"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "107"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "101"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "614"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "134"
+              },
+              {
+                "key": "Others",
+                "value": "6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.2",
+        "rowText": "Two Or More Persons",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38442"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "33207"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "6911"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "13497"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "8830"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "3821"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "2701"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "2092"
+              },
+              {
+                "key": "Others",
+                "value": "442"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31413"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "26908"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "4534"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "11362"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "7572"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "3308"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "2292"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "1850"
+              },
+              {
+                "key": "Others",
+                "value": "363"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2528"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "2410"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "626"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "1061"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "576"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "148"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "83"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "24"
+              },
+              {
+                "key": "Others",
+                "value": "11"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3812"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "3413"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "1657"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "863"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "588"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "288"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "194"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "138"
+              },
+              {
+                "key": "Others",
+                "value": "68"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "688"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "476"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "93"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "211"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "95"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "78"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "132"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "80"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "One Family Nucleus",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "750119"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "664851"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "22363"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "179668"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "265012"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "192834"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "46347"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "36475"
+              },
+              {
+                "key": "Others",
+                "value": "2446"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "588220"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "513441"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "15100"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "138584"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "202685"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "152849"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "40217"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "32261"
+              },
+              {
+                "key": "Others",
+                "value": "2302"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "93132"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "91863"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "4828"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "25568"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "39739"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "21565"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "645"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "606"
+              },
+              {
+                "key": "Others",
+                "value": "19"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "58888"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "52953"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "2226"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "14009"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "20348"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "15939"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "3310"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "2523"
+              },
+              {
+                "key": "Others",
+                "value": "101"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9879"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "6594"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "209"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "1507"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "2240"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "2481"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "2176"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "1084"
+              },
+              {
+                "key": "Others",
+                "value": "25"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.1",
+        "rowText": "One Generation",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "97208"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "86438"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "5063"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "28650"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "28774"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "23540"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "6755"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "3559"
+              },
+              {
+                "key": "Others",
+                "value": "456"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "78897"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "70016"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "3548"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "22518"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "23582"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "20024"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "5479"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "2977"
+              },
+              {
+                "key": "Others",
+                "value": "425"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8186"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "8030"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "970"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "3161"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "2465"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "1429"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "97"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "49"
+              },
+              {
+                "key": "Others",
+                "value": "10"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8124"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "7228"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "473"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "2565"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "2417"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "1733"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "587"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "293"
+              },
+              {
+                "key": "Others",
+                "value": "16"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2002"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "1163"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "71"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "406"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "309"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "354"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "592"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "241"
+              },
+              {
+                "key": "Others",
+                "value": "6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.2",
+        "rowText": "Two Generations",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "593228"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "527157"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "16224"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "140379"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "214133"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "152344"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "35893"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "28366"
+              },
+              {
+                "key": "Others",
+                "value": "1812"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "463350"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "405029"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "11016"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "108187"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "162468"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "119899"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "31419"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "25186"
+              },
+              {
+                "key": "Others",
+                "value": "1716"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "76578"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "75568"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "3496"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "20515"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "33638"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "17780"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "506"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "495"
+              },
+              {
+                "key": "Others",
+                "value": "10"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "46088"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "41637"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "1586"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "10647"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "16305"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "12750"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "2441"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "1943"
+              },
+              {
+                "key": "Others",
+                "value": "67"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7211"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "4924"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "126"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "1029"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "1723"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "1915"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "1526"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "743"
+              },
+              {
+                "key": "Others",
+                "value": "18"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.3",
+        "rowText": "Three Or More Generations",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "59683"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "51256"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "1076"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "10640"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "22105"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "16950"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "3700"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "4549"
+              },
+              {
+                "key": "Others",
+                "value": "179"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45973"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "38395"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "536"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "7878"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "16635"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "12927"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "3318"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "4098"
+              },
+              {
+                "key": "Others",
+                "value": "161"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8368"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "8265"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "363"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "1892"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "3637"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "2355"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "41"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "62"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4676"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "4088"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "166"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "798"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "1626"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "1456"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "283"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "288"
+              },
+              {
+                "key": "Others",
+                "value": "17"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "666"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "508"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "11"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "72"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "208"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "212"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "58"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "101"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Two Family Nuclei",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "49224"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "41817"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "396"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "7703"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "19174"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "14301"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "2375"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "4908"
+              },
+              {
+                "key": "Others",
+                "value": "123"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36488"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "29831"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "158"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "4975"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "13832"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "10673"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "2091"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "4454"
+              },
+              {
+                "key": "Others",
+                "value": "112"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8037"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "7912"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "160"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "1928"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "3603"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "2207"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "38"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "87"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4278"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "3738"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "67"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "749"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "1644"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "1253"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "223"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "305"
+              },
+              {
+                "key": "Others",
+                "value": "11"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "421"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "336"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "11"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "50"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "95"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "169"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "23"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "62"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "One Generation",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "201"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "196"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "98"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "73"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "26"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "5"
+              },
+              {
+                "key": "Landed Properties"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "182"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "177"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "93"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "64"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "21"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "5"
+              },
+              {
+                "key": "Landed Properties"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "14"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "10"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments"
+              },
+              {
+                "key": "Landed Properties"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "5"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats"
+                  },
+                  {
+                    "key": "4-Room Flats"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "5"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments"
+              },
+              {
+                "key": "Landed Properties"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats"
+                  },
+                  {
+                    "key": "4-Room Flats"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments"
+              },
+              {
+                "key": "Landed Properties"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Two Generations",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13607"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "11644"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "78"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "2381"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "5319"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "3804"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "601"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "1318"
+              },
+              {
+                "key": "Others",
+                "value": "44"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10391"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "8639"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "24"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "1519"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "4009"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "3035"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "516"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "1192"
+              },
+              {
+                "key": "Others",
+                "value": "44"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1870"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "1832"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "40"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "610"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "787"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "395"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "10"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "29"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1211"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "1079"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "15"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "218"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "490"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "345"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "57"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "75"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "135"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "95"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "33"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "34"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "28"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "18"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "23"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.3",
+        "rowText": "Three Or More Generations",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35416"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "29977"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "318"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "5224"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "13782"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "10471"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "1770"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "3590"
+              },
+              {
+                "key": "Others",
+                "value": "79"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25915"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "21015"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "134"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "3363"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "9760"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "7617"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "1570"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "3262"
+              },
+              {
+                "key": "Others",
+                "value": "68"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6153"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "6066"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "120"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "1313"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "2807"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "1812"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "29"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "59"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3061"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "2655"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "52"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "531"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "1154"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "902"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "166"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "230"
+              },
+              {
+                "key": "Others",
+                "value": "11"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "286"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "241"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "11"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "17"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "62"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "141"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "5"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "39"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Three Or More Family Nuclei",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1916"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "1355"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "14"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "166"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "756"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "409"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "88"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "474"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1394"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "898"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "5"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "121"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "511"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "256"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "82"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "413"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "289"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "274"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "10"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "24"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "140"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "97"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "14"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "212"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "177"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "21"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "105"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "51"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "35"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "5"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats"
+                  },
+                  {
+                    "key": "4-Room Flats"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "5"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "5"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "11"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.1",
+        "rowText": "One Or Two Generations",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "236"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "163"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "38"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "94"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "30"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "16"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "57"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "179"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "116"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "33"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "64"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "19"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "16"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "47"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "27"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "16"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "6"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments"
+              },
+              {
+                "key": "Landed Properties"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "20"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "15"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "5"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "10"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats"
+                  },
+                  {
+                    "key": "4-Room Flats"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments"
+              },
+              {
+                "key": "Landed Properties"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.2",
+        "rowText": "Three Or More Generations",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1680"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "1192"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "14"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "128"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "661"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "379"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "72"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "416"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1214"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "782"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "5"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "88"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "448"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "237"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "67"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "366"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "262"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "248"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#",
+                    "value": "10"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "19"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "124"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "90"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "14"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "182"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "157"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "21"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "90"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "46"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "25"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22"
+              },
+              {
+                "key": "HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "5"
+                  },
+                  {
+                    "key": "1- And 2-Room Flats#"
+                  },
+                  {
+                    "key": "3-Room Flats"
+                  },
+                  {
+                    "key": "4-Room Flats"
+                  },
+                  {
+                    "key": "5-Room And Executive Flats",
+                    "value": "5"
+                  }
+                ]
+              },
+              {
+                "key": "Condominiums And Other Apartments",
+                "value": "5"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "11"
+              },
+              {
+                "key": "Others"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

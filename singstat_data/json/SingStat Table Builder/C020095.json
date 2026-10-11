@@ -1,0 +1,1016 @@
+{
+  "Data": {
+    "id": "C020095",
+    "tableType": "General Household Survey 2025",
+    "groupTitle": null,
+    "title": "Resident Households by Monthly Household Market Income and Type of Dwelling",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: Data on household market income for 2025 is preliminary.Data has been rounded to the nearest 100 and may not add up due to rounding.\n‘ - ’ denotes Nil or negligible. Users are advised to exercise caution when drawing inferences from survey estimates with small sample sizes or those denoted as ‘ - ’, as these estimates are based on a sample survey and subject to sampling variability. For more information, refer to the write up on the GHS 2025 Sample Design and Sampling Variability (https://go.gov.sg/ghs2025-sample-design-and-variability). ",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Household Income",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "1487100"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1148000"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "108300"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "247200"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "464000"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "328500"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "266400"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "69200"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.1",
+        "rowText": "Below 1,000",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "84700"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "79300"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "26000"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "25000"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "20000"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "8300"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "4100"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1300"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.2",
+        "rowText": "1,000 - 1,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "68700"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "63000"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "15100"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "20100"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "18600"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "9200"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "4300"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1200"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.3",
+        "rowText": "2,000 - 2,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "63800"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "58200"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "15600"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "17900"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "16000"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "8700"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "4200"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1500"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.4",
+        "rowText": "3,000 - 3,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "59600"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "55200"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "12000"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "17000"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "17100"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "9200"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "3300"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.5",
+        "rowText": "4,000 - 4,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "60200"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "54300"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "8900"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "16600"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "19400"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "9500"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "4400"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "800"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.6",
+        "rowText": "5,000 - 5,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "62200"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "56700"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "8100"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "18500"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "19400"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "10700"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "4100"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.7",
+        "rowText": "6,000 - 6,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "56800"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "50000"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "5300"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "15300"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "20800"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "8500"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "5300"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1400"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.8",
+        "rowText": "7,000 - 7,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "54300"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "48800"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "4300"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "13500"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "20900"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "10100"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "4000"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1200"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.9",
+        "rowText": "8,000 - 8,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "50600"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44700"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "3500"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "12000"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "18600"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "10600"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "4500"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1200"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.10",
+        "rowText": "9,000 - 9,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "53500"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "46800"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "2100"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "11200"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "20600"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "12900"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "5200"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1500"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.11",
+        "rowText": "10,000 - 10,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "53600"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "46200"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "1700"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "10000"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "23100"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "11500"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "5900"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.12",
+        "rowText": "11,000 - 11,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "51800"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44600"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "1100"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "9500"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "22700"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "11400"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "6100"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1000"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.13",
+        "rowText": "12,000 - 12,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "51900"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43100"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "1100"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "8800"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "22100"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "11000"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "7200"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1300"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.14",
+        "rowText": "13,000 - 13,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "49500"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41600"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "800"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "8100"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "20000"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "12700"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "6500"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1200"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.15",
+        "rowText": "14,000 - 14,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "47600"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "39500"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "600"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "6900"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "18400"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "13600"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "7100"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.16",
+        "rowText": "15,000 - 17,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "104300"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "84100"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "1300"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "11800"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "39500"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "31500"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "16400"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "3500"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.17",
+        "rowText": "17,500 - 19,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "87700"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "68300"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "200"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "8600"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "31300"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "28100"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "17000"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "2300"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.18",
+        "rowText": "20,000 - 24,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "135000"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "96200"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "300"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "9400"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "44400"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "42100"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "33300"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "5400"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.19",
+        "rowText": "25,000 - 29,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "91800"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "58600"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "200"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "3300"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "26500"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "28500"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "27900"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "5200"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.20",
+        "rowText": "30,000 - 34,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "65900"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "33700"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "-"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "2000"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "13600"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "18000"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "27300"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "4800"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.21",
+        "rowText": "35,000 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total1/",
+            "value": "133500"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35000"
+              },
+              {
+                "key": "HDB 1- & 2- Room Flats2/",
+                "value": "-"
+              },
+              {
+                "key": "HDB 3-Room Flats",
+                "value": "1600"
+              },
+              {
+                "key": "HDB 4-Room Flats",
+                "value": "11000"
+              },
+              {
+                "key": "HDB 5-Room & Executive Flats",
+                "value": "22500"
+              }
+            ]
+          },
+          {
+            "key": "Condominium & Other Apartments",
+            "value": "68300"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "29700"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

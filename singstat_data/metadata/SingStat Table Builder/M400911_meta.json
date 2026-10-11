@@ -1,0 +1,51 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Industry",
+      "subject": "Building, Real Estate, Construction and Housing",
+      "topic": "Building and Construction",
+      "id": "M400911",
+      "groupTitle": "Demand For Construction Materials",
+      "title": "Demand For Construction Materials, Quarterly",
+      "frequency": "Quarterly",
+      "adjustmentType": "",
+      "dataSource": "BUILDING AND CONSTRUCTION AUTHORITY",
+      "footnote": "Data are obtained from suppliers through monthly surveys conducted by Building and Construction Authority and trade statistics published by the Enterprise Singapore.",
+      "dataLastUpdated": "21/08/2026",
+      "startPeriod": "1999 1Q",
+      "endPeriod": "2026 2Q",
+      "total": 440,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Cement",
+          "uoM": "Thousand Tonnes",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "2",
+          "rowText": "Steel Reinforcement Bars",
+          "uoM": "Thousand Tonnes",
+          "footnote": "Net imports plus local production without factoring in stock level. "
+        },
+        {
+          "seriesNo": "3",
+          "rowText": "Granite",
+          "uoM": "Thousand Tonnes",
+          "footnote": "With the availability of land import data since the implementation of the Importers' Licensing Scheme for essential construction materials on 15 April 2011, the demand figures for granite included the land import volumes since April 2011."
+        },
+        {
+          "seriesNo": "4",
+          "rowText": "Ready-Mixed Concrete",
+          "uoM": "Thousand Cubic Metres",
+          "footnote": ""
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

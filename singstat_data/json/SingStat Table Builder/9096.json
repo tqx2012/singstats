@@ -1,0 +1,5642 @@
+{
+  "Data": {
+    "id": "9096",
+    "tableType": "Census of Population 2000",
+    "groupTitle": null,
+    "title": "Resident Households Which Shifted House Between 1991 and 2000 by Type of Dwelling, Type of Previous Dwelling and Occupation of Head of Household",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data exclude households previously staying overseas or in institutions and those with non-working heads.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "04/04/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "457127"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "399903"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "15211"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "17230"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "151098"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "136786"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "57691"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "19183"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "26034"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "5095"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "6763"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "12152"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "7179"
+              }
+            ]
+          },
+          {
+            "key": "Administrative & Managerial",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "99364"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "74161"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "1147"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "1497"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "20986"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "25679"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "16241"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "7327"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "12966"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "2585"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "3229"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "5118"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "1306"
+              }
+            ]
+          },
+          {
+            "key": "Professional & Technical",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "132016"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "112506"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "2040"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "2910"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "36710"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "40443"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "21695"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "7665"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "9513"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "1770"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "2498"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "4532"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "1197"
+              }
+            ]
+          },
+          {
+            "key": "Clerical & Sales & Services",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "84553"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "78615"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "3720"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "4192"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "32198"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "27065"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "9035"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "2191"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "1984"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "389"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "607"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "1297"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "1660"
+              }
+            ]
+          },
+          {
+            "key": "Production & Related",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "134389"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "128477"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "8227"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "8464"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "59521"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "41254"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "9419"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "1500"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "1259"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "301"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "363"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "1020"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "2969"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6805"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "6143"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "76"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "167"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "1683"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "2346"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "1300"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "500"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "312"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "50"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "67"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "186"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "47"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "HDB Dwellings^",
+        "uoM": "Number",
+        "footnote": "^ Includes non-privatised Housing and Urban Development Corporation (HUDC) flats.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "399133"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "369142"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "15023"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "16853"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "146282"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "128663"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "48098"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "12923"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "10434"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "2222"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "3390"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "7318"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "6628"
+              }
+            ]
+          },
+          {
+            "key": "Administrative & Managerial",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "66907"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "58052"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "1089"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "1358"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "18653"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "21498"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "11184"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "3786"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "3512"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "724"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "1252"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "2294"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "1074"
+              }
+            ]
+          },
+          {
+            "key": "Professional & Technical",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "112200"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "101851"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "1974"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "2742"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "35056"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "37788"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "18263"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "5481"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "4193"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "843"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "1312"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "2932"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "1068"
+              }
+            ]
+          },
+          {
+            "key": "Clerical & Sales & Services",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "81438"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "76552"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "3685"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "4155"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "31760"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "26428"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "8432"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "1942"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "1468"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "352"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "472"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "1055"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "1539"
+              }
+            ]
+          },
+          {
+            "key": "Production & Related",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "132736"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "127163"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "8200"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "8431"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "59187"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "40750"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "9121"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "1395"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "1131"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "280"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "320"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "941"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "2900"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5854"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "5524"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "76"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "167"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "1626"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "2199"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "1099"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "318"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "130"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "24"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "34"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "95"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "47"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1",
+        "rowText": "1-Room Flats #",
+        "uoM": "Number",
+        "footnote": "# Includes HDB studio apartments.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4723"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "4245"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "1523"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "494"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "1434"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "645"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "143"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "5"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "48"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "30"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "400"
+              }
+            ]
+          },
+          {
+            "key": "Administrative & Managerial",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "124"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "119"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "37"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "10"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "43"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "29"
+                  },
+                  {
+                    "key": "5-Room Flats"
+                  },
+                  {
+                    "key": "Executive Flats"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "5"
+              }
+            ]
+          },
+          {
+            "key": "Professional & Technical",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "127"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "122"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "20"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "14"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "37"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "47"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Executive Flats"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "5"
+              }
+            ]
+          },
+          {
+            "key": "Clerical & Sales & Services",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1325"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "1168"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "442"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "127"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "382"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "178"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "34"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "5"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "5"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "14"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "138"
+              }
+            ]
+          },
+          {
+            "key": "Production & Related",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3128"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "2817"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "1009"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "342"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "973"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "387"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "105"
+                  },
+                  {
+                    "key": "Executive Flats"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "43"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "16"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "253"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "19"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "14"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "5-Room Flats"
+                  },
+                  {
+                    "key": "Executive Flats"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.2",
+        "rowText": "2-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8152"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "7467"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "1371"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "1565"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "2811"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "1373"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "294"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "54"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "181"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "72"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "426"
+              }
+            ]
+          },
+          {
+            "key": "Administrative & Managerial",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "292"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "268"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "40"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "41"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "100"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "62"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "9"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "19"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "5"
+              }
+            ]
+          },
+          {
+            "key": "Professional & Technical",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "547"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "465"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "49"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "96"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "171"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "98"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "38"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "14"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "27"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "11"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "39"
+              }
+            ]
+          },
+          {
+            "key": "Clerical & Sales & Services",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2384"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "2166"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "391"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "494"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "747"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "411"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "110"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "15"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "55"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "21"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "142"
+              }
+            ]
+          },
+          {
+            "key": "Production & Related",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4891"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "4534"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "882"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "929"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "1795"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "788"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "126"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "15"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "76"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "40"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "241"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "34"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "9"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "3-Room Flats"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "15"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Executive Flats"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "5"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.3",
+        "rowText": "3-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "85027"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "77914"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "5668"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "5963"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "33053"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "24345"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "7292"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "1404"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "2554"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "516"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "663"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "1539"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "1842"
+              }
+            ]
+          },
+          {
+            "key": "Administrative & Managerial",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9023"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "7629"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "401"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "337"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "2972"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "2466"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "1107"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "284"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "559"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "116"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "111"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "365"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "244"
+              }
+            ]
+          },
+          {
+            "key": "Professional & Technical",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20709"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "18377"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "712"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "808"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "8146"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "5711"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "2339"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "581"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "1069"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "166"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "319"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "540"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "238"
+              }
+            ]
+          },
+          {
+            "key": "Clerical & Sales & Services",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21427"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "19747"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "1341"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "1460"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "8060"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "6617"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "1897"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "339"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "540"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "136"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "151"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "388"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "465"
+              }
+            ]
+          },
+          {
+            "key": "Production & Related",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "33274"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "31596"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "3205"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "3329"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "13659"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "9333"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "1869"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "187"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "366"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "98"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "82"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "241"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "890"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "595"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "566"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "10"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "29"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "215"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "217"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "81"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "14"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "20"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "5"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.4",
+        "rowText": "4-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "154468"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "145034"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "5099"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "6722"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "67294"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "48851"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "13319"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "3401"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "3276"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "617"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "922"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "2138"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "2481"
+              }
+            ]
+          },
+          {
+            "key": "Administrative & Managerial",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19103"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "16659"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "337"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "597"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "6464"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "6083"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "2206"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "872"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "1082"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "142"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "301"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "548"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "370"
+              }
+            ]
+          },
+          {
+            "key": "Professional & Technical",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36726"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "33657"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "760"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "1005"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "12735"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "13072"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "4632"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "1276"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "1281"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "236"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "341"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "815"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "395"
+              }
+            ]
+          },
+          {
+            "key": "Clerical & Sales & Services",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34559"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "32920"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "1306"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "1722"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "15661"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "10634"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "2914"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "655"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "484"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "120"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "139"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "352"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "545"
+              }
+            ]
+          },
+          {
+            "key": "Production & Related",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "62335"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "60151"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "2663"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "3327"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "31812"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "18437"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "3351"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "524"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "401"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "119"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "136"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "385"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "1143"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1746"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "1646"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "33"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "72"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "623"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "625"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "215"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "74"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "28"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "38"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "28"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.5",
+        "rowText": "5-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "102918"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "95339"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "1183"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "1770"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "33976"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "37768"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "16706"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "3601"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "2669"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "611"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "1038"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "2141"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "1121"
+              }
+            ]
+          },
+          {
+            "key": "Administrative & Managerial",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22729"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "19840"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "205"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "292"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "6344"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "7598"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "4321"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "976"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "1075"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "253"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "473"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "782"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "305"
+              }
+            ]
+          },
+          {
+            "key": "Professional & Technical",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36738"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "33774"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "370"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "664"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "10914"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "13003"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "7013"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "1675"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "1100"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "238"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "358"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "990"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "278"
+              }
+            ]
+          },
+          {
+            "key": "Clerical & Sales & Services",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16843"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "16022"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "192"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "322"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "6082"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "6580"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "2331"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "473"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "273"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "67"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "106"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "168"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "207"
+              }
+            ]
+          },
+          {
+            "key": "Production & Related",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24430"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "23621"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "407"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "441"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "10015"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "9714"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "2658"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "363"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "172"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "39"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "86"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "187"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "326"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2178"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "2082"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "9"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "52"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "621"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "872"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "383"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "115"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "49"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "14"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "14"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "14"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.6",
+        "rowText": "Executive Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41479"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "37523"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "174"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "340"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "7533"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "15291"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "9800"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "4214"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "1337"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "385"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "656"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "1243"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "335"
+              }
+            ]
+          },
+          {
+            "key": "Administrative & Managerial",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14448"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "12714"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "68"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "82"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "2659"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "5035"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "3277"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "1531"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "618"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "177"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "298"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "510"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "131"
+              }
+            ]
+          },
+          {
+            "key": "Professional & Technical",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16428"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "14858"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "59"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "154"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "2953"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "5743"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "4024"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "1846"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "522"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "145"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "256"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "538"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "109"
+              }
+            ]
+          },
+          {
+            "key": "Clerical & Sales & Services",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4763"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "4407"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "14"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "30"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "823"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "1986"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "1108"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "426"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "105"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "29"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "72"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "112"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "38"
+              }
+            ]
+          },
+          {
+            "key": "Production & Related",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4596"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "4396"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "33"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "64"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "934"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "2067"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "986"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "306"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "64"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "24"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "50"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "47"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1244"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "1148"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "10"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "162"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "460"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "406"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "106"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "29"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "9"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "14"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "33"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Condominiums And Other Apartments",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "39588"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "22850"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "138"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "297"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "3765"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "6240"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "7081"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "4373"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "11630"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "1398"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "1448"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "2050"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "212"
+              }
+            ]
+          },
+          {
+            "key": "Administrative & Managerial",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21031"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "11347"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "44"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "113"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "1745"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "3041"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "3527"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "2324"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "6875"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "808"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "774"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "1122"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "106"
+              }
+            ]
+          },
+          {
+            "key": "Professional & Technical",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14610"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "8514"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "62"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "148"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "1390"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "2224"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "2744"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "1619"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "4145"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "553"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "587"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "754"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "57"
+              }
+            ]
+          },
+          {
+            "key": "Clerical & Sales & Services",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2122"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "1489"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "14"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "21"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "326"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "480"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "411"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "186"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "406"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "11"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "63"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "118"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "35"
+              }
+            ]
+          },
+          {
+            "key": "Production & Related",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1142"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "997"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "18"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "16"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "255"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "381"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "237"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "86"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "89"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "9"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "9"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "24"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "14"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "682"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "504"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "47"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "114"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "162"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "158"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "115"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "14"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "33"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Landed Properties",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17034"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "6902"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "24"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "21"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "694"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "1538"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "2370"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "1813"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "3891"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "1456"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "1882"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "2718"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "184"
+              }
+            ]
+          },
+          {
+            "key": "Administrative & Managerial",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10708"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "4200"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "14"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "384"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "925"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "1450"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "1172"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "2549"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "1039"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "1189"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "1655"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "76"
+              }
+            ]
+          },
+          {
+            "key": "Professional & Technical",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5004"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "2020"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "5"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "16"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "221"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "379"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "679"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "551"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "1150"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "369"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "573"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "831"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "61"
+              }
+            ]
+          },
+          {
+            "key": "Clerical & Sales & Services",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "703"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "366"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "5"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "38"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "107"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "153"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "47"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "101"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "26"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "67"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "119"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "24"
+              }
+            ]
+          },
+          {
+            "key": "Production & Related",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "360"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "206"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "46"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "93"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "47"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "19"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "30"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "11"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "33"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "56"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "24"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "260"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "111"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "33"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "39"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "24"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "62"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "10"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "19"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "58"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "Bungalows",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2285"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "276"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "45"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "44"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "103"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "60"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "578"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "633"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "491"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "296"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "11"
+              }
+            ]
+          },
+          {
+            "key": "Administrative & Managerial",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1633"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "179"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "21"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "29"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "84"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "35"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "423"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "477"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "341"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "209"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "5"
+              }
+            ]
+          },
+          {
+            "key": "Professional & Technical",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "593"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "82"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "17"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "10"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "19"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "21"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "150"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "151"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "131"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "72"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "6"
+              }
+            ]
+          },
+          {
+            "key": "Clerical & Sales & Services",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "5"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats"
+                  },
+                  {
+                    "key": "4-Room Flats"
+                  },
+                  {
+                    "key": "5-Room Flats"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "5"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "5"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "9"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "5"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others"
+              }
+            ]
+          },
+          {
+            "key": "Production & Related",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "11"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "6"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "5-Room Flats"
+                  },
+                  {
+                    "key": "Executive Flats"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "9"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats"
+                  },
+                  {
+                    "key": "4-Room Flats"
+                  },
+                  {
+                    "key": "5-Room Flats"
+                  },
+                  {
+                    "key": "Executive Flats"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Terrace Houses"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Semi-Detached Bungalows",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5911"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "1891"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "14"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "10"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "169"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "457"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "686"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "436"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "1434"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "499"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "975"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "1040"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "72"
+              }
+            ]
+          },
+          {
+            "key": "Administrative & Managerial",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4018"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "1302"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "9"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "97"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "309"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "472"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "320"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "991"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "362"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "637"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "684"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "43"
+              }
+            ]
+          },
+          {
+            "key": "Professional & Technical",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1561"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "472"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "5"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "63"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "100"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "174"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "106"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "396"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "121"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "269"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "293"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "10"
+              }
+            ]
+          },
+          {
+            "key": "Clerical & Sales & Services",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "183"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "72"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "24"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "28"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "9"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "24"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "9"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "38"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "35"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "5"
+              }
+            ]
+          },
+          {
+            "key": "Production & Related",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "70"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "24"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "19"
+                  },
+                  {
+                    "key": "5-Room Flats"
+                  },
+                  {
+                    "key": "Executive Flats"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "6"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "16"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "10"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "14"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "77"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "20"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "11"
+                  },
+                  {
+                    "key": "Executive Flats"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "24"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "14"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "19"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.3",
+        "rowText": "Terrace Houses",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8839"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "4735"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "10"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "11"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "480"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "1036"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "1581"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "1317"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "1880"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "324"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "416"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "1382"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "102"
+              }
+            ]
+          },
+          {
+            "key": "Administrative & Managerial",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5056"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "2719"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "5"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "267"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "586"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "894"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "817"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "1136"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "200"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "210"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "762"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "29"
+              }
+            ]
+          },
+          {
+            "key": "Professional & Technical",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2850"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "1466"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "11"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "141"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "269"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "486"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "423"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "603"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "97"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "173"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "466"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "45"
+              }
+            ]
+          },
+          {
+            "key": "Clerical & Sales & Services",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "496"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "288"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "5"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "33"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "82"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "125"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "33"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "72"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "17"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "19"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "80"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "19"
+              }
+            ]
+          },
+          {
+            "key": "Production & Related",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "260"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "171"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "35"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "70"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "47"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "19"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "30"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "13"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "37"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "9"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "178"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "90"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "29"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "28"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "24"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "38"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "10"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "39"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1371"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "1008"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "26"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "59"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "356"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "345"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "141"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "75"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "79"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "19"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "44"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "66"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "154"
+              }
+            ]
+          },
+          {
+            "key": "Administrative & Managerial",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "719"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "563"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "20"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "203"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "215"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "79"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "45"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "30"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "14"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "14"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "47"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "50"
+              }
+            ]
+          },
+          {
+            "key": "Professional & Technical",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "201"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "121"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "42"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "51"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "9"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "14"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "25"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "25"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "14"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "11"
+              }
+            ]
+          },
+          {
+            "key": "Clerical & Sales & Services",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "290"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "208"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "16"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "16"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "73"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "49"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "38"
+                  },
+                  {
+                    "key": "Executive Flats",
+                    "value": "16"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "9"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows",
+                    "value": "5"
+                  },
+                  {
+                    "key": "Terrace Houses",
+                    "value": "5"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "63"
+              }
+            ]
+          },
+          {
+            "key": "Production & Related",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "151"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "111"
+                  },
+                  {
+                    "key": "1-Room Flats #",
+                    "value": "10"
+                  },
+                  {
+                    "key": "2-Room Flats",
+                    "value": "18"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "33"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "30"
+                  },
+                  {
+                    "key": "5-Room Flats",
+                    "value": "14"
+                  },
+                  {
+                    "key": "Executive Flats"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "9"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others",
+                "value": "30"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9"
+              },
+              {
+                "key": "Type Of Previous Dwelling- HDB Dwellings^",
+                "columns": [
+                  {
+                    "key": "Total^",
+                    "value": "5"
+                  },
+                  {
+                    "key": "1-Room Flats #"
+                  },
+                  {
+                    "key": "2-Room Flats"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "5"
+                  },
+                  {
+                    "key": "4-Room Flats"
+                  },
+                  {
+                    "key": "5-Room Flats"
+                  },
+                  {
+                    "key": "Executive Flats"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Condominiums & Other Apartments",
+                "value": "5"
+              },
+              {
+                "key": "Type Of Previous Dwelling- Landed Properties",
+                "columns": [
+                  {
+                    "key": "Bungalows"
+                  },
+                  {
+                    "key": "Semi-Detached Bungalows"
+                  },
+                  {
+                    "key": "Terrace Houses"
+                  }
+                ]
+              },
+              {
+                "key": "Type Of Previous Dwelling- Others"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

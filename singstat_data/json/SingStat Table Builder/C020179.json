@@ -1,0 +1,7446 @@
+{
+  "Data": {
+    "id": "C020179",
+    "tableType": "General Household Survey 2025",
+    "groupTitle": null,
+    "title": "Resident Population Aged 65 Years and Over in Resident Households by Level of Difficulty in Performing Basic Activity in Specific Domain, Living Arrangement and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: For residents aged 65 years and over in resident households, the Living Arrangement categories are based on presence of their spouse and/or children (including children-in-law) in the same household. The classification also incorporates the labour force status of their children.Data has been rounded to the nearest 100 and may not add up due to rounding.\n‘ - ’ denotes Nil or negligible. Users are advised to exercise caution when drawing inferences from survey estimates with small sample sizes or those denoted as ‘ - ’, as these estimates are based on a sample survey and subject to sampling variability. For more information, refer to the write up on the GHS 2025 Sample Design and Sampling Variability (https://go.gov.sg/ghs2025-sample-design-and-variability). ",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Difficulty Performing Basic Activities ",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "768800"
+              },
+              {
+                "key": "Males",
+                "value": "360100"
+              },
+              {
+                "key": "Females",
+                "value": "408700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "494900"
+              },
+              {
+                "key": "Males",
+                "value": "282800"
+              },
+              {
+                "key": "Females",
+                "value": "212100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "222800"
+              },
+              {
+                "key": "Males",
+                "value": "121000"
+              },
+              {
+                "key": "Females",
+                "value": "101700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "236700"
+              },
+              {
+                "key": "Males",
+                "value": "140000"
+              },
+              {
+                "key": "Females",
+                "value": "96700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35400"
+              },
+              {
+                "key": "Males",
+                "value": "21800"
+              },
+              {
+                "key": "Females",
+                "value": "13600"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "119900"
+              },
+              {
+                "key": "Males",
+                "value": "23300"
+              },
+              {
+                "key": "Females",
+                "value": "96500"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "102900"
+              },
+              {
+                "key": "Males",
+                "value": "21300"
+              },
+              {
+                "key": "Females",
+                "value": "81600"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17000"
+              },
+              {
+                "key": "Males",
+                "value": "2100"
+              },
+              {
+                "key": "Females",
+                "value": "14900"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "154100"
+              },
+              {
+                "key": "Males",
+                "value": "54000"
+              },
+              {
+                "key": "Females",
+                "value": "100100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "88400"
+              },
+              {
+                "key": "Males",
+                "value": "33400"
+              },
+              {
+                "key": "Females",
+                "value": "54900"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19500"
+              },
+              {
+                "key": "Males",
+                "value": "6300"
+              },
+              {
+                "key": "Females",
+                "value": "13100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "46200"
+              },
+              {
+                "key": "Males",
+                "value": "14200"
+              },
+              {
+                "key": "Females",
+                "value": "32000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Without A Lot of Difficulty in Performing Any Basic Activity1/",
+        "uoM": "Number",
+        "footnote": "1/ Number of persons with No Difficulty in Performing Any Basic Activity, Some Difficulty in Performing At Least One Basic Activity and Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity cannot be added from the number of persons with difficulty in specific domain because individuals may have difficulty in one or multiple domains. ",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "708100"
+              },
+              {
+                "key": "Males",
+                "value": "335700"
+              },
+              {
+                "key": "Females",
+                "value": "372400"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "466300"
+              },
+              {
+                "key": "Males",
+                "value": "265200"
+              },
+              {
+                "key": "Females",
+                "value": "201100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "210400"
+              },
+              {
+                "key": "Males",
+                "value": "113100"
+              },
+              {
+                "key": "Females",
+                "value": "97300"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "224200"
+              },
+              {
+                "key": "Males",
+                "value": "132200"
+              },
+              {
+                "key": "Females",
+                "value": "92000"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31700"
+              },
+              {
+                "key": "Males",
+                "value": "19800"
+              },
+              {
+                "key": "Females",
+                "value": "11900"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "101000"
+              },
+              {
+                "key": "Males",
+                "value": "20500"
+              },
+              {
+                "key": "Females",
+                "value": "80500"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "88400"
+              },
+              {
+                "key": "Males",
+                "value": "18900"
+              },
+              {
+                "key": "Females",
+                "value": "69500"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12700"
+              },
+              {
+                "key": "Males",
+                "value": "1600"
+              },
+              {
+                "key": "Females",
+                "value": "11000"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "140800"
+              },
+              {
+                "key": "Males",
+                "value": "50000"
+              },
+              {
+                "key": "Females",
+                "value": "90700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "84000"
+              },
+              {
+                "key": "Males",
+                "value": "31700"
+              },
+              {
+                "key": "Females",
+                "value": "52300"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17900"
+              },
+              {
+                "key": "Males",
+                "value": "5600"
+              },
+              {
+                "key": "Females",
+                "value": "12300"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38900"
+              },
+              {
+                "key": "Males",
+                "value": "12700"
+              },
+              {
+                "key": "Females",
+                "value": "26200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1",
+        "rowText": "No Difficulty in Performing Any Basic Activity1/",
+        "uoM": "Number",
+        "footnote": "1/ Number of persons with No Difficulty in Performing Any Basic Activity, Some Difficulty in Performing At Least One Basic Activity and Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity cannot be added from the number of persons with difficulty in specific domain because individuals may have difficulty in one or multiple domains. ",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "555200"
+              },
+              {
+                "key": "Males",
+                "value": "263500"
+              },
+              {
+                "key": "Females",
+                "value": "291600"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "376800"
+              },
+              {
+                "key": "Males",
+                "value": "211500"
+              },
+              {
+                "key": "Females",
+                "value": "165300"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "169100"
+              },
+              {
+                "key": "Males",
+                "value": "89000"
+              },
+              {
+                "key": "Females",
+                "value": "80100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "183100"
+              },
+              {
+                "key": "Males",
+                "value": "106700"
+              },
+              {
+                "key": "Females",
+                "value": "76300"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24500"
+              },
+              {
+                "key": "Males",
+                "value": "15700"
+              },
+              {
+                "key": "Females",
+                "value": "8800"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "72200"
+              },
+              {
+                "key": "Males",
+                "value": "14700"
+              },
+              {
+                "key": "Females",
+                "value": "57500"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "64400"
+              },
+              {
+                "key": "Males",
+                "value": "13600"
+              },
+              {
+                "key": "Females",
+                "value": "50800"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7800"
+              },
+              {
+                "key": "Males",
+                "value": "1200"
+              },
+              {
+                "key": "Females",
+                "value": "6700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "106200"
+              },
+              {
+                "key": "Males",
+                "value": "37300"
+              },
+              {
+                "key": "Females",
+                "value": "68900"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "64400"
+              },
+              {
+                "key": "Males",
+                "value": "23500"
+              },
+              {
+                "key": "Females",
+                "value": "40900"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14800"
+              },
+              {
+                "key": "Males",
+                "value": "4600"
+              },
+              {
+                "key": "Females",
+                "value": "10200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27000"
+              },
+              {
+                "key": "Males",
+                "value": "9200"
+              },
+              {
+                "key": "Females",
+                "value": "17800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.2",
+        "rowText": "Some Difficulty in Performing At Least One Basic Activity1/",
+        "uoM": "Number",
+        "footnote": "1/ Number of persons with No Difficulty in Performing Any Basic Activity, Some Difficulty in Performing At Least One Basic Activity and Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity cannot be added from the number of persons with difficulty in specific domain because individuals may have difficulty in one or multiple domains. ",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "152900"
+              },
+              {
+                "key": "Males",
+                "value": "72100"
+              },
+              {
+                "key": "Females",
+                "value": "80800"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "89500"
+              },
+              {
+                "key": "Males",
+                "value": "53700"
+              },
+              {
+                "key": "Females",
+                "value": "35900"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41200"
+              },
+              {
+                "key": "Males",
+                "value": "24000"
+              },
+              {
+                "key": "Females",
+                "value": "17200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41100"
+              },
+              {
+                "key": "Males",
+                "value": "25500"
+              },
+              {
+                "key": "Females",
+                "value": "15600"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7200"
+              },
+              {
+                "key": "Males",
+                "value": "4100"
+              },
+              {
+                "key": "Females",
+                "value": "3100"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28800"
+              },
+              {
+                "key": "Males",
+                "value": "5800"
+              },
+              {
+                "key": "Females",
+                "value": "23100"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24000"
+              },
+              {
+                "key": "Males",
+                "value": "5300"
+              },
+              {
+                "key": "Females",
+                "value": "18700"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4800"
+              },
+              {
+                "key": "Males",
+                "value": "500"
+              },
+              {
+                "key": "Females",
+                "value": "4400"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34600"
+              },
+              {
+                "key": "Males",
+                "value": "12700"
+              },
+              {
+                "key": "Females",
+                "value": "21800"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19600"
+              },
+              {
+                "key": "Males",
+                "value": "8200"
+              },
+              {
+                "key": "Females",
+                "value": "11400"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3000"
+              },
+              {
+                "key": "Males",
+                "value": "1000"
+              },
+              {
+                "key": "Females",
+                "value": "2000"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11900"
+              },
+              {
+                "key": "Males",
+                "value": "3500"
+              },
+              {
+                "key": "Females",
+                "value": "8400"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity1/",
+        "uoM": "Number",
+        "footnote": "1/ Number of persons with No Difficulty in Performing Any Basic Activity, Some Difficulty in Performing At Least One Basic Activity and Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity cannot be added from the number of persons with difficulty in specific domain because individuals may have difficulty in one or multiple domains. ",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "60800"
+              },
+              {
+                "key": "Males",
+                "value": "24400"
+              },
+              {
+                "key": "Females",
+                "value": "36300"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28600"
+              },
+              {
+                "key": "Males",
+                "value": "17700"
+              },
+              {
+                "key": "Females",
+                "value": "11000"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12400"
+              },
+              {
+                "key": "Males",
+                "value": "7900"
+              },
+              {
+                "key": "Females",
+                "value": "4500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12500"
+              },
+              {
+                "key": "Males",
+                "value": "7700"
+              },
+              {
+                "key": "Females",
+                "value": "4800"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3700"
+              },
+              {
+                "key": "Males",
+                "value": "2000"
+              },
+              {
+                "key": "Females",
+                "value": "1700"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18800"
+              },
+              {
+                "key": "Males",
+                "value": "2800"
+              },
+              {
+                "key": "Females",
+                "value": "16000"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14500"
+              },
+              {
+                "key": "Males",
+                "value": "2400"
+              },
+              {
+                "key": "Females",
+                "value": "12100"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4300"
+              },
+              {
+                "key": "Males",
+                "value": "400"
+              },
+              {
+                "key": "Females",
+                "value": "3900"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13300"
+              },
+              {
+                "key": "Males",
+                "value": "3900"
+              },
+              {
+                "key": "Females",
+                "value": "9300"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4400"
+              },
+              {
+                "key": "Males",
+                "value": "1700"
+              },
+              {
+                "key": "Females",
+                "value": "2700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1600"
+              },
+              {
+                "key": "Males",
+                "value": "700"
+              },
+              {
+                "key": "Females",
+                "value": "900"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7300"
+              },
+              {
+                "key": "Males",
+                "value": "1500"
+              },
+              {
+                "key": "Females",
+                "value": "5800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "Seeing",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.1",
+        "rowText": "Without A Lot of Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "757800"
+              },
+              {
+                "key": "Males",
+                "value": "354800"
+              },
+              {
+                "key": "Females",
+                "value": "402900"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "489800"
+              },
+              {
+                "key": "Males",
+                "value": "279100"
+              },
+              {
+                "key": "Females",
+                "value": "210700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "220800"
+              },
+              {
+                "key": "Males",
+                "value": "119500"
+              },
+              {
+                "key": "Females",
+                "value": "101200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "234100"
+              },
+              {
+                "key": "Males",
+                "value": "138100"
+              },
+              {
+                "key": "Females",
+                "value": "95900"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34900"
+              },
+              {
+                "key": "Males",
+                "value": "21400"
+              },
+              {
+                "key": "Females",
+                "value": "13500"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "115900"
+              },
+              {
+                "key": "Males",
+                "value": "22600"
+              },
+              {
+                "key": "Females",
+                "value": "93300"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "100300"
+              },
+              {
+                "key": "Males",
+                "value": "20600"
+              },
+              {
+                "key": "Females",
+                "value": "79700"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15600"
+              },
+              {
+                "key": "Males",
+                "value": "2000"
+              },
+              {
+                "key": "Females",
+                "value": "13600"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "152100"
+              },
+              {
+                "key": "Males",
+                "value": "53200"
+              },
+              {
+                "key": "Females",
+                "value": "98900"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "87800"
+              },
+              {
+                "key": "Males",
+                "value": "33100"
+              },
+              {
+                "key": "Females",
+                "value": "54700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19100"
+              },
+              {
+                "key": "Males",
+                "value": "6100"
+              },
+              {
+                "key": "Females",
+                "value": "13000"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45200"
+              },
+              {
+                "key": "Males",
+                "value": "14000"
+              },
+              {
+                "key": "Females",
+                "value": "31200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.1.1",
+        "rowText": "No Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "690000"
+              },
+              {
+                "key": "Males",
+                "value": "323100"
+              },
+              {
+                "key": "Females",
+                "value": "366800"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "451200"
+              },
+              {
+                "key": "Males",
+                "value": "256100"
+              },
+              {
+                "key": "Females",
+                "value": "195200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "204900"
+              },
+              {
+                "key": "Males",
+                "value": "110000"
+              },
+              {
+                "key": "Females",
+                "value": "94900"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "214500"
+              },
+              {
+                "key": "Males",
+                "value": "126600"
+              },
+              {
+                "key": "Females",
+                "value": "87900"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31900"
+              },
+              {
+                "key": "Males",
+                "value": "19400"
+              },
+              {
+                "key": "Females",
+                "value": "12400"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "100100"
+              },
+              {
+                "key": "Males",
+                "value": "19500"
+              },
+              {
+                "key": "Females",
+                "value": "80600"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "87100"
+              },
+              {
+                "key": "Males",
+                "value": "17600"
+              },
+              {
+                "key": "Females",
+                "value": "69500"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13000"
+              },
+              {
+                "key": "Males",
+                "value": "1900"
+              },
+              {
+                "key": "Females",
+                "value": "11100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "138600"
+              },
+              {
+                "key": "Males",
+                "value": "47500"
+              },
+              {
+                "key": "Females",
+                "value": "91100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "81500"
+              },
+              {
+                "key": "Males",
+                "value": "29900"
+              },
+              {
+                "key": "Females",
+                "value": "51500"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17600"
+              },
+              {
+                "key": "Males",
+                "value": "5400"
+              },
+              {
+                "key": "Females",
+                "value": "12200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "39600"
+              },
+              {
+                "key": "Males",
+                "value": "12100"
+              },
+              {
+                "key": "Females",
+                "value": "27400"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.1.2",
+        "rowText": "Some Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "67800"
+              },
+              {
+                "key": "Males",
+                "value": "31700"
+              },
+              {
+                "key": "Females",
+                "value": "36100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38500"
+              },
+              {
+                "key": "Males",
+                "value": "23000"
+              },
+              {
+                "key": "Females",
+                "value": "15500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15900"
+              },
+              {
+                "key": "Males",
+                "value": "9500"
+              },
+              {
+                "key": "Females",
+                "value": "6400"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19600"
+              },
+              {
+                "key": "Males",
+                "value": "11500"
+              },
+              {
+                "key": "Females",
+                "value": "8100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3000"
+              },
+              {
+                "key": "Males",
+                "value": "2000"
+              },
+              {
+                "key": "Females",
+                "value": "1100"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15800"
+              },
+              {
+                "key": "Males",
+                "value": "3000"
+              },
+              {
+                "key": "Females",
+                "value": "12800"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13200"
+              },
+              {
+                "key": "Males",
+                "value": "2900"
+              },
+              {
+                "key": "Females",
+                "value": "10200"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2600"
+              },
+              {
+                "key": "Males",
+                "value": "100"
+              },
+              {
+                "key": "Females",
+                "value": "2500"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13500"
+              },
+              {
+                "key": "Males",
+                "value": "5700"
+              },
+              {
+                "key": "Females",
+                "value": "7800"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6300"
+              },
+              {
+                "key": "Males",
+                "value": "3100"
+              },
+              {
+                "key": "Females",
+                "value": "3200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1600"
+              },
+              {
+                "key": "Males",
+                "value": "700"
+              },
+              {
+                "key": "Females",
+                "value": "900"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5600"
+              },
+              {
+                "key": "Males",
+                "value": "1800"
+              },
+              {
+                "key": "Females",
+                "value": "3800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.2",
+        "rowText": "Unable to Perform/ with A Lot of Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11100"
+              },
+              {
+                "key": "Males",
+                "value": "5300"
+              },
+              {
+                "key": "Females",
+                "value": "5800"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5100"
+              },
+              {
+                "key": "Males",
+                "value": "3700"
+              },
+              {
+                "key": "Females",
+                "value": "1400"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2000"
+              },
+              {
+                "key": "Males",
+                "value": "1500"
+              },
+              {
+                "key": "Females",
+                "value": "500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2700"
+              },
+              {
+                "key": "Males",
+                "value": "1800"
+              },
+              {
+                "key": "Females",
+                "value": "800"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "500"
+              },
+              {
+                "key": "Males",
+                "value": "400"
+              },
+              {
+                "key": "Females",
+                "value": "100"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3900"
+              },
+              {
+                "key": "Males",
+                "value": "800"
+              },
+              {
+                "key": "Females",
+                "value": "3200"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2600"
+              },
+              {
+                "key": "Males",
+                "value": "700"
+              },
+              {
+                "key": "Females",
+                "value": "1900"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1300"
+              },
+              {
+                "key": "Males",
+                "value": "-"
+              },
+              {
+                "key": "Females",
+                "value": "1300"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2000"
+              },
+              {
+                "key": "Males",
+                "value": "800"
+              },
+              {
+                "key": "Females",
+                "value": "1200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "600"
+              },
+              {
+                "key": "Males",
+                "value": "300"
+              },
+              {
+                "key": "Females",
+                "value": "200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "400"
+              },
+              {
+                "key": "Males",
+                "value": "200"
+              },
+              {
+                "key": "Females",
+                "value": "100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1000"
+              },
+              {
+                "key": "Males",
+                "value": "200"
+              },
+              {
+                "key": "Females",
+                "value": "800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "Hearing",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.1",
+        "rowText": "Without A Lot of Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "755600"
+              },
+              {
+                "key": "Males",
+                "value": "353500"
+              },
+              {
+                "key": "Females",
+                "value": "402000"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "488800"
+              },
+              {
+                "key": "Males",
+                "value": "278200"
+              },
+              {
+                "key": "Females",
+                "value": "210600"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "220600"
+              },
+              {
+                "key": "Males",
+                "value": "119000"
+              },
+              {
+                "key": "Females",
+                "value": "101500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "233500"
+              },
+              {
+                "key": "Males",
+                "value": "137800"
+              },
+              {
+                "key": "Females",
+                "value": "95700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34800"
+              },
+              {
+                "key": "Males",
+                "value": "21400"
+              },
+              {
+                "key": "Females",
+                "value": "13400"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "115900"
+              },
+              {
+                "key": "Males",
+                "value": "22900"
+              },
+              {
+                "key": "Females",
+                "value": "93000"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "100100"
+              },
+              {
+                "key": "Males",
+                "value": "20800"
+              },
+              {
+                "key": "Females",
+                "value": "79300"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15700"
+              },
+              {
+                "key": "Males",
+                "value": "2000"
+              },
+              {
+                "key": "Females",
+                "value": "13700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "150900"
+              },
+              {
+                "key": "Males",
+                "value": "52400"
+              },
+              {
+                "key": "Females",
+                "value": "98500"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "87100"
+              },
+              {
+                "key": "Males",
+                "value": "32700"
+              },
+              {
+                "key": "Females",
+                "value": "54300"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18800"
+              },
+              {
+                "key": "Males",
+                "value": "5700"
+              },
+              {
+                "key": "Females",
+                "value": "13100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45000"
+              },
+              {
+                "key": "Males",
+                "value": "13900"
+              },
+              {
+                "key": "Females",
+                "value": "31100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.1.1",
+        "rowText": "No Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "688700"
+              },
+              {
+                "key": "Males",
+                "value": "318800"
+              },
+              {
+                "key": "Females",
+                "value": "370000"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "450200"
+              },
+              {
+                "key": "Males",
+                "value": "252100"
+              },
+              {
+                "key": "Females",
+                "value": "198100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "204000"
+              },
+              {
+                "key": "Males",
+                "value": "107500"
+              },
+              {
+                "key": "Females",
+                "value": "96500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "214200"
+              },
+              {
+                "key": "Males",
+                "value": "124800"
+              },
+              {
+                "key": "Females",
+                "value": "89400"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "32000"
+              },
+              {
+                "key": "Males",
+                "value": "19800"
+              },
+              {
+                "key": "Females",
+                "value": "12200"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "100700"
+              },
+              {
+                "key": "Males",
+                "value": "19500"
+              },
+              {
+                "key": "Females",
+                "value": "81200"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "88100"
+              },
+              {
+                "key": "Males",
+                "value": "17800"
+              },
+              {
+                "key": "Females",
+                "value": "70300"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12700"
+              },
+              {
+                "key": "Males",
+                "value": "1700"
+              },
+              {
+                "key": "Females",
+                "value": "10900"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "137800"
+              },
+              {
+                "key": "Males",
+                "value": "47100"
+              },
+              {
+                "key": "Females",
+                "value": "90600"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "81000"
+              },
+              {
+                "key": "Males",
+                "value": "29900"
+              },
+              {
+                "key": "Females",
+                "value": "51100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17700"
+              },
+              {
+                "key": "Males",
+                "value": "5200"
+              },
+              {
+                "key": "Females",
+                "value": "12400"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "39200"
+              },
+              {
+                "key": "Males",
+                "value": "12000"
+              },
+              {
+                "key": "Females",
+                "value": "27200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.1.2",
+        "rowText": "Some Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "66800"
+              },
+              {
+                "key": "Males",
+                "value": "34700"
+              },
+              {
+                "key": "Females",
+                "value": "32100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38600"
+              },
+              {
+                "key": "Males",
+                "value": "26100"
+              },
+              {
+                "key": "Females",
+                "value": "12500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16600"
+              },
+              {
+                "key": "Males",
+                "value": "11500"
+              },
+              {
+                "key": "Females",
+                "value": "5000"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19300"
+              },
+              {
+                "key": "Males",
+                "value": "13000"
+              },
+              {
+                "key": "Females",
+                "value": "6300"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2800"
+              },
+              {
+                "key": "Males",
+                "value": "1600"
+              },
+              {
+                "key": "Females",
+                "value": "1200"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15100"
+              },
+              {
+                "key": "Males",
+                "value": "3400"
+              },
+              {
+                "key": "Females",
+                "value": "11800"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12100"
+              },
+              {
+                "key": "Males",
+                "value": "3100"
+              },
+              {
+                "key": "Females",
+                "value": "9000"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3000"
+              },
+              {
+                "key": "Males",
+                "value": "300"
+              },
+              {
+                "key": "Females",
+                "value": "2800"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13100"
+              },
+              {
+                "key": "Males",
+                "value": "5300"
+              },
+              {
+                "key": "Females",
+                "value": "7800"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6100"
+              },
+              {
+                "key": "Males",
+                "value": "2800"
+              },
+              {
+                "key": "Females",
+                "value": "3300"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1200"
+              },
+              {
+                "key": "Males",
+                "value": "500"
+              },
+              {
+                "key": "Females",
+                "value": "700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5800"
+              },
+              {
+                "key": "Males",
+                "value": "1900"
+              },
+              {
+                "key": "Females",
+                "value": "3900"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.2",
+        "rowText": "Unable to Perform/ with A Lot of Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13300"
+              },
+              {
+                "key": "Males",
+                "value": "6600"
+              },
+              {
+                "key": "Females",
+                "value": "6600"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6100"
+              },
+              {
+                "key": "Males",
+                "value": "4600"
+              },
+              {
+                "key": "Females",
+                "value": "1500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2200"
+              },
+              {
+                "key": "Males",
+                "value": "2000"
+              },
+              {
+                "key": "Females",
+                "value": "200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3300"
+              },
+              {
+                "key": "Males",
+                "value": "2200"
+              },
+              {
+                "key": "Females",
+                "value": "1100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "600"
+              },
+              {
+                "key": "Males",
+                "value": "400"
+              },
+              {
+                "key": "Females",
+                "value": "200"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4000"
+              },
+              {
+                "key": "Males",
+                "value": "500"
+              },
+              {
+                "key": "Females",
+                "value": "3500"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2700"
+              },
+              {
+                "key": "Males",
+                "value": "400"
+              },
+              {
+                "key": "Females",
+                "value": "2300"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1300"
+              },
+              {
+                "key": "Males",
+                "value": "-"
+              },
+              {
+                "key": "Females",
+                "value": "1200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3200"
+              },
+              {
+                "key": "Males",
+                "value": "1600"
+              },
+              {
+                "key": "Females",
+                "value": "1600"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1300"
+              },
+              {
+                "key": "Males",
+                "value": "700"
+              },
+              {
+                "key": "Females",
+                "value": "600"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "700"
+              },
+              {
+                "key": "Males",
+                "value": "600"
+              },
+              {
+                "key": "Females",
+                "value": "100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1200"
+              },
+              {
+                "key": "Males",
+                "value": "300"
+              },
+              {
+                "key": "Females",
+                "value": "900"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "Mobility",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.1",
+        "rowText": "Without A Lot of Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "726000"
+              },
+              {
+                "key": "Males",
+                "value": "344900"
+              },
+              {
+                "key": "Females",
+                "value": "381200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "476100"
+              },
+              {
+                "key": "Males",
+                "value": "272000"
+              },
+              {
+                "key": "Females",
+                "value": "204100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "213800"
+              },
+              {
+                "key": "Males",
+                "value": "115700"
+              },
+              {
+                "key": "Females",
+                "value": "98100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "229400"
+              },
+              {
+                "key": "Males",
+                "value": "135800"
+              },
+              {
+                "key": "Females",
+                "value": "93600"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "32800"
+              },
+              {
+                "key": "Males",
+                "value": "20400"
+              },
+              {
+                "key": "Females",
+                "value": "12400"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "105300"
+              },
+              {
+                "key": "Males",
+                "value": "21200"
+              },
+              {
+                "key": "Females",
+                "value": "84100"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "91900"
+              },
+              {
+                "key": "Males",
+                "value": "19600"
+              },
+              {
+                "key": "Females",
+                "value": "72300"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13400"
+              },
+              {
+                "key": "Males",
+                "value": "1700"
+              },
+              {
+                "key": "Females",
+                "value": "11700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "144700"
+              },
+              {
+                "key": "Males",
+                "value": "51600"
+              },
+              {
+                "key": "Females",
+                "value": "93000"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "85500"
+              },
+              {
+                "key": "Males",
+                "value": "32600"
+              },
+              {
+                "key": "Females",
+                "value": "52900"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18400"
+              },
+              {
+                "key": "Males",
+                "value": "6100"
+              },
+              {
+                "key": "Females",
+                "value": "12400"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "40800"
+              },
+              {
+                "key": "Males",
+                "value": "13000"
+              },
+              {
+                "key": "Females",
+                "value": "27800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.1.1",
+        "rowText": "No Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "629500"
+              },
+              {
+                "key": "Males",
+                "value": "303800"
+              },
+              {
+                "key": "Females",
+                "value": "325700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "426100"
+              },
+              {
+                "key": "Males",
+                "value": "242900"
+              },
+              {
+                "key": "Females",
+                "value": "183200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "187800"
+              },
+              {
+                "key": "Males",
+                "value": "100500"
+              },
+              {
+                "key": "Females",
+                "value": "87400"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "208700"
+              },
+              {
+                "key": "Males",
+                "value": "123800"
+              },
+              {
+                "key": "Females",
+                "value": "85000"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29500"
+              },
+              {
+                "key": "Males",
+                "value": "18700"
+              },
+              {
+                "key": "Females",
+                "value": "10900"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "83200"
+              },
+              {
+                "key": "Males",
+                "value": "17500"
+              },
+              {
+                "key": "Females",
+                "value": "65700"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "73700"
+              },
+              {
+                "key": "Males",
+                "value": "16000"
+              },
+              {
+                "key": "Females",
+                "value": "57700"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9500"
+              },
+              {
+                "key": "Males",
+                "value": "1400"
+              },
+              {
+                "key": "Females",
+                "value": "8000"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "120200"
+              },
+              {
+                "key": "Males",
+                "value": "43400"
+              },
+              {
+                "key": "Females",
+                "value": "76800"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "72200"
+              },
+              {
+                "key": "Males",
+                "value": "27300"
+              },
+              {
+                "key": "Females",
+                "value": "44800"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16700"
+              },
+              {
+                "key": "Males",
+                "value": "5500"
+              },
+              {
+                "key": "Females",
+                "value": "11200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31400"
+              },
+              {
+                "key": "Males",
+                "value": "10600"
+              },
+              {
+                "key": "Females",
+                "value": "20800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.1.2",
+        "rowText": "Some Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "96600"
+              },
+              {
+                "key": "Males",
+                "value": "41100"
+              },
+              {
+                "key": "Females",
+                "value": "55500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "50000"
+              },
+              {
+                "key": "Males",
+                "value": "29100"
+              },
+              {
+                "key": "Females",
+                "value": "20900"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "26000"
+              },
+              {
+                "key": "Males",
+                "value": "15300"
+              },
+              {
+                "key": "Females",
+                "value": "10700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20700"
+              },
+              {
+                "key": "Males",
+                "value": "12100"
+              },
+              {
+                "key": "Females",
+                "value": "8700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3300"
+              },
+              {
+                "key": "Males",
+                "value": "1800"
+              },
+              {
+                "key": "Females",
+                "value": "1500"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22100"
+              },
+              {
+                "key": "Males",
+                "value": "3800"
+              },
+              {
+                "key": "Females",
+                "value": "18300"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18100"
+              },
+              {
+                "key": "Males",
+                "value": "3500"
+              },
+              {
+                "key": "Females",
+                "value": "14600"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4000"
+              },
+              {
+                "key": "Males",
+                "value": "300"
+              },
+              {
+                "key": "Females",
+                "value": "3700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24400"
+              },
+              {
+                "key": "Males",
+                "value": "8200"
+              },
+              {
+                "key": "Females",
+                "value": "16200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13300"
+              },
+              {
+                "key": "Males",
+                "value": "5200"
+              },
+              {
+                "key": "Females",
+                "value": "8100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1800"
+              },
+              {
+                "key": "Males",
+                "value": "600"
+              },
+              {
+                "key": "Females",
+                "value": "1200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9400"
+              },
+              {
+                "key": "Males",
+                "value": "2400"
+              },
+              {
+                "key": "Females",
+                "value": "7000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.2",
+        "rowText": "Unable to Perform/ with A Lot of Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "42800"
+              },
+              {
+                "key": "Males",
+                "value": "15300"
+              },
+              {
+                "key": "Females",
+                "value": "27500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18800"
+              },
+              {
+                "key": "Males",
+                "value": "10800"
+              },
+              {
+                "key": "Females",
+                "value": "8000"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8900"
+              },
+              {
+                "key": "Males",
+                "value": "5300"
+              },
+              {
+                "key": "Females",
+                "value": "3600"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7300"
+              },
+              {
+                "key": "Males",
+                "value": "4100"
+              },
+              {
+                "key": "Females",
+                "value": "3100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2600"
+              },
+              {
+                "key": "Males",
+                "value": "1400"
+              },
+              {
+                "key": "Females",
+                "value": "1200"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14600"
+              },
+              {
+                "key": "Males",
+                "value": "2100"
+              },
+              {
+                "key": "Females",
+                "value": "12500"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11000"
+              },
+              {
+                "key": "Males",
+                "value": "1700"
+              },
+              {
+                "key": "Females",
+                "value": "9300"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3500"
+              },
+              {
+                "key": "Males",
+                "value": "400"
+              },
+              {
+                "key": "Females",
+                "value": "3200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9400"
+              },
+              {
+                "key": "Males",
+                "value": "2300"
+              },
+              {
+                "key": "Females",
+                "value": "7100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2900"
+              },
+              {
+                "key": "Males",
+                "value": "900"
+              },
+              {
+                "key": "Females",
+                "value": "2000"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1000"
+              },
+              {
+                "key": "Males",
+                "value": "300"
+              },
+              {
+                "key": "Females",
+                "value": "800"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5400"
+              },
+              {
+                "key": "Males",
+                "value": "1200"
+              },
+              {
+                "key": "Females",
+                "value": "4300"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "Remembering",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5.1",
+        "rowText": "Without A Lot of Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "750000"
+              },
+              {
+                "key": "Males",
+                "value": "353400"
+              },
+              {
+                "key": "Females",
+                "value": "396600"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "486700"
+              },
+              {
+                "key": "Males",
+                "value": "277800"
+              },
+              {
+                "key": "Females",
+                "value": "208900"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "219800"
+              },
+              {
+                "key": "Males",
+                "value": "119300"
+              },
+              {
+                "key": "Females",
+                "value": "100500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "232700"
+              },
+              {
+                "key": "Males",
+                "value": "137400"
+              },
+              {
+                "key": "Females",
+                "value": "95200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34200"
+              },
+              {
+                "key": "Males",
+                "value": "21100"
+              },
+              {
+                "key": "Females",
+                "value": "13200"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "112300"
+              },
+              {
+                "key": "Males",
+                "value": "22300"
+              },
+              {
+                "key": "Females",
+                "value": "90000"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "97600"
+              },
+              {
+                "key": "Males",
+                "value": "20500"
+              },
+              {
+                "key": "Females",
+                "value": "77200"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14700"
+              },
+              {
+                "key": "Males",
+                "value": "1900"
+              },
+              {
+                "key": "Females",
+                "value": "12800"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "151000"
+              },
+              {
+                "key": "Males",
+                "value": "53300"
+              },
+              {
+                "key": "Females",
+                "value": "97700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "87900"
+              },
+              {
+                "key": "Males",
+                "value": "33300"
+              },
+              {
+                "key": "Females",
+                "value": "54600"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19200"
+              },
+              {
+                "key": "Males",
+                "value": "6100"
+              },
+              {
+                "key": "Females",
+                "value": "13100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44000"
+              },
+              {
+                "key": "Males",
+                "value": "13900"
+              },
+              {
+                "key": "Females",
+                "value": "30100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5.1.1",
+        "rowText": "No Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "681600"
+              },
+              {
+                "key": "Males",
+                "value": "322800"
+              },
+              {
+                "key": "Females",
+                "value": "358800"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "447700"
+              },
+              {
+                "key": "Males",
+                "value": "254000"
+              },
+              {
+                "key": "Females",
+                "value": "193700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "204800"
+              },
+              {
+                "key": "Males",
+                "value": "110300"
+              },
+              {
+                "key": "Females",
+                "value": "94500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "212600"
+              },
+              {
+                "key": "Males",
+                "value": "124900"
+              },
+              {
+                "key": "Females",
+                "value": "87700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30300"
+              },
+              {
+                "key": "Males",
+                "value": "18800"
+              },
+              {
+                "key": "Females",
+                "value": "11500"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "95700"
+              },
+              {
+                "key": "Males",
+                "value": "19700"
+              },
+              {
+                "key": "Females",
+                "value": "76100"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "84100"
+              },
+              {
+                "key": "Males",
+                "value": "18100"
+              },
+              {
+                "key": "Females",
+                "value": "66000"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11700"
+              },
+              {
+                "key": "Males",
+                "value": "1600"
+              },
+              {
+                "key": "Females",
+                "value": "10100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "138100"
+              },
+              {
+                "key": "Males",
+                "value": "49100"
+              },
+              {
+                "key": "Females",
+                "value": "89000"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "81300"
+              },
+              {
+                "key": "Males",
+                "value": "30900"
+              },
+              {
+                "key": "Females",
+                "value": "50400"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17900"
+              },
+              {
+                "key": "Males",
+                "value": "5700"
+              },
+              {
+                "key": "Females",
+                "value": "12200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38900"
+              },
+              {
+                "key": "Males",
+                "value": "12500"
+              },
+              {
+                "key": "Females",
+                "value": "26400"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5.1.2",
+        "rowText": "Some Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "68400"
+              },
+              {
+                "key": "Males",
+                "value": "30600"
+              },
+              {
+                "key": "Females",
+                "value": "37800"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38900"
+              },
+              {
+                "key": "Males",
+                "value": "23700"
+              },
+              {
+                "key": "Females",
+                "value": "15200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15000"
+              },
+              {
+                "key": "Males",
+                "value": "9000"
+              },
+              {
+                "key": "Females",
+                "value": "6100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20000"
+              },
+              {
+                "key": "Males",
+                "value": "12500"
+              },
+              {
+                "key": "Females",
+                "value": "7500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3900"
+              },
+              {
+                "key": "Males",
+                "value": "2200"
+              },
+              {
+                "key": "Females",
+                "value": "1700"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16600"
+              },
+              {
+                "key": "Males",
+                "value": "2700"
+              },
+              {
+                "key": "Females",
+                "value": "13900"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13600"
+              },
+              {
+                "key": "Males",
+                "value": "2400"
+              },
+              {
+                "key": "Females",
+                "value": "11200"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3000"
+              },
+              {
+                "key": "Males",
+                "value": "300"
+              },
+              {
+                "key": "Females",
+                "value": "2800"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12800"
+              },
+              {
+                "key": "Males",
+                "value": "4200"
+              },
+              {
+                "key": "Females",
+                "value": "8700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6500"
+              },
+              {
+                "key": "Males",
+                "value": "2300"
+              },
+              {
+                "key": "Females",
+                "value": "4200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1200"
+              },
+              {
+                "key": "Males",
+                "value": "400"
+              },
+              {
+                "key": "Females",
+                "value": "800"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5100"
+              },
+              {
+                "key": "Males",
+                "value": "1400"
+              },
+              {
+                "key": "Females",
+                "value": "3700"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5.2",
+        "rowText": "Unable to Perform/ with A Lot of Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18800"
+              },
+              {
+                "key": "Males",
+                "value": "6800"
+              },
+              {
+                "key": "Females",
+                "value": "12100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8200"
+              },
+              {
+                "key": "Males",
+                "value": "5100"
+              },
+              {
+                "key": "Females",
+                "value": "3200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3000"
+              },
+              {
+                "key": "Males",
+                "value": "1800"
+              },
+              {
+                "key": "Females",
+                "value": "1200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4100"
+              },
+              {
+                "key": "Males",
+                "value": "2500"
+              },
+              {
+                "key": "Females",
+                "value": "1500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1200"
+              },
+              {
+                "key": "Males",
+                "value": "800"
+              },
+              {
+                "key": "Females",
+                "value": "400"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7500"
+              },
+              {
+                "key": "Males",
+                "value": "1000"
+              },
+              {
+                "key": "Females",
+                "value": "6500"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5300"
+              },
+              {
+                "key": "Males",
+                "value": "800"
+              },
+              {
+                "key": "Females",
+                "value": "4400"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2300"
+              },
+              {
+                "key": "Males",
+                "value": "200"
+              },
+              {
+                "key": "Females",
+                "value": "2100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3100"
+              },
+              {
+                "key": "Males",
+                "value": "700"
+              },
+              {
+                "key": "Females",
+                "value": "2400"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "500"
+              },
+              {
+                "key": "Males",
+                "value": "200"
+              },
+              {
+                "key": "Females",
+                "value": "400"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "300"
+              },
+              {
+                "key": "Males",
+                "value": "200"
+              },
+              {
+                "key": "Females",
+                "value": "100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2200"
+              },
+              {
+                "key": "Males",
+                "value": "300"
+              },
+              {
+                "key": "Females",
+                "value": "1900"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6",
+        "rowText": "Self-Care",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6.1",
+        "rowText": "Without A Lot of Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "748500"
+              },
+              {
+                "key": "Males",
+                "value": "353300"
+              },
+              {
+                "key": "Females",
+                "value": "395200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "486500"
+              },
+              {
+                "key": "Males",
+                "value": "277700"
+              },
+              {
+                "key": "Females",
+                "value": "208800"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "218400"
+              },
+              {
+                "key": "Males",
+                "value": "118300"
+              },
+              {
+                "key": "Females",
+                "value": "100100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "233600"
+              },
+              {
+                "key": "Males",
+                "value": "138100"
+              },
+              {
+                "key": "Females",
+                "value": "95400"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34500"
+              },
+              {
+                "key": "Males",
+                "value": "21300"
+              },
+              {
+                "key": "Females",
+                "value": "13300"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "111900"
+              },
+              {
+                "key": "Males",
+                "value": "22300"
+              },
+              {
+                "key": "Females",
+                "value": "89700"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "97400"
+              },
+              {
+                "key": "Males",
+                "value": "20400"
+              },
+              {
+                "key": "Females",
+                "value": "77000"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14600"
+              },
+              {
+                "key": "Males",
+                "value": "1900"
+              },
+              {
+                "key": "Females",
+                "value": "12700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "150100"
+              },
+              {
+                "key": "Males",
+                "value": "53200"
+              },
+              {
+                "key": "Females",
+                "value": "96800"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "88000"
+              },
+              {
+                "key": "Males",
+                "value": "33400"
+              },
+              {
+                "key": "Females",
+                "value": "54600"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19100"
+              },
+              {
+                "key": "Males",
+                "value": "6100"
+              },
+              {
+                "key": "Females",
+                "value": "13000"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43000"
+              },
+              {
+                "key": "Males",
+                "value": "13700"
+              },
+              {
+                "key": "Females",
+                "value": "29300"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6.1.1",
+        "rowText": "No Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "723800"
+              },
+              {
+                "key": "Males",
+                "value": "343000"
+              },
+              {
+                "key": "Females",
+                "value": "380700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "476200"
+              },
+              {
+                "key": "Males",
+                "value": "270400"
+              },
+              {
+                "key": "Females",
+                "value": "205700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "213600"
+              },
+              {
+                "key": "Males",
+                "value": "115100"
+              },
+              {
+                "key": "Females",
+                "value": "98500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "228800"
+              },
+              {
+                "key": "Males",
+                "value": "134500"
+              },
+              {
+                "key": "Females",
+                "value": "94200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "33800"
+              },
+              {
+                "key": "Males",
+                "value": "20800"
+              },
+              {
+                "key": "Females",
+                "value": "12900"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "103800"
+              },
+              {
+                "key": "Males",
+                "value": "20900"
+              },
+              {
+                "key": "Females",
+                "value": "82900"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "91100"
+              },
+              {
+                "key": "Males",
+                "value": "19200"
+              },
+              {
+                "key": "Females",
+                "value": "71900"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12700"
+              },
+              {
+                "key": "Males",
+                "value": "1700"
+              },
+              {
+                "key": "Females",
+                "value": "11000"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "143800"
+              },
+              {
+                "key": "Males",
+                "value": "51700"
+              },
+              {
+                "key": "Females",
+                "value": "92100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "86100"
+              },
+              {
+                "key": "Males",
+                "value": "32700"
+              },
+              {
+                "key": "Females",
+                "value": "53400"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18700"
+              },
+              {
+                "key": "Males",
+                "value": "6000"
+              },
+              {
+                "key": "Females",
+                "value": "12700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38900"
+              },
+              {
+                "key": "Males",
+                "value": "13000"
+              },
+              {
+                "key": "Females",
+                "value": "26000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6.1.2",
+        "rowText": "Some Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24700"
+              },
+              {
+                "key": "Males",
+                "value": "10200"
+              },
+              {
+                "key": "Females",
+                "value": "14500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10300"
+              },
+              {
+                "key": "Males",
+                "value": "7300"
+              },
+              {
+                "key": "Females",
+                "value": "3000"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4800"
+              },
+              {
+                "key": "Males",
+                "value": "3200"
+              },
+              {
+                "key": "Females",
+                "value": "1500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4800"
+              },
+              {
+                "key": "Males",
+                "value": "3600"
+              },
+              {
+                "key": "Females",
+                "value": "1200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "800"
+              },
+              {
+                "key": "Males",
+                "value": "400"
+              },
+              {
+                "key": "Females",
+                "value": "300"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8100"
+              },
+              {
+                "key": "Males",
+                "value": "1300"
+              },
+              {
+                "key": "Females",
+                "value": "6800"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6200"
+              },
+              {
+                "key": "Males",
+                "value": "1200"
+              },
+              {
+                "key": "Females",
+                "value": "5000"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1900"
+              },
+              {
+                "key": "Males",
+                "value": "100"
+              },
+              {
+                "key": "Females",
+                "value": "1700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6300"
+              },
+              {
+                "key": "Males",
+                "value": "1600"
+              },
+              {
+                "key": "Females",
+                "value": "4700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1900"
+              },
+              {
+                "key": "Males",
+                "value": "800"
+              },
+              {
+                "key": "Females",
+                "value": "1100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "300"
+              },
+              {
+                "key": "Males",
+                "value": "100"
+              },
+              {
+                "key": "Females",
+                "value": "200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4000"
+              },
+              {
+                "key": "Males",
+                "value": "700"
+              },
+              {
+                "key": "Females",
+                "value": "3300"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6.2",
+        "rowText": "Unable to Perform/ with A Lot of Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20300"
+              },
+              {
+                "key": "Males",
+                "value": "6900"
+              },
+              {
+                "key": "Females",
+                "value": "13500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8400"
+              },
+              {
+                "key": "Males",
+                "value": "5100"
+              },
+              {
+                "key": "Females",
+                "value": "3300"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4300"
+              },
+              {
+                "key": "Males",
+                "value": "2700"
+              },
+              {
+                "key": "Females",
+                "value": "1700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3200"
+              },
+              {
+                "key": "Males",
+                "value": "1800"
+              },
+              {
+                "key": "Females",
+                "value": "1300"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "900"
+              },
+              {
+                "key": "Males",
+                "value": "600"
+              },
+              {
+                "key": "Females",
+                "value": "300"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7900"
+              },
+              {
+                "key": "Males",
+                "value": "1100"
+              },
+              {
+                "key": "Females",
+                "value": "6900"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5500"
+              },
+              {
+                "key": "Males",
+                "value": "900"
+              },
+              {
+                "key": "Females",
+                "value": "4700"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2400"
+              },
+              {
+                "key": "Males",
+                "value": "200"
+              },
+              {
+                "key": "Females",
+                "value": "2200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4000"
+              },
+              {
+                "key": "Males",
+                "value": "700"
+              },
+              {
+                "key": "Females",
+                "value": "3300"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "400"
+              },
+              {
+                "key": "Males",
+                "value": "-"
+              },
+              {
+                "key": "Females",
+                "value": "400"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "400"
+              },
+              {
+                "key": "Males",
+                "value": "200"
+              },
+              {
+                "key": "Females",
+                "value": "200"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3200"
+              },
+              {
+                "key": "Males",
+                "value": "500"
+              },
+              {
+                "key": "Females",
+                "value": "2700"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "7",
+        "rowText": "Communicating",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": ""
+              },
+              {
+                "key": "Males",
+                "value": ""
+              },
+              {
+                "key": "Females",
+                "value": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "7.1",
+        "rowText": "Without A Lot of Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "758800"
+              },
+              {
+                "key": "Males",
+                "value": "356100"
+              },
+              {
+                "key": "Females",
+                "value": "402700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "490300"
+              },
+              {
+                "key": "Males",
+                "value": "280000"
+              },
+              {
+                "key": "Females",
+                "value": "210300"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "220800"
+              },
+              {
+                "key": "Males",
+                "value": "119600"
+              },
+              {
+                "key": "Females",
+                "value": "101200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "234700"
+              },
+              {
+                "key": "Males",
+                "value": "138800"
+              },
+              {
+                "key": "Females",
+                "value": "95900"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34800"
+              },
+              {
+                "key": "Males",
+                "value": "21500"
+              },
+              {
+                "key": "Females",
+                "value": "13300"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "116500"
+              },
+              {
+                "key": "Males",
+                "value": "22800"
+              },
+              {
+                "key": "Females",
+                "value": "93700"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "100700"
+              },
+              {
+                "key": "Males",
+                "value": "20800"
+              },
+              {
+                "key": "Females",
+                "value": "79900"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15800"
+              },
+              {
+                "key": "Males",
+                "value": "2000"
+              },
+              {
+                "key": "Females",
+                "value": "13900"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "152000"
+              },
+              {
+                "key": "Males",
+                "value": "53400"
+              },
+              {
+                "key": "Females",
+                "value": "98600"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "88000"
+              },
+              {
+                "key": "Males",
+                "value": "33400"
+              },
+              {
+                "key": "Females",
+                "value": "54700"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19200"
+              },
+              {
+                "key": "Males",
+                "value": "6100"
+              },
+              {
+                "key": "Females",
+                "value": "13100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44700"
+              },
+              {
+                "key": "Males",
+                "value": "13900"
+              },
+              {
+                "key": "Females",
+                "value": "30800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "7.1.1",
+        "rowText": "No Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "732300"
+              },
+              {
+                "key": "Males",
+                "value": "343800"
+              },
+              {
+                "key": "Females",
+                "value": "388500"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "477200"
+              },
+              {
+                "key": "Males",
+                "value": "270900"
+              },
+              {
+                "key": "Females",
+                "value": "206200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "216000"
+              },
+              {
+                "key": "Males",
+                "value": "116400"
+              },
+              {
+                "key": "Females",
+                "value": "99600"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "227700"
+              },
+              {
+                "key": "Males",
+                "value": "133900"
+              },
+              {
+                "key": "Females",
+                "value": "93700"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "33500"
+              },
+              {
+                "key": "Males",
+                "value": "20600"
+              },
+              {
+                "key": "Females",
+                "value": "12900"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "108500"
+              },
+              {
+                "key": "Males",
+                "value": "21300"
+              },
+              {
+                "key": "Females",
+                "value": "87200"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "94000"
+              },
+              {
+                "key": "Males",
+                "value": "19400"
+              },
+              {
+                "key": "Females",
+                "value": "74600"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14500"
+              },
+              {
+                "key": "Males",
+                "value": "1900"
+              },
+              {
+                "key": "Females",
+                "value": "12600"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "146600"
+              },
+              {
+                "key": "Males",
+                "value": "51500"
+              },
+              {
+                "key": "Females",
+                "value": "95000"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "86600"
+              },
+              {
+                "key": "Males",
+                "value": "32800"
+              },
+              {
+                "key": "Females",
+                "value": "53800"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18400"
+              },
+              {
+                "key": "Males",
+                "value": "5600"
+              },
+              {
+                "key": "Females",
+                "value": "12800"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41600"
+              },
+              {
+                "key": "Males",
+                "value": "13100"
+              },
+              {
+                "key": "Females",
+                "value": "28500"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "7.1.2",
+        "rowText": "Some Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "26500"
+              },
+              {
+                "key": "Males",
+                "value": "12300"
+              },
+              {
+                "key": "Females",
+                "value": "14200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13100"
+              },
+              {
+                "key": "Males",
+                "value": "9100"
+              },
+              {
+                "key": "Females",
+                "value": "4100"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4800"
+              },
+              {
+                "key": "Males",
+                "value": "3200"
+              },
+              {
+                "key": "Females",
+                "value": "1600"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7100"
+              },
+              {
+                "key": "Males",
+                "value": "4900"
+              },
+              {
+                "key": "Females",
+                "value": "2200"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1300"
+              },
+              {
+                "key": "Males",
+                "value": "900"
+              },
+              {
+                "key": "Females",
+                "value": "300"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8000"
+              },
+              {
+                "key": "Males",
+                "value": "1500"
+              },
+              {
+                "key": "Females",
+                "value": "6600"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6700"
+              },
+              {
+                "key": "Males",
+                "value": "1400"
+              },
+              {
+                "key": "Females",
+                "value": "5300"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1300"
+              },
+              {
+                "key": "Males",
+                "value": "100"
+              },
+              {
+                "key": "Females",
+                "value": "1300"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5400"
+              },
+              {
+                "key": "Males",
+                "value": "1800"
+              },
+              {
+                "key": "Females",
+                "value": "3600"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1500"
+              },
+              {
+                "key": "Males",
+                "value": "600"
+              },
+              {
+                "key": "Females",
+                "value": "900"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "800"
+              },
+              {
+                "key": "Males",
+                "value": "500"
+              },
+              {
+                "key": "Females",
+                "value": "400"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3100"
+              },
+              {
+                "key": "Males",
+                "value": "800"
+              },
+              {
+                "key": "Females",
+                "value": "2300"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "7.2",
+        "rowText": "Unable to Perform/ with A Lot of Difficulty",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10000"
+              },
+              {
+                "key": "Males",
+                "value": "4000"
+              },
+              {
+                "key": "Females",
+                "value": "6000"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4600"
+              },
+              {
+                "key": "Males",
+                "value": "2800"
+              },
+              {
+                "key": "Females",
+                "value": "1800"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - No Children in Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2000"
+              },
+              {
+                "key": "Males",
+                "value": "1400"
+              },
+              {
+                "key": "Females",
+                "value": "600"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2000"
+              },
+              {
+                "key": "Males",
+                "value": "1100"
+              },
+              {
+                "key": "Females",
+                "value": "800"
+              }
+            ]
+          },
+          {
+            "key": "Living with Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "700"
+              },
+              {
+                "key": "Males",
+                "value": "300"
+              },
+              {
+                "key": "Females",
+                "value": "300"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3300"
+              },
+              {
+                "key": "Males",
+                "value": "600"
+              },
+              {
+                "key": "Females",
+                "value": "2800"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With At Least One Employed Child",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2200"
+              },
+              {
+                "key": "Males",
+                "value": "500"
+              },
+              {
+                "key": "Females",
+                "value": "1700"
+              }
+            ]
+          },
+          {
+            "key": "Living With Children but Without Spouse - With All Non-Employed Children",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1200"
+              },
+              {
+                "key": "Males",
+                "value": "100"
+              },
+              {
+                "key": "Females",
+                "value": "1100"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2100"
+              },
+              {
+                "key": "Males",
+                "value": "600"
+              },
+              {
+                "key": "Females",
+                "value": "1500"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - One-Person Household",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "300"
+              },
+              {
+                "key": "Males",
+                "value": "100"
+              },
+              {
+                "key": "Females",
+                "value": "300"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - With Other Elderly Persons Only",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "200"
+              },
+              {
+                "key": "Males",
+                "value": "200"
+              },
+              {
+                "key": "Females",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "key": "Not Living With Spouse or Children - Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1500"
+              },
+              {
+                "key": "Males",
+                "value": "300"
+              },
+              {
+                "key": "Females",
+                "value": "1200"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

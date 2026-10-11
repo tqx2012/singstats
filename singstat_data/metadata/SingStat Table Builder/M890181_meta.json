@@ -1,0 +1,57 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Society",
+      "subject": "Public Safety",
+      "topic": "Fire Occurrences",
+      "id": "M890181",
+      "groupTitle": "Fire Occurrences",
+      "title": "Fire Occurrences, Annual",
+      "frequency": "Annual",
+      "adjustmentType": "",
+      "dataSource": "SINGAPORE CIVIL DEFENCE FORCE",
+      "footnote": "From 2019, data exclude fire incidents involving minor fires such as fires involving rubbish bins and rubbish chutes which are of a very low risk relative to other fires.  The exclusion of such fires provides a more accurate state of fire safety in Singapore as the data are not being inflated by incidents of low severity.  Hence, data on fire occurrences before and from 2019 are not directly comparable.",
+      "dataLastUpdated": "02/03/2026",
+      "startPeriod": "1968",
+      "endPeriod": "2025",
+      "total": 238,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Total Number Of Fire Occurrences",
+          "uoM": "Number",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "Fire Occurrences In Buildings",
+          "uoM": "Number",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1.1",
+          "rowText": "Fire Occurrences In Residential Buildings",
+          "uoM": "Number",
+          "footnote": "Refer to fire occurrences in buildings, either permanent or temporary, used for residential purposes only, such as bungalows, private and public housing, semi-detached and terrace houses.  They do not include boarding houses, hostels and hotels."
+        },
+        {
+          "seriesNo": "1.1.2",
+          "rowText": "Fire Occurrences In Non-Residential Buildings",
+          "uoM": "Number",
+          "footnote": "Refer to fire occurrences in buildings, either permanent or temporary, used for other than residential purposes, such as commercial, industrial, social and communal."
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "Fire Occurrences In Non-Building Structures",
+          "uoM": "Number",
+          "footnote": "Refer to fire occurrences such as vegetation fires, vehicle fires, and fire occurrences at open spaces like back alleys, areas near service roads, and grass patches, etc."
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

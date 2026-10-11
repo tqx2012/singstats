@@ -1,0 +1,45 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Economy & Prices",
+      "subject": "Property Price Indices",
+      "topic": "Private Property Price and Rental Indices",
+      "id": "M212181",
+      "groupTitle": "Price Index Of Industrial Space, (4th Quarter 2012 = 100)",
+      "title": "Price Index Of Industrial Space, (4th Quarter 2012 = 100), Quarterly",
+      "frequency": "Quarterly",
+      "adjustmentType": "",
+      "dataSource": "JTC CORPORATION",
+      "footnote": "",
+      "dataLastUpdated": "23/07/2026",
+      "startPeriod": "1975 1Q",
+      "endPeriod": "2026 2Q",
+      "total": 417,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "All Industrial",
+          "uoM": "Index",
+          "footnote": "Before 4th Quarter 2014, the price index is computed based on transactions of multiple-user factories in the Central region and island-wide multiple-user warehouses, with weights updated every quarter using past 12 quarters transaction values.  In addition, as warehouse price index is not published for 2001Q4, industrial price index is also not available for 2001Q4.  From 4th Quarter 2014, the price index is computed based on island-wide transactions of multiple-user factories and single-user factories.  From 4th Quarter 2014 and 1st Quarter 2016, the weights used are fixed using 2012 and 2015 transaction values respectively.  Subsequent weights are updated every 3 years using transaction values at the third year.  The price index is also re-scaled to 100 at 4th Quarter 2012.  Due to rounding, there could be some differences in the quarterly price change compared to the price index before re-scaling."
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "Multiple-User Factory",
+          "uoM": "Index",
+          "footnote": "Before 4th Quarter 2014, the price index is computed based on transactions of multiple-user factories in the Central region.  From 4th Quarter 2014, the scope of the price index is expanded to include transactions outside Central region.  From 4th Quarter 2014 and 1st Quarter 2016, the weights used are fixed using 2012 and 2015 transaction values respectively.  Subsequent weights are updated every 3 years using transaction values at the third year.  The price index is also re-scaled to 100 at 4th Quarter 2012.  Due to rounding, there could be some differences in the quarterly price change compared to the price index before re-scaling."
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "Single-User Factory",
+          "uoM": "Index",
+          "footnote": "The index is computed using fixed weights based on 2009 transaction values before 1st Quarter 2013.  From 1st Quarter 2013 and 1st Quarter 2016, the weights used are fixed using 2012 and 2015 transaction values respectively.  Subsequent weights are updated every 3 years using transaction values at the third year."
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

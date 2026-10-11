@@ -1,0 +1,1496 @@
+{
+  "Data": {
+    "id": "9062",
+    "tableType": "Census of Population 2000",
+    "groupTitle": null,
+    "title": "Resident Households by Age Group of Head of Household & Household Living Arrangement and Type of Dwelling",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data on Household Living Arrangement have been revised in June 2026 to be based on the composition of members within the household, instead of the characteristics of the head of household, to provide a more holistic view of household living arrangements.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "09/07/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "915090"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "804973"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "45573"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "235670"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "302582"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "215467"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "59496"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "46348"
+          },
+          {
+            "key": "Others",
+            "value": "4273"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "587145"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "514013"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "8601"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "117127"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "217540"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "166388"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "37377"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "34018"
+          },
+          {
+            "key": "Others",
+            "value": "1737"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "111481"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "99176"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "5496"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "32359"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "34069"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "26784"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "7420"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "4390"
+          },
+          {
+            "key": "Others",
+            "value": "495"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "83347"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "77896"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "6975"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "31458"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "27412"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "11752"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "2656"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "2554"
+          },
+          {
+            "key": "Others",
+            "value": "240"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "75389"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "63743"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "15888"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "34636"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "8809"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "4102"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "7984"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "2399"
+          },
+          {
+            "key": "Others",
+            "value": "1262"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "57729"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "50145"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "8613"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "20090"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "14752"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "6441"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "4058"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "2986"
+          },
+          {
+            "key": "Others",
+            "value": "540"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Head of Household Aged Below 35 Years",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "140024"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "128737"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "4267"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "29850"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "53359"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "40984"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "9186"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1686"
+          },
+          {
+            "key": "Others",
+            "value": "415"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "72326"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "68698"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "1303"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "13215"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "30631"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "23407"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "2837"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "697"
+          },
+          {
+            "key": "Others",
+            "value": "94"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "39775"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "37351"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "589"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "8282"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "14365"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "14073"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "2079"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "316"
+          },
+          {
+            "key": "Others",
+            "value": "30"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "7727"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "7464"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "853"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "2671"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "2951"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "980"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "171"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "82"
+          },
+          {
+            "key": "Others",
+            "value": "9"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "10810"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "7531"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "855"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "2691"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "2569"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "1359"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "2776"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "320"
+          },
+          {
+            "key": "Others",
+            "value": "184"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "9385"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "7693"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "667"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "2991"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "2843"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "1165"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "1324"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "272"
+          },
+          {
+            "key": "Others",
+            "value": "97"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Head of Household Aged 35-49 Years",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "430027"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "378235"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "12694"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "96970"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "148400"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "117362"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "32725"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "17485"
+          },
+          {
+            "key": "Others",
+            "value": "1582"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "309966"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "270946"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "3209"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "49628"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "116786"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "99066"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "23703"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "14586"
+          },
+          {
+            "key": "Others",
+            "value": "731"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "31980"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "27932"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "960"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "8455"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "10008"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "8280"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "3012"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "903"
+          },
+          {
+            "key": "Others",
+            "value": "133"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "33526"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "31629"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "2658"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "11807"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "11684"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "5365"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "1236"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "584"
+          },
+          {
+            "key": "Others",
+            "value": "77"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "31862"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "27334"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "3594"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "18755"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "3242"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "1647"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "3377"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "682"
+          },
+          {
+            "key": "Others",
+            "value": "470"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "22692"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "20395"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "2273"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "8326"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "6681"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "3005"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "1397"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "729"
+          },
+          {
+            "key": "Others",
+            "value": "171"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Head of Household Aged 50-64 Years",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "240383"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "208078"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "13948"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "72696"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "73747"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "45467"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "13766"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "17158"
+          },
+          {
+            "key": "Others",
+            "value": "1382"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "162054"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "138294"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "2727"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "40716"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "55817"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "37233"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "9343"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "13739"
+          },
+          {
+            "key": "Others",
+            "value": "678"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "20143"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "17427"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "1551"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "8035"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "5096"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "2619"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "1337"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1208"
+          },
+          {
+            "key": "Others",
+            "value": "170"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "24995"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "23231"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "1892"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "10220"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "7589"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "3410"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "891"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "806"
+          },
+          {
+            "key": "Others",
+            "value": "66"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "18191"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "16079"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "5263"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "8352"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "1757"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "603"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "1253"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "533"
+          },
+          {
+            "key": "Others",
+            "value": "326"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "15000"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "13046"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "2515"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "5373"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "3488"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "1602"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "941"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "871"
+          },
+          {
+            "key": "Others",
+            "value": "142"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Head of Household Aged 65 Years & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "104656"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "89923"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "14663"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "36153"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "27075"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "11653"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "3820"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "10019"
+          },
+          {
+            "key": "Others",
+            "value": "894"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "42799"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "36074"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "1362"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "13568"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "14306"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "6682"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "1494"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "4997"
+          },
+          {
+            "key": "Others",
+            "value": "234"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "19583"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "16467"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "2395"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "7587"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "4600"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "1812"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "992"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1963"
+          },
+          {
+            "key": "Others",
+            "value": "161"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "17098"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "15572"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "1572"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "6760"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "5188"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "1998"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "358"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1081"
+          },
+          {
+            "key": "Others",
+            "value": "87"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "14525"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "12799"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "6177"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "4837"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "1240"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "492"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "579"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "865"
+          },
+          {
+            "key": "Others",
+            "value": "282"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "10651"
+          },
+          {
+            "key": "HDB Dwellings*",
+            "columns": [
+              {
+                "key": "Total*",
+                "value": "9011"
+              },
+              {
+                "key": "1- and 2-Room Flats^",
+                "value": "3157"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "3400"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "1741"
+              },
+              {
+                "key": "5-Room and Executive Flats",
+                "value": "669"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums and Other Apartments",
+            "value": "397"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "1114"
+          },
+          {
+            "key": "Others",
+            "value": "130"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

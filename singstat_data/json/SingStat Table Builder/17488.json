@@ -1,0 +1,2816 @@
+{
+  "Data": {
+    "id": "17488",
+    "tableType": "Census of Population 2020",
+    "groupTitle": null,
+    "title": "Resident Households by Age Group of Household Reference Person & Household Living Arrangement, Ethnic Group and Sex of Household Reference Person",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data on Household Living Arrangement have been revised in June 2026 to be based on the composition of members within the household, instead of the characteristics of the household reference person, to provide a more holistic view of household living arrangements.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1372559"
+              },
+              {
+                "key": "Males",
+                "value": "994133"
+              },
+              {
+                "key": "Females",
+                "value": "378427"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1062046"
+              },
+              {
+                "key": "Males",
+                "value": "761631"
+              },
+              {
+                "key": "Females",
+                "value": "300415"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "151741"
+              },
+              {
+                "key": "Males",
+                "value": "111723"
+              },
+              {
+                "key": "Females",
+                "value": "40017"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "121222"
+              },
+              {
+                "key": "Males",
+                "value": "93080"
+              },
+              {
+                "key": "Females",
+                "value": "28142"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "37551"
+              },
+              {
+                "key": "Males",
+                "value": "27698"
+              },
+              {
+                "key": "Females",
+                "value": "9853"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "691279"
+              },
+              {
+                "key": "Males",
+                "value": "623440"
+              },
+              {
+                "key": "Females",
+                "value": "67839"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "516296"
+              },
+              {
+                "key": "Males",
+                "value": "465397"
+              },
+              {
+                "key": "Females",
+                "value": "50900"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "86328"
+              },
+              {
+                "key": "Males",
+                "value": "77763"
+              },
+              {
+                "key": "Females",
+                "value": "8565"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "68953"
+              },
+              {
+                "key": "Males",
+                "value": "62674"
+              },
+              {
+                "key": "Females",
+                "value": "6279"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19701"
+              },
+              {
+                "key": "Males",
+                "value": "17605"
+              },
+              {
+                "key": "Females",
+                "value": "2096"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "230197"
+              },
+              {
+                "key": "Males",
+                "value": "193675"
+              },
+              {
+                "key": "Females",
+                "value": "36521"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "183161"
+              },
+              {
+                "key": "Males",
+                "value": "154704"
+              },
+              {
+                "key": "Females",
+                "value": "28456"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22713"
+              },
+              {
+                "key": "Males",
+                "value": "18543"
+              },
+              {
+                "key": "Females",
+                "value": "4169"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18805"
+              },
+              {
+                "key": "Males",
+                "value": "15693"
+              },
+              {
+                "key": "Females",
+                "value": "3112"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5519"
+              },
+              {
+                "key": "Males",
+                "value": "4735"
+              },
+              {
+                "key": "Females",
+                "value": "783"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "127987"
+              },
+              {
+                "key": "Males",
+                "value": "37436"
+              },
+              {
+                "key": "Females",
+                "value": "90551"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "95895"
+              },
+              {
+                "key": "Males",
+                "value": "29065"
+              },
+              {
+                "key": "Females",
+                "value": "66830"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19658"
+              },
+              {
+                "key": "Males",
+                "value": "5264"
+              },
+              {
+                "key": "Females",
+                "value": "14394"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9792"
+              },
+              {
+                "key": "Males",
+                "value": "2486"
+              },
+              {
+                "key": "Females",
+                "value": "7306"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2642"
+              },
+              {
+                "key": "Males",
+                "value": "621"
+              },
+              {
+                "key": "Females",
+                "value": "2021"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "220270"
+              },
+              {
+                "key": "Males",
+                "value": "98943"
+              },
+              {
+                "key": "Females",
+                "value": "121327"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "184016"
+              },
+              {
+                "key": "Males",
+                "value": "80374"
+              },
+              {
+                "key": "Females",
+                "value": "103642"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14805"
+              },
+              {
+                "key": "Males",
+                "value": "6946"
+              },
+              {
+                "key": "Females",
+                "value": "7859"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15402"
+              },
+              {
+                "key": "Males",
+                "value": "8447"
+              },
+              {
+                "key": "Females",
+                "value": "6955"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6046"
+              },
+              {
+                "key": "Males",
+                "value": "3176"
+              },
+              {
+                "key": "Females",
+                "value": "2870"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "102828"
+              },
+              {
+                "key": "Males",
+                "value": "40639"
+              },
+              {
+                "key": "Females",
+                "value": "62188"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "82678"
+              },
+              {
+                "key": "Males",
+                "value": "32092"
+              },
+              {
+                "key": "Females",
+                "value": "50586"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8236"
+              },
+              {
+                "key": "Males",
+                "value": "3207"
+              },
+              {
+                "key": "Females",
+                "value": "5029"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8271"
+              },
+              {
+                "key": "Males",
+                "value": "3781"
+              },
+              {
+                "key": "Females",
+                "value": "4490"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3643"
+              },
+              {
+                "key": "Males",
+                "value": "1560"
+              },
+              {
+                "key": "Females",
+                "value": "2083"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Household Reference Persons Aged Below 35 Years",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "130367"
+              },
+              {
+                "key": "Males",
+                "value": "90012"
+              },
+              {
+                "key": "Females",
+                "value": "40355"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "95315"
+              },
+              {
+                "key": "Males",
+                "value": "65147"
+              },
+              {
+                "key": "Females",
+                "value": "30169"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21303"
+              },
+              {
+                "key": "Males",
+                "value": "15750"
+              },
+              {
+                "key": "Females",
+                "value": "5553"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11097"
+              },
+              {
+                "key": "Males",
+                "value": "7558"
+              },
+              {
+                "key": "Females",
+                "value": "3540"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2652"
+              },
+              {
+                "key": "Males",
+                "value": "1558"
+              },
+              {
+                "key": "Females",
+                "value": "1093"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "50874"
+              },
+              {
+                "key": "Males",
+                "value": "41227"
+              },
+              {
+                "key": "Females",
+                "value": "9647"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "32022"
+              },
+              {
+                "key": "Males",
+                "value": "25710"
+              },
+              {
+                "key": "Females",
+                "value": "6312"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13025"
+              },
+              {
+                "key": "Males",
+                "value": "10919"
+              },
+              {
+                "key": "Females",
+                "value": "2106"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4935"
+              },
+              {
+                "key": "Males",
+                "value": "3877"
+              },
+              {
+                "key": "Females",
+                "value": "1057"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "892"
+              },
+              {
+                "key": "Males",
+                "value": "721"
+              },
+              {
+                "key": "Females",
+                "value": "171"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "32595"
+              },
+              {
+                "key": "Males",
+                "value": "27115"
+              },
+              {
+                "key": "Females",
+                "value": "5480"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24898"
+              },
+              {
+                "key": "Males",
+                "value": "21093"
+              },
+              {
+                "key": "Females",
+                "value": "3805"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3996"
+              },
+              {
+                "key": "Males",
+                "value": "3306"
+              },
+              {
+                "key": "Females",
+                "value": "690"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3111"
+              },
+              {
+                "key": "Males",
+                "value": "2333"
+              },
+              {
+                "key": "Females",
+                "value": "778"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "590"
+              },
+              {
+                "key": "Males",
+                "value": "383"
+              },
+              {
+                "key": "Females",
+                "value": "206"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8414"
+              },
+              {
+                "key": "Males",
+                "value": "3246"
+              },
+              {
+                "key": "Females",
+                "value": "5168"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5046"
+              },
+              {
+                "key": "Males",
+                "value": "2305"
+              },
+              {
+                "key": "Females",
+                "value": "2740"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2373"
+              },
+              {
+                "key": "Males",
+                "value": "649"
+              },
+              {
+                "key": "Females",
+                "value": "1724"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "713"
+              },
+              {
+                "key": "Males",
+                "value": "215"
+              },
+              {
+                "key": "Females",
+                "value": "498"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "283"
+              },
+              {
+                "key": "Males",
+                "value": "77"
+              },
+              {
+                "key": "Females",
+                "value": "206"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25009"
+              },
+              {
+                "key": "Males",
+                "value": "12074"
+              },
+              {
+                "key": "Females",
+                "value": "12935"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22097"
+              },
+              {
+                "key": "Males",
+                "value": "10666"
+              },
+              {
+                "key": "Females",
+                "value": "11431"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "915"
+              },
+              {
+                "key": "Males",
+                "value": "443"
+              },
+              {
+                "key": "Females",
+                "value": "472"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1483"
+              },
+              {
+                "key": "Males",
+                "value": "702"
+              },
+              {
+                "key": "Females",
+                "value": "781"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "513"
+              },
+              {
+                "key": "Males",
+                "value": "263"
+              },
+              {
+                "key": "Females",
+                "value": "250"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13475"
+              },
+              {
+                "key": "Males",
+                "value": "6350"
+              },
+              {
+                "key": "Females",
+                "value": "7125"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11252"
+              },
+              {
+                "key": "Males",
+                "value": "5371"
+              },
+              {
+                "key": "Females",
+                "value": "5880"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "993"
+              },
+              {
+                "key": "Males",
+                "value": "433"
+              },
+              {
+                "key": "Females",
+                "value": "560"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "856"
+              },
+              {
+                "key": "Males",
+                "value": "431"
+              },
+              {
+                "key": "Females",
+                "value": "425"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "374"
+              },
+              {
+                "key": "Males",
+                "value": "114"
+              },
+              {
+                "key": "Females",
+                "value": "260"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Household Reference Persons Aged 35-49 Years",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "446511"
+              },
+              {
+                "key": "Males",
+                "value": "336798"
+              },
+              {
+                "key": "Females",
+                "value": "109713"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "332915"
+              },
+              {
+                "key": "Males",
+                "value": "247078"
+              },
+              {
+                "key": "Females",
+                "value": "85837"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "47146"
+              },
+              {
+                "key": "Males",
+                "value": "35974"
+              },
+              {
+                "key": "Females",
+                "value": "11172"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "48265"
+              },
+              {
+                "key": "Males",
+                "value": "40298"
+              },
+              {
+                "key": "Females",
+                "value": "7967"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18185"
+              },
+              {
+                "key": "Males",
+                "value": "13447"
+              },
+              {
+                "key": "Females",
+                "value": "4737"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "269120"
+              },
+              {
+                "key": "Males",
+                "value": "239097"
+              },
+              {
+                "key": "Females",
+                "value": "30023"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "193588"
+              },
+              {
+                "key": "Males",
+                "value": "171009"
+              },
+              {
+                "key": "Females",
+                "value": "22580"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30515"
+              },
+              {
+                "key": "Males",
+                "value": "27344"
+              },
+              {
+                "key": "Females",
+                "value": "3171"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34004"
+              },
+              {
+                "key": "Males",
+                "value": "31039"
+              },
+              {
+                "key": "Females",
+                "value": "2965"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11013"
+              },
+              {
+                "key": "Males",
+                "value": "9706"
+              },
+              {
+                "key": "Females",
+                "value": "1307"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "50393"
+              },
+              {
+                "key": "Males",
+                "value": "44551"
+              },
+              {
+                "key": "Females",
+                "value": "5843"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "39812"
+              },
+              {
+                "key": "Males",
+                "value": "35423"
+              },
+              {
+                "key": "Females",
+                "value": "4388"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4731"
+              },
+              {
+                "key": "Males",
+                "value": "4072"
+              },
+              {
+                "key": "Females",
+                "value": "659"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4062"
+              },
+              {
+                "key": "Males",
+                "value": "3486"
+              },
+              {
+                "key": "Females",
+                "value": "576"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1789"
+              },
+              {
+                "key": "Males",
+                "value": "1569"
+              },
+              {
+                "key": "Females",
+                "value": "220"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38388"
+              },
+              {
+                "key": "Males",
+                "value": "10973"
+              },
+              {
+                "key": "Females",
+                "value": "27415"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28144"
+              },
+              {
+                "key": "Males",
+                "value": "8455"
+              },
+              {
+                "key": "Females",
+                "value": "19689"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6174"
+              },
+              {
+                "key": "Males",
+                "value": "1538"
+              },
+              {
+                "key": "Females",
+                "value": "4636"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2931"
+              },
+              {
+                "key": "Males",
+                "value": "750"
+              },
+              {
+                "key": "Females",
+                "value": "2181"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1138"
+              },
+              {
+                "key": "Males",
+                "value": "230"
+              },
+              {
+                "key": "Females",
+                "value": "908"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "63363"
+              },
+              {
+                "key": "Males",
+                "value": "31319"
+              },
+              {
+                "key": "Females",
+                "value": "32044"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "52178"
+              },
+              {
+                "key": "Males",
+                "value": "24278"
+              },
+              {
+                "key": "Females",
+                "value": "27900"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3594"
+              },
+              {
+                "key": "Males",
+                "value": "2129"
+              },
+              {
+                "key": "Females",
+                "value": "1465"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4960"
+              },
+              {
+                "key": "Males",
+                "value": "3604"
+              },
+              {
+                "key": "Females",
+                "value": "1356"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2631"
+              },
+              {
+                "key": "Males",
+                "value": "1309"
+              },
+              {
+                "key": "Females",
+                "value": "1322"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25247"
+              },
+              {
+                "key": "Males",
+                "value": "10858"
+              },
+              {
+                "key": "Females",
+                "value": "14389"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19192"
+              },
+              {
+                "key": "Males",
+                "value": "7913"
+              },
+              {
+                "key": "Females",
+                "value": "11279"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2133"
+              },
+              {
+                "key": "Males",
+                "value": "891"
+              },
+              {
+                "key": "Females",
+                "value": "1241"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2309"
+              },
+              {
+                "key": "Males",
+                "value": "1420"
+              },
+              {
+                "key": "Females",
+                "value": "889"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1614"
+              },
+              {
+                "key": "Males",
+                "value": "634"
+              },
+              {
+                "key": "Females",
+                "value": "980"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Household Reference Persons Aged 50-64 Years",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "500232"
+              },
+              {
+                "key": "Males",
+                "value": "374839"
+              },
+              {
+                "key": "Females",
+                "value": "125393"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "383300"
+              },
+              {
+                "key": "Males",
+                "value": "286449"
+              },
+              {
+                "key": "Females",
+                "value": "96851"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "60581"
+              },
+              {
+                "key": "Males",
+                "value": "44980"
+              },
+              {
+                "key": "Females",
+                "value": "15600"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43367"
+              },
+              {
+                "key": "Males",
+                "value": "33273"
+              },
+              {
+                "key": "Females",
+                "value": "10095"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12983"
+              },
+              {
+                "key": "Males",
+                "value": "10136"
+              },
+              {
+                "key": "Females",
+                "value": "2847"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "281941"
+              },
+              {
+                "key": "Males",
+                "value": "262053"
+              },
+              {
+                "key": "Females",
+                "value": "19888"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "214676"
+              },
+              {
+                "key": "Males",
+                "value": "199751"
+              },
+              {
+                "key": "Females",
+                "value": "14925"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35271"
+              },
+              {
+                "key": "Males",
+                "value": "32661"
+              },
+              {
+                "key": "Females",
+                "value": "2610"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25224"
+              },
+              {
+                "key": "Males",
+                "value": "23401"
+              },
+              {
+                "key": "Females",
+                "value": "1823"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6770"
+              },
+              {
+                "key": "Males",
+                "value": "6240"
+              },
+              {
+                "key": "Females",
+                "value": "530"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "56782"
+              },
+              {
+                "key": "Males",
+                "value": "48029"
+              },
+              {
+                "key": "Females",
+                "value": "8752"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "42215"
+              },
+              {
+                "key": "Males",
+                "value": "36105"
+              },
+              {
+                "key": "Females",
+                "value": "6110"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7142"
+              },
+              {
+                "key": "Males",
+                "value": "5568"
+              },
+              {
+                "key": "Females",
+                "value": "1574"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5456"
+              },
+              {
+                "key": "Males",
+                "value": "4602"
+              },
+              {
+                "key": "Females",
+                "value": "854"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1970"
+              },
+              {
+                "key": "Males",
+                "value": "1754"
+              },
+              {
+                "key": "Females",
+                "value": "215"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "59335"
+              },
+              {
+                "key": "Males",
+                "value": "17456"
+              },
+              {
+                "key": "Females",
+                "value": "41879"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44698"
+              },
+              {
+                "key": "Males",
+                "value": "13677"
+              },
+              {
+                "key": "Females",
+                "value": "31021"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8933"
+              },
+              {
+                "key": "Males",
+                "value": "2422"
+              },
+              {
+                "key": "Females",
+                "value": "6511"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4670"
+              },
+              {
+                "key": "Males",
+                "value": "1095"
+              },
+              {
+                "key": "Females",
+                "value": "3575"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1034"
+              },
+              {
+                "key": "Males",
+                "value": "262"
+              },
+              {
+                "key": "Females",
+                "value": "772"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "68101"
+              },
+              {
+                "key": "Males",
+                "value": "33211"
+              },
+              {
+                "key": "Females",
+                "value": "34890"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "54937"
+              },
+              {
+                "key": "Males",
+                "value": "26026"
+              },
+              {
+                "key": "Females",
+                "value": "28912"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5845"
+              },
+              {
+                "key": "Males",
+                "value": "2955"
+              },
+              {
+                "key": "Females",
+                "value": "2890"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5165"
+              },
+              {
+                "key": "Males",
+                "value": "2889"
+              },
+              {
+                "key": "Females",
+                "value": "2276"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2153"
+              },
+              {
+                "key": "Males",
+                "value": "1340"
+              },
+              {
+                "key": "Females",
+                "value": "813"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34072"
+              },
+              {
+                "key": "Males",
+                "value": "14089"
+              },
+              {
+                "key": "Females",
+                "value": "19983"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "26774"
+              },
+              {
+                "key": "Males",
+                "value": "10890"
+              },
+              {
+                "key": "Females",
+                "value": "15884"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3390"
+              },
+              {
+                "key": "Males",
+                "value": "1374"
+              },
+              {
+                "key": "Females",
+                "value": "2016"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2852"
+              },
+              {
+                "key": "Males",
+                "value": "1286"
+              },
+              {
+                "key": "Females",
+                "value": "1567"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1056"
+              },
+              {
+                "key": "Males",
+                "value": "539"
+              },
+              {
+                "key": "Females",
+                "value": "516"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Household Reference Persons Aged 65 Years & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "295450"
+              },
+              {
+                "key": "Males",
+                "value": "192484"
+              },
+              {
+                "key": "Females",
+                "value": "102966"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "250515"
+              },
+              {
+                "key": "Males",
+                "value": "162957"
+              },
+              {
+                "key": "Females",
+                "value": "87558"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22711"
+              },
+              {
+                "key": "Males",
+                "value": "15019"
+              },
+              {
+                "key": "Females",
+                "value": "7691"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18492"
+              },
+              {
+                "key": "Males",
+                "value": "11952"
+              },
+              {
+                "key": "Females",
+                "value": "6541"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3731"
+              },
+              {
+                "key": "Males",
+                "value": "2556"
+              },
+              {
+                "key": "Females",
+                "value": "1175"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "89343"
+              },
+              {
+                "key": "Males",
+                "value": "81062"
+              },
+              {
+                "key": "Females",
+                "value": "8281"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "76009"
+              },
+              {
+                "key": "Males",
+                "value": "68927"
+              },
+              {
+                "key": "Females",
+                "value": "7083"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7517"
+              },
+              {
+                "key": "Males",
+                "value": "6840"
+              },
+              {
+                "key": "Females",
+                "value": "677"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4791"
+              },
+              {
+                "key": "Males",
+                "value": "4358"
+              },
+              {
+                "key": "Females",
+                "value": "434"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1026"
+              },
+              {
+                "key": "Males",
+                "value": "938"
+              },
+              {
+                "key": "Females",
+                "value": "88"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "90427"
+              },
+              {
+                "key": "Males",
+                "value": "73980"
+              },
+              {
+                "key": "Females",
+                "value": "16446"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "76236"
+              },
+              {
+                "key": "Males",
+                "value": "62083"
+              },
+              {
+                "key": "Females",
+                "value": "14153"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6844"
+              },
+              {
+                "key": "Males",
+                "value": "5597"
+              },
+              {
+                "key": "Females",
+                "value": "1246"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6177"
+              },
+              {
+                "key": "Males",
+                "value": "5272"
+              },
+              {
+                "key": "Females",
+                "value": "904"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1171"
+              },
+              {
+                "key": "Males",
+                "value": "1028"
+              },
+              {
+                "key": "Females",
+                "value": "142"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21850"
+              },
+              {
+                "key": "Males",
+                "value": "5761"
+              },
+              {
+                "key": "Females",
+                "value": "16089"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18008"
+              },
+              {
+                "key": "Males",
+                "value": "4628"
+              },
+              {
+                "key": "Females",
+                "value": "13380"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2179"
+              },
+              {
+                "key": "Males",
+                "value": "655"
+              },
+              {
+                "key": "Females",
+                "value": "1523"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1477"
+              },
+              {
+                "key": "Males",
+                "value": "425"
+              },
+              {
+                "key": "Females",
+                "value": "1052"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "186"
+              },
+              {
+                "key": "Males",
+                "value": "52"
+              },
+              {
+                "key": "Females",
+                "value": "134"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "63797"
+              },
+              {
+                "key": "Males",
+                "value": "22338"
+              },
+              {
+                "key": "Females",
+                "value": "41458"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "54803"
+              },
+              {
+                "key": "Males",
+                "value": "19404"
+              },
+              {
+                "key": "Females",
+                "value": "35400"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4451"
+              },
+              {
+                "key": "Males",
+                "value": "1419"
+              },
+              {
+                "key": "Females",
+                "value": "3033"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3793"
+              },
+              {
+                "key": "Males",
+                "value": "1252"
+              },
+              {
+                "key": "Females",
+                "value": "2541"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "749"
+              },
+              {
+                "key": "Males",
+                "value": "264"
+              },
+              {
+                "key": "Females",
+                "value": "484"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30033"
+              },
+              {
+                "key": "Males",
+                "value": "9342"
+              },
+              {
+                "key": "Females",
+                "value": "20691"
+              }
+            ]
+          },
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25459"
+              },
+              {
+                "key": "Males",
+                "value": "7917"
+              },
+              {
+                "key": "Females",
+                "value": "17543"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1720"
+              },
+              {
+                "key": "Males",
+                "value": "508"
+              },
+              {
+                "key": "Females",
+                "value": "1212"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2254"
+              },
+              {
+                "key": "Males",
+                "value": "644"
+              },
+              {
+                "key": "Females",
+                "value": "1610"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "599"
+              },
+              {
+                "key": "Males",
+                "value": "273"
+              },
+              {
+                "key": "Females",
+                "value": "327"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

@@ -1,0 +1,1896 @@
+{
+  "Data": {
+    "id": "C020173",
+    "tableType": "General Household Survey 2025",
+    "groupTitle": null,
+    "title": "Employed Residents Aged 15 Years and Over by Industry, Travelling Time to Work and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: Data exclude employed persons who were full-time students, overseas for at least 6 months, or working at their place of residence. Full-time students are covered in the tables on usual transport to school.Data has been rounded to the nearest 100 and may not add up due to rounding.\n‘ - ’ denotes Nil or negligible. Users are advised to exercise caution when drawing inferences from survey estimates with small sample sizes or those denoted as ‘ - ’, as these estimates are based on a sample survey and subject to sampling variability. For more information, refer to the write up on the GHS 2025 Sample Design and Sampling Variability (https://go.gov.sg/ghs2025-sample-design-and-variability). ",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Mode of Transport",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2274700"
+              },
+              {
+                "key": "Males",
+                "value": "1197700"
+              },
+              {
+                "key": "Females",
+                "value": "1077100"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "319700"
+              },
+              {
+                "key": "Males",
+                "value": "185600"
+              },
+              {
+                "key": "Females",
+                "value": "134100"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "681800"
+              },
+              {
+                "key": "Males",
+                "value": "371800"
+              },
+              {
+                "key": "Females",
+                "value": "310000"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "488100"
+              },
+              {
+                "key": "Males",
+                "value": "253400"
+              },
+              {
+                "key": "Females",
+                "value": "234700"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "530200"
+              },
+              {
+                "key": "Males",
+                "value": "252100"
+              },
+              {
+                "key": "Females",
+                "value": "278100"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "255000"
+              },
+              {
+                "key": "Males",
+                "value": "134900"
+              },
+              {
+                "key": "Females",
+                "value": "120100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Manufacturing",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "202900"
+              },
+              {
+                "key": "Males",
+                "value": "125800"
+              },
+              {
+                "key": "Females",
+                "value": "77000"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21400"
+              },
+              {
+                "key": "Males",
+                "value": "13900"
+              },
+              {
+                "key": "Females",
+                "value": "7500"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "63400"
+              },
+              {
+                "key": "Males",
+                "value": "40300"
+              },
+              {
+                "key": "Females",
+                "value": "23100"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43200"
+              },
+              {
+                "key": "Males",
+                "value": "28000"
+              },
+              {
+                "key": "Females",
+                "value": "15200"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "48300"
+              },
+              {
+                "key": "Males",
+                "value": "27600"
+              },
+              {
+                "key": "Females",
+                "value": "20700"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "26600"
+              },
+              {
+                "key": "Males",
+                "value": "16000"
+              },
+              {
+                "key": "Females",
+                "value": "10600"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Construction",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "99300"
+              },
+              {
+                "key": "Males",
+                "value": "68000"
+              },
+              {
+                "key": "Females",
+                "value": "31300"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12200"
+              },
+              {
+                "key": "Males",
+                "value": "8300"
+              },
+              {
+                "key": "Females",
+                "value": "3800"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35400"
+              },
+              {
+                "key": "Males",
+                "value": "25500"
+              },
+              {
+                "key": "Females",
+                "value": "9900"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19600"
+              },
+              {
+                "key": "Males",
+                "value": "14300"
+              },
+              {
+                "key": "Females",
+                "value": "5300"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23400"
+              },
+              {
+                "key": "Males",
+                "value": "14300"
+              },
+              {
+                "key": "Females",
+                "value": "9100"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8700"
+              },
+              {
+                "key": "Males",
+                "value": "5600"
+              },
+              {
+                "key": "Females",
+                "value": "3100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Services",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1953300"
+              },
+              {
+                "key": "Males",
+                "value": "990000"
+              },
+              {
+                "key": "Females",
+                "value": "963300"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "284800"
+              },
+              {
+                "key": "Males",
+                "value": "162500"
+              },
+              {
+                "key": "Females",
+                "value": "122300"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "577500"
+              },
+              {
+                "key": "Males",
+                "value": "301600"
+              },
+              {
+                "key": "Females",
+                "value": "275900"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "420400"
+              },
+              {
+                "key": "Males",
+                "value": "207700"
+              },
+              {
+                "key": "Females",
+                "value": "212700"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "453800"
+              },
+              {
+                "key": "Males",
+                "value": "206900"
+              },
+              {
+                "key": "Females",
+                "value": "247000"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "216900"
+              },
+              {
+                "key": "Males",
+                "value": "111300"
+              },
+              {
+                "key": "Females",
+                "value": "105500"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "Wholesale & Retail Trade",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "318000"
+              },
+              {
+                "key": "Males",
+                "value": "161800"
+              },
+              {
+                "key": "Females",
+                "value": "156200"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43200"
+              },
+              {
+                "key": "Males",
+                "value": "22100"
+              },
+              {
+                "key": "Females",
+                "value": "21000"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "99200"
+              },
+              {
+                "key": "Males",
+                "value": "53800"
+              },
+              {
+                "key": "Females",
+                "value": "45300"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "68900"
+              },
+              {
+                "key": "Males",
+                "value": "37000"
+              },
+              {
+                "key": "Females",
+                "value": "31900"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "72200"
+              },
+              {
+                "key": "Males",
+                "value": "31500"
+              },
+              {
+                "key": "Females",
+                "value": "40800"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34500"
+              },
+              {
+                "key": "Males",
+                "value": "17400"
+              },
+              {
+                "key": "Females",
+                "value": "17100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Transportation & Storage",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "205200"
+              },
+              {
+                "key": "Males",
+                "value": "154500"
+              },
+              {
+                "key": "Females",
+                "value": "50700"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "77200"
+              },
+              {
+                "key": "Males",
+                "value": "68500"
+              },
+              {
+                "key": "Females",
+                "value": "8700"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "46200"
+              },
+              {
+                "key": "Males",
+                "value": "33300"
+              },
+              {
+                "key": "Females",
+                "value": "13000"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28400"
+              },
+              {
+                "key": "Males",
+                "value": "19500"
+              },
+              {
+                "key": "Females",
+                "value": "8900"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "32200"
+              },
+              {
+                "key": "Males",
+                "value": "20300"
+              },
+              {
+                "key": "Females",
+                "value": "11900"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21200"
+              },
+              {
+                "key": "Males",
+                "value": "13000"
+              },
+              {
+                "key": "Females",
+                "value": "8200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.3",
+        "rowText": "Accommodation & Food Services",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "139600"
+              },
+              {
+                "key": "Males",
+                "value": "61400"
+              },
+              {
+                "key": "Females",
+                "value": "78300"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25200"
+              },
+              {
+                "key": "Males",
+                "value": "10000"
+              },
+              {
+                "key": "Females",
+                "value": "15200"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41400"
+              },
+              {
+                "key": "Males",
+                "value": "19200"
+              },
+              {
+                "key": "Females",
+                "value": "22200"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23800"
+              },
+              {
+                "key": "Males",
+                "value": "10300"
+              },
+              {
+                "key": "Females",
+                "value": "13500"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "37400"
+              },
+              {
+                "key": "Males",
+                "value": "16200"
+              },
+              {
+                "key": "Females",
+                "value": "21200"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11900"
+              },
+              {
+                "key": "Males",
+                "value": "5700"
+              },
+              {
+                "key": "Females",
+                "value": "6200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.4",
+        "rowText": "Information & Communications1/",
+        "uoM": "Number",
+        "footnote": "1/ Consists of 'Publishing, Broadcasting & Content Production' and 'Telecommunications & Information Technology Services'.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "118500"
+              },
+              {
+                "key": "Males",
+                "value": "68900"
+              },
+              {
+                "key": "Females",
+                "value": "49600"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8400"
+              },
+              {
+                "key": "Males",
+                "value": "5000"
+              },
+              {
+                "key": "Females",
+                "value": "3400"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31800"
+              },
+              {
+                "key": "Males",
+                "value": "19400"
+              },
+              {
+                "key": "Females",
+                "value": "12500"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28200"
+              },
+              {
+                "key": "Males",
+                "value": "17400"
+              },
+              {
+                "key": "Females",
+                "value": "10800"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "33100"
+              },
+              {
+                "key": "Males",
+                "value": "17700"
+              },
+              {
+                "key": "Females",
+                "value": "15300"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17000"
+              },
+              {
+                "key": "Males",
+                "value": "9400"
+              },
+              {
+                "key": "Females",
+                "value": "7600"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.5",
+        "rowText": "Financial & Insurance Services",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "225500"
+              },
+              {
+                "key": "Males",
+                "value": "106900"
+              },
+              {
+                "key": "Females",
+                "value": "118600"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15500"
+              },
+              {
+                "key": "Males",
+                "value": "7600"
+              },
+              {
+                "key": "Females",
+                "value": "7900"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "68200"
+              },
+              {
+                "key": "Males",
+                "value": "35100"
+              },
+              {
+                "key": "Females",
+                "value": "33100"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "60300"
+              },
+              {
+                "key": "Males",
+                "value": "27800"
+              },
+              {
+                "key": "Females",
+                "value": "32400"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "56500"
+              },
+              {
+                "key": "Males",
+                "value": "25900"
+              },
+              {
+                "key": "Females",
+                "value": "30600"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25000"
+              },
+              {
+                "key": "Males",
+                "value": "10400"
+              },
+              {
+                "key": "Females",
+                "value": "14600"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.6",
+        "rowText": "Real Estate Services",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "55000"
+              },
+              {
+                "key": "Males",
+                "value": "26300"
+              },
+              {
+                "key": "Females",
+                "value": "28800"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7900"
+              },
+              {
+                "key": "Males",
+                "value": "3900"
+              },
+              {
+                "key": "Females",
+                "value": "4000"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20800"
+              },
+              {
+                "key": "Males",
+                "value": "9700"
+              },
+              {
+                "key": "Females",
+                "value": "11100"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11400"
+              },
+              {
+                "key": "Males",
+                "value": "5000"
+              },
+              {
+                "key": "Females",
+                "value": "6400"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10700"
+              },
+              {
+                "key": "Males",
+                "value": "4900"
+              },
+              {
+                "key": "Females",
+                "value": "5800"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4200"
+              },
+              {
+                "key": "Males",
+                "value": "2700"
+              },
+              {
+                "key": "Females",
+                "value": "1500"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.7",
+        "rowText": "Professional Services",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "173600"
+              },
+              {
+                "key": "Males",
+                "value": "87400"
+              },
+              {
+                "key": "Females",
+                "value": "86200"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14400"
+              },
+              {
+                "key": "Males",
+                "value": "8300"
+              },
+              {
+                "key": "Females",
+                "value": "6100"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "50000"
+              },
+              {
+                "key": "Males",
+                "value": "27600"
+              },
+              {
+                "key": "Females",
+                "value": "22400"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43500"
+              },
+              {
+                "key": "Males",
+                "value": "21600"
+              },
+              {
+                "key": "Females",
+                "value": "21800"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43800"
+              },
+              {
+                "key": "Males",
+                "value": "18600"
+              },
+              {
+                "key": "Females",
+                "value": "25200"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21800"
+              },
+              {
+                "key": "Males",
+                "value": "11200"
+              },
+              {
+                "key": "Females",
+                "value": "10600"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.8",
+        "rowText": "Administrative & Support Services",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "123000"
+              },
+              {
+                "key": "Males",
+                "value": "69000"
+              },
+              {
+                "key": "Females",
+                "value": "53900"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14300"
+              },
+              {
+                "key": "Males",
+                "value": "8700"
+              },
+              {
+                "key": "Females",
+                "value": "5600"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36400"
+              },
+              {
+                "key": "Males",
+                "value": "22000"
+              },
+              {
+                "key": "Females",
+                "value": "14400"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25400"
+              },
+              {
+                "key": "Males",
+                "value": "13600"
+              },
+              {
+                "key": "Females",
+                "value": "11800"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "32300"
+              },
+              {
+                "key": "Males",
+                "value": "16300"
+              },
+              {
+                "key": "Females",
+                "value": "16000"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14600"
+              },
+              {
+                "key": "Males",
+                "value": "8500"
+              },
+              {
+                "key": "Females",
+                "value": "6100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.9",
+        "rowText": "Public Administration & Education",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "334600"
+              },
+              {
+                "key": "Males",
+                "value": "163300"
+              },
+              {
+                "key": "Females",
+                "value": "171300"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "46700"
+              },
+              {
+                "key": "Males",
+                "value": "16900"
+              },
+              {
+                "key": "Females",
+                "value": "29900"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "105900"
+              },
+              {
+                "key": "Males",
+                "value": "50500"
+              },
+              {
+                "key": "Females",
+                "value": "55500"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "72500"
+              },
+              {
+                "key": "Males",
+                "value": "36100"
+              },
+              {
+                "key": "Females",
+                "value": "36400"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "68500"
+              },
+              {
+                "key": "Males",
+                "value": "34800"
+              },
+              {
+                "key": "Females",
+                "value": "33700"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41000"
+              },
+              {
+                "key": "Males",
+                "value": "25100"
+              },
+              {
+                "key": "Females",
+                "value": "15900"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.10",
+        "rowText": "Health & Social Services",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "145700"
+              },
+              {
+                "key": "Males",
+                "value": "38400"
+              },
+              {
+                "key": "Females",
+                "value": "107200"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19200"
+              },
+              {
+                "key": "Males",
+                "value": "5300"
+              },
+              {
+                "key": "Females",
+                "value": "13900"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43300"
+              },
+              {
+                "key": "Males",
+                "value": "13100"
+              },
+              {
+                "key": "Females",
+                "value": "30100"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34400"
+              },
+              {
+                "key": "Males",
+                "value": "9300"
+              },
+              {
+                "key": "Females",
+                "value": "25200"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35200"
+              },
+              {
+                "key": "Males",
+                "value": "7700"
+              },
+              {
+                "key": "Females",
+                "value": "27600"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13500"
+              },
+              {
+                "key": "Males",
+                "value": "3100"
+              },
+              {
+                "key": "Females",
+                "value": "10500"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.11",
+        "rowText": "Arts, Sports & Recreation",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36200"
+              },
+              {
+                "key": "Males",
+                "value": "18600"
+              },
+              {
+                "key": "Females",
+                "value": "17700"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2800"
+              },
+              {
+                "key": "Males",
+                "value": "1400"
+              },
+              {
+                "key": "Females",
+                "value": "1300"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8800"
+              },
+              {
+                "key": "Males",
+                "value": "4900"
+              },
+              {
+                "key": "Females",
+                "value": "3900"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8300"
+              },
+              {
+                "key": "Males",
+                "value": "4200"
+              },
+              {
+                "key": "Females",
+                "value": "4000"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10700"
+              },
+              {
+                "key": "Males",
+                "value": "5200"
+              },
+              {
+                "key": "Females",
+                "value": "5500"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5700"
+              },
+              {
+                "key": "Males",
+                "value": "2700"
+              },
+              {
+                "key": "Females",
+                "value": "3000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.12",
+        "rowText": "Other Community, Social & Personal Services",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "78500"
+              },
+              {
+                "key": "Males",
+                "value": "33500"
+              },
+              {
+                "key": "Females",
+                "value": "44900"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10100"
+              },
+              {
+                "key": "Males",
+                "value": "4700"
+              },
+              {
+                "key": "Females",
+                "value": "5400"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25400"
+              },
+              {
+                "key": "Males",
+                "value": "13000"
+              },
+              {
+                "key": "Females",
+                "value": "12400"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15300"
+              },
+              {
+                "key": "Males",
+                "value": "5800"
+              },
+              {
+                "key": "Females",
+                "value": "9500"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21200"
+              },
+              {
+                "key": "Males",
+                "value": "7800"
+              },
+              {
+                "key": "Females",
+                "value": "13400"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6500"
+              },
+              {
+                "key": "Males",
+                "value": "2200"
+              },
+              {
+                "key": "Females",
+                "value": "4300"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Others2/",
+        "uoM": "Number",
+        "footnote": "2/ Includes Agriculture, Fishing, Quarrying, Utilities and Sewerage & Waste Management.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19200"
+              },
+              {
+                "key": "Males",
+                "value": "13900"
+              },
+              {
+                "key": "Females",
+                "value": "5400"
+              }
+            ]
+          },
+          {
+            "key": "Up to 15 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1300"
+              },
+              {
+                "key": "Males",
+                "value": "900"
+              },
+              {
+                "key": "Females",
+                "value": "400"
+              }
+            ]
+          },
+          {
+            "key": "16 - 30 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5500"
+              },
+              {
+                "key": "Males",
+                "value": "4300"
+              },
+              {
+                "key": "Females",
+                "value": "1200"
+              }
+            ]
+          },
+          {
+            "key": "31 - 45 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4900"
+              },
+              {
+                "key": "Males",
+                "value": "3400"
+              },
+              {
+                "key": "Females",
+                "value": "1500"
+              }
+            ]
+          },
+          {
+            "key": "46 - 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4700"
+              },
+              {
+                "key": "Males",
+                "value": "3300"
+              },
+              {
+                "key": "Females",
+                "value": "1300"
+              }
+            ]
+          },
+          {
+            "key": "More than 60 mins",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2800"
+              },
+              {
+                "key": "Males",
+                "value": "1900"
+              },
+              {
+                "key": "Females",
+                "value": "900"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

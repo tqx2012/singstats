@@ -1,0 +1,791 @@
+{
+  "Data": {
+    "id": "17438",
+    "tableType": "Census of Population 2020",
+    "groupTitle": null,
+    "title": "Resident Population Aged 5 Years and Over by Language Most / Second Most Frequently Spoken at Home, Age Group and Ethnic Group (Others)",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data exclude persons who were unable to speak, and those in one-person households and households comprising only unrelated persons.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "16/06/2021",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Education, Language Spoken and Literacy",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "113566"
+              },
+              {
+                "key": "5-9",
+                "value": "7479"
+              },
+              {
+                "key": "10-14",
+                "value": "9127"
+              },
+              {
+                "key": "15-19",
+                "value": "8721"
+              },
+              {
+                "key": "20-24",
+                "value": "6980"
+              },
+              {
+                "key": "25-29",
+                "value": "5402"
+              },
+              {
+                "key": "30-34",
+                "value": "8283"
+              },
+              {
+                "key": "35-39",
+                "value": "11463"
+              },
+              {
+                "key": "40-44",
+                "value": "13268"
+              },
+              {
+                "key": "45-49",
+                "value": "13614"
+              },
+              {
+                "key": "50-54",
+                "value": "10358"
+              },
+              {
+                "key": "55-59",
+                "value": "7283"
+              },
+              {
+                "key": "60-64",
+                "value": "4601"
+              },
+              {
+                "key": "65-69",
+                "value": "2939"
+              },
+              {
+                "key": "70-74",
+                "value": "1893"
+              },
+              {
+                "key": "75-79",
+                "value": "872"
+              },
+              {
+                "key": "80-84",
+                "value": "678"
+              },
+              {
+                "key": "85 & Over",
+                "value": "604"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "80767"
+              },
+              {
+                "key": "5-9",
+                "value": "6586"
+              },
+              {
+                "key": "10-14",
+                "value": "8021"
+              },
+              {
+                "key": "15-19",
+                "value": "7096"
+              },
+              {
+                "key": "20-24",
+                "value": "5432"
+              },
+              {
+                "key": "25-29",
+                "value": "3851"
+              },
+              {
+                "key": "30-34",
+                "value": "5697"
+              },
+              {
+                "key": "35-39",
+                "value": "7371"
+              },
+              {
+                "key": "40-44",
+                "value": "8597"
+              },
+              {
+                "key": "45-49",
+                "value": "8401"
+              },
+              {
+                "key": "50-54",
+                "value": "6519"
+              },
+              {
+                "key": "55-59",
+                "value": "4800"
+              },
+              {
+                "key": "60-64",
+                "value": "3278"
+              },
+              {
+                "key": "65-69",
+                "value": "2119"
+              },
+              {
+                "key": "70-74",
+                "value": "1351"
+              },
+              {
+                "key": "75-79",
+                "value": "624"
+              },
+              {
+                "key": "80-84",
+                "value": "521"
+              },
+              {
+                "key": "85 & Over",
+                "value": "503"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.1",
+        "rowText": "English Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29108"
+              },
+              {
+                "key": "5-9",
+                "value": "1960"
+              },
+              {
+                "key": "10-14",
+                "value": "2558"
+              },
+              {
+                "key": "15-19",
+                "value": "2210"
+              },
+              {
+                "key": "20-24",
+                "value": "1624"
+              },
+              {
+                "key": "25-29",
+                "value": "1158"
+              },
+              {
+                "key": "30-34",
+                "value": "1973"
+              },
+              {
+                "key": "35-39",
+                "value": "2461"
+              },
+              {
+                "key": "40-44",
+                "value": "2713"
+              },
+              {
+                "key": "45-49",
+                "value": "2936"
+              },
+              {
+                "key": "50-54",
+                "value": "2738"
+              },
+              {
+                "key": "55-59",
+                "value": "2217"
+              },
+              {
+                "key": "60-64",
+                "value": "1656"
+              },
+              {
+                "key": "65-69",
+                "value": "1163"
+              },
+              {
+                "key": "70-74",
+                "value": "710"
+              },
+              {
+                "key": "75-79",
+                "value": "369"
+              },
+              {
+                "key": "80-84",
+                "value": "341"
+              },
+              {
+                "key": "85 & Over",
+                "value": "320"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.2",
+        "rowText": "English & Mandarin",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10643"
+              },
+              {
+                "key": "5-9",
+                "value": "2286"
+              },
+              {
+                "key": "10-14",
+                "value": "2208"
+              },
+              {
+                "key": "15-19",
+                "value": "1403"
+              },
+              {
+                "key": "20-24",
+                "value": "888"
+              },
+              {
+                "key": "25-29",
+                "value": "534"
+              },
+              {
+                "key": "30-34",
+                "value": "889"
+              },
+              {
+                "key": "35-39",
+                "value": "678"
+              },
+              {
+                "key": "40-44",
+                "value": "493"
+              },
+              {
+                "key": "45-49",
+                "value": "425"
+              },
+              {
+                "key": "50-54",
+                "value": "294"
+              },
+              {
+                "key": "55-59",
+                "value": "263"
+              },
+              {
+                "key": "60-64",
+                "value": "172"
+              },
+              {
+                "key": "65-69",
+                "value": "51"
+              },
+              {
+                "key": "70-74",
+                "value": "10"
+              },
+              {
+                "key": "75-79",
+                "value": "37"
+              },
+              {
+                "key": "80-84",
+                "value": "7"
+              },
+              {
+                "key": "85 & Over",
+                "value": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.3",
+        "rowText": "English & Malay",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9562"
+              },
+              {
+                "key": "5-9",
+                "value": "898"
+              },
+              {
+                "key": "10-14",
+                "value": "818"
+              },
+              {
+                "key": "15-19",
+                "value": "676"
+              },
+              {
+                "key": "20-24",
+                "value": "827"
+              },
+              {
+                "key": "25-29",
+                "value": "914"
+              },
+              {
+                "key": "30-34",
+                "value": "950"
+              },
+              {
+                "key": "35-39",
+                "value": "815"
+              },
+              {
+                "key": "40-44",
+                "value": "625"
+              },
+              {
+                "key": "45-49",
+                "value": "602"
+              },
+              {
+                "key": "50-54",
+                "value": "562"
+              },
+              {
+                "key": "55-59",
+                "value": "649"
+              },
+              {
+                "key": "60-64",
+                "value": "381"
+              },
+              {
+                "key": "65-69",
+                "value": "284"
+              },
+              {
+                "key": "70-74",
+                "value": "202"
+              },
+              {
+                "key": "75-79",
+                "value": "105"
+              },
+              {
+                "key": "80-84",
+                "value": "134"
+              },
+              {
+                "key": "85 & Over",
+                "value": "121"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.4",
+        "rowText": "English & Other Language2/",
+        "uoM": "Number",
+        "footnote": "2/ Not elsewhere included.",
+        "columns": [
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31454"
+              },
+              {
+                "key": "5-9",
+                "value": "1442"
+              },
+              {
+                "key": "10-14",
+                "value": "2438"
+              },
+              {
+                "key": "15-19",
+                "value": "2807"
+              },
+              {
+                "key": "20-24",
+                "value": "2093"
+              },
+              {
+                "key": "25-29",
+                "value": "1245"
+              },
+              {
+                "key": "30-34",
+                "value": "1885"
+              },
+              {
+                "key": "35-39",
+                "value": "3417"
+              },
+              {
+                "key": "40-44",
+                "value": "4766"
+              },
+              {
+                "key": "45-49",
+                "value": "4438"
+              },
+              {
+                "key": "50-54",
+                "value": "2925"
+              },
+              {
+                "key": "55-59",
+                "value": "1670"
+              },
+              {
+                "key": "60-64",
+                "value": "1069"
+              },
+              {
+                "key": "65-69",
+                "value": "621"
+              },
+              {
+                "key": "70-74",
+                "value": "428"
+              },
+              {
+                "key": "75-79",
+                "value": "113"
+              },
+              {
+                "key": "80-84",
+                "value": "38"
+              },
+              {
+                "key": "85 & Over",
+                "value": "57"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "Mandarin",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5197"
+              },
+              {
+                "key": "5-9",
+                "value": "115"
+              },
+              {
+                "key": "10-14",
+                "value": "50"
+              },
+              {
+                "key": "15-19",
+                "value": "116"
+              },
+              {
+                "key": "20-24",
+                "value": "63"
+              },
+              {
+                "key": "25-29",
+                "value": "466"
+              },
+              {
+                "key": "30-34",
+                "value": "1106"
+              },
+              {
+                "key": "35-39",
+                "value": "1373"
+              },
+              {
+                "key": "40-44",
+                "value": "573"
+              },
+              {
+                "key": "45-49",
+                "value": "477"
+              },
+              {
+                "key": "50-54",
+                "value": "571"
+              },
+              {
+                "key": "55-59",
+                "value": "156"
+              },
+              {
+                "key": "60-64",
+                "value": "62"
+              },
+              {
+                "key": "65-69",
+                "value": "26"
+              },
+              {
+                "key": "70-74",
+                "value": "22"
+              },
+              {
+                "key": "75-79",
+                "value": "-"
+              },
+              {
+                "key": "80-84",
+                "value": "19"
+              },
+              {
+                "key": "85 & Over",
+                "value": "-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "Malay",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5706"
+              },
+              {
+                "key": "5-9",
+                "value": "195"
+              },
+              {
+                "key": "10-14",
+                "value": "152"
+              },
+              {
+                "key": "15-19",
+                "value": "314"
+              },
+              {
+                "key": "20-24",
+                "value": "379"
+              },
+              {
+                "key": "25-29",
+                "value": "446"
+              },
+              {
+                "key": "30-34",
+                "value": "607"
+              },
+              {
+                "key": "35-39",
+                "value": "690"
+              },
+              {
+                "key": "40-44",
+                "value": "384"
+              },
+              {
+                "key": "45-49",
+                "value": "375"
+              },
+              {
+                "key": "50-54",
+                "value": "333"
+              },
+              {
+                "key": "55-59",
+                "value": "511"
+              },
+              {
+                "key": "60-64",
+                "value": "364"
+              },
+              {
+                "key": "65-69",
+                "value": "336"
+              },
+              {
+                "key": "70-74",
+                "value": "310"
+              },
+              {
+                "key": "75-79",
+                "value": "148"
+              },
+              {
+                "key": "80-84",
+                "value": "69"
+              },
+              {
+                "key": "85 & Over",
+                "value": "91"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "Other Languages2/",
+        "uoM": "Number",
+        "footnote": "2/ Not elsewhere included.",
+        "columns": [
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21896"
+              },
+              {
+                "key": "5-9",
+                "value": "582"
+              },
+              {
+                "key": "10-14",
+                "value": "903"
+              },
+              {
+                "key": "15-19",
+                "value": "1195"
+              },
+              {
+                "key": "20-24",
+                "value": "1107"
+              },
+              {
+                "key": "25-29",
+                "value": "639"
+              },
+              {
+                "key": "30-34",
+                "value": "873"
+              },
+              {
+                "key": "35-39",
+                "value": "2028"
+              },
+              {
+                "key": "40-44",
+                "value": "3714"
+              },
+              {
+                "key": "45-49",
+                "value": "4360"
+              },
+              {
+                "key": "50-54",
+                "value": "2935"
+              },
+              {
+                "key": "55-59",
+                "value": "1815"
+              },
+              {
+                "key": "60-64",
+                "value": "897"
+              },
+              {
+                "key": "65-69",
+                "value": "457"
+              },
+              {
+                "key": "70-74",
+                "value": "210"
+              },
+              {
+                "key": "75-79",
+                "value": "100"
+              },
+              {
+                "key": "80-84",
+                "value": "69"
+              },
+              {
+                "key": "85 & Over",
+                "value": "11"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

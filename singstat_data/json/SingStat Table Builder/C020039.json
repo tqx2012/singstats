@@ -1,0 +1,776 @@
+{
+  "Data": {
+    "id": "C020039",
+    "tableType": "General Household Survey 2025",
+    "groupTitle": null,
+    "title": "Resident Population Aged 5 Years and Over by Language Most / Second Most Frequently Spoken at Home, Type of Dwelling and Ethnic Group (Indians)",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: Data exclude persons who were unable to speak, and those in one-person households and households comprising only unrelated persons.\nData has been rounded to the nearest 100 and may not add up due to rounding.\n‘ - ’ denotes Nil or negligible. Users are advised to exercise caution when drawing inferences from survey estimates with small sample sizes or those denoted as ‘ - ’, as these estimates are based on a sample survey and subject to sampling variability. For more information, refer to the write up on the GHS 2025 Sample Design and Sampling Variability (https://go.gov.sg/ghs2025-sample-design-and-variability).",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Education, Language Spoken and Literacy",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "330200"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "253900"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "13400"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "39100"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "102400"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "99000"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "62700"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "13500"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "English1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "216000"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "157600"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "8000"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "19200"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "63000"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "67400"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "47000"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "11300"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.1",
+        "rowText": "English Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "47900"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "31200"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "2000"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "4600"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "12400"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "12200"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "12600"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "4200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.2",
+        "rowText": "English & Malay",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "28300"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "24700"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "1800"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "3500"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "9100"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "10200"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "2700"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "900"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.3",
+        "rowText": "English & Tamil",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "93400"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "78500"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "3400"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "9100"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "31800"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "34200"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "11200"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "3700"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.0.4",
+        "rowText": "English & Other Indian Language",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "41500"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "19900"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "600"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "1400"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "7800"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "10100"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "19700"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "1900"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Malay1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "16100"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "15800"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "1700"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "3700"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "6600"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "3700"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "300"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.0.1",
+        "rowText": "Malay & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "10600"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "10300"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "1100"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "2000"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "4800"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "2500"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "300"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Indian Languages",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "97300"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "79900"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "3600"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "16100"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "32500"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "27800"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "15300"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "2100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "Tamil1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "76100"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "65600"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "3600"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "14600"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "27400"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "20000"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "9100"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "1400"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1.1",
+        "rowText": "Tamil Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "17700"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "15000"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "1000"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "3800"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "6600"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "3700"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "2500"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1.2",
+        "rowText": "Tamil & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "57200"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "49400"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "2600"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "10600"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "20400"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "15800"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "6600"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "1200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Other Indian Languages1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "21200"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "14300"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "-"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "1500"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "5100"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "7800"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "6200"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "700"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2.1",
+        "rowText": "Other Indian Language & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "15100"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "10000"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "-"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "1000"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "3600"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "5300"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "4400"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "700"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Other Languages2/",
+        "uoM": "Number",
+        "footnote": "2/ Not elsewhere included.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total3/",
+                "value": "800"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "600"
+                  },
+                  {
+                    "key": "HDB 1- & 2- Room Flats4/",
+                    "value": "100"
+                  },
+                  {
+                    "key": "HDB 3-Room Flats",
+                    "value": "200"
+                  },
+                  {
+                    "key": "HDB 4-Room Flats",
+                    "value": "200"
+                  },
+                  {
+                    "key": "HDB 5-Room & Executive Flats",
+                    "value": "100"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium & Other Apartments",
+                "value": "100"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "100"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

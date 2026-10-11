@@ -1,0 +1,148 @@
+{
+  "Data": {
+    "theme": "Population",
+    "subject": "Death and Life Expectancy",
+    "topic": "Deaths, Death Rates and Mortality",
+    "id": "M810831",
+    "groupTitle": null,
+    "title": "Mortality Rate Attributed To Ambient Air Pollution, Exposure To Unsafe Wash Services Or Unintentional Poisoning. Annual",
+    "frequency": "Ad-Hoc",
+    "adjustmentType": null,
+    "datasource": "WORLD HEATLH ORGANISATION, GLOBAL SDG INDICATORS DATABASE",
+    "footnote": "Please refer to the Sustainable Development Goals (SDG) Global Metadata (https://unstats.un.org/sdgs/metadata) for more information on SDG 3.9.1, 3.9.2 and 3.9.3.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "11/07/2025",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "sortBy": null,
+    "timeFilter": null,
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "seriesNo": "1",
+        "rowText": "Age-Standardised Mortality Rate Attributed To Ambient Air Pollution",
+        "uoM": "Per 100,000 Population",
+        "footnote": "Data are used for SDG 3.9.1 'Mortality rate attributed to household and ambient air pollution'.",
+        "columns": [
+          {
+            "key": "2019",
+            "value": "23"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2",
+        "rowText": "Mortality Rate Attributed To Unsafe Water, Unsafe Sanitation And Lack Of Hygiene",
+        "uoM": "Per 100,000 Population",
+        "footnote": "Data are used for SDG 3.9.2 'Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services'.",
+        "columns": [
+          {
+            "key": "2019",
+            "value": "8.5"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3",
+        "rowText": "Mortality Rate Attributed To Unintentional Poisoning",
+        "uoM": "Per 100,000 Population",
+        "footnote": "Data are used for SDG 3.9.3 'Mortality rate attributed to unintentional poisoning'.",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "0.1"
+          },
+          {
+            "key": "2010",
+            "value": "0"
+          },
+          {
+            "key": "2015",
+            "value": "0.1"
+          },
+          {
+            "key": "2019",
+            "value": "0"
+          },
+          {
+            "key": "2020",
+            "value": "0"
+          },
+          {
+            "key": "2021",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "seriesNo": "4",
+        "rowText": "Mortality Rate Attributed To Unintentional Poisoning - Males",
+        "uoM": "Per 100,000 Population",
+        "footnote": "Data are used for SDG 3.9.3 'Mortality rate attributed to unintentional poisoning'.",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "0.1"
+          },
+          {
+            "key": "2010",
+            "value": "0"
+          },
+          {
+            "key": "2015",
+            "value": "0"
+          },
+          {
+            "key": "2019",
+            "value": "0"
+          },
+          {
+            "key": "2020",
+            "value": "0.1"
+          },
+          {
+            "key": "2021",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "seriesNo": "5",
+        "rowText": "Mortality Rate Attributed To Unintentional Poisoning - Females",
+        "uoM": "Per 100,000 Population",
+        "footnote": "Data are used for SDG 3.9.3 'Mortality rate attributed to unintentional poisoning'.",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "0"
+          },
+          {
+            "key": "2010",
+            "value": "0"
+          },
+          {
+            "key": "2015",
+            "value": "0.1"
+          },
+          {
+            "key": "2019",
+            "value": "0"
+          },
+          {
+            "key": "2020",
+            "value": "0"
+          },
+          {
+            "key": "2021",
+            "value": "0"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

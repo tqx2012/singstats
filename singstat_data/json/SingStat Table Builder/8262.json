@@ -1,0 +1,986 @@
+{
+  "Data": {
+    "id": "8262",
+    "tableType": "General Household Survey 2015",
+    "groupTitle": null,
+    "title": "Resident Households by Age Group of Head of Household & Household Living Arrangement and Number of Working Persons in Household",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data on Household Living Arrangement have been revised in June 2026 to be based on the composition of members within the household, instead of the characteristics of the head of household, to provide a more holistic view of household living arrangements.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1225.3"
+          },
+          {
+            "key": "No Working Person",
+            "value": "118.8"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "397.3"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "468.8"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "159.6"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "80.8"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "692.6"
+          },
+          {
+            "key": "No Working Person",
+            "value": "7.9"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "156.7"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "323.7"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "134.6"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "69.6"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "190.5"
+          },
+          {
+            "key": "No Working Person",
+            "value": "38.5"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "57"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "84"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "6.9"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "4"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.3",
+        "rowText": "Lone Parent",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "118.8"
+          },
+          {
+            "key": "No Working Person",
+            "value": "9.3"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "57.8"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "36.2"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "12.4"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "3.1"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.4",
+        "rowText": "One-Person",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "146"
+          },
+          {
+            "key": "No Working Person",
+            "value": "49.7"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "96.3"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "-"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "-"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.5",
+        "rowText": "Others",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "77.4"
+          },
+          {
+            "key": "No Working Person",
+            "value": "13.4"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "29.4"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "24.9"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "5.7"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "4"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Head of Household Aged Below 35 Years",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "99"
+          },
+          {
+            "key": "No Working Person",
+            "value": "2.3"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "28.6"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "55.4"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "7.3"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "5.3"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "48.5"
+          },
+          {
+            "key": "No Working Person",
+            "value": "0.3"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "11.2"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "30.4"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "4"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "2.7"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "27.3"
+          },
+          {
+            "key": "No Working Person",
+            "value": "0.2"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "3.9"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "20"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "1.9"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "1.2"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.3",
+        "rowText": "Lone Parent",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "5.8"
+          },
+          {
+            "key": "No Working Person",
+            "value": "0.5"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "2.8"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "1.8"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "0.6"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "0.2"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.4",
+        "rowText": "One-Person",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "9.2"
+          },
+          {
+            "key": "No Working Person",
+            "value": "1"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "8.3"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "-"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "-"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.5",
+        "rowText": "Others",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "8.2"
+          },
+          {
+            "key": "No Working Person",
+            "value": "0.4"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "2.5"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "3.2"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "0.8"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "1.2"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Head of Household Aged 35-49 Years",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "424.9"
+          },
+          {
+            "key": "No Working Person",
+            "value": "8.7"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "155.7"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "212.6"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "33.9"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "13.9"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "282"
+          },
+          {
+            "key": "No Working Person",
+            "value": "2"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "77.6"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "165.5"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "27"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "9.9"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "45.4"
+          },
+          {
+            "key": "No Working Person",
+            "value": "0.3"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "10.5"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "30.5"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "2.5"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "1.7"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.3",
+        "rowText": "Lone Parent",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "36.5"
+          },
+          {
+            "key": "No Working Person",
+            "value": "2"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "22.9"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "8.5"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "2.4"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "0.6"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.4",
+        "rowText": "One-Person",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "39.6"
+          },
+          {
+            "key": "No Working Person",
+            "value": "3.1"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "36.6"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "-"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "-"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.5",
+        "rowText": "Others",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "21.3"
+          },
+          {
+            "key": "No Working Person",
+            "value": "1.3"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "8.1"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "8.1"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "2"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "1.8"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Head of Household Aged 50-64 Years",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "480.3"
+          },
+          {
+            "key": "No Working Person",
+            "value": "30.5"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "140"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "157"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "99.4"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "53.4"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "288.1"
+          },
+          {
+            "key": "No Working Person",
+            "value": "3.2"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "45.2"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "102.7"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "86.9"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "50"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "56.8"
+          },
+          {
+            "key": "No Working Person",
+            "value": "6"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "23.3"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "24.5"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "2"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "0.9"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.3",
+        "rowText": "Lone Parent",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "51.8"
+          },
+          {
+            "key": "No Working Person",
+            "value": "3.1"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "19.9"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "19"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "8"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "1.8"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.4",
+        "rowText": "One-Person",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "56"
+          },
+          {
+            "key": "No Working Person",
+            "value": "15.3"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "40.7"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "-"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "-"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.5",
+        "rowText": "Others",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "27.7"
+          },
+          {
+            "key": "No Working Person",
+            "value": "2.9"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "10.8"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "10.8"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "2.4"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "0.7"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Head of Household Aged 65 Years & Over",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "221.2"
+          },
+          {
+            "key": "No Working Person",
+            "value": "77.3"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "73"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "43.8"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "19"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "8.2"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "74"
+          },
+          {
+            "key": "No Working Person",
+            "value": "2.4"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "22.7"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "25.1"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "16.7"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "7.1"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "61"
+          },
+          {
+            "key": "No Working Person",
+            "value": "32.1"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "19.2"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "9"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "0.5"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "0.2"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.3",
+        "rowText": "Lone Parent",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "24.8"
+          },
+          {
+            "key": "No Working Person",
+            "value": "3.6"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "12.3"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "6.9"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "1.4"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "0.6"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.4",
+        "rowText": "One-Person",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "41.2"
+          },
+          {
+            "key": "No Working Person",
+            "value": "30.4"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "10.7"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "-"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "-"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.5",
+        "rowText": "Others",
+        "uoM": "Thousands",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "20.2"
+          },
+          {
+            "key": "No Working Person",
+            "value": "8.8"
+          },
+          {
+            "key": "1 Working Person",
+            "value": "8"
+          },
+          {
+            "key": "2 Working Persons",
+            "value": "2.7"
+          },
+          {
+            "key": "3 Working Persons",
+            "value": "0.4"
+          },
+          {
+            "key": "4 or More Working Persons",
+            "value": "0.3"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

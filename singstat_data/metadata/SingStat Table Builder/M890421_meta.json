@@ -1,0 +1,57 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Industry",
+      "subject": "Energy and Utilities",
+      "topic": "Water Sales and Prices",
+      "id": "M890421",
+      "groupTitle": "Water Sales",
+      "title": "Water Sales, Annual",
+      "frequency": "Annual",
+      "adjustmentType": "",
+      "dataSource": "MINISTRY OF SUSTAINABILITY AND THE ENVIRONMENT, PUB, SINGAPORE S NATIONAL WATER AGENCY",
+      "footnote": "",
+      "dataLastUpdated": "18/05/2026",
+      "startPeriod": "2015",
+      "endPeriod": "2025",
+      "total": 53,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Sales Of Potable Water",
+          "uoM": "Million Cubic Metres Per Year",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "Domestic Use",
+          "uoM": "Million Cubic Metres Per Year",
+          "footnote": "Potable water for domestic use are supplied to premises used exclusively for residential purposes.  This includes residential premises approved for use as home offices under the Home Office Scheme.  Properties where any part of the premises is used for or in connection with any trade, business, or profession, or as a hotel, serviced apartment, boarding house, hostel, school, place of worship, or mess do not qualify as domestic use."
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "Non-Domestic Use",
+          "uoM": "Million Cubic Metres Per Year",
+          "footnote": "Potable water for non-domestic use are supplied to premises other than those used exclusively for residential purposes, including those used for commercial, institutional, industrial, or mixed purposes.  Non-domestic tariffs apply to hotels, restaurants, construction sites, and any premises not eligible for domestic tariffs or shipping tariffs."
+        },
+        {
+          "seriesNo": "2",
+          "rowText": "Sales Of Newater",
+          "uoM": "Million Cubic Metres Per Year",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "3",
+          "rowText": "Sales Of Industrial Water",
+          "uoM": "Million Cubic Metres Per Year",
+          "footnote": "PUB has stopped tracking the sale of Industrial Water with effect from 2024, due to the impending phase out of Industrial Water."
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

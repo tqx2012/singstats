@@ -1,0 +1,1084 @@
+{
+  "Data": {
+    "theme": "Industry",
+    "subject": "Energy and Utilities",
+    "topic": "Energy Products and Consumption",
+    "id": "M891301",
+    "groupTitle": null,
+    "title": "Exports Of Energy Products, Annual",
+    "frequency": "Annual",
+    "adjustmentType": null,
+    "datasource": "ENTERPRISE SINGAPORE AND ENERGY MARKET AUTHORITY",
+    "footnote": "All data are compiled from Enterprise Singapore's trade statistics.  Enterprise Singapore releases trade data in mass units.  Energy Market Authority releases similar data in energy units (ktoe).  The product classification of energy products differs from that used by Enterprise Singapore for trade statistics.  Biomass trade recorded is for energy use only.  More recent statistics might be available for this data-set at https://www.ema.gov.sg/resources/singapore-energy-statistics/chapter1.  The data compiled in this table were based on AHTN 2022.  Numbers may not add up to the totals due to rounding.  ",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "23/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "sortBy": null,
+    "timeFilter": null,
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "seriesNo": "1",
+        "rowText": "Total Exports Of Energy Products",
+        "uoM": "Ktoe",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "64503.1"
+          },
+          {
+            "key": "2006",
+            "value": "67392.9"
+          },
+          {
+            "key": "2007",
+            "value": "72314.8"
+          },
+          {
+            "key": "2008",
+            "value": "79663.7"
+          },
+          {
+            "key": "2009",
+            "value": "84122.7"
+          },
+          {
+            "key": "2010",
+            "value": "88987.8"
+          },
+          {
+            "key": "2011",
+            "value": "94387.8"
+          },
+          {
+            "key": "2012",
+            "value": "84760.5"
+          },
+          {
+            "key": "2013",
+            "value": "85342"
+          },
+          {
+            "key": "2014",
+            "value": "88239.3"
+          },
+          {
+            "key": "2015",
+            "value": "92063.9"
+          },
+          {
+            "key": "2016",
+            "value": "99335.8"
+          },
+          {
+            "key": "2017",
+            "value": "102620.7"
+          },
+          {
+            "key": "2018",
+            "value": "91686.2"
+          },
+          {
+            "key": "2019",
+            "value": "87656.4"
+          },
+          {
+            "key": "2020",
+            "value": "76476.9"
+          },
+          {
+            "key": "2021",
+            "value": "75775.3"
+          },
+          {
+            "key": "2022",
+            "value": "72663.5"
+          },
+          {
+            "key": "2023",
+            "value": "76154"
+          },
+          {
+            "key": "2024",
+            "value": "78031.5"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.1",
+        "rowText": "Coal And Peat",
+        "uoM": "Ktoe",
+        "footnote": "Coal and Peat products include all coals, both primary (including Hard Coal and Lignite/Brown Coal) and derived fuels (including Patent Fuel, Coke over Coke, Gas Coke, BKB, Coke Oven Gas, Blast Furnace Gas and Oxygen Steel Furnace Gas).  Peat is also included in this category.  The corresponding HS 2022 codes for the energy products mentioned are available in https://www.ema.gov.sg/resources/singapore-energy-statistics/technical-notes-glossary",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "0.3"
+          },
+          {
+            "key": "2006",
+            "value": "0.6"
+          },
+          {
+            "key": "2007",
+            "value": "0.7"
+          },
+          {
+            "key": "2008",
+            "value": "0.3"
+          },
+          {
+            "key": "2009",
+            "value": "0.3"
+          },
+          {
+            "key": "2010",
+            "value": "0.1"
+          },
+          {
+            "key": "2011",
+            "value": "0.4"
+          },
+          {
+            "key": "2012",
+            "value": "0.1"
+          },
+          {
+            "key": "2013",
+            "value": "2.9"
+          },
+          {
+            "key": "2014",
+            "value": "7.7"
+          },
+          {
+            "key": "2015",
+            "value": "0.1"
+          },
+          {
+            "key": "2016",
+            "value": "0.6"
+          },
+          {
+            "key": "2017",
+            "value": "0.4"
+          },
+          {
+            "key": "2018",
+            "value": "0.5"
+          },
+          {
+            "key": "2019",
+            "value": "0.1"
+          },
+          {
+            "key": "2020",
+            "value": "0.1"
+          },
+          {
+            "key": "2021",
+            "value": "0.2"
+          },
+          {
+            "key": "2022",
+            "value": "1"
+          },
+          {
+            "key": "2023",
+            "value": "0.1"
+          },
+          {
+            "key": "2024",
+            "value": "0.3"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.2",
+        "rowText": "Crude Oil",
+        "uoM": "Ktoe",
+        "footnote": "Crude Oil products include Crude Oil, Natural Gas Liquids, Refinery Feedstocks and Additives as well as other Hydrocarbons.  The corresponding HS 2022 codes for the energy products mentioned are available in https://www.ema.gov.sg/resources/singapore-energy-statistics/technical-notes-glossary",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "890.1"
+          },
+          {
+            "key": "2006",
+            "value": "884.9"
+          },
+          {
+            "key": "2007",
+            "value": "830.9"
+          },
+          {
+            "key": "2008",
+            "value": "866.8"
+          },
+          {
+            "key": "2009",
+            "value": "938.1"
+          },
+          {
+            "key": "2010",
+            "value": "856.9"
+          },
+          {
+            "key": "2011",
+            "value": "894.1"
+          },
+          {
+            "key": "2012",
+            "value": "955.7"
+          },
+          {
+            "key": "2013",
+            "value": "1172.4"
+          },
+          {
+            "key": "2014",
+            "value": "2727.2"
+          },
+          {
+            "key": "2015",
+            "value": "1138.3"
+          },
+          {
+            "key": "2016",
+            "value": "1051.1"
+          },
+          {
+            "key": "2017",
+            "value": "1271.1"
+          },
+          {
+            "key": "2018",
+            "value": "1053.1"
+          },
+          {
+            "key": "2019",
+            "value": "965.9"
+          },
+          {
+            "key": "2020",
+            "value": "963.9"
+          },
+          {
+            "key": "2021",
+            "value": "1250.7"
+          },
+          {
+            "key": "2022",
+            "value": "984.7"
+          },
+          {
+            "key": "2023",
+            "value": "822.7"
+          },
+          {
+            "key": "2024",
+            "value": "976.8"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.2.1",
+        "rowText": "Crude Oil",
+        "uoM": "Ktoe",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "177.3"
+          },
+          {
+            "key": "2006",
+            "value": "204.5"
+          },
+          {
+            "key": "2007",
+            "value": "95.6"
+          },
+          {
+            "key": "2008",
+            "value": "69.3"
+          },
+          {
+            "key": "2009",
+            "value": "46"
+          },
+          {
+            "key": "2010",
+            "value": "40.3"
+          },
+          {
+            "key": "2011",
+            "value": "0.2"
+          },
+          {
+            "key": "2012",
+            "value": "0"
+          },
+          {
+            "key": "2013",
+            "value": "0.1"
+          },
+          {
+            "key": "2014",
+            "value": "0.1"
+          },
+          {
+            "key": "2015",
+            "value": "62.1"
+          },
+          {
+            "key": "2016",
+            "value": "0"
+          },
+          {
+            "key": "2017",
+            "value": "156.4"
+          },
+          {
+            "key": "2018",
+            "value": "110.5"
+          },
+          {
+            "key": "2019",
+            "value": "0"
+          },
+          {
+            "key": "2020",
+            "value": "0"
+          },
+          {
+            "key": "2021",
+            "value": "327.2"
+          },
+          {
+            "key": "2022",
+            "value": "0.1"
+          },
+          {
+            "key": "2023",
+            "value": "6.8"
+          },
+          {
+            "key": "2024",
+            "value": "4.1"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.2.2",
+        "rowText": "Other Crude Oil",
+        "uoM": "Ktoe",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "712.8"
+          },
+          {
+            "key": "2006",
+            "value": "680.4"
+          },
+          {
+            "key": "2007",
+            "value": "735.3"
+          },
+          {
+            "key": "2008",
+            "value": "797.5"
+          },
+          {
+            "key": "2009",
+            "value": "892.1"
+          },
+          {
+            "key": "2010",
+            "value": "816.6"
+          },
+          {
+            "key": "2011",
+            "value": "893.9"
+          },
+          {
+            "key": "2012",
+            "value": "955.7"
+          },
+          {
+            "key": "2013",
+            "value": "1172.3"
+          },
+          {
+            "key": "2014",
+            "value": "2727.1"
+          },
+          {
+            "key": "2015",
+            "value": "1076.2"
+          },
+          {
+            "key": "2016",
+            "value": "1051.1"
+          },
+          {
+            "key": "2017",
+            "value": "1114.7"
+          },
+          {
+            "key": "2018",
+            "value": "942.6"
+          },
+          {
+            "key": "2019",
+            "value": "965.9"
+          },
+          {
+            "key": "2020",
+            "value": "963.9"
+          },
+          {
+            "key": "2021",
+            "value": "923.4"
+          },
+          {
+            "key": "2022",
+            "value": "984.5"
+          },
+          {
+            "key": "2023",
+            "value": "816"
+          },
+          {
+            "key": "2024",
+            "value": "972.7"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.3",
+        "rowText": "Petroleum Products",
+        "uoM": "Ktoe",
+        "footnote": "Petroleum Products include Ethane, LPG, Aviation Gasoline, Motor Gasoline, Jet Fuel, Kerosene, Gas/Diesel Oil, Fuel Oil, Naphtha, White Spirit, Lubricants, Bitumen, Paraffin Waxes, Petroleum Coke and other Petroleum Products.  The corresponding HS 2022 codes for the energy products mentioned are available in https://www.ema.gov.sg/resources/singapore-energy-statistics/technical-notes-glossary",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "63612.7"
+          },
+          {
+            "key": "2006",
+            "value": "66507.4"
+          },
+          {
+            "key": "2007",
+            "value": "71483.2"
+          },
+          {
+            "key": "2008",
+            "value": "78796.6"
+          },
+          {
+            "key": "2009",
+            "value": "83184.3"
+          },
+          {
+            "key": "2010",
+            "value": "88130.8"
+          },
+          {
+            "key": "2011",
+            "value": "93493.3"
+          },
+          {
+            "key": "2012",
+            "value": "83804.7"
+          },
+          {
+            "key": "2013",
+            "value": "84166.7"
+          },
+          {
+            "key": "2014",
+            "value": "85504.4"
+          },
+          {
+            "key": "2015",
+            "value": "90925.5"
+          },
+          {
+            "key": "2016",
+            "value": "98284.1"
+          },
+          {
+            "key": "2017",
+            "value": "101349.2"
+          },
+          {
+            "key": "2018",
+            "value": "90632.6"
+          },
+          {
+            "key": "2019",
+            "value": "86690.4"
+          },
+          {
+            "key": "2020",
+            "value": "75513"
+          },
+          {
+            "key": "2021",
+            "value": "74524.4"
+          },
+          {
+            "key": "2022",
+            "value": "71677.8"
+          },
+          {
+            "key": "2023",
+            "value": "75331.2"
+          },
+          {
+            "key": "2024",
+            "value": "77054.4"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.3.1",
+        "rowText": "Fuel Oil",
+        "uoM": "Ktoe",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "16066.7"
+          },
+          {
+            "key": "2006",
+            "value": "17714.4"
+          },
+          {
+            "key": "2007",
+            "value": "19471.9"
+          },
+          {
+            "key": "2008",
+            "value": "20893.6"
+          },
+          {
+            "key": "2009",
+            "value": "22289.3"
+          },
+          {
+            "key": "2010",
+            "value": "21802.3"
+          },
+          {
+            "key": "2011",
+            "value": "26577.9"
+          },
+          {
+            "key": "2012",
+            "value": "22490.1"
+          },
+          {
+            "key": "2013",
+            "value": "26314"
+          },
+          {
+            "key": "2014",
+            "value": "24688.2"
+          },
+          {
+            "key": "2015",
+            "value": "28927.6"
+          },
+          {
+            "key": "2016",
+            "value": "30696.2"
+          },
+          {
+            "key": "2017",
+            "value": "32529.1"
+          },
+          {
+            "key": "2018",
+            "value": "25560.4"
+          },
+          {
+            "key": "2019",
+            "value": "22513.3"
+          },
+          {
+            "key": "2020",
+            "value": "14965.2"
+          },
+          {
+            "key": "2021",
+            "value": "16401.8"
+          },
+          {
+            "key": "2022",
+            "value": "13782.7"
+          },
+          {
+            "key": "2023",
+            "value": "12845.1"
+          },
+          {
+            "key": "2024",
+            "value": "15301.8"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.3.2",
+        "rowText": "Gas/ Diesel Oil",
+        "uoM": "Ktoe",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "15208.8"
+          },
+          {
+            "key": "2006",
+            "value": "17300.8"
+          },
+          {
+            "key": "2007",
+            "value": "18217.4"
+          },
+          {
+            "key": "2008",
+            "value": "20625.3"
+          },
+          {
+            "key": "2009",
+            "value": "24827.9"
+          },
+          {
+            "key": "2010",
+            "value": "27376.4"
+          },
+          {
+            "key": "2011",
+            "value": "28070.4"
+          },
+          {
+            "key": "2012",
+            "value": "23815.5"
+          },
+          {
+            "key": "2013",
+            "value": "21966.2"
+          },
+          {
+            "key": "2014",
+            "value": "22679.9"
+          },
+          {
+            "key": "2015",
+            "value": "23428.3"
+          },
+          {
+            "key": "2016",
+            "value": "25527"
+          },
+          {
+            "key": "2017",
+            "value": "25422.4"
+          },
+          {
+            "key": "2018",
+            "value": "23971.5"
+          },
+          {
+            "key": "2019",
+            "value": "21763.4"
+          },
+          {
+            "key": "2020",
+            "value": "20453.3"
+          },
+          {
+            "key": "2021",
+            "value": "18961.4"
+          },
+          {
+            "key": "2022",
+            "value": "16872"
+          },
+          {
+            "key": "2023",
+            "value": "18144.5"
+          },
+          {
+            "key": "2024",
+            "value": "18230.2"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.3.3",
+        "rowText": "Gasoline",
+        "uoM": "Ktoe",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "15183"
+          },
+          {
+            "key": "2006",
+            "value": "15101.7"
+          },
+          {
+            "key": "2007",
+            "value": "17221"
+          },
+          {
+            "key": "2008",
+            "value": "19617.1"
+          },
+          {
+            "key": "2009",
+            "value": "20790.7"
+          },
+          {
+            "key": "2010",
+            "value": "24037.6"
+          },
+          {
+            "key": "2011",
+            "value": "24506.9"
+          },
+          {
+            "key": "2012",
+            "value": "24283.1"
+          },
+          {
+            "key": "2013",
+            "value": "23499.6"
+          },
+          {
+            "key": "2014",
+            "value": "25234"
+          },
+          {
+            "key": "2015",
+            "value": "25330.1"
+          },
+          {
+            "key": "2016",
+            "value": "26082.2"
+          },
+          {
+            "key": "2017",
+            "value": "25566.9"
+          },
+          {
+            "key": "2018",
+            "value": "27197.9"
+          },
+          {
+            "key": "2019",
+            "value": "28096.4"
+          },
+          {
+            "key": "2020",
+            "value": "24788.8"
+          },
+          {
+            "key": "2021",
+            "value": "24019.3"
+          },
+          {
+            "key": "2022",
+            "value": "28397.8"
+          },
+          {
+            "key": "2023",
+            "value": "30669.1"
+          },
+          {
+            "key": "2024",
+            "value": "30965.2"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.3.4",
+        "rowText": "Jet Fuel Kerosene",
+        "uoM": "Ktoe",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "6955.3"
+          },
+          {
+            "key": "2006",
+            "value": "6877.4"
+          },
+          {
+            "key": "2007",
+            "value": "7900.7"
+          },
+          {
+            "key": "2008",
+            "value": "8280.5"
+          },
+          {
+            "key": "2009",
+            "value": "7192.9"
+          },
+          {
+            "key": "2010",
+            "value": "7208.9"
+          },
+          {
+            "key": "2011",
+            "value": "6147.9"
+          },
+          {
+            "key": "2012",
+            "value": "5117.7"
+          },
+          {
+            "key": "2013",
+            "value": "5015.8"
+          },
+          {
+            "key": "2014",
+            "value": "5050.3"
+          },
+          {
+            "key": "2015",
+            "value": "4953.5"
+          },
+          {
+            "key": "2016",
+            "value": "6155"
+          },
+          {
+            "key": "2017",
+            "value": "7413.3"
+          },
+          {
+            "key": "2018",
+            "value": "5285.9"
+          },
+          {
+            "key": "2019",
+            "value": "4983.7"
+          },
+          {
+            "key": "2020",
+            "value": "3322.6"
+          },
+          {
+            "key": "2021",
+            "value": "2938"
+          },
+          {
+            "key": "2022",
+            "value": "3450.1"
+          },
+          {
+            "key": "2023",
+            "value": "2863.8"
+          },
+          {
+            "key": "2024",
+            "value": "3205.1"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.3.5",
+        "rowText": "Naphtha",
+        "uoM": "Ktoe",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "2470.2"
+          },
+          {
+            "key": "2006",
+            "value": "1865.7"
+          },
+          {
+            "key": "2007",
+            "value": "1741.2"
+          },
+          {
+            "key": "2008",
+            "value": "2067.5"
+          },
+          {
+            "key": "2009",
+            "value": "1584.3"
+          },
+          {
+            "key": "2010",
+            "value": "990.4"
+          },
+          {
+            "key": "2011",
+            "value": "1063.2"
+          },
+          {
+            "key": "2012",
+            "value": "465.9"
+          },
+          {
+            "key": "2013",
+            "value": "463.6"
+          },
+          {
+            "key": "2014",
+            "value": "453.4"
+          },
+          {
+            "key": "2015",
+            "value": "788.3"
+          },
+          {
+            "key": "2016",
+            "value": "1106.2"
+          },
+          {
+            "key": "2017",
+            "value": "1024.4"
+          },
+          {
+            "key": "2018",
+            "value": "623.1"
+          },
+          {
+            "key": "2019",
+            "value": "897.2"
+          },
+          {
+            "key": "2020",
+            "value": "1349.4"
+          },
+          {
+            "key": "2021",
+            "value": "1175.4"
+          },
+          {
+            "key": "2022",
+            "value": "2089.2"
+          },
+          {
+            "key": "2023",
+            "value": "3797.1"
+          },
+          {
+            "key": "2024",
+            "value": "2354.2"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.3.6",
+        "rowText": "Other Petroleum Products",
+        "uoM": "Ktoe",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2005",
+            "value": "7728.7"
+          },
+          {
+            "key": "2006",
+            "value": "7647.4"
+          },
+          {
+            "key": "2007",
+            "value": "6931"
+          },
+          {
+            "key": "2008",
+            "value": "7312.6"
+          },
+          {
+            "key": "2009",
+            "value": "6499.2"
+          },
+          {
+            "key": "2010",
+            "value": "6715.2"
+          },
+          {
+            "key": "2011",
+            "value": "7127"
+          },
+          {
+            "key": "2012",
+            "value": "7632.4"
+          },
+          {
+            "key": "2013",
+            "value": "6907.5"
+          },
+          {
+            "key": "2014",
+            "value": "7398.6"
+          },
+          {
+            "key": "2015",
+            "value": "7497.7"
+          },
+          {
+            "key": "2016",
+            "value": "8717.5"
+          },
+          {
+            "key": "2017",
+            "value": "9393.1"
+          },
+          {
+            "key": "2018",
+            "value": "7993.8"
+          },
+          {
+            "key": "2019",
+            "value": "8436.5"
+          },
+          {
+            "key": "2020",
+            "value": "10633.7"
+          },
+          {
+            "key": "2021",
+            "value": "11028.6"
+          },
+          {
+            "key": "2022",
+            "value": "7086"
+          },
+          {
+            "key": "2023",
+            "value": "7011.7"
+          },
+          {
+            "key": "2024",
+            "value": "6997.8"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

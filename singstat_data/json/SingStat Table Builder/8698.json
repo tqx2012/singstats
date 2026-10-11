@@ -1,0 +1,2119 @@
+{
+  "Data": {
+    "id": "8698",
+    "tableType": "General Household Survey 2005",
+    "groupTitle": null,
+    "title": "Resident University Graduates Aged 15 Years and Over by Field of Study, Country Where Highest Qualification was Attained and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "For more information, please refer to the publication on 'General Household Survey 2005, Statistical Release 1: Socio-Demographic and Economic Characteristics' (https://www.singstat.gov.sg/find-data/explore-data-themes/population/education-language-spoken-and-literacy/related-information).",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "28/03/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Education, Language Spoken and Literacy",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "424191"
+              },
+              {
+                "key": "Males",
+                "value": "228017"
+              },
+              {
+                "key": "Females",
+                "value": "196174"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "219396"
+              },
+              {
+                "key": "Males",
+                "value": "112883"
+              },
+              {
+                "key": "Females",
+                "value": "106513"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "204795"
+              },
+              {
+                "key": "Males",
+                "value": "115134"
+              },
+              {
+                "key": "Females",
+                "value": "89661"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- United Kingdom",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41225"
+              },
+              {
+                "key": "Males",
+                "value": "27260"
+              },
+              {
+                "key": "Females",
+                "value": "13965"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- USA",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24603"
+              },
+              {
+                "key": "Males",
+                "value": "15647"
+              },
+              {
+                "key": "Females",
+                "value": "8956"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Australia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "52769"
+              },
+              {
+                "key": "Males",
+                "value": "27797"
+              },
+              {
+                "key": "Females",
+                "value": "24971"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- China, Hong Kong & Taiwan",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18948"
+              },
+              {
+                "key": "Males",
+                "value": "9911"
+              },
+              {
+                "key": "Females",
+                "value": "9037"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30286"
+              },
+              {
+                "key": "Males",
+                "value": "15317"
+              },
+              {
+                "key": "Females",
+                "value": "14968"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36965"
+              },
+              {
+                "key": "Males",
+                "value": "19202"
+              },
+              {
+                "key": "Females",
+                "value": "17763"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Education",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9055"
+              },
+              {
+                "key": "Males",
+                "value": "2542"
+              },
+              {
+                "key": "Females",
+                "value": "6513"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4987"
+              },
+              {
+                "key": "Males",
+                "value": "1452"
+              },
+              {
+                "key": "Females",
+                "value": "3535"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4068"
+              },
+              {
+                "key": "Males",
+                "value": "1090"
+              },
+              {
+                "key": "Females",
+                "value": "2978"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- United Kingdom",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "677"
+              },
+              {
+                "key": "Males",
+                "value": "262"
+              },
+              {
+                "key": "Females",
+                "value": "415"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- USA",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "460"
+              },
+              {
+                "key": "Males",
+                "value": "238"
+              },
+              {
+                "key": "Females",
+                "value": "223"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Australia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "954"
+              },
+              {
+                "key": "Males",
+                "value": "193"
+              },
+              {
+                "key": "Females",
+                "value": "760"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- China, Hong Kong & Taiwan",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "914"
+              },
+              {
+                "key": "Males",
+                "value": "140"
+              },
+              {
+                "key": "Females",
+                "value": "774"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "415"
+              },
+              {
+                "key": "Males",
+                "value": "87"
+              },
+              {
+                "key": "Females",
+                "value": "328"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "649"
+              },
+              {
+                "key": "Males",
+                "value": "170"
+              },
+              {
+                "key": "Females",
+                "value": "479"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Fine & Applied Arts",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5084"
+              },
+              {
+                "key": "Males",
+                "value": "2142"
+              },
+              {
+                "key": "Females",
+                "value": "2942"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1151"
+              },
+              {
+                "key": "Males",
+                "value": "488"
+              },
+              {
+                "key": "Females",
+                "value": "662"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3933"
+              },
+              {
+                "key": "Males",
+                "value": "1654"
+              },
+              {
+                "key": "Females",
+                "value": "2280"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- United Kingdom",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "827"
+              },
+              {
+                "key": "Males",
+                "value": "369"
+              },
+              {
+                "key": "Females",
+                "value": "458"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- USA",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "808"
+              },
+              {
+                "key": "Males",
+                "value": "368"
+              },
+              {
+                "key": "Females",
+                "value": "441"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Australia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1241"
+              },
+              {
+                "key": "Males",
+                "value": "660"
+              },
+              {
+                "key": "Females",
+                "value": "581"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- China, Hong Kong & Taiwan",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "321"
+              },
+              {
+                "key": "Males",
+                "value": "89"
+              },
+              {
+                "key": "Females",
+                "value": "232"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "238"
+              },
+              {
+                "key": "Males",
+                "value": "19"
+              },
+              {
+                "key": "Females",
+                "value": "220"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "498"
+              },
+              {
+                "key": "Males",
+                "value": "150"
+              },
+              {
+                "key": "Females",
+                "value": "348"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Humanities & Social Sciences",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "52702"
+              },
+              {
+                "key": "Males",
+                "value": "19144"
+              },
+              {
+                "key": "Females",
+                "value": "33558"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30508"
+              },
+              {
+                "key": "Males",
+                "value": "10554"
+              },
+              {
+                "key": "Females",
+                "value": "19955"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22194"
+              },
+              {
+                "key": "Males",
+                "value": "8591"
+              },
+              {
+                "key": "Females",
+                "value": "13603"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- United Kingdom",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3155"
+              },
+              {
+                "key": "Males",
+                "value": "1751"
+              },
+              {
+                "key": "Females",
+                "value": "1404"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- USA",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2793"
+              },
+              {
+                "key": "Males",
+                "value": "1567"
+              },
+              {
+                "key": "Females",
+                "value": "1226"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Australia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3250"
+              },
+              {
+                "key": "Males",
+                "value": "1338"
+              },
+              {
+                "key": "Females",
+                "value": "1912"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- China, Hong Kong & Taiwan",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2979"
+              },
+              {
+                "key": "Males",
+                "value": "865"
+              },
+              {
+                "key": "Females",
+                "value": "2114"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3646"
+              },
+              {
+                "key": "Males",
+                "value": "899"
+              },
+              {
+                "key": "Females",
+                "value": "2747"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6370"
+              },
+              {
+                "key": "Males",
+                "value": "2171"
+              },
+              {
+                "key": "Females",
+                "value": "4200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Mass Communication & Information Science",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12030"
+              },
+              {
+                "key": "Males",
+                "value": "5005"
+              },
+              {
+                "key": "Females",
+                "value": "7025"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4461"
+              },
+              {
+                "key": "Males",
+                "value": "1832"
+              },
+              {
+                "key": "Females",
+                "value": "2629"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7569"
+              },
+              {
+                "key": "Males",
+                "value": "3173"
+              },
+              {
+                "key": "Females",
+                "value": "4396"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- United Kingdom",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "907"
+              },
+              {
+                "key": "Males",
+                "value": "513"
+              },
+              {
+                "key": "Females",
+                "value": "393"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- USA",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1163"
+              },
+              {
+                "key": "Males",
+                "value": "389"
+              },
+              {
+                "key": "Females",
+                "value": "774"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Australia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3943"
+              },
+              {
+                "key": "Males",
+                "value": "1580"
+              },
+              {
+                "key": "Females",
+                "value": "2363"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- China, Hong Kong & Taiwan",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "382"
+              },
+              {
+                "key": "Males",
+                "value": "120"
+              },
+              {
+                "key": "Females",
+                "value": "262"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "334"
+              },
+              {
+                "key": "Males",
+                "value": "149"
+              },
+              {
+                "key": "Females",
+                "value": "186"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "839"
+              },
+              {
+                "key": "Males",
+                "value": "422"
+              },
+              {
+                "key": "Females",
+                "value": "417"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "Business & Administration",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "136200"
+              },
+              {
+                "key": "Males",
+                "value": "60289"
+              },
+              {
+                "key": "Females",
+                "value": "75911"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "74600"
+              },
+              {
+                "key": "Males",
+                "value": "30627"
+              },
+              {
+                "key": "Females",
+                "value": "43973"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "61600"
+              },
+              {
+                "key": "Males",
+                "value": "29662"
+              },
+              {
+                "key": "Females",
+                "value": "31938"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- United Kingdom",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10341"
+              },
+              {
+                "key": "Males",
+                "value": "5481"
+              },
+              {
+                "key": "Females",
+                "value": "4859"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- USA",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10075"
+              },
+              {
+                "key": "Males",
+                "value": "5934"
+              },
+              {
+                "key": "Females",
+                "value": "4140"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Australia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23009"
+              },
+              {
+                "key": "Males",
+                "value": "10757"
+              },
+              {
+                "key": "Females",
+                "value": "12252"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- China, Hong Kong & Taiwan",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2151"
+              },
+              {
+                "key": "Males",
+                "value": "666"
+              },
+              {
+                "key": "Females",
+                "value": "1485"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6629"
+              },
+              {
+                "key": "Males",
+                "value": "2992"
+              },
+              {
+                "key": "Females",
+                "value": "3638"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9396"
+              },
+              {
+                "key": "Males",
+                "value": "3832"
+              },
+              {
+                "key": "Females",
+                "value": "5564"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "Law",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8413"
+              },
+              {
+                "key": "Males",
+                "value": "4319"
+              },
+              {
+                "key": "Females",
+                "value": "4095"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4050"
+              },
+              {
+                "key": "Males",
+                "value": "1964"
+              },
+              {
+                "key": "Females",
+                "value": "2087"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4363"
+              },
+              {
+                "key": "Males",
+                "value": "2355"
+              },
+              {
+                "key": "Females",
+                "value": "2008"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- United Kingdom",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3062"
+              },
+              {
+                "key": "Males",
+                "value": "1755"
+              },
+              {
+                "key": "Females",
+                "value": "1308"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- USA",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "337"
+              },
+              {
+                "key": "Males",
+                "value": "226"
+              },
+              {
+                "key": "Females",
+                "value": "111"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Australia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "202"
+              },
+              {
+                "key": "Males",
+                "value": "124"
+              },
+              {
+                "key": "Females",
+                "value": "77"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- China, Hong Kong & Taiwan",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "198"
+              },
+              {
+                "key": "Males",
+                "value": "26"
+              },
+              {
+                "key": "Females",
+                "value": "172"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "176"
+              },
+              {
+                "key": "Males",
+                "value": "56"
+              },
+              {
+                "key": "Females",
+                "value": "120"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "388"
+              },
+              {
+                "key": "Males",
+                "value": "169"
+              },
+              {
+                "key": "Females",
+                "value": "220"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "Natural, Physical, Chemical & Mathematical Sciences",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38796"
+              },
+              {
+                "key": "Males",
+                "value": "17587"
+              },
+              {
+                "key": "Females",
+                "value": "21209"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20792"
+              },
+              {
+                "key": "Males",
+                "value": "8987"
+              },
+              {
+                "key": "Females",
+                "value": "11805"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18004"
+              },
+              {
+                "key": "Males",
+                "value": "8600"
+              },
+              {
+                "key": "Females",
+                "value": "9404"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- United Kingdom",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2819"
+              },
+              {
+                "key": "Males",
+                "value": "1621"
+              },
+              {
+                "key": "Females",
+                "value": "1198"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- USA",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1814"
+              },
+              {
+                "key": "Males",
+                "value": "1230"
+              },
+              {
+                "key": "Females",
+                "value": "584"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Australia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2097"
+              },
+              {
+                "key": "Males",
+                "value": "860"
+              },
+              {
+                "key": "Females",
+                "value": "1237"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- China, Hong Kong & Taiwan",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1638"
+              },
+              {
+                "key": "Males",
+                "value": "923"
+              },
+              {
+                "key": "Females",
+                "value": "715"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5149"
+              },
+              {
+                "key": "Males",
+                "value": "1853"
+              },
+              {
+                "key": "Females",
+                "value": "3296"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4487"
+              },
+              {
+                "key": "Males",
+                "value": "2113"
+              },
+              {
+                "key": "Females",
+                "value": "2374"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "Health Sciences",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16733"
+              },
+              {
+                "key": "Males",
+                "value": "6937"
+              },
+              {
+                "key": "Females",
+                "value": "9795"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8322"
+              },
+              {
+                "key": "Males",
+                "value": "3900"
+              },
+              {
+                "key": "Females",
+                "value": "4422"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8411"
+              },
+              {
+                "key": "Males",
+                "value": "3038"
+              },
+              {
+                "key": "Females",
+                "value": "5373"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- United Kingdom",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2131"
+              },
+              {
+                "key": "Males",
+                "value": "1177"
+              },
+              {
+                "key": "Females",
+                "value": "953"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- USA",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "549"
+              },
+              {
+                "key": "Males",
+                "value": "240"
+              },
+              {
+                "key": "Females",
+                "value": "309"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Australia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2136"
+              },
+              {
+                "key": "Males",
+                "value": "604"
+              },
+              {
+                "key": "Females",
+                "value": "1532"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- China, Hong Kong & Taiwan",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1019"
+              },
+              {
+                "key": "Males",
+                "value": "260"
+              },
+              {
+                "key": "Females",
+                "value": "758"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "939"
+              },
+              {
+                "key": "Males",
+                "value": "206"
+              },
+              {
+                "key": "Females",
+                "value": "734"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1636"
+              },
+              {
+                "key": "Males",
+                "value": "550"
+              },
+              {
+                "key": "Females",
+                "value": "1086"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.9",
+        "rowText": "Information Technology",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36516"
+              },
+              {
+                "key": "Males",
+                "value": "23762"
+              },
+              {
+                "key": "Females",
+                "value": "12754"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15992"
+              },
+              {
+                "key": "Males",
+                "value": "10694"
+              },
+              {
+                "key": "Females",
+                "value": "5298"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20523"
+              },
+              {
+                "key": "Males",
+                "value": "13068"
+              },
+              {
+                "key": "Females",
+                "value": "7456"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- United Kingdom",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3858"
+              },
+              {
+                "key": "Males",
+                "value": "2578"
+              },
+              {
+                "key": "Females",
+                "value": "1280"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- USA",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1818"
+              },
+              {
+                "key": "Males",
+                "value": "1326"
+              },
+              {
+                "key": "Females",
+                "value": "492"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Australia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6484"
+              },
+              {
+                "key": "Males",
+                "value": "4061"
+              },
+              {
+                "key": "Females",
+                "value": "2423"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- China, Hong Kong & Taiwan",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "941"
+              },
+              {
+                "key": "Males",
+                "value": "546"
+              },
+              {
+                "key": "Females",
+                "value": "395"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4198"
+              },
+              {
+                "key": "Males",
+                "value": "2515"
+              },
+              {
+                "key": "Females",
+                "value": "1684"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3223"
+              },
+              {
+                "key": "Males",
+                "value": "2042"
+              },
+              {
+                "key": "Females",
+                "value": "1182"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.10",
+        "rowText": "Architecture & Building",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11916"
+              },
+              {
+                "key": "Males",
+                "value": "6548"
+              },
+              {
+                "key": "Females",
+                "value": "5368"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6545"
+              },
+              {
+                "key": "Males",
+                "value": "3217"
+              },
+              {
+                "key": "Females",
+                "value": "3327"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5371"
+              },
+              {
+                "key": "Males",
+                "value": "3330"
+              },
+              {
+                "key": "Females",
+                "value": "2040"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- United Kingdom",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1090"
+              },
+              {
+                "key": "Males",
+                "value": "714"
+              },
+              {
+                "key": "Females",
+                "value": "376"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- USA",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "308"
+              },
+              {
+                "key": "Males",
+                "value": "247"
+              },
+              {
+                "key": "Females",
+                "value": "60"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Australia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2126"
+              },
+              {
+                "key": "Males",
+                "value": "1323"
+              },
+              {
+                "key": "Females",
+                "value": "802"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- China, Hong Kong & Taiwan",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "636"
+              },
+              {
+                "key": "Males",
+                "value": "369"
+              },
+              {
+                "key": "Females",
+                "value": "267"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "280"
+              },
+              {
+                "key": "Males",
+                "value": "124"
+              },
+              {
+                "key": "Females",
+                "value": "156"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "932"
+              },
+              {
+                "key": "Males",
+                "value": "553"
+              },
+              {
+                "key": "Females",
+                "value": "380"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.11",
+        "rowText": "Engineering Sciences",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "94699"
+              },
+              {
+                "key": "Males",
+                "value": "78382"
+              },
+              {
+                "key": "Females",
+                "value": "16317"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "47348"
+              },
+              {
+                "key": "Males",
+                "value": "38717"
+              },
+              {
+                "key": "Females",
+                "value": "8631"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "47351"
+              },
+              {
+                "key": "Males",
+                "value": "39665"
+              },
+              {
+                "key": "Females",
+                "value": "7686"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- United Kingdom",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12068"
+              },
+              {
+                "key": "Males",
+                "value": "10773"
+              },
+              {
+                "key": "Females",
+                "value": "1295"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- USA",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4395"
+              },
+              {
+                "key": "Males",
+                "value": "3830"
+              },
+              {
+                "key": "Females",
+                "value": "565"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Australia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7026"
+              },
+              {
+                "key": "Males",
+                "value": "6123"
+              },
+              {
+                "key": "Females",
+                "value": "902"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- China, Hong Kong & Taiwan",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7384"
+              },
+              {
+                "key": "Males",
+                "value": "5732"
+              },
+              {
+                "key": "Females",
+                "value": "1651"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8125"
+              },
+              {
+                "key": "Males",
+                "value": "6333"
+              },
+              {
+                "key": "Females",
+                "value": "1792"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8353"
+              },
+              {
+                "key": "Males",
+                "value": "6873"
+              },
+              {
+                "key": "Females",
+                "value": "1480"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.12",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2047"
+              },
+              {
+                "key": "Males",
+                "value": "1360"
+              },
+              {
+                "key": "Females",
+                "value": "687"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "640"
+              },
+              {
+                "key": "Males",
+                "value": "452"
+              },
+              {
+                "key": "Females",
+                "value": "188"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1407"
+              },
+              {
+                "key": "Males",
+                "value": "908"
+              },
+              {
+                "key": "Females",
+                "value": "499"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- United Kingdom",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "290"
+              },
+              {
+                "key": "Males",
+                "value": "264"
+              },
+              {
+                "key": "Females",
+                "value": "26"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- USA",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "82"
+              },
+              {
+                "key": "Males",
+                "value": "52"
+              },
+              {
+                "key": "Females",
+                "value": "30"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Australia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "302"
+              },
+              {
+                "key": "Males",
+                "value": "173"
+              },
+              {
+                "key": "Females",
+                "value": "129"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- China, Hong Kong & Taiwan",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "385"
+              },
+              {
+                "key": "Males",
+                "value": "174"
+              },
+              {
+                "key": "Females",
+                "value": "211"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "156"
+              },
+              {
+                "key": "Males",
+                "value": "87"
+              },
+              {
+                "key": "Females",
+                "value": "69"
+              }
+            ]
+          },
+          {
+            "key": "Outside Singapore- Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "192"
+              },
+              {
+                "key": "Males",
+                "value": "157"
+              },
+              {
+                "key": "Females",
+                "value": "35"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

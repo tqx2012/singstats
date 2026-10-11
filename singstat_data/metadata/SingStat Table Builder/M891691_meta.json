@@ -1,0 +1,51 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Society",
+      "subject": "Environment",
+      "topic": "Land Area, Land Use and Water-Related Ecosystems",
+      "id": "M891691",
+      "groupTitle": "Forest Area (Including Mangroves)",
+      "title": "Forest Area (Including Mangroves)",
+      "frequency": "Ad-Hoc",
+      "adjustmentType": "",
+      "dataSource": "NATIONAL PARKS BOARD",
+      "footnote": "Data are taken from the Food and Agriculture Organisation's (FAO) Global Forest Resources Assessments 2020 report and may be periodically updated when the next FRA report is available. For more information, please refer to Singapore's FRA2020 report (https://fra-data.fao.org/assessments/fra/2020/SGP/home/overview). The denominator throughout the time series is fixed as the area of Singapore in 2015, as determined by FAOSTAT. Please refer to the Sustainable Development Goals (SDG) Global Metadata (https://unstats.un.org/sdgs/metadata) for more information on SDG 15.1.1 and 15.2.1.",
+      "dataLastUpdated": "03/11/2025",
+      "startPeriod": "2015",
+      "endPeriod": "2020",
+      "total": 24,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Forest Area As A Proportion Of Total Land Area",
+          "uoM": "Per Cent",
+          "footnote": "Data are used for SDG 15.1.1 'Forest area as a proportion of total land area'."
+        },
+        {
+          "seriesNo": "2",
+          "rowText": "Forest Area Annual Net Change Rate",
+          "uoM": "Per Cent",
+          "footnote": "Data are used for SDG 15.2.1 'Progress towards sustainable forest management'."
+        },
+        {
+          "seriesNo": "3",
+          "rowText": "Above-Ground Biomass Stock In Forest",
+          "uoM": "Tonnes Per Hectare",
+          "footnote": "Data are used for SDG 15.2.1 'Progress towards sustainable forest management'."
+        },
+        {
+          "seriesNo": "4",
+          "rowText": "Proportion Of Forest Area Located Within Legally Established Protected Areas",
+          "uoM": "Per Cent",
+          "footnote": "The denominator is based on the area of Singapore's four nature reserves.  Data are used for SDG 15.2.1 'Progress towards sustainable forest management."
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

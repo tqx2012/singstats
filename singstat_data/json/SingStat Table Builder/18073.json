@@ -1,0 +1,729 @@
+{
+  "Data": {
+    "id": "18073",
+    "tableType": "Household Expenditure Survey 2017/18",
+    "groupTitle": null,
+    "title": "Average Monthly Household Expenditure Among Resident Households by Type of Goods and Services (Broad) and Expenditure Quintile",
+    "frequency": "5 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "28/11/2024",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Household Expenditure",
+    "topic": "Household Expenditure Survey ",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Food and Non-Alcoholic Beverages",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "394"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "233.1"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "343"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "412.3"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "471.2"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "510.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "Alcoholic Beverages and Tobacco",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "42.4"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "25.2"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "39.3"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "47"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "46.7"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "53.7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "Clothing and Footwear",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "122.9"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "19.5"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "46.5"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "103.5"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "156.2"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "288.5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "Housing and Utilities",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "427.6"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "203.7"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "254.8"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "350.5"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "461.2"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "867.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "Furnishing, Household Equipment and Routine Household Maintenance",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "277.5"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "71"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "162"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "239.5"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "348.3"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "566.5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6",
+        "rowText": "Health",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "320.1"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "113"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "186.7"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "267.7"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "349.3"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "683.7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "7",
+        "rowText": "Transport",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1038.2"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "159.8"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "336.2"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "659"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "1166.3"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "2869.8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "8",
+        "rowText": "Information and Communication",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "276.4"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "167.1"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "237.1"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "279.1"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "320.2"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "378.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "9",
+        "rowText": "Recreation, Sport and Culture",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "340.8"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "52.7"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "141.7"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "278"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "431.8"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "799.7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "10",
+        "rowText": "Education",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "374"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "71.8"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "203.3"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "308.5"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "503.4"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "783"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "11",
+        "rowText": "Food and Beverage Serving Services 2/",
+        "uoM": "Dollar",
+        "footnote": "2/ Food and Beverage Serving Services include meals bought from restaurants, cafes, hawker centres, food courts, coffee shops and food kiosks.",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "809.9"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "338.7"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "572.1"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "781.1"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "993.4"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "1364.1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "12",
+        "rowText": "Accommodation Services",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "69.5"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "6"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "19.6"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "45.1"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "86.3"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "190.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "13",
+        "rowText": "Insurance and Financial Services",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "381.8"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "175.7"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "258.9"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "349.1"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "473.5"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "651.7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "14",
+        "rowText": "Miscellaneous Goods and Services 3/",
+        "uoM": "Dollar",
+        "footnote": "3/ Miscellaneous Goods and Services include personal care services such as hairdressing and social services.",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "264.4"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "37"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "96.7"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "172.9"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "291.6"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "723.9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "15",
+        "rowText": "Non-Assignable Expenditure",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "23.4"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "19.2"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "23.6"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "26"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "26.1"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "22"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "16",
+        "rowText": "Total",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "5162.7"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "1693.5"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "2921.5"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "4319.2"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "6125.5"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "10754"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "16.1",
+        "rowText": "Imputed rentals for owner-occupied accommodation",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "998"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "674.5"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "809"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "912"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "1105.2"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "1489.4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "17",
+        "rowText": "Total, including imputed rental of owner-occupied accommodation",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "6160.8"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "2368.1"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "3730.5"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "5231.3"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "7230.6"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "12243.4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "18",
+        "rowText": "Number of Resident Households",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1349146"
+          },
+          {
+            "key": "Expenditure Quintile 1/",
+            "columns": [
+              {
+                "key": "1st - 20th Percentile",
+                "value": "269829"
+              },
+              {
+                "key": "21st - 40th Percentile",
+                "value": "269829"
+              },
+              {
+                "key": "41st - 60th Percentile",
+                "value": "269830"
+              },
+              {
+                "key": "61st - 80th Percentile",
+                "value": "269829"
+              },
+              {
+                "key": "81st - 100th Percentile",
+                "value": "269829"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

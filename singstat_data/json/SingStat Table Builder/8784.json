@@ -1,0 +1,956 @@
+{
+  "Data": {
+    "id": "8784",
+    "tableType": "General Household Survey 2005",
+    "groupTitle": null,
+    "title": "Resident Working Persons Aged 15 Years and Over by Number of Hours Worked, Occupational Status and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data exclude national servicemen.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "28/03/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Economic Characteristics",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1612647"
+              },
+              {
+                "key": "Males",
+                "value": "925042"
+              },
+              {
+                "key": "Females",
+                "value": "687605"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "75507"
+              },
+              {
+                "key": "Males",
+                "value": "57767"
+              },
+              {
+                "key": "Females",
+                "value": "17740"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "145350"
+              },
+              {
+                "key": "Males",
+                "value": "112853"
+              },
+              {
+                "key": "Females",
+                "value": "32497"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1380460"
+              },
+              {
+                "key": "Males",
+                "value": "750565"
+              },
+              {
+                "key": "Females",
+                "value": "629895"
+              }
+            ]
+          },
+          {
+            "key": "Unpaid Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11329"
+              },
+              {
+                "key": "Males",
+                "value": "3857"
+              },
+              {
+                "key": "Females",
+                "value": "7472"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Below 30",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "75176"
+              },
+              {
+                "key": "Males",
+                "value": "30099"
+              },
+              {
+                "key": "Females",
+                "value": "45077"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4966"
+              },
+              {
+                "key": "Males",
+                "value": "2855"
+              },
+              {
+                "key": "Females",
+                "value": "2111"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19922"
+              },
+              {
+                "key": "Males",
+                "value": "11637"
+              },
+              {
+                "key": "Females",
+                "value": "8284"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "48166"
+              },
+              {
+                "key": "Males",
+                "value": "15008"
+              },
+              {
+                "key": "Females",
+                "value": "33158"
+              }
+            ]
+          },
+          {
+            "key": "Unpaid Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2123"
+              },
+              {
+                "key": "Males",
+                "value": "598"
+              },
+              {
+                "key": "Females",
+                "value": "1524"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "30 - 34",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35383"
+              },
+              {
+                "key": "Males",
+                "value": "15419"
+              },
+              {
+                "key": "Females",
+                "value": "19964"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1725"
+              },
+              {
+                "key": "Males",
+                "value": "1021"
+              },
+              {
+                "key": "Females",
+                "value": "704"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7238"
+              },
+              {
+                "key": "Males",
+                "value": "4659"
+              },
+              {
+                "key": "Females",
+                "value": "2579"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25493"
+              },
+              {
+                "key": "Males",
+                "value": "9379"
+              },
+              {
+                "key": "Females",
+                "value": "16114"
+              }
+            ]
+          },
+          {
+            "key": "Unpaid Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "929"
+              },
+              {
+                "key": "Males",
+                "value": "361"
+              },
+              {
+                "key": "Females",
+                "value": "568"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "35 - 39",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34179"
+              },
+              {
+                "key": "Males",
+                "value": "15268"
+              },
+              {
+                "key": "Females",
+                "value": "18911"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1549"
+              },
+              {
+                "key": "Males",
+                "value": "1045"
+              },
+              {
+                "key": "Females",
+                "value": "504"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4914"
+              },
+              {
+                "key": "Males",
+                "value": "3423"
+              },
+              {
+                "key": "Females",
+                "value": "1491"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27271"
+              },
+              {
+                "key": "Males",
+                "value": "10632"
+              },
+              {
+                "key": "Females",
+                "value": "16639"
+              }
+            ]
+          },
+          {
+            "key": "Unpaid Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "445"
+              },
+              {
+                "key": "Males",
+                "value": "168"
+              },
+              {
+                "key": "Females",
+                "value": "277"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "40 - 44",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "564772"
+              },
+              {
+                "key": "Males",
+                "value": "287553"
+              },
+              {
+                "key": "Females",
+                "value": "277219"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14110"
+              },
+              {
+                "key": "Males",
+                "value": "10776"
+              },
+              {
+                "key": "Females",
+                "value": "3333"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24155"
+              },
+              {
+                "key": "Males",
+                "value": "18361"
+              },
+              {
+                "key": "Females",
+                "value": "5795"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "524745"
+              },
+              {
+                "key": "Males",
+                "value": "257704"
+              },
+              {
+                "key": "Females",
+                "value": "267041"
+              }
+            ]
+          },
+          {
+            "key": "Unpaid Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1763"
+              },
+              {
+                "key": "Males",
+                "value": "713"
+              },
+              {
+                "key": "Females",
+                "value": "1050"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "45 - 49",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "324455"
+              },
+              {
+                "key": "Males",
+                "value": "181615"
+              },
+              {
+                "key": "Females",
+                "value": "142840"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9845"
+              },
+              {
+                "key": "Males",
+                "value": "7689"
+              },
+              {
+                "key": "Females",
+                "value": "2157"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14306"
+              },
+              {
+                "key": "Males",
+                "value": "11394"
+              },
+              {
+                "key": "Females",
+                "value": "2912"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "299166"
+              },
+              {
+                "key": "Males",
+                "value": "162090"
+              },
+              {
+                "key": "Females",
+                "value": "137076"
+              }
+            ]
+          },
+          {
+            "key": "Unpaid Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1138"
+              },
+              {
+                "key": "Males",
+                "value": "442"
+              },
+              {
+                "key": "Females",
+                "value": "696"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "50 - 54",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "198294"
+              },
+              {
+                "key": "Males",
+                "value": "122103"
+              },
+              {
+                "key": "Females",
+                "value": "76190"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8424"
+              },
+              {
+                "key": "Males",
+                "value": "6562"
+              },
+              {
+                "key": "Females",
+                "value": "1861"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12329"
+              },
+              {
+                "key": "Males",
+                "value": "10021"
+              },
+              {
+                "key": "Females",
+                "value": "2308"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "176783"
+              },
+              {
+                "key": "Males",
+                "value": "105244"
+              },
+              {
+                "key": "Females",
+                "value": "71539"
+              }
+            ]
+          },
+          {
+            "key": "Unpaid Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "758"
+              },
+              {
+                "key": "Males",
+                "value": "276"
+              },
+              {
+                "key": "Females",
+                "value": "482"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "55 - 59",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "75898"
+              },
+              {
+                "key": "Males",
+                "value": "49326"
+              },
+              {
+                "key": "Females",
+                "value": "26572"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4358"
+              },
+              {
+                "key": "Males",
+                "value": "3319"
+              },
+              {
+                "key": "Females",
+                "value": "1038"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7826"
+              },
+              {
+                "key": "Males",
+                "value": "6318"
+              },
+              {
+                "key": "Females",
+                "value": "1508"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "63145"
+              },
+              {
+                "key": "Males",
+                "value": "39457"
+              },
+              {
+                "key": "Females",
+                "value": "23689"
+              }
+            ]
+          },
+          {
+            "key": "Unpaid Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "569"
+              },
+              {
+                "key": "Males",
+                "value": "232"
+              },
+              {
+                "key": "Females",
+                "value": "337"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "60 - 64",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "138066"
+              },
+              {
+                "key": "Males",
+                "value": "94430"
+              },
+              {
+                "key": "Females",
+                "value": "43637"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10592"
+              },
+              {
+                "key": "Males",
+                "value": "8471"
+              },
+              {
+                "key": "Females",
+                "value": "2121"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16395"
+              },
+              {
+                "key": "Males",
+                "value": "13244"
+              },
+              {
+                "key": "Females",
+                "value": "3151"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "110010"
+              },
+              {
+                "key": "Males",
+                "value": "72380"
+              },
+              {
+                "key": "Females",
+                "value": "37631"
+              }
+            ]
+          },
+          {
+            "key": "Unpaid Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1069"
+              },
+              {
+                "key": "Males",
+                "value": "335"
+              },
+              {
+                "key": "Females",
+                "value": "734"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.9",
+        "rowText": "65 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "166424"
+              },
+              {
+                "key": "Males",
+                "value": "129229"
+              },
+              {
+                "key": "Females",
+                "value": "37194"
+              }
+            ]
+          },
+          {
+            "key": "Employers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19940"
+              },
+              {
+                "key": "Males",
+                "value": "16029"
+              },
+              {
+                "key": "Females",
+                "value": "3911"
+              }
+            ]
+          },
+          {
+            "key": "Own Account Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38267"
+              },
+              {
+                "key": "Males",
+                "value": "33797"
+              },
+              {
+                "key": "Females",
+                "value": "4470"
+              }
+            ]
+          },
+          {
+            "key": "Employees",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "105681"
+              },
+              {
+                "key": "Males",
+                "value": "78672"
+              },
+              {
+                "key": "Females",
+                "value": "27009"
+              }
+            ]
+          },
+          {
+            "key": "Unpaid Family Workers",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2536"
+              },
+              {
+                "key": "Males",
+                "value": "731"
+              },
+              {
+                "key": "Females",
+                "value": "1805"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

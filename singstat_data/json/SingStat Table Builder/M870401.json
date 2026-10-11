@@ -1,0 +1,916 @@
+{
+  "Data": {
+    "theme": "Society",
+    "subject": "Health",
+    "topic": "Indicators on Health",
+    "id": "M870401",
+    "groupTitle": null,
+    "title": "Prevalence Of Overweight, Obesity, Daily Smoking, Hypertension, Diabetes Mellitus, Hyperlipidaemia, Sufficient Total Physical Activity And Binge Drinking Among Residents Aged 18-74 Years",
+    "frequency": "Ad-Hoc",
+    "adjustmentType": null,
+    "datasource": "MINISTRY OF HEALTH",
+    "footnote": "Data for 2010 are from the National Health Survey.  Data for years 2007 and 2013 are from the National Health Surveillance Survey.  Data for 2017, 2019, 2020, 2021, 2022 and 2023 are from the National Population Health Survey.  The findings of different surveys are not directly comparable, and should be interpreted with caution, because of differences in the survey methodology.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "15/10/2024",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "sortBy": null,
+    "timeFilter": null,
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "seriesNo": "1",
+        "rowText": "Overweight (Excluding Obese) - Total",
+        "uoM": "Per Cent",
+        "footnote": "BMI 25.0 - 29.9.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "29.8"
+          },
+          {
+            "key": "2013",
+            "value": "25.7"
+          },
+          {
+            "key": "2017",
+            "value": "27.5"
+          },
+          {
+            "key": "2020",
+            "value": "28.8"
+          },
+          {
+            "key": "2022",
+            "value": "28.6"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2",
+        "rowText": "Obese - Total",
+        "uoM": "Per Cent",
+        "footnote": "BMI >= 30.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "10.5"
+          },
+          {
+            "key": "2013",
+            "value": "8.6"
+          },
+          {
+            "key": "2017",
+            "value": "8.6"
+          },
+          {
+            "key": "2020",
+            "value": "10.5"
+          },
+          {
+            "key": "2022",
+            "value": "11.6"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3",
+        "rowText": "Daily Smoking - Total",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2007",
+            "value": "13.3"
+          },
+          {
+            "key": "2010",
+            "value": "13.9"
+          },
+          {
+            "key": "2013",
+            "value": "13.1"
+          },
+          {
+            "key": "2017",
+            "value": "11.8"
+          },
+          {
+            "key": "2019",
+            "value": "10.6"
+          },
+          {
+            "key": "2020",
+            "value": "10.1"
+          },
+          {
+            "key": "2021",
+            "value": "10.4"
+          },
+          {
+            "key": "2022",
+            "value": "9.2"
+          },
+          {
+            "key": "2023",
+            "value": "8.8"
+          }
+        ]
+      },
+      {
+        "seriesNo": "4",
+        "rowText": "Diabetes Mellitus - Total",
+        "uoM": "Per Cent",
+        "footnote": "Defined as a composite indicator of (i) those who reported that they were diagnosed with diabetes by a doctor and on medication, (ii) those who reported that they were diagnosed with diabetes by a doctor and not on medication but were found to have diabetes during health examination and (iii) those who had been newly diagnosed with diabetes during the health examination and did not self-report doctor-diagnosed diabetes.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "8.6"
+          },
+          {
+            "key": "2017",
+            "value": "8.8"
+          },
+          {
+            "key": "2020",
+            "value": "9.5"
+          },
+          {
+            "key": "2022",
+            "value": "8.5"
+          }
+        ]
+      },
+      {
+        "seriesNo": "5",
+        "rowText": "Hypertension - Total",
+        "uoM": "Per Cent",
+        "footnote": "Defined as a composite indicator of (i) those who reported that they were diagnosed with high blood pressure by a doctor and on medication, (ii) those who reported that they were diagnosed with high blood pressure by a doctor and not on medication but were found to have high blood pressure during the health examination and (iii) those who had been newly diagnosed with high blood pressure during the health examination and did not self-report doctor-diagnosed high blood pressure.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "19.8"
+          },
+          {
+            "key": "2017",
+            "value": "24.2"
+          },
+          {
+            "key": "2020",
+            "value": "35.5"
+          },
+          {
+            "key": "2022",
+            "value": "37"
+          }
+        ]
+      },
+      {
+        "seriesNo": "6",
+        "rowText": "Hyperlipidaemia - Total",
+        "uoM": "Per Cent",
+        "footnote": "Defined as high low-density lipoprotein (LDL) cholesterol and based on a composite indicator of (i) those who reported that they were diagnosed with high blood cholesterol by a doctor and on medication, (ii) those who reported that they were diagnosed with high blood cholesterol by a doctor and not on medication but were found to have high blood cholesterol during the health examination and (iii) those who had been newly diagnosed with high blood cholesterol based on LDL-cholesterol level during the health examination and did not self-report doctor-diagnosed high blood cholesterol.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "26.2"
+          },
+          {
+            "key": "2017",
+            "value": "35.5"
+          },
+          {
+            "key": "2020",
+            "value": "39.1"
+          },
+          {
+            "key": "2022",
+            "value": "31.9"
+          }
+        ]
+      },
+      {
+        "seriesNo": "7",
+        "rowText": "Sufficient Total Physical Activity - Total",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2007",
+            "value": "85.4"
+          },
+          {
+            "key": "2013",
+            "value": "79.5"
+          },
+          {
+            "key": "2017",
+            "value": "84"
+          },
+          {
+            "key": "2019",
+            "value": "84.6"
+          },
+          {
+            "key": "2020",
+            "value": "80.6"
+          },
+          {
+            "key": "2021",
+            "value": "76"
+          },
+          {
+            "key": "2022",
+            "value": "74.9"
+          },
+          {
+            "key": "2023",
+            "value": "78.5"
+          }
+        ]
+      },
+      {
+        "seriesNo": "8",
+        "rowText": "Binge Drinking - Total",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2007",
+            "value": "4.3"
+          },
+          {
+            "key": "2013",
+            "value": "7.4"
+          },
+          {
+            "key": "2017",
+            "value": "8.8"
+          },
+          {
+            "key": "2019",
+            "value": "10.2"
+          },
+          {
+            "key": "2020",
+            "value": "10.5"
+          },
+          {
+            "key": "2021",
+            "value": "9.6"
+          },
+          {
+            "key": "2022",
+            "value": "9.4"
+          },
+          {
+            "key": "2023",
+            "value": "10.3"
+          }
+        ]
+      },
+      {
+        "seriesNo": "9",
+        "rowText": "Proportion Of Singapore Residents Who Were Screened For Chronic Diseases According To The Recommended Frequency - Total",
+        "uoM": "Per Cent",
+        "footnote": "The respondents were aged 40-74 years.  Individuals with known diabetes, hypertension or hyperlipidaemia were excluded.  The recommended screening frequency for diabetes and hyperlipidaemia is at least once every three years, and that for hypertension at least once every two years.",
+        "columns": [
+          {
+            "key": "2007",
+            "value": "58.1"
+          },
+          {
+            "key": "2010",
+            "value": "45.2"
+          },
+          {
+            "key": "2013",
+            "value": "56"
+          },
+          {
+            "key": "2017",
+            "value": "66.4"
+          },
+          {
+            "key": "2019",
+            "value": "66.3"
+          },
+          {
+            "key": "2020",
+            "value": "63"
+          },
+          {
+            "key": "2021",
+            "value": "59.2"
+          },
+          {
+            "key": "2022",
+            "value": "60.3"
+          },
+          {
+            "key": "2023",
+            "value": "62.6"
+          }
+        ]
+      },
+      {
+        "seriesNo": "10",
+        "rowText": "Overweight (Excluding Obese) - Male",
+        "uoM": "Per Cent",
+        "footnote": "BMI 25.0 - 29.9.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "35.1"
+          },
+          {
+            "key": "2013",
+            "value": "30.8"
+          },
+          {
+            "key": "2017",
+            "value": "36.2"
+          },
+          {
+            "key": "2020",
+            "value": "33.5"
+          },
+          {
+            "key": "2022",
+            "value": "33.4"
+          }
+        ]
+      },
+      {
+        "seriesNo": "11",
+        "rowText": "Obese - Male",
+        "uoM": "Per Cent",
+        "footnote": "BMI >= 30.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "11.7"
+          },
+          {
+            "key": "2013",
+            "value": "9.4"
+          },
+          {
+            "key": "2017",
+            "value": "7"
+          },
+          {
+            "key": "2020",
+            "value": "11.9"
+          },
+          {
+            "key": "2022",
+            "value": "13.1"
+          }
+        ]
+      },
+      {
+        "seriesNo": "12",
+        "rowText": "Daily Smoking - Male",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2007",
+            "value": "23.1"
+          },
+          {
+            "key": "2010",
+            "value": "24"
+          },
+          {
+            "key": "2013",
+            "value": "23"
+          },
+          {
+            "key": "2017",
+            "value": "20.6"
+          },
+          {
+            "key": "2019",
+            "value": "18.4"
+          },
+          {
+            "key": "2020",
+            "value": "17"
+          },
+          {
+            "key": "2021",
+            "value": "17.8"
+          },
+          {
+            "key": "2022",
+            "value": "16"
+          },
+          {
+            "key": "2023",
+            "value": "15.7"
+          }
+        ]
+      },
+      {
+        "seriesNo": "13",
+        "rowText": "Diabetes Mellitus - Male",
+        "uoM": "Per Cent",
+        "footnote": "Defined as a composite indicator of (i) those who reported that they were diagnosed with diabetes by a doctor and on medication, (ii) those who reported that they were diagnosed with diabetes by a doctor and not on medication but were found to have diabetes during health examination and (iii) those who had been newly diagnosed with diabetes during the health examination and did not self-report doctor-diagnosed diabetes.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "9.2"
+          },
+          {
+            "key": "2017",
+            "value": "10.3"
+          },
+          {
+            "key": "2020",
+            "value": "10.6"
+          },
+          {
+            "key": "2022",
+            "value": "9.7"
+          }
+        ]
+      },
+      {
+        "seriesNo": "14",
+        "rowText": "Hypertension - Male",
+        "uoM": "Per Cent",
+        "footnote": "Defined as a composite indicator of (i) those who reported that they were diagnosed with high blood pressure by a doctor and on medication, (ii) those who reported that they were diagnosed with high blood pressure by a doctor and not on medication but were found to have high blood pressure during the health examination and (iii) those who had been newly diagnosed with high blood pressure during the health examination and did not self-report doctor-diagnosed high blood pressure.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "22"
+          },
+          {
+            "key": "2017",
+            "value": "27"
+          },
+          {
+            "key": "2020",
+            "value": "41"
+          },
+          {
+            "key": "2022",
+            "value": "44"
+          }
+        ]
+      },
+      {
+        "seriesNo": "15",
+        "rowText": "Hyperlipidaemia - Male",
+        "uoM": "Per Cent",
+        "footnote": "Defined as high low-density lipoprotein (LDL) cholesterol and based on a composite indicator of (i) those who reported that they were diagnosed with high blood cholesterol by a doctor and on medication, (ii) those who reported that they were diagnosed with high blood cholesterol by a doctor and not on medication but were found to have high blood cholesterol during the health examination and (iii) those who had been newly diagnosed with high blood cholesterol based on LDL-cholesterol level during the health examination and did not self-report doctor-diagnosed high blood cholesterol.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "28.8"
+          },
+          {
+            "key": "2017",
+            "value": "42.8"
+          },
+          {
+            "key": "2020",
+            "value": "42.8"
+          },
+          {
+            "key": "2022",
+            "value": "36.2"
+          }
+        ]
+      },
+      {
+        "seriesNo": "16",
+        "rowText": "Sufficient Total Physical Activity - Male",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2007",
+            "value": "85.2"
+          },
+          {
+            "key": "2013",
+            "value": "82.5"
+          },
+          {
+            "key": "2017",
+            "value": "84.6"
+          },
+          {
+            "key": "2019",
+            "value": "85.6"
+          },
+          {
+            "key": "2020",
+            "value": "80.4"
+          },
+          {
+            "key": "2021",
+            "value": "78.1"
+          },
+          {
+            "key": "2022",
+            "value": "76.7"
+          },
+          {
+            "key": "2023",
+            "value": "80"
+          }
+        ]
+      },
+      {
+        "seriesNo": "17",
+        "rowText": "Binge Drinking - Male",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2007",
+            "value": "6.4"
+          },
+          {
+            "key": "2013",
+            "value": "10.7"
+          },
+          {
+            "key": "2017",
+            "value": "13.1"
+          },
+          {
+            "key": "2019",
+            "value": "14.9"
+          },
+          {
+            "key": "2020",
+            "value": "14.6"
+          },
+          {
+            "key": "2021",
+            "value": "13.8"
+          },
+          {
+            "key": "2022",
+            "value": "13.1"
+          },
+          {
+            "key": "2023",
+            "value": "13.7"
+          }
+        ]
+      },
+      {
+        "seriesNo": "18",
+        "rowText": "Proportion Of Singapore Residents Who Were Screened For Chronic Diseases According To The Recommended Frequency - Male",
+        "uoM": "Per Cent",
+        "footnote": "The respondents were aged 40-74 years.  Individuals with known diabetes, hypertension or hyperlipidaemia were excluded.  The recommended screening frequency for diabetes and hyperlipidaemia is at least once every three years, and that for hypertension at least once every two years.",
+        "columns": [
+          {
+            "key": "2007",
+            "value": "59.9"
+          },
+          {
+            "key": "2010",
+            "value": "47.8"
+          },
+          {
+            "key": "2013",
+            "value": "55"
+          },
+          {
+            "key": "2017",
+            "value": "65.9"
+          },
+          {
+            "key": "2019",
+            "value": "67.5"
+          },
+          {
+            "key": "2020",
+            "value": "63.9"
+          },
+          {
+            "key": "2021",
+            "value": "61.3"
+          },
+          {
+            "key": "2022",
+            "value": "59.2"
+          },
+          {
+            "key": "2023",
+            "value": "61.9"
+          }
+        ]
+      },
+      {
+        "seriesNo": "19",
+        "rowText": "Overweight (Excluding Obese) - Female",
+        "uoM": "Per Cent",
+        "footnote": "BMI 25.0 - 29.9.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "24.6"
+          },
+          {
+            "key": "2013",
+            "value": "20.7"
+          },
+          {
+            "key": "2017",
+            "value": "19.2"
+          },
+          {
+            "key": "2020",
+            "value": "24.3"
+          },
+          {
+            "key": "2022",
+            "value": "23.9"
+          }
+        ]
+      },
+      {
+        "seriesNo": "20",
+        "rowText": "Obese - Female",
+        "uoM": "Per Cent",
+        "footnote": "BMI >= 30.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "9.4"
+          },
+          {
+            "key": "2013",
+            "value": "7.8"
+          },
+          {
+            "key": "2017",
+            "value": "10"
+          },
+          {
+            "key": "2020",
+            "value": "9.3"
+          },
+          {
+            "key": "2022",
+            "value": "10.2"
+          }
+        ]
+      },
+      {
+        "seriesNo": "21",
+        "rowText": "Daily Smoking - Female",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2007",
+            "value": "3.8"
+          },
+          {
+            "key": "2010",
+            "value": "4.1"
+          },
+          {
+            "key": "2013",
+            "value": "3.6"
+          },
+          {
+            "key": "2017",
+            "value": "3.3"
+          },
+          {
+            "key": "2019",
+            "value": "3.2"
+          },
+          {
+            "key": "2020",
+            "value": "3.4"
+          },
+          {
+            "key": "2021",
+            "value": "3.3"
+          },
+          {
+            "key": "2022",
+            "value": "2.7"
+          },
+          {
+            "key": "2023",
+            "value": "2.3"
+          }
+        ]
+      },
+      {
+        "seriesNo": "22",
+        "rowText": "Diabetes Mellitus - Female",
+        "uoM": "Per Cent",
+        "footnote": "Defined as a composite indicator of (i) those who reported that they were diagnosed with diabetes by a doctor and on medication, (ii) those who reported that they were diagnosed with diabetes by a doctor and not on medication but were found to have diabetes during health examination and (iii) those who had been newly diagnosed with diabetes during the health examination and did not self-report doctor-diagnosed diabetes.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "8"
+          },
+          {
+            "key": "2017",
+            "value": "7.4"
+          },
+          {
+            "key": "2020",
+            "value": "8.4"
+          },
+          {
+            "key": "2022",
+            "value": "7.3"
+          }
+        ]
+      },
+      {
+        "seriesNo": "23",
+        "rowText": "Hypertension - Female",
+        "uoM": "Per Cent",
+        "footnote": "Defined as a composite indicator of (i) those who reported that they were diagnosed with high blood pressure by a doctor and on medication, (ii) those who reported that they were diagnosed with high blood pressure by a doctor and not on medication but were found to have high blood pressure during the health examination and (iii) those who had been newly diagnosed with high blood pressure during the health examination and did not self-report doctor-diagnosed high blood pressure.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "17.6"
+          },
+          {
+            "key": "2017",
+            "value": "21.7"
+          },
+          {
+            "key": "2020",
+            "value": "30.2"
+          },
+          {
+            "key": "2022",
+            "value": "30.2"
+          }
+        ]
+      },
+      {
+        "seriesNo": "24",
+        "rowText": "Hyperlipidaemia - Female",
+        "uoM": "Per Cent",
+        "footnote": "Defined as high low-density lipoprotein (LDL) cholesterol and based on a composite indicator of (i) those who reported that they were diagnosed with high blood cholesterol by a doctor and on medication, (ii) those who reported that they were diagnosed with high blood cholesterol by a doctor and not on medication but were found to have high blood cholesterol during the health examination and (iii) those who had been newly diagnosed with high blood cholesterol based on LDL-cholesterol level during the health examination and did not self-report doctor-diagnosed high blood cholesterol.",
+        "columns": [
+          {
+            "key": "2010",
+            "value": "23.6"
+          },
+          {
+            "key": "2017",
+            "value": "28.5"
+          },
+          {
+            "key": "2020",
+            "value": "35.8"
+          },
+          {
+            "key": "2022",
+            "value": "27.9"
+          }
+        ]
+      },
+      {
+        "seriesNo": "25",
+        "rowText": "Sufficient Total Physical Activity - Female",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2007",
+            "value": "85.7"
+          },
+          {
+            "key": "2013",
+            "value": "76.6"
+          },
+          {
+            "key": "2017",
+            "value": "83.5"
+          },
+          {
+            "key": "2019",
+            "value": "83.6"
+          },
+          {
+            "key": "2020",
+            "value": "80.7"
+          },
+          {
+            "key": "2021",
+            "value": "74.1"
+          },
+          {
+            "key": "2022",
+            "value": "73.2"
+          },
+          {
+            "key": "2023",
+            "value": "76.9"
+          }
+        ]
+      },
+      {
+        "seriesNo": "26",
+        "rowText": "Binge Drinking - Female",
+        "uoM": "Per Cent",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2007",
+            "value": "2.2"
+          },
+          {
+            "key": "2013",
+            "value": "4.2"
+          },
+          {
+            "key": "2017",
+            "value": "4.7"
+          },
+          {
+            "key": "2019",
+            "value": "5.7"
+          },
+          {
+            "key": "2020",
+            "value": "6.5"
+          },
+          {
+            "key": "2021",
+            "value": "5.6"
+          },
+          {
+            "key": "2022",
+            "value": "5.7"
+          },
+          {
+            "key": "2023",
+            "value": "7.1"
+          }
+        ]
+      },
+      {
+        "seriesNo": "27",
+        "rowText": "Proportion Of Singapore Residents Who Were Screened For Chronic Diseases According To The Recommended Frequency - Female",
+        "uoM": "Per Cent",
+        "footnote": "The respondents were aged 40-74 years.  Individuals with known diabetes, hypertension or hyperlipidaemia were excluded.  The recommended screening frequency for diabetes and hyperlipidaemia is at least once every three years, and that for hypertension at least once every two years.",
+        "columns": [
+          {
+            "key": "2007",
+            "value": "56.4"
+          },
+          {
+            "key": "2010",
+            "value": "42.8"
+          },
+          {
+            "key": "2013",
+            "value": "56.9"
+          },
+          {
+            "key": "2017",
+            "value": "66.8"
+          },
+          {
+            "key": "2019",
+            "value": "65.2"
+          },
+          {
+            "key": "2020",
+            "value": "62.2"
+          },
+          {
+            "key": "2021",
+            "value": "57.5"
+          },
+          {
+            "key": "2022",
+            "value": "61.1"
+          },
+          {
+            "key": "2023",
+            "value": "63.3"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

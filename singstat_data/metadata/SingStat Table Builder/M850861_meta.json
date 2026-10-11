@@ -1,0 +1,81 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Population",
+      "subject": "Education, Language Spoken and Literacy",
+      "topic": "School Stage Completion or Graduation Rate",
+      "id": "M850861",
+      "groupTitle": "Completion Rate By Level Of Education And Sex",
+      "title": "Completion Rate By Level Of Education And Sex, Annual",
+      "frequency": "Annual",
+      "adjustmentType": "",
+      "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+      "footnote": "Completion rates are based on the proportion of Singapore residents (i.e. Singapore citizens and permanent residents) aged 17-19 years with Highest Qualification Attained (HQA) 'Primary & Above' for Primary Completion Rate, aged 19-21 years with HQA 'Lower Secondary & Above' for Lower Secondary Completion Rate, and aged 21-23 years with HQA 'Secondary & Above' for Upper Secondary Completion Rate. They are derived based on data from household surveys, namely the Census of Population, General Household Survey and Comprehensive Labour Force Survey. Survey estimates are subject to sampling variability. As information on HQA is not available for full-time students for 2000, 2005, 2010 and 2020, it is estimated based on the level of education attending (LEA) where those with LEA 'Secondary & Above' are assumed to have HQA 'Primary & Above', while those with LEA 'Post-Secondary (Non-tertiary) & Above' are assumed to have HQA 'Secondary & Above'. The proportions of resident population with HQA 'Lower Sec & Above' for these years are not available as further breakdown of Secondary LEA was not collected. Data are used for SDG 4.1.2 'Completion rate (primary education, lower secondary education, upper secondary education)'. Please refer to the Sustainable Development Goals (SDG) Global Metadata (https://unstats.un.org/sdgs/metadata) for more information on SDG 4.1.2.",
+      "dataLastUpdated": "30/06/2026",
+      "startPeriod": "2000",
+      "endPeriod": "2025",
+      "total": 222,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Primary Education",
+          "uoM": "Per Cent",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "Males",
+          "uoM": "Per Cent",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "Females",
+          "uoM": "Per Cent",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "2",
+          "rowText": "Lower Secondary Education",
+          "uoM": "Per Cent",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "2.1",
+          "rowText": "Males",
+          "uoM": "Per Cent",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "2.2",
+          "rowText": "Females",
+          "uoM": "Per Cent",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "3",
+          "rowText": "Upper Secondary Education",
+          "uoM": "Per Cent",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "3.1",
+          "rowText": "Males",
+          "uoM": "Per Cent",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "3.2",
+          "rowText": "Females",
+          "uoM": "Per Cent",
+          "footnote": ""
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

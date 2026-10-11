@@ -1,0 +1,180 @@
+{
+  "Data": {
+    "theme": "Industry",
+    "subject": "Transport",
+    "topic": "Sea Transport",
+    "id": "M550381",
+    "groupTitle": null,
+    "title": "Cruise Ships And Passenger Throughput Volume, Annual",
+    "frequency": "Annual",
+    "adjustmentType": null,
+    "datasource": "SINGAPORE CRUISE CENTRE PRIVATE LIMITED AND SATS-CREUERS CRUISE SERVICES",
+    "footnote": "Covers cruise ships and passenger throughput volume at both cruise terminals in Singapore, namely, Singapore Cruise Centre and Marina Bay Cruise Centre Singapore.  Cruise sailings from Singapore ceased in March to October 2020 due to COVID-19.  Beginning November 2020, sailings resumed again under a special pilot programme, with cruise lines' occupancies capped at 50%.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "18/05/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "sortBy": null,
+    "timeFilter": null,
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "seriesNo": "1",
+        "rowText": "Number Of Calls",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "926"
+          },
+          {
+            "key": "2010",
+            "value": "640"
+          },
+          {
+            "key": "2011",
+            "value": "394"
+          },
+          {
+            "key": "2012",
+            "value": "334"
+          },
+          {
+            "key": "2013",
+            "value": "391"
+          },
+          {
+            "key": "2014",
+            "value": "372"
+          },
+          {
+            "key": "2015",
+            "value": "385"
+          },
+          {
+            "key": "2016",
+            "value": "411"
+          },
+          {
+            "key": "2017",
+            "value": "421"
+          },
+          {
+            "key": "2018",
+            "value": "401"
+          },
+          {
+            "key": "2019",
+            "value": "414"
+          },
+          {
+            "key": "2020",
+            "value": "143"
+          },
+          {
+            "key": "2021",
+            "value": "257"
+          },
+          {
+            "key": "2022",
+            "value": "236"
+          },
+          {
+            "key": "2023",
+            "value": "347"
+          },
+          {
+            "key": "2024",
+            "value": "340"
+          },
+          {
+            "key": "2025",
+            "value": "375"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2",
+        "rowText": "Passenger Throughput",
+        "uoM": "Number",
+        "footnote": "Data refer to the sum of all embarking cruise passengers (i.e. those who arrived in Singapore by air or land but departed on a cruise), disembarking cruise passengers (i.e. those who arrived on a cruise ship but departed by other means) and full-cruise passengers (i.e. those who arrived and departed on the same cruise ship).  In addition, the numbers include all cruise passengers who are Singaporean citizens or permanent residents.",
+        "columns": [
+          {
+            "key": "2009",
+            "value": "1138560"
+          },
+          {
+            "key": "2010",
+            "value": "1014052"
+          },
+          {
+            "key": "2011",
+            "value": "942055"
+          },
+          {
+            "key": "2012",
+            "value": "912720"
+          },
+          {
+            "key": "2013",
+            "value": "1030212"
+          },
+          {
+            "key": "2014",
+            "value": "889994"
+          },
+          {
+            "key": "2015",
+            "value": "1017048"
+          },
+          {
+            "key": "2016",
+            "value": "1184594"
+          },
+          {
+            "key": "2017",
+            "value": "1380486"
+          },
+          {
+            "key": "2018",
+            "value": "1865621"
+          },
+          {
+            "key": "2019",
+            "value": "1818351"
+          },
+          {
+            "key": "2020",
+            "value": "409564"
+          },
+          {
+            "key": "2021",
+            "value": "723799"
+          },
+          {
+            "key": "2022",
+            "value": "1181953"
+          },
+          {
+            "key": "2023",
+            "value": "2037172"
+          },
+          {
+            "key": "2024",
+            "value": "1846843"
+          },
+          {
+            "key": "2025",
+            "value": "2005050"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

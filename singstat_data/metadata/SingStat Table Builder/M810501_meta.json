@@ -1,0 +1,63 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Population",
+      "subject": "Death and Life Expectancy",
+      "topic": "Life Expectancy",
+      "id": "M810501",
+      "groupTitle": "Life Expectancy By Sex",
+      "title": "Life Expectancy By Sex, Annual",
+      "frequency": "Annual",
+      "adjustmentType": "",
+      "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+      "footnote": "Refer to Singapore residents (citizens and permanent residents) from 1980.  Prior to 1980, figures refer to total population.  Data for the latest available year is preliminary.  Life expectancies in 2020-2023 have been affected by higher mortality rates, particularly those observed in 2021 and 2022, arising from the COVID-19 pandemic.  It may not accurately represent the number of years that individuals can expect to live if mortality rates return to pre-pandemic levels.  For more information, please refer to the 'Complete Life Tables for Singapore Resident Population' publication (https://www.singstat.gov.sg/publication-resources/complete-life-tables-for-singapore-resident-population-2024-2025) and Information Paper on 'Complete Life Tables 2003-2006 for Singapore Resident Population' (https://www.singstat.gov.sg/publication-resources/complete-life-tables-2003-2006-for-singapore-resident-population).",
+      "dataLastUpdated": "03/06/2026",
+      "startPeriod": "1957",
+      "endPeriod": "2025",
+      "total": 306,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Total Life Expectancy At Birth (Residents)",
+          "uoM": "Years",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "Male Life Expectancy At Birth (Residents)",
+          "uoM": "Years",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "Female Life Expectancy At Birth (Residents)",
+          "uoM": "Years",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "2",
+          "rowText": "Total Life Expectancy At Age 65 Years (Residents)",
+          "uoM": "Years",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "2.1",
+          "rowText": "Male Life Expectancy At Age 65 Years (Residents)",
+          "uoM": "Years",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "2.2",
+          "rowText": "Female Life Expectancy At Age 65 Years (Residents)",
+          "uoM": "Years",
+          "footnote": ""
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

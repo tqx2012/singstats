@@ -1,0 +1,45 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Economy & Prices",
+      "subject": "Property Price Indices",
+      "topic": "Private Property Price and Rental Indices",
+      "id": "M212271",
+      "groupTitle": "Price Index Of Non-Landed Private Residential Properties By Locality (1st Quarter 2009 = 100)",
+      "title": "Price Index Of Non-Landed Private Residential Properties By Locality (1st Quarter 2009 = 100), Quarterly",
+      "frequency": "Quarterly",
+      "adjustmentType": "",
+      "dataSource": "URBAN REDEVELOPMENT AUTHORITY",
+      "footnote": "From 1Q 2015, the private residential property price indices are computed using a stratified hedonic regression method.  Under this method, variations in the attributes of private residential properties transacted such as age and unit size are controlled for by using hedonic regressions and price movements are aggregated using 5-quarter fixed weights to derive the aggregate price change.  Data are compiled from caveats lodged at Singapore Land Authority, stamp duty data from the Inland Revenue Authority of Singapore, as well as data provided by developers.",
+      "dataLastUpdated": "24/07/2026",
+      "startPeriod": "2004 1Q",
+      "endPeriod": "2026 2Q",
+      "total": 270,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Core Central Region",
+          "uoM": "Index",
+          "footnote": "Core Central Region (CCR) refers to postal districts 9, 10, 11, Downtown Core and Sentosa.  Map of Central Region and areas in Core Central Region is available in the Urban Redevelopment Authority's website."
+        },
+        {
+          "seriesNo": "2",
+          "rowText": "Rest Of Central Region",
+          "uoM": "Index",
+          "footnote": "Rest of Central Region (RCR) refers to Central Region outside postal districts 9, 10, 11, Downtown Core and Sentosa.  Map of Central Region and areas in Core Central Region is available in the Urban Redevelopment Authority's website."
+        },
+        {
+          "seriesNo": "3",
+          "rowText": "Outside Central Region",
+          "uoM": "Index",
+          "footnote": "Outside Central Region (OCR) refers to the planning areas which are outside the Central Region."
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

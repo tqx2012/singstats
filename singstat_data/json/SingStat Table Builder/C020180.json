@@ -1,0 +1,4752 @@
+{
+  "Data": {
+    "id": "C020180",
+    "tableType": "General Household Survey 2025",
+    "groupTitle": null,
+    "title": "Resident Population Aged 5 Years and Over in Resident Households by Living Arrangement, Level of Difficulty in Performing Basic Activities, Age Group and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: For residents aged 5 years and over in resident households, the Living Arrangement categories are based on presence of their spouse, children (including children-in-law), and/or parents (including parents-in-law) in the same household.\nData has been rounded to the nearest 100 and may not add up due to rounding.\n‘ - ’ denotes Nil or negligible. Users are advised to exercise caution when drawing inferences from survey estimates with small sample sizes or those denoted as ‘ - ’, as these estimates are based on a sample survey and subject to sampling variability. For more information, refer to the write up on the GHS 2025 Sample Design and Sampling Variability (https://go.gov.sg/ghs2025-sample-design-and-variability).",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Difficulty Performing Basic Activities ",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "3995800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "3227000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "768800"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "3906400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "3198300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "708100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "3590200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "3035000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "555200"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "316200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "163300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "152900"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "89500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "28700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "60800"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1946500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1586300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "360100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1906300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1570600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "335700"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1752500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1489000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "263500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "153800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "81600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "72100"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "40200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "15800"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "24400"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "2049400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1640700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "408700"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "2000100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1627700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "372400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1837700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1546000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "291600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "162400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "81700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "80800"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "49300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "13000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "36300"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Living With Spouse in Household",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "2020100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1525200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "494900"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1980600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1514300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "466300"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1800200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1423500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "376800"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "180300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "90800"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "89500"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "39500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "10900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "28600"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1015500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "732700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "282800"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "992700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "727500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "265200"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "891900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "680400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "211500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "100800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "47100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "53700"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "22800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "5100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "17700"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1004600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "792500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "212100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "987900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "786700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "201100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "908300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "743000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "165300"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "79600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "43700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "35900"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "16800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "5800"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "11000"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1",
+        "rowText": "With Children in Household",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1431900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1159800"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "272100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1407800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1151900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "255900"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1287300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1079700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "207600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "120400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "72100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "48300"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "24100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "7900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "16200"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "718300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "556500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "161800"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "705100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "553000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "152100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "638000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "515500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "122500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "67100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "37500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "29600"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "13200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "3500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "9700"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "713600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "603300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "110300"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "702700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "598900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "103800"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "649400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "564200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "85100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "53300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "34600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "18700"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "10900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "4400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "6500"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1.1",
+        "rowText": "With Parents in Household",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "134100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "129500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4700"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "133200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "128700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "125200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "121200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "8000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "7500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "600"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "800"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "67500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "64300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "3200"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "67000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "63900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "3100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "62600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "59800"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "2700"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "4500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "4100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "400"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "66700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "65200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "1500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "66200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "64700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "1500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "62600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "61400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "1300"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "3600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "3400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "200"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1.2",
+        "rowText": "No Parents in Household",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1297800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1030300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "267500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1274600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1023200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "251400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1162200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "958600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "203600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "112400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "64700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "47700"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "23200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "7100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "16100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "650800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "492200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "158600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "638100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "489100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "149000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "575400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "455700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "119700"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "62600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "33400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "29200"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "12800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "3100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "9600"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "647000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "538100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "108900"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "636500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "534100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "102400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "586700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "502900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "83900"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "49800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "31300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "18500"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "10400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "3900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "6500"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.2",
+        "rowText": "No Children in Household",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "588200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "365400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "222800"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "572800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "362400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "210400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "512900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "343700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "169100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "59900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "18700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "41200"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "15400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "3000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "12400"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "297200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "176200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "121000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "287600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "174500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "113100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "253900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "164900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "89000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "33700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "9600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "24000"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "9600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "7900"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "291000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "189200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "101700"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "285200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "187900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "97300"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "259000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "178800"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "80100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "26200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "9000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "17200"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "5800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4500"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.2.1",
+        "rowText": "With Parents in Household",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "59300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "54700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "59200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "54500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "57100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "53000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "2100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "500"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "30500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "27500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "3000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "30300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "27400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "3000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "28900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "26300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "2600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "400"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "28800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "27200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "1700"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "28800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "27200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "1700"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "28200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "26700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "1500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "200"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "-"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.2.2",
+        "rowText": "No Parents in Household",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "528900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "310700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "218100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "513600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "307900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "205700"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "455800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "290700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "165000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "57800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "17100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "40700"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "15300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "2900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "12400"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "266700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "148700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "118100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "257300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "147200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "110100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "225100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "138600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "86400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "32200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "8500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "23700"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "9400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "7900"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "262200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "162100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "100100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "256300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "160700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "95600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "230700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "152100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "78600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "25600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "8600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "17000"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "5800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4500"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Not Living With Spouse in Household1/",
+        "uoM": "Number",
+        "footnote": "1/ Exclude those Living in One-Person Household and Living with Only Domestic Worker(s) in Household.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1696400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1529200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "167200"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1657800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1514300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "143500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1564600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1457700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "106900"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "93200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "56600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "36600"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "38500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "14900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "23700"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "810100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "771000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "39100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "797000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "762000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "35000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "761200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "734700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "26500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "35800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "27300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "8500"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "13100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "8900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "886300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "758200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "128100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "860800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "752200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "108600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "803400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "723000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "80400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "57400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "29300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "28200"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "25500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "5900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "19500"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.1",
+        "rowText": "With Children in Household",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "230400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "110600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "119900"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "210100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "109100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "101000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "171400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "99200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "72200"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "38600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "9800"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "28800"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "20300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "18800"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "51200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "27900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "23300"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "47900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "27400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "20500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "40500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "25800"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "14700"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "7400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "5800"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "3300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "2800"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "179200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "82700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "96500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "162200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "81700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "80500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "130900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "73500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "57500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "31300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "8200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "23100"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "17000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "16000"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.1.1",
+        "rowText": "With Parents in Household",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "14500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "14100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "14500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "14000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "13900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "13500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "-"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "4500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "4400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "4400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "4300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "4300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "4300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "-"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "10000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "9700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "300"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "10000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "9700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "300"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "9600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "9200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "300"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "-"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "-"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "-"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "-"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.1.2",
+        "rowText": "No Parents in Household",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "215900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "96500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "119400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "195600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "95000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "100600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "157500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "85700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "71800"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "38100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "9300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "28800"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "20300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "18800"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "46700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "23500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "23300"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "43500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "23100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "20400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "36200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "21500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "14700"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "7300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "5800"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "3200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "2800"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "169200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "73000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "96200"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "152200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "72000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "80200"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "121400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "64200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "57100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "30800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "7700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "23100"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "17000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "16000"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.2",
+        "rowText": "No Children in Household1/",
+        "uoM": "Number",
+        "footnote": "1/ Exclude those Living in One-Person Household and Living with Only Domestic Worker(s) in Household.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1465900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1418600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "47300"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1447700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1405200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "42500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1393200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1358500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "34700"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "54600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "46800"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "7800"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "18200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "13400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4800"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "758900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "743100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "15800"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "749100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "734700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "14500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "720700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "709000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "11800"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "28400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "25700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "2700"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "9700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "8500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "1300"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "707100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "675500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "31600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "698600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "670600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "28000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "672400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "649500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "22900"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "26200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "21100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "5100"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "8400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "4900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "3500"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.2.1",
+        "rowText": "With Parents in Household",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1303400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1298000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "5400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1291700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1286700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "5000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1251400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1247100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4200"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "40300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "39500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "800"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "11700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "11300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "400"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "687600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "685800"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "1800"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "680100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "678400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "1600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "657700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "656400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "1400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "22300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "22100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "300"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "7500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "7400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "615800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "612200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "3700"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "611600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "608200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "3400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "593700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "590800"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "2900"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "18000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "17500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "500"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "4200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "3900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "300"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.2.2",
+        "rowText": "No Parents in Household1/",
+        "uoM": "Number",
+        "footnote": "1/ Exclude those Living in One-Person Household and Living with Only Domestic Worker(s) in Household.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "162500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "120600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "41900"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "156000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "118600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "37500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "141800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "111300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "30500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "14300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "7200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "7000"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "6400"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "2000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4400"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "71300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "57300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "14000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "69100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "56200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "12800"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "63000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "52600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "10400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "6100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "3600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "2400"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "2200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "1100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "91200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "63300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "27900"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "87000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "62300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "24600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "78800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "58700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "20000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "8200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "3600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4600"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "4300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "3300"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Living in One-Person Household",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "247900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "159500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "88400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "241000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "157000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "84000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "206300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "142000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "64400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "34700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "15000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "19600"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "6900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "2500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4400"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "110000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "76600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "33400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "106800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "75100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "31700"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "91800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "68300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "23500"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "15000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "6800"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "8200"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "3100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "1700"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "137900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "82900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "54900"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "134100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "81900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "52300"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "114500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "73600"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "40900"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "19600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "8200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "11400"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "3800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "1100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "2700"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Living with Only Domestic Worker(s) in Household",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "31500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "13200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "18300"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "27000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "12700"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "14300"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "19000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "11900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "7100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "8000"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "800"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "7100"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "4500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "10900"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "6100"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "4800"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "9700"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "5900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "3800"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "7500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "5500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "2000"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "2100"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "1800"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "1200"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "300"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "1000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "20600"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "7000"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "13600"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Total",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "17300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "6900"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "10400"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - No Difficulty in Performing Any Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "11500"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "6400"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "5100"
+                  }
+                ]
+              },
+              {
+                "key": "Without A Lot of Difficulty in Performing Any Activity - Some Difficulty in Performing At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "5800"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "500"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "5400"
+                  }
+                ]
+              },
+              {
+                "key": "Unable to Perform/ with A Lot of Difficulty in At Least One Basic Activity",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "3300"
+                  },
+                  {
+                    "key": "Below 65 Years",
+                    "value": "200"
+                  },
+                  {
+                    "key": "65 Years & Over",
+                    "value": "3100"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

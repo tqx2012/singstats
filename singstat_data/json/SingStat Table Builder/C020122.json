@@ -1,0 +1,662 @@
+{
+  "Data": {
+    "id": "C020122",
+    "tableType": "General Household Survey 2025",
+    "groupTitle": null,
+    "title": "Married Couples in Resident Households by Religion of Husband and Wife",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: Data has been rounded to the nearest 100 and may not add up due to rounding.\n‘ - ’ denotes Nil or negligible. Users are advised to exercise caution when drawing inferences from survey estimates with small sample sizes or those denoted as ‘ - ’, as these estimates are based on a sample survey and subject to sampling variability. For more information, refer to the write up on the GHS 2025 Sample Design and Sampling Variability (https://go.gov.sg/ghs2025-sample-design-and-variability).",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1027500"
+          },
+          {
+            "key": "Religion of Husband",
+            "columns": [
+              {
+                "key": "No Religion",
+                "value": "237200"
+              },
+              {
+                "key": "Buddhism",
+                "value": "322400"
+              },
+              {
+                "key": "Taoism1/",
+                "value": "82600"
+              },
+              {
+                "key": "Islam",
+                "value": "153400"
+              },
+              {
+                "key": "Hinduism",
+                "value": "57800"
+              },
+              {
+                "key": "Sikhism",
+                "value": "3000"
+              },
+              {
+                "key": "Christianity - Catholic",
+                "value": "73000"
+              },
+              {
+                "key": "Christianity - Other Christians",
+                "value": "96800"
+              },
+              {
+                "key": "Other Religions",
+                "value": "1300"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "No Religion",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "227300"
+          },
+          {
+            "key": "Religion of Husband",
+            "columns": [
+              {
+                "key": "No Religion",
+                "value": "182800"
+              },
+              {
+                "key": "Buddhism",
+                "value": "22700"
+              },
+              {
+                "key": "Taoism1/",
+                "value": "7900"
+              },
+              {
+                "key": "Islam",
+                "value": "1600"
+              },
+              {
+                "key": "Hinduism",
+                "value": "700"
+              },
+              {
+                "key": "Sikhism",
+                "value": "100"
+              },
+              {
+                "key": "Christianity - Catholic",
+                "value": "5400"
+              },
+              {
+                "key": "Christianity - Other Christians",
+                "value": "6200"
+              },
+              {
+                "key": "Other Religions",
+                "value": "-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "With Religion",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "800200"
+          },
+          {
+            "key": "Religion of Husband",
+            "columns": [
+              {
+                "key": "No Religion",
+                "value": "54400"
+              },
+              {
+                "key": "Buddhism",
+                "value": "299800"
+              },
+              {
+                "key": "Taoism1/",
+                "value": "74700"
+              },
+              {
+                "key": "Islam",
+                "value": "151800"
+              },
+              {
+                "key": "Hinduism",
+                "value": "57200"
+              },
+              {
+                "key": "Sikhism",
+                "value": "2900"
+              },
+              {
+                "key": "Christianity - Catholic",
+                "value": "67600"
+              },
+              {
+                "key": "Christianity - Other Christians",
+                "value": "90600"
+              },
+              {
+                "key": "Other Religions",
+                "value": "1300"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.0.1",
+        "rowText": "Buddhism",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "324600"
+          },
+          {
+            "key": "Religion of Husband",
+            "columns": [
+              {
+                "key": "No Religion",
+                "value": "26400"
+              },
+              {
+                "key": "Buddhism",
+                "value": "279500"
+              },
+              {
+                "key": "Taoism1/",
+                "value": "8900"
+              },
+              {
+                "key": "Islam",
+                "value": "600"
+              },
+              {
+                "key": "Hinduism",
+                "value": "1100"
+              },
+              {
+                "key": "Sikhism",
+                "value": "100"
+              },
+              {
+                "key": "Christianity - Catholic",
+                "value": "4400"
+              },
+              {
+                "key": "Christianity - Other Christians",
+                "value": "3500"
+              },
+              {
+                "key": "Other Religions",
+                "value": "100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.0.2",
+        "rowText": "Taoism1/",
+        "uoM": "Number",
+        "footnote": "1/ 'Taoism' includes Chinese Traditional Beliefs.",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "76900"
+          },
+          {
+            "key": "Religion of Husband",
+            "columns": [
+              {
+                "key": "No Religion",
+                "value": "5100"
+              },
+              {
+                "key": "Buddhism",
+                "value": "7500"
+              },
+              {
+                "key": "Taoism1/",
+                "value": "62800"
+              },
+              {
+                "key": "Islam",
+                "value": "100"
+              },
+              {
+                "key": "Hinduism",
+                "value": "100"
+              },
+              {
+                "key": "Sikhism",
+                "value": "-"
+              },
+              {
+                "key": "Christianity - Catholic",
+                "value": "900"
+              },
+              {
+                "key": "Christianity - Other Christians",
+                "value": "500"
+              },
+              {
+                "key": "Other Religions",
+                "value": "-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.0.3",
+        "rowText": "Islam",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "154000"
+          },
+          {
+            "key": "Religion of Husband",
+            "columns": [
+              {
+                "key": "No Religion",
+                "value": "1600"
+              },
+              {
+                "key": "Buddhism",
+                "value": "1000"
+              },
+              {
+                "key": "Taoism1/",
+                "value": "-"
+              },
+              {
+                "key": "Islam",
+                "value": "150400"
+              },
+              {
+                "key": "Hinduism",
+                "value": "400"
+              },
+              {
+                "key": "Sikhism",
+                "value": "100"
+              },
+              {
+                "key": "Christianity - Catholic",
+                "value": "300"
+              },
+              {
+                "key": "Christianity - Other Christians",
+                "value": "200"
+              },
+              {
+                "key": "Other Religions",
+                "value": "-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.0.4",
+        "rowText": "Hinduism",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "56500"
+          },
+          {
+            "key": "Religion of Husband",
+            "columns": [
+              {
+                "key": "No Religion",
+                "value": "1000"
+              },
+              {
+                "key": "Buddhism",
+                "value": "100"
+              },
+              {
+                "key": "Taoism1/",
+                "value": "100"
+              },
+              {
+                "key": "Islam",
+                "value": "200"
+              },
+              {
+                "key": "Hinduism",
+                "value": "53900"
+              },
+              {
+                "key": "Sikhism",
+                "value": "200"
+              },
+              {
+                "key": "Christianity - Catholic",
+                "value": "600"
+              },
+              {
+                "key": "Christianity - Other Christians",
+                "value": "300"
+              },
+              {
+                "key": "Other Religions",
+                "value": "100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.0.5",
+        "rowText": "Sikhism",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "2700"
+          },
+          {
+            "key": "Religion of Husband",
+            "columns": [
+              {
+                "key": "No Religion",
+                "value": "-"
+              },
+              {
+                "key": "Buddhism",
+                "value": "-"
+              },
+              {
+                "key": "Taoism1/",
+                "value": "-"
+              },
+              {
+                "key": "Islam",
+                "value": "100"
+              },
+              {
+                "key": "Hinduism",
+                "value": "200"
+              },
+              {
+                "key": "Sikhism",
+                "value": "2400"
+              },
+              {
+                "key": "Christianity - Catholic",
+                "value": "-"
+              },
+              {
+                "key": "Christianity - Other Christians",
+                "value": "-"
+              },
+              {
+                "key": "Other Religions",
+                "value": "-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.0.6",
+        "rowText": "Christianity",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "184000"
+          },
+          {
+            "key": "Religion of Husband",
+            "columns": [
+              {
+                "key": "No Religion",
+                "value": "20200"
+              },
+              {
+                "key": "Buddhism",
+                "value": "11600"
+              },
+              {
+                "key": "Taoism1/",
+                "value": "2800"
+              },
+              {
+                "key": "Islam",
+                "value": "500"
+              },
+              {
+                "key": "Hinduism",
+                "value": "1400"
+              },
+              {
+                "key": "Sikhism",
+                "value": "-"
+              },
+              {
+                "key": "Christianity - Catholic",
+                "value": "61200"
+              },
+              {
+                "key": "Christianity - Other Christians",
+                "value": "86000"
+              },
+              {
+                "key": "Other Religions",
+                "value": "300"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.0.6.0.1",
+        "rowText": "Catholic",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "83100"
+          },
+          {
+            "key": "Religion of Husband",
+            "columns": [
+              {
+                "key": "No Religion",
+                "value": "10400"
+              },
+              {
+                "key": "Buddhism",
+                "value": "6800"
+              },
+              {
+                "key": "Taoism1/",
+                "value": "1700"
+              },
+              {
+                "key": "Islam",
+                "value": "100"
+              },
+              {
+                "key": "Hinduism",
+                "value": "1200"
+              },
+              {
+                "key": "Sikhism",
+                "value": "-"
+              },
+              {
+                "key": "Christianity - Catholic",
+                "value": "57500"
+              },
+              {
+                "key": "Christianity - Other Christians",
+                "value": "5300"
+              },
+              {
+                "key": "Other Religions",
+                "value": "100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.0.6.0.2",
+        "rowText": "Other Christians",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "100900"
+          },
+          {
+            "key": "Religion of Husband",
+            "columns": [
+              {
+                "key": "No Religion",
+                "value": "9700"
+              },
+              {
+                "key": "Buddhism",
+                "value": "4800"
+              },
+              {
+                "key": "Taoism1/",
+                "value": "1100"
+              },
+              {
+                "key": "Islam",
+                "value": "400"
+              },
+              {
+                "key": "Hinduism",
+                "value": "200"
+              },
+              {
+                "key": "Sikhism",
+                "value": "-"
+              },
+              {
+                "key": "Christianity - Catholic",
+                "value": "3800"
+              },
+              {
+                "key": "Christianity - Other Christians",
+                "value": "80700"
+              },
+              {
+                "key": "Other Religions",
+                "value": "100"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.0.7",
+        "rowText": "Other Religions",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1400"
+          },
+          {
+            "key": "Religion of Husband",
+            "columns": [
+              {
+                "key": "No Religion",
+                "value": "100"
+              },
+              {
+                "key": "Buddhism",
+                "value": "-"
+              },
+              {
+                "key": "Taoism1/",
+                "value": "100"
+              },
+              {
+                "key": "Islam",
+                "value": "-"
+              },
+              {
+                "key": "Hinduism",
+                "value": "100"
+              },
+              {
+                "key": "Sikhism",
+                "value": "-"
+              },
+              {
+                "key": "Christianity - Catholic",
+                "value": "200"
+              },
+              {
+                "key": "Christianity - Other Christians",
+                "value": "100"
+              },
+              {
+                "key": "Other Religions",
+                "value": "800"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SingStat Executive BI Studio - Singapore Statistical Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&family=Google+Sans+Text:wght@400;500;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="dashboard.css">
+  <!-- Offline ECharts with CDN Fallback -->
+  <script src="lib/echarts.min.js"></script>
+  <script>
+    if (!window.echarts) {
+      document.write('<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"><\/script>');
+    }
+  </script>
+  <!-- Curated Data & Catalog Index -->
+  <script src="data/singstat_curated.js"></script>
+</head>
+<body data-theme="light">
+
+  <!-- TOP APP HEADER -->
+  <header class="app-header">
+    <div class="brand-section">
+      <div class="brand-badge">
+        <span>SG</span>
+      </div>
+      <div class="brand-title">
+        SingStat BI Studio
+        <span class="sub">Executive</span>
+      </div>
+    </div>
+
+    <div class="header-controls">
+      <!-- Dataset Selector -->
+      <div class="dataset-select-wrap">
+        <label for="dataset-select">Dataset:</label>
+        <select id="dataset-select">
+          <!-- Populated dynamically -->
+        </select>
+      </div>
+
+      <!-- Presets Selector -->
+      <div class="dataset-select-wrap">
+        <label for="preset-select">Stories:</label>
+        <select id="preset-select">
+          <option value="">-- Choose Preset Story --</option>
+          <optgroup label="🚨 Critical Issues (Past 2 Years: 2024-2026)">
+            <option value="scam_epidemic">🚨 The Scam & Cybercrime Epidemic (3x Physical Crime)</option>
+            <option value="fertility_crisis">📉 TFR Plunge to 0.87 & Super-Aged Society 2026</option>
+            <option value="housing_million_dollar">🏘️ The Million-Dollar Era: HDB Resale Surge</option>
+            <option value="climate_heatwave">☀️ Extreme Heat & 2026 Climate Adaptation</option>
+            <option value="nodx_tech_war">🌐 Global Tech Trade & AI Semiconductor Surge</option>
+            <option value="cpi_cycle">🛒 Cost of Living & Sticky Inflation Cycles</option>
+          </optgroup>
+          <optgroup label="📊 Foundational Economic & Demographic Trends">
+            <option value="gdp_growth">🇸🇬 Singapore 60-Year Real GDP by Sector</option>
+            <option value="pop_pyramid">👥 Population Age Pyramid & Gender Shift</option>
+            <option value="housing_planning">🗺️ Planning Area Housing & Dwelling Types</option>
+          </optgroup>
+        </select>
+      </div>
+
+      <!-- Action Buttons -->
+      <div class="btn-group">
+        <button id="story-hub-btn" class="btn btn-story-hub" title="Open Executive Story Hub for Critical 2024-2026 Issues">
+          📖 Story Hub
+        </button>
+        <button id="catalog-btn" class="btn" title="Search all 2,820 SingStat tables in catalog">
+          🔍 Catalog (2,820)
+        </button>
+        <button id="upload-btn" class="btn" title="Upload custom CSV/JSON from singstat_data">
+          📁 Load File
+        </button>
+        <input type="file" id="file-input" accept=".csv,.json" style="display:none;">
+        <button id="swap-axes-btn" class="btn btn-icon" title="Swap Columns & Rows">
+          ⇄ Swap
+        </button>
+        <button id="clear-all-btn" class="btn btn-icon" title="Reset All Shelves">
+          ↺ Reset
+        </button>
+        <button id="export-chart-btn" class="btn btn-primary btn-icon" title="Export Chart Image">
+          📷 PNG
+        </button>
+        <button id="export-data-btn" class="btn btn-icon" title="Export Aggregated CSV">
+          📊 CSV
+        </button>
+        <button id="theme-toggle-btn" class="btn btn-icon" title="Toggle Theme">
+          🌙 Theme
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN APP BODY -->
+  <div class="app-body">
+    
+    <!-- SIDEBAR: FIELD PALETTE -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="sidebar-title">
+          <span>Data Fields</span>
+          <span id="dataset-desc" style="font-size:10px; text-transform:none; font-weight:normal; color:var(--accent-dim);"></span>
+        </div>
+        <input type="text" id="field-search" class="field-search-input" placeholder="Search dimensions & measures...">
+      </div>
+
+      <div class="sidebar-content">
+        <!-- Dimensions Section -->
+        <div class="field-section">
+          <div class="field-section-title">
+            <span>Dimensions (Categorical / Temporal)</span>
+          </div>
+          <div id="dimensions-list" class="field-list">
+            <!-- Populated dynamically -->
+          </div>
+        </div>
+
+        <!-- Measures Section -->
+        <div class="field-section">
+          <div class="field-section-title">
+            <span>Measures (Numeric Metrics)</span>
+          </div>
+          <div id="measures-list" class="field-list">
+            <!-- Populated dynamically -->
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- MAIN WORKSPACE -->
+    <main class="main-workspace">
+      
+      <!-- DRAG AND DROP SHELVES -->
+      <div class="shelves-container">
+        <!-- Columns Shelf -->
+        <div class="shelf-row">
+          <div class="shelf-label">Columns (X):</div>
+          <div id="shelf-columns" class="shelf-dropzone">
+            <span class="shelf-empty-hint">Drop dimension here</span>
+          </div>
+        </div>
+
+        <!-- Rows Shelf -->
+        <div class="shelf-row">
+          <div class="shelf-label">Rows (Y):</div>
+          <div id="shelf-rows" class="shelf-dropzone">
+            <span class="shelf-empty-hint">Drop dimension here</span>
+          </div>
+        </div>
+
+        <!-- Measures Shelf -->
+        <div class="shelf-row">
+          <div class="shelf-label">Measures:</div>
+          <div id="shelf-measures" class="shelf-dropzone">
+            <span class="shelf-empty-hint">Drop numeric measure here</span>
+          </div>
+        </div>
+
+        <!-- Secondary Shelf: Color / Legend & Filters -->
+        <div class="shelf-row">
+          <div class="shelf-label">Breakdown:</div>
+          <div id="shelf-color" class="shelf-dropzone" style="max-width: 250px;">
+            <span class="shelf-empty-hint">Drop color slice</span>
+          </div>
+
+          <div class="shelf-label" style="width: 70px; margin-left: 10px;">Filters:</div>
+          <div id="shelf-filters" class="shelf-dropzone">
+            <span class="shelf-empty-hint">Drop field to filter data</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- VISUALIZATION TYPE SELECTOR RIBBON -->
+      <div class="viz-ribbon">
+        <div id="viz-types-bar" class="viz-types-bar">
+          <button class="viz-btn active" data-viz="stacked_bar">🧱 Stacked Bar</button>
+          <button class="viz-btn" data-viz="bar">📊 Bar</button>
+          <button class="viz-btn" data-viz="horizontal_bar">📑 Horizontal Bar</button>
+          <button class="viz-btn" data-viz="line">📈 Line Trend</button>
+          <button class="viz-btn" data-viz="area">🌊 Stacked Area</button>
+          <button class="viz-btn" data-viz="pie">🍩 Donut</button>
+          <button class="viz-btn" data-viz="treemap">🗂️ Treemap</button>
+          <button class="viz-btn" data-viz="pivot">🔢 Pivot Matrix</button>
+          <button class="viz-btn" data-viz="kpi">🏆 KPI Cards</button>
+        </div>
+      </div>
+
+      <!-- INTERACTIVE STORY BANNER & CHAPTER CONTROLLER -->
+      <div id="story-banner" class="story-banner" style="display: none;">
+        <div class="story-banner-top">
+          <div class="story-tag-wrap">
+            <span id="story-severity-badge" class="story-badge critical">CRITICAL ISSUE (2024-2026)</span>
+            <h2 id="story-banner-title" class="story-banner-title">The Scam & Cybercrime Epidemic</h2>
+          </div>
+          <div class="story-banner-actions">
+            <button id="story-prev-btn" class="btn btn-sm" title="Previous Chapter">‹ Prev</button>
+            <div id="story-chapter-pills" class="story-chapter-pills">
+              <!-- Dynamically populated chapter pills -->
+            </div>
+            <button id="story-next-btn" class="btn btn-sm" title="Next Chapter">Next ›</button>
+            <button id="story-exit-btn" class="btn btn-sm btn-icon" title="Exit Story Mode">✕ Exit</button>
+          </div>
+        </div>
+
+        <div class="story-banner-body">
+          <div id="story-narrative-text" class="story-narrative-text"></div>
+          <div id="story-kpi-chips" class="story-kpi-chips">
+            <!-- Dynamic callout badges: e.g. "55,810 Scams Recorded", "TFR: 0.87 Record Low" -->
+          </div>
+        </div>
+      </div>
+
+      <!-- CHART / VIEW CONTAINER -->
+      <div class="chart-viewport">
+        <div class="chart-card">
+          <div class="chart-card-header">
+            <div class="chart-title-wrap">
+              <span id="chart-title" class="chart-title">Visualizing Metrics</span>
+              <span id="chart-subtitle" class="chart-subtitle">Loading...</span>
+            </div>
+          </div>
+
+          <div id="chart-content" class="chart-content">
+            <!-- Canvas for ECharts -->
+            <div id="echarts-canvas"></div>
+            <!-- Pivot Table Container -->
+            <div id="pivot-table-wrap" style="display:none;"></div>
+            <!-- KPI Cards Grid -->
+            <div id="kpi-grid" class="kpi-grid" style="display:none;"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- STATUS BAR -->
+      <footer class="app-statusbar">
+        <div class="statusbar-left">
+          <div class="status-item">Dataset: <strong id="status-records">0 rows</strong></div>
+          <div class="status-item">Filter: <strong id="status-filtered">0 rows</strong></div>
+          <div class="status-item">Engine: <strong id="status-execution">0 ms</strong></div>
+        </div>
+        <div class="statusbar-right">
+          <div class="status-item">Mode: <strong id="status-viz">Stacked Bar</strong></div>
+          <div class="status-item"><span>SingStat Department of Statistics API Integration</span></div>
+        </div>
+      </footer>
+
+    </main>
+  </div>
+
+  <!-- FILTER CONFIGURATION MODAL -->
+  <div id="filter-modal" class="modal-overlay">
+    <div class="modal-box">
+      <div class="modal-header">
+        <div id="filter-modal-title" class="modal-title">Filter Dimension</div>
+        <button id="filter-modal-close" class="modal-close">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="filter-search-wrap">
+          <input type="text" id="filter-search" class="field-search-input" placeholder="Search filter values...">
+        </div>
+        <div class="filter-actions-bar">
+          <button id="filter-select-all" class="btn" style="font-size:11px;">Select All</button>
+          <button id="filter-clear-all" class="btn" style="font-size:11px;">Clear All</button>
+        </div>
+        <div id="filter-items-list" class="filter-items-list">
+          <!-- Checkbox list -->
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button id="filter-apply-btn" class="btn btn-primary">Apply Filter</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- CATALOG SEARCH MODAL -->
+  <div id="catalog-modal" class="modal-overlay">
+    <div class="modal-box" style="max-width:750px;">
+      <div class="modal-header">
+        <div class="modal-title">SingStat Catalog Explorer (2,820 Tables)</div>
+        <button id="catalog-modal-close" class="modal-close">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div style="margin-bottom:12px;">
+          <input type="text" id="catalog-search" class="field-search-input" placeholder="Search datasets by title, topic, theme, or ID (e.g. GDP, CPI, Population, M015721)...">
+        </div>
+        <div id="catalog-results-list" class="catalog-results-list">
+          <!-- Populated dynamically -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FEATURED STORIES HUB MODAL -->
+  <div id="story-modal" class="modal-overlay">
+    <div class="modal-box" style="max-width:960px; max-height:85vh; display:flex; flex-direction:column;">
+      <div class="modal-header">
+        <div class="modal-title">📖 Executive Story Hub: Critical National & Global Issues (2024–2026)</div>
+        <button id="story-modal-close" class="modal-close">&times;</button>
+      </div>
+      <div class="modal-body" style="overflow-y:auto; padding:16px;">
+        <div class="story-hub-filter-tabs">
+          <button class="story-tab-btn active" data-tab="all">All Stories</button>
+          <button class="story-tab-btn" data-tab="recent">🚨 2024–2026 Priority Issues</button>
+          <button class="story-tab-btn" data-tab="society">👥 Society & Demographics</button>
+          <button class="story-tab-btn" data-tab="economy">📈 Economy & Housing</button>
+        </div>
+        <div id="story-cards-grid" class="story-cards-grid">
+          <!-- Rendered dynamically -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="dashboard.js"></script>
+</body>
+</html>

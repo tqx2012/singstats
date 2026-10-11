@@ -1,0 +1,836 @@
+{
+  "Data": {
+    "id": "17444",
+    "tableType": "Census of Population 2020",
+    "groupTitle": null,
+    "title": "Resident Population Aged 5 Years and Over by Language Most / Second Most Frequently Spoken at Home, Type of Dwelling and Ethnic Group (Indians)",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data exclude persons who were unable to speak, and those in one-person households and households comprising only unrelated persons.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "16/06/2021",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Education, Language Spoken and Literacy",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "327681"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "261606"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "14051"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "48658"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "106597"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "92300"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "50967"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "14909"
+              },
+              {
+                "key": "Others",
+                "value": "198"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "English1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "194145"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "144111"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "6533"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "21524"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "57536"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "58519"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "37390"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "12510"
+              },
+              {
+                "key": "Others",
+                "value": "134"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.1",
+        "rowText": "English Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29691"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "18979"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "1012"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "2590"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "7019"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "8358"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "7551"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "3115"
+              },
+              {
+                "key": "Others",
+                "value": "46"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.2",
+        "rowText": "English & Malay",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "26785"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "23111"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "1924"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "3333"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "9117"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "8738"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "2020"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "1654"
+              },
+              {
+                "key": "Others",
+                "value": "-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.3",
+        "rowText": "English & Tamil",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "87268"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "74736"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "3284"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "11979"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "30098"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "29375"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "8543"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "3967"
+              },
+              {
+                "key": "Others",
+                "value": "22"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.4",
+        "rowText": "English & Other Indian Language",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43338"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "22867"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "134"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "3020"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "9719"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "9994"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "17391"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "3080"
+              },
+              {
+                "key": "Others",
+                "value": "-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "Malay1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19706"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "19164"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "3058"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "3920"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "7680"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "4506"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "280"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "262"
+              },
+              {
+                "key": "Others",
+                "value": "-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.1",
+        "rowText": "Malay & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14429"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "13967"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "1836"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "2247"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "6229"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "3654"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "237"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "225"
+              },
+              {
+                "key": "Others",
+                "value": "-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "Indian Languages",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "112883"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "97561"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "4433"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "22789"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "41258"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "29081"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "13161"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "2097"
+              },
+              {
+                "key": "Others",
+                "value": "65"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.1",
+        "rowText": "Tamil1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "89680"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "81367"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "4231"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "20193"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "33950"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "22993"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "6563"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "1721"
+              },
+              {
+                "key": "Others",
+                "value": "28"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.1.1",
+        "rowText": "Tamil Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14537"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "13810"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "893"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "4496"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "5468"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "2952"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "501"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "208"
+              },
+              {
+                "key": "Others",
+                "value": "18"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.1.2",
+        "rowText": "Tamil & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "72273"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "65039"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "2875"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "15054"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "27671"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "19439"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "5787"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "1437"
+              },
+              {
+                "key": "Others",
+                "value": "10"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.2",
+        "rowText": "Other Indian Languages1/",
+        "uoM": "Number",
+        "footnote": "1/ Data include other categories of language second most frequently spoken at home which are not shown.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23204"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "16193"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "203"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "2596"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "7307"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "6088"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "6598"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "376"
+              },
+              {
+                "key": "Others",
+                "value": "36"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.2.1",
+        "rowText": "Other Indian Language & English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18376"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "12671"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "112"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "1832"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "5697"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "5030"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "5484"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "198"
+              },
+              {
+                "key": "Others",
+                "value": "24"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "Other Languages2/",
+        "uoM": "Number",
+        "footnote": "2/ Not elsewhere included.",
+        "columns": [
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "947"
+              },
+              {
+                "key": "HDB Dwellings",
+                "columns": [
+                  {
+                    "key": "Total",
+                    "value": "770"
+                  },
+                  {
+                    "key": "1- and 2-Room Flats3/",
+                    "value": "26"
+                  },
+                  {
+                    "key": "3-Room Flats",
+                    "value": "426"
+                  },
+                  {
+                    "key": "4-Room Flats",
+                    "value": "124"
+                  },
+                  {
+                    "key": "5-Room and Executive Flats",
+                    "value": "195"
+                  }
+                ]
+              },
+              {
+                "key": "Condominium and Other Apartments",
+                "value": "135"
+              },
+              {
+                "key": "Landed Properties",
+                "value": "41"
+              },
+              {
+                "key": "Others",
+                "value": "-"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

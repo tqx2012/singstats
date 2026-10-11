@@ -1,0 +1,2044 @@
+{
+  "Data": {
+    "theme": "Society",
+    "subject": "Health",
+    "topic": "Admissions and Outpatient Attendances",
+    "id": "M870321",
+    "groupTitle": null,
+    "title": "Hospital Admission Rate By Sex And Age, Annual",
+    "frequency": "Annual",
+    "adjustmentType": null,
+    "datasource": "MINISTRY OF HEALTH",
+    "footnote": "A residential health facility providing more than one residential care service will be categorised based on its highest level of medical capability (LMC), provided the highest LMC beds make up at least 25 per cent of total bed capacity. For example, a health facility providing both community hospital and chronic sick services will be categorised as a 'Community Hospital' if its number of community hospital beds is at least 25 per cent of its total bed capacity. 'Community Hospitals' includes multiple services i.e. community hospital (sub-acute and rehabilitation), chronic sick units and inpatient hospice. Refer to inpatient discharges, excluding normal deliveries and legalised abortions.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "04/02/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "sortBy": null,
+    "timeFilter": null,
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "seriesNo": "1",
+        "rowText": "Acute Hospitals - Male",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "90.2"
+          },
+          {
+            "key": "2007",
+            "value": "91"
+          },
+          {
+            "key": "2008",
+            "value": "90.6"
+          },
+          {
+            "key": "2009",
+            "value": "90.2"
+          },
+          {
+            "key": "2010",
+            "value": "93.2"
+          },
+          {
+            "key": "2011",
+            "value": "96.9"
+          },
+          {
+            "key": "2012",
+            "value": "100.7"
+          },
+          {
+            "key": "2013",
+            "value": "104.5"
+          },
+          {
+            "key": "2014",
+            "value": "108.2"
+          },
+          {
+            "key": "2015",
+            "value": "110.5"
+          },
+          {
+            "key": "2016",
+            "value": "123.7"
+          },
+          {
+            "key": "2017",
+            "value": "127.4"
+          },
+          {
+            "key": "2018",
+            "value": "130"
+          },
+          {
+            "key": "2019",
+            "value": "136.8"
+          },
+          {
+            "key": "2020",
+            "value": "121.8"
+          },
+          {
+            "key": "2021",
+            "value": "128.2"
+          },
+          {
+            "key": "2022",
+            "value": "133.9"
+          },
+          {
+            "key": "2023",
+            "value": "137.5"
+          },
+          {
+            "key": "2024",
+            "value": "138.6"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.1",
+        "rowText": "0 - 14 Years Old",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "92.5"
+          },
+          {
+            "key": "2007",
+            "value": "95"
+          },
+          {
+            "key": "2008",
+            "value": "99.2"
+          },
+          {
+            "key": "2009",
+            "value": "100.1"
+          },
+          {
+            "key": "2010",
+            "value": "104.3"
+          },
+          {
+            "key": "2011",
+            "value": "111.6"
+          },
+          {
+            "key": "2012",
+            "value": "118.5"
+          },
+          {
+            "key": "2013",
+            "value": "120.2"
+          },
+          {
+            "key": "2014",
+            "value": "126.6"
+          },
+          {
+            "key": "2015",
+            "value": "128.5"
+          },
+          {
+            "key": "2016",
+            "value": "142.1"
+          },
+          {
+            "key": "2017",
+            "value": "142.7"
+          },
+          {
+            "key": "2018",
+            "value": "145.4"
+          },
+          {
+            "key": "2019",
+            "value": "148.4"
+          },
+          {
+            "key": "2020",
+            "value": "110.9"
+          },
+          {
+            "key": "2021",
+            "value": "119.7"
+          },
+          {
+            "key": "2022",
+            "value": "140.4"
+          },
+          {
+            "key": "2023",
+            "value": "139.5"
+          },
+          {
+            "key": "2024",
+            "value": "135.4"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.2",
+        "rowText": "15 - 64 Years Old",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "64"
+          },
+          {
+            "key": "2007",
+            "value": "63.9"
+          },
+          {
+            "key": "2008",
+            "value": "62.6"
+          },
+          {
+            "key": "2009",
+            "value": "62.7"
+          },
+          {
+            "key": "2010",
+            "value": "63.8"
+          },
+          {
+            "key": "2011",
+            "value": "65.4"
+          },
+          {
+            "key": "2012",
+            "value": "66.7"
+          },
+          {
+            "key": "2013",
+            "value": "70"
+          },
+          {
+            "key": "2014",
+            "value": "71"
+          },
+          {
+            "key": "2015",
+            "value": "71.5"
+          },
+          {
+            "key": "2016",
+            "value": "81.5"
+          },
+          {
+            "key": "2017",
+            "value": "83.8"
+          },
+          {
+            "key": "2018",
+            "value": "84.3"
+          },
+          {
+            "key": "2019",
+            "value": "88.8"
+          },
+          {
+            "key": "2020",
+            "value": "80.3"
+          },
+          {
+            "key": "2021",
+            "value": "82.7"
+          },
+          {
+            "key": "2022",
+            "value": "78.7"
+          },
+          {
+            "key": "2023",
+            "value": "81.1"
+          },
+          {
+            "key": "2024",
+            "value": "82.4"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.3",
+        "rowText": "65 Years Old & Above",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "337.9"
+          },
+          {
+            "key": "2007",
+            "value": "340.4"
+          },
+          {
+            "key": "2008",
+            "value": "333.2"
+          },
+          {
+            "key": "2009",
+            "value": "323"
+          },
+          {
+            "key": "2010",
+            "value": "339.6"
+          },
+          {
+            "key": "2011",
+            "value": "345.2"
+          },
+          {
+            "key": "2012",
+            "value": "347.6"
+          },
+          {
+            "key": "2013",
+            "value": "343.7"
+          },
+          {
+            "key": "2014",
+            "value": "347.7"
+          },
+          {
+            "key": "2015",
+            "value": "347.6"
+          },
+          {
+            "key": "2016",
+            "value": "366.7"
+          },
+          {
+            "key": "2017",
+            "value": "369.1"
+          },
+          {
+            "key": "2018",
+            "value": "368.2"
+          },
+          {
+            "key": "2019",
+            "value": "376.5"
+          },
+          {
+            "key": "2020",
+            "value": "338.4"
+          },
+          {
+            "key": "2021",
+            "value": "348.4"
+          },
+          {
+            "key": "2022",
+            "value": "371.8"
+          },
+          {
+            "key": "2023",
+            "value": "373.4"
+          },
+          {
+            "key": "2024",
+            "value": "366"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2",
+        "rowText": "Acute Hospitals - Female",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "98.3"
+          },
+          {
+            "key": "2007",
+            "value": "99.4"
+          },
+          {
+            "key": "2008",
+            "value": "98.1"
+          },
+          {
+            "key": "2009",
+            "value": "96.4"
+          },
+          {
+            "key": "2010",
+            "value": "98.3"
+          },
+          {
+            "key": "2011",
+            "value": "102.7"
+          },
+          {
+            "key": "2012",
+            "value": "105.5"
+          },
+          {
+            "key": "2013",
+            "value": "107.7"
+          },
+          {
+            "key": "2014",
+            "value": "111"
+          },
+          {
+            "key": "2015",
+            "value": "111.9"
+          },
+          {
+            "key": "2016",
+            "value": "123.4"
+          },
+          {
+            "key": "2017",
+            "value": "127.4"
+          },
+          {
+            "key": "2018",
+            "value": "129.6"
+          },
+          {
+            "key": "2019",
+            "value": "135.6"
+          },
+          {
+            "key": "2020",
+            "value": "117.4"
+          },
+          {
+            "key": "2021",
+            "value": "126.2"
+          },
+          {
+            "key": "2022",
+            "value": "129.4"
+          },
+          {
+            "key": "2023",
+            "value": "131.5"
+          },
+          {
+            "key": "2024",
+            "value": "132.1"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2.1",
+        "rowText": "0 - 14 Years Old",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "81.4"
+          },
+          {
+            "key": "2007",
+            "value": "83.2"
+          },
+          {
+            "key": "2008",
+            "value": "86.6"
+          },
+          {
+            "key": "2009",
+            "value": "84.9"
+          },
+          {
+            "key": "2010",
+            "value": "88"
+          },
+          {
+            "key": "2011",
+            "value": "95.6"
+          },
+          {
+            "key": "2012",
+            "value": "101.2"
+          },
+          {
+            "key": "2013",
+            "value": "102"
+          },
+          {
+            "key": "2014",
+            "value": "109.4"
+          },
+          {
+            "key": "2015",
+            "value": "112"
+          },
+          {
+            "key": "2016",
+            "value": "121.5"
+          },
+          {
+            "key": "2017",
+            "value": "124.3"
+          },
+          {
+            "key": "2018",
+            "value": "127"
+          },
+          {
+            "key": "2019",
+            "value": "131.8"
+          },
+          {
+            "key": "2020",
+            "value": "98"
+          },
+          {
+            "key": "2021",
+            "value": "109.4"
+          },
+          {
+            "key": "2022",
+            "value": "123.4"
+          },
+          {
+            "key": "2023",
+            "value": "121.8"
+          },
+          {
+            "key": "2024",
+            "value": "119.5"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2.2",
+        "rowText": "15 - 64 Years Old",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "77.4"
+          },
+          {
+            "key": "2007",
+            "value": "77.3"
+          },
+          {
+            "key": "2008",
+            "value": "75"
+          },
+          {
+            "key": "2009",
+            "value": "73.5"
+          },
+          {
+            "key": "2010",
+            "value": "74.2"
+          },
+          {
+            "key": "2011",
+            "value": "75.7"
+          },
+          {
+            "key": "2012",
+            "value": "77.2"
+          },
+          {
+            "key": "2013",
+            "value": "78.3"
+          },
+          {
+            "key": "2014",
+            "value": "80"
+          },
+          {
+            "key": "2015",
+            "value": "80.1"
+          },
+          {
+            "key": "2016",
+            "value": "88.6"
+          },
+          {
+            "key": "2017",
+            "value": "90.6"
+          },
+          {
+            "key": "2018",
+            "value": "92.3"
+          },
+          {
+            "key": "2019",
+            "value": "96.5"
+          },
+          {
+            "key": "2020",
+            "value": "85.2"
+          },
+          {
+            "key": "2021",
+            "value": "90.3"
+          },
+          {
+            "key": "2022",
+            "value": "86.1"
+          },
+          {
+            "key": "2023",
+            "value": "86.5"
+          },
+          {
+            "key": "2024",
+            "value": "86.4"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2.3",
+        "rowText": "65 Years Old & Above",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "295.7"
+          },
+          {
+            "key": "2007",
+            "value": "299.8"
+          },
+          {
+            "key": "2008",
+            "value": "294.8"
+          },
+          {
+            "key": "2009",
+            "value": "287.7"
+          },
+          {
+            "key": "2010",
+            "value": "295.3"
+          },
+          {
+            "key": "2011",
+            "value": "308"
+          },
+          {
+            "key": "2012",
+            "value": "304"
+          },
+          {
+            "key": "2013",
+            "value": "302.6"
+          },
+          {
+            "key": "2014",
+            "value": "299.9"
+          },
+          {
+            "key": "2015",
+            "value": "292.9"
+          },
+          {
+            "key": "2016",
+            "value": "314.1"
+          },
+          {
+            "key": "2017",
+            "value": "319.8"
+          },
+          {
+            "key": "2018",
+            "value": "313.8"
+          },
+          {
+            "key": "2019",
+            "value": "318.9"
+          },
+          {
+            "key": "2020",
+            "value": "274.6"
+          },
+          {
+            "key": "2021",
+            "value": "286"
+          },
+          {
+            "key": "2022",
+            "value": "303.7"
+          },
+          {
+            "key": "2023",
+            "value": "307.7"
+          },
+          {
+            "key": "2024",
+            "value": "305.3"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3",
+        "rowText": "Psychiatric Hospitals - Male",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "2.5"
+          },
+          {
+            "key": "2007",
+            "value": "2.5"
+          },
+          {
+            "key": "2008",
+            "value": "2.6"
+          },
+          {
+            "key": "2009",
+            "value": "2.7"
+          },
+          {
+            "key": "2010",
+            "value": "2.8"
+          },
+          {
+            "key": "2011",
+            "value": "2.8"
+          },
+          {
+            "key": "2012",
+            "value": "2.3"
+          },
+          {
+            "key": "2013",
+            "value": "2.2"
+          },
+          {
+            "key": "2014",
+            "value": "2.4"
+          },
+          {
+            "key": "2015",
+            "value": "2.6"
+          },
+          {
+            "key": "2016",
+            "value": "2.7"
+          },
+          {
+            "key": "2017",
+            "value": "2.7"
+          },
+          {
+            "key": "2018",
+            "value": "2.7"
+          },
+          {
+            "key": "2019",
+            "value": "2.6"
+          },
+          {
+            "key": "2020",
+            "value": "2.4"
+          },
+          {
+            "key": "2021",
+            "value": "2.2"
+          },
+          {
+            "key": "2022",
+            "value": "2.5"
+          },
+          {
+            "key": "2023",
+            "value": "2.7"
+          },
+          {
+            "key": "2024",
+            "value": "2.6"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3.1",
+        "rowText": "0 - 14 Years Old",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "0.1"
+          },
+          {
+            "key": "2007",
+            "value": "0.1"
+          },
+          {
+            "key": "2008",
+            "value": "0.1"
+          },
+          {
+            "key": "2009",
+            "value": "0.1"
+          },
+          {
+            "key": "2010",
+            "value": "0.2"
+          },
+          {
+            "key": "2011",
+            "value": "0.1"
+          },
+          {
+            "key": "2012",
+            "value": "0.1"
+          },
+          {
+            "key": "2013",
+            "value": "0.2"
+          },
+          {
+            "key": "2014",
+            "value": "0.2"
+          },
+          {
+            "key": "2015",
+            "value": "0.1"
+          },
+          {
+            "key": "2016",
+            "value": "0.2"
+          },
+          {
+            "key": "2017",
+            "value": "0.2"
+          },
+          {
+            "key": "2018",
+            "value": "0.1"
+          },
+          {
+            "key": "2019",
+            "value": "0.1"
+          },
+          {
+            "key": "2020",
+            "value": "0.1"
+          },
+          {
+            "key": "2021",
+            "value": "0.2"
+          },
+          {
+            "key": "2022",
+            "value": "0.1"
+          },
+          {
+            "key": "2023",
+            "value": "0.2"
+          },
+          {
+            "key": "2024",
+            "value": "0.1"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3.2",
+        "rowText": "15 - 64 Years Old",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "3.2"
+          },
+          {
+            "key": "2007",
+            "value": "3.1"
+          },
+          {
+            "key": "2008",
+            "value": "3.3"
+          },
+          {
+            "key": "2009",
+            "value": "3.3"
+          },
+          {
+            "key": "2010",
+            "value": "3.5"
+          },
+          {
+            "key": "2011",
+            "value": "3.5"
+          },
+          {
+            "key": "2012",
+            "value": "2.8"
+          },
+          {
+            "key": "2013",
+            "value": "2.7"
+          },
+          {
+            "key": "2014",
+            "value": "3"
+          },
+          {
+            "key": "2015",
+            "value": "3.2"
+          },
+          {
+            "key": "2016",
+            "value": "3.3"
+          },
+          {
+            "key": "2017",
+            "value": "3.3"
+          },
+          {
+            "key": "2018",
+            "value": "3.3"
+          },
+          {
+            "key": "2019",
+            "value": "3.2"
+          },
+          {
+            "key": "2020",
+            "value": "2.9"
+          },
+          {
+            "key": "2021",
+            "value": "2.7"
+          },
+          {
+            "key": "2022",
+            "value": "3"
+          },
+          {
+            "key": "2023",
+            "value": "3.2"
+          },
+          {
+            "key": "2024",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3.3",
+        "rowText": "65 Years Old & Above",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "2.8"
+          },
+          {
+            "key": "2007",
+            "value": "2.7"
+          },
+          {
+            "key": "2008",
+            "value": "2.2"
+          },
+          {
+            "key": "2009",
+            "value": "2.5"
+          },
+          {
+            "key": "2010",
+            "value": "2.9"
+          },
+          {
+            "key": "2011",
+            "value": "2.6"
+          },
+          {
+            "key": "2012",
+            "value": "1.8"
+          },
+          {
+            "key": "2013",
+            "value": "1.8"
+          },
+          {
+            "key": "2014",
+            "value": "2"
+          },
+          {
+            "key": "2015",
+            "value": "2.3"
+          },
+          {
+            "key": "2016",
+            "value": "2.1"
+          },
+          {
+            "key": "2017",
+            "value": "2.2"
+          },
+          {
+            "key": "2018",
+            "value": "2.3"
+          },
+          {
+            "key": "2019",
+            "value": "2.4"
+          },
+          {
+            "key": "2020",
+            "value": "2.1"
+          },
+          {
+            "key": "2021",
+            "value": "2.2"
+          },
+          {
+            "key": "2022",
+            "value": "2.5"
+          },
+          {
+            "key": "2023",
+            "value": "2.6"
+          },
+          {
+            "key": "2024",
+            "value": "3.3"
+          }
+        ]
+      },
+      {
+        "seriesNo": "4",
+        "rowText": "Psychiatric Hospitals - Female",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "1.7"
+          },
+          {
+            "key": "2007",
+            "value": "1.6"
+          },
+          {
+            "key": "2008",
+            "value": "1.7"
+          },
+          {
+            "key": "2009",
+            "value": "1.6"
+          },
+          {
+            "key": "2010",
+            "value": "1.7"
+          },
+          {
+            "key": "2011",
+            "value": "1.6"
+          },
+          {
+            "key": "2012",
+            "value": "1.4"
+          },
+          {
+            "key": "2013",
+            "value": "1.4"
+          },
+          {
+            "key": "2014",
+            "value": "1.4"
+          },
+          {
+            "key": "2015",
+            "value": "1.6"
+          },
+          {
+            "key": "2016",
+            "value": "1.6"
+          },
+          {
+            "key": "2017",
+            "value": "1.6"
+          },
+          {
+            "key": "2018",
+            "value": "1.5"
+          },
+          {
+            "key": "2019",
+            "value": "1.6"
+          },
+          {
+            "key": "2020",
+            "value": "1.4"
+          },
+          {
+            "key": "2021",
+            "value": "1.5"
+          },
+          {
+            "key": "2022",
+            "value": "1.7"
+          },
+          {
+            "key": "2023",
+            "value": "1.7"
+          },
+          {
+            "key": "2024",
+            "value": "1.8"
+          }
+        ]
+      },
+      {
+        "seriesNo": "4.1",
+        "rowText": "0 - 14 Years Old",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "0.1"
+          },
+          {
+            "key": "2007",
+            "value": "0.1"
+          },
+          {
+            "key": "2008",
+            "value": "0.1"
+          },
+          {
+            "key": "2009",
+            "value": "0.2"
+          },
+          {
+            "key": "2010",
+            "value": "0.1"
+          },
+          {
+            "key": "2011",
+            "value": "0.1"
+          },
+          {
+            "key": "2012",
+            "value": "0.1"
+          },
+          {
+            "key": "2013",
+            "value": "0.1"
+          },
+          {
+            "key": "2014",
+            "value": "0.1"
+          },
+          {
+            "key": "2015",
+            "value": "0.2"
+          },
+          {
+            "key": "2016",
+            "value": "0.2"
+          },
+          {
+            "key": "2017",
+            "value": "0.2"
+          },
+          {
+            "key": "2018",
+            "value": "0.2"
+          },
+          {
+            "key": "2019",
+            "value": "0.2"
+          },
+          {
+            "key": "2020",
+            "value": "0.2"
+          },
+          {
+            "key": "2021",
+            "value": "0.5"
+          },
+          {
+            "key": "2022",
+            "value": "0.4"
+          },
+          {
+            "key": "2023",
+            "value": "0.4"
+          },
+          {
+            "key": "2024",
+            "value": "0.1"
+          }
+        ]
+      },
+      {
+        "seriesNo": "4.2",
+        "rowText": "15 - 64 Years Old",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "2"
+          },
+          {
+            "key": "2007",
+            "value": "1.9"
+          },
+          {
+            "key": "2008",
+            "value": "2.1"
+          },
+          {
+            "key": "2009",
+            "value": "1.9"
+          },
+          {
+            "key": "2010",
+            "value": "2"
+          },
+          {
+            "key": "2011",
+            "value": "1.9"
+          },
+          {
+            "key": "2012",
+            "value": "1.7"
+          },
+          {
+            "key": "2013",
+            "value": "1.6"
+          },
+          {
+            "key": "2014",
+            "value": "1.7"
+          },
+          {
+            "key": "2015",
+            "value": "1.9"
+          },
+          {
+            "key": "2016",
+            "value": "1.9"
+          },
+          {
+            "key": "2017",
+            "value": "1.9"
+          },
+          {
+            "key": "2018",
+            "value": "1.8"
+          },
+          {
+            "key": "2019",
+            "value": "1.8"
+          },
+          {
+            "key": "2020",
+            "value": "1.7"
+          },
+          {
+            "key": "2021",
+            "value": "1.7"
+          },
+          {
+            "key": "2022",
+            "value": "2"
+          },
+          {
+            "key": "2023",
+            "value": "2"
+          },
+          {
+            "key": "2024",
+            "value": "1.9"
+          }
+        ]
+      },
+      {
+        "seriesNo": "4.3",
+        "rowText": "65 Years Old & Above",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "2.5"
+          },
+          {
+            "key": "2007",
+            "value": "2.1"
+          },
+          {
+            "key": "2008",
+            "value": "1.9"
+          },
+          {
+            "key": "2009",
+            "value": "2"
+          },
+          {
+            "key": "2010",
+            "value": "1.8"
+          },
+          {
+            "key": "2011",
+            "value": "1.7"
+          },
+          {
+            "key": "2012",
+            "value": "1.4"
+          },
+          {
+            "key": "2013",
+            "value": "1.7"
+          },
+          {
+            "key": "2014",
+            "value": "1.5"
+          },
+          {
+            "key": "2015",
+            "value": "1.6"
+          },
+          {
+            "key": "2016",
+            "value": "1.5"
+          },
+          {
+            "key": "2017",
+            "value": "1.6"
+          },
+          {
+            "key": "2018",
+            "value": "1.4"
+          },
+          {
+            "key": "2019",
+            "value": "1.5"
+          },
+          {
+            "key": "2020",
+            "value": "1.3"
+          },
+          {
+            "key": "2021",
+            "value": "1.5"
+          },
+          {
+            "key": "2022",
+            "value": "1.6"
+          },
+          {
+            "key": "2023",
+            "value": "1.7"
+          },
+          {
+            "key": "2024",
+            "value": "2.6"
+          }
+        ]
+      },
+      {
+        "seriesNo": "5",
+        "rowText": "Community Hospitals - Male",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "Refer to inpatient discharges for all services (including chronic sick and inpatient hospice) in community hospital.",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "1.2"
+          },
+          {
+            "key": "2007",
+            "value": "1.3"
+          },
+          {
+            "key": "2008",
+            "value": "1.4"
+          },
+          {
+            "key": "2009",
+            "value": "1.5"
+          },
+          {
+            "key": "2010",
+            "value": "1.7"
+          },
+          {
+            "key": "2011",
+            "value": "1.7"
+          },
+          {
+            "key": "2012",
+            "value": "1.6"
+          },
+          {
+            "key": "2013",
+            "value": "1.8"
+          },
+          {
+            "key": "2014",
+            "value": "1.9"
+          },
+          {
+            "key": "2015",
+            "value": "2.2"
+          },
+          {
+            "key": "2016",
+            "value": "3.1"
+          },
+          {
+            "key": "2017",
+            "value": "3.7"
+          },
+          {
+            "key": "2018",
+            "value": "4.1"
+          },
+          {
+            "key": "2019",
+            "value": "4.5"
+          },
+          {
+            "key": "2020",
+            "value": "4.4"
+          },
+          {
+            "key": "2021",
+            "value": "5"
+          },
+          {
+            "key": "2022",
+            "value": "5.2"
+          },
+          {
+            "key": "2023",
+            "value": "4.6"
+          },
+          {
+            "key": "2024",
+            "value": "5.6"
+          }
+        ]
+      },
+      {
+        "seriesNo": "5.1",
+        "rowText": "0 - 14 Years Old",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "Refer to inpatient discharges for all services (including chronic sick and inpatient hospice) in community hospital.",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "0"
+          },
+          {
+            "key": "2007",
+            "value": "-"
+          },
+          {
+            "key": "2008",
+            "value": "0.1"
+          },
+          {
+            "key": "2009",
+            "value": "-"
+          },
+          {
+            "key": "2010",
+            "value": "-"
+          },
+          {
+            "key": "2011",
+            "value": "-"
+          },
+          {
+            "key": "2012",
+            "value": "0"
+          },
+          {
+            "key": "2013",
+            "value": "0"
+          },
+          {
+            "key": "2014",
+            "value": "0"
+          },
+          {
+            "key": "2015",
+            "value": "0"
+          },
+          {
+            "key": "2016",
+            "value": "0.1"
+          },
+          {
+            "key": "2017",
+            "value": "0.1"
+          },
+          {
+            "key": "2018",
+            "value": "0.1"
+          },
+          {
+            "key": "2019",
+            "value": "0"
+          },
+          {
+            "key": "2020",
+            "value": "0"
+          },
+          {
+            "key": "2021",
+            "value": "0"
+          },
+          {
+            "key": "2022",
+            "value": "0"
+          },
+          {
+            "key": "2023",
+            "value": "0.1"
+          },
+          {
+            "key": "2024",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "seriesNo": "5.2",
+        "rowText": "15 - 64 Years Old",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "Refer to inpatient discharges for all services (including chronic sick and inpatient hospice) in community hospital.",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "0.5"
+          },
+          {
+            "key": "2007",
+            "value": "0.5"
+          },
+          {
+            "key": "2008",
+            "value": "0.5"
+          },
+          {
+            "key": "2009",
+            "value": "0.6"
+          },
+          {
+            "key": "2010",
+            "value": "0.7"
+          },
+          {
+            "key": "2011",
+            "value": "0.6"
+          },
+          {
+            "key": "2012",
+            "value": "0.6"
+          },
+          {
+            "key": "2013",
+            "value": "0.6"
+          },
+          {
+            "key": "2014",
+            "value": "0.6"
+          },
+          {
+            "key": "2015",
+            "value": "0.7"
+          },
+          {
+            "key": "2016",
+            "value": "1.1"
+          },
+          {
+            "key": "2017",
+            "value": "1.2"
+          },
+          {
+            "key": "2018",
+            "value": "1.3"
+          },
+          {
+            "key": "2019",
+            "value": "1.5"
+          },
+          {
+            "key": "2020",
+            "value": "1.5"
+          },
+          {
+            "key": "2021",
+            "value": "1.8"
+          },
+          {
+            "key": "2022",
+            "value": "1.4"
+          },
+          {
+            "key": "2023",
+            "value": "1.3"
+          },
+          {
+            "key": "2024",
+            "value": "1.4"
+          }
+        ]
+      },
+      {
+        "seriesNo": "5.3",
+        "rowText": "65 Years Old & Above",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "Refer to inpatient discharges for all services (including chronic sick and inpatient hospice) in community hospital.",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "12.2"
+          },
+          {
+            "key": "2007",
+            "value": "12.8"
+          },
+          {
+            "key": "2008",
+            "value": "13.5"
+          },
+          {
+            "key": "2009",
+            "value": "13.6"
+          },
+          {
+            "key": "2010",
+            "value": "14.9"
+          },
+          {
+            "key": "2011",
+            "value": "14.9"
+          },
+          {
+            "key": "2012",
+            "value": "13"
+          },
+          {
+            "key": "2013",
+            "value": "13.9"
+          },
+          {
+            "key": "2014",
+            "value": "14.4"
+          },
+          {
+            "key": "2015",
+            "value": "15.6"
+          },
+          {
+            "key": "2016",
+            "value": "20.3"
+          },
+          {
+            "key": "2017",
+            "value": "23.4"
+          },
+          {
+            "key": "2018",
+            "value": "24.1"
+          },
+          {
+            "key": "2019",
+            "value": "25.6"
+          },
+          {
+            "key": "2020",
+            "value": "23.4"
+          },
+          {
+            "key": "2021",
+            "value": "25"
+          },
+          {
+            "key": "2022",
+            "value": "26.7"
+          },
+          {
+            "key": "2023",
+            "value": "22.5"
+          },
+          {
+            "key": "2024",
+            "value": "27"
+          }
+        ]
+      },
+      {
+        "seriesNo": "6",
+        "rowText": "Community Hospitals - Female",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "Refer to inpatient discharges for all services (including chronic sick and inpatient hospice) in community hospital.",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "1.6"
+          },
+          {
+            "key": "2007",
+            "value": "1.6"
+          },
+          {
+            "key": "2008",
+            "value": "1.9"
+          },
+          {
+            "key": "2009",
+            "value": "1.9"
+          },
+          {
+            "key": "2010",
+            "value": "2"
+          },
+          {
+            "key": "2011",
+            "value": "2.1"
+          },
+          {
+            "key": "2012",
+            "value": "2.1"
+          },
+          {
+            "key": "2013",
+            "value": "2.3"
+          },
+          {
+            "key": "2014",
+            "value": "2.4"
+          },
+          {
+            "key": "2015",
+            "value": "2.7"
+          },
+          {
+            "key": "2016",
+            "value": "3.7"
+          },
+          {
+            "key": "2017",
+            "value": "4.3"
+          },
+          {
+            "key": "2018",
+            "value": "4.6"
+          },
+          {
+            "key": "2019",
+            "value": "5.1"
+          },
+          {
+            "key": "2020",
+            "value": "4.4"
+          },
+          {
+            "key": "2021",
+            "value": "5.1"
+          },
+          {
+            "key": "2022",
+            "value": "5.2"
+          },
+          {
+            "key": "2023",
+            "value": "5.2"
+          },
+          {
+            "key": "2024",
+            "value": "6.6"
+          }
+        ]
+      },
+      {
+        "seriesNo": "6.1",
+        "rowText": "0 - 14 Years Old",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "Refer to inpatient discharges for all services (including chronic sick and inpatient hospice) in community hospital.",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "0"
+          },
+          {
+            "key": "2007",
+            "value": "-"
+          },
+          {
+            "key": "2008",
+            "value": "-"
+          },
+          {
+            "key": "2009",
+            "value": "-"
+          },
+          {
+            "key": "2010",
+            "value": "-"
+          },
+          {
+            "key": "2011",
+            "value": "-"
+          },
+          {
+            "key": "2012",
+            "value": "0"
+          },
+          {
+            "key": "2013",
+            "value": "0"
+          },
+          {
+            "key": "2014",
+            "value": "0"
+          },
+          {
+            "key": "2015",
+            "value": "0"
+          },
+          {
+            "key": "2016",
+            "value": "0"
+          },
+          {
+            "key": "2017",
+            "value": "0"
+          },
+          {
+            "key": "2018",
+            "value": "0"
+          },
+          {
+            "key": "2019",
+            "value": "0"
+          },
+          {
+            "key": "2020",
+            "value": "0"
+          },
+          {
+            "key": "2021",
+            "value": "0"
+          },
+          {
+            "key": "2022",
+            "value": "0.1"
+          },
+          {
+            "key": "2023",
+            "value": "0.1"
+          },
+          {
+            "key": "2024",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "seriesNo": "6.2",
+        "rowText": "15 - 64 Years Old",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "Refer to inpatient discharges for all services (including chronic sick and inpatient hospice) in community hospital.",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "0.4"
+          },
+          {
+            "key": "2007",
+            "value": "0.4"
+          },
+          {
+            "key": "2008",
+            "value": "0.4"
+          },
+          {
+            "key": "2009",
+            "value": "0.4"
+          },
+          {
+            "key": "2010",
+            "value": "0.4"
+          },
+          {
+            "key": "2011",
+            "value": "0.5"
+          },
+          {
+            "key": "2012",
+            "value": "0.5"
+          },
+          {
+            "key": "2013",
+            "value": "0.5"
+          },
+          {
+            "key": "2014",
+            "value": "0.5"
+          },
+          {
+            "key": "2015",
+            "value": "0.6"
+          },
+          {
+            "key": "2016",
+            "value": "0.8"
+          },
+          {
+            "key": "2017",
+            "value": "0.9"
+          },
+          {
+            "key": "2018",
+            "value": "1"
+          },
+          {
+            "key": "2019",
+            "value": "1.1"
+          },
+          {
+            "key": "2020",
+            "value": "1.1"
+          },
+          {
+            "key": "2021",
+            "value": "1.3"
+          },
+          {
+            "key": "2022",
+            "value": "1"
+          },
+          {
+            "key": "2023",
+            "value": "1"
+          },
+          {
+            "key": "2024",
+            "value": "1.2"
+          }
+        ]
+      },
+      {
+        "seriesNo": "6.3",
+        "rowText": "65 Years Old & Above",
+        "uoM": "Per 1000 Resident Population",
+        "footnote": "Refer to inpatient discharges for all services (including chronic sick and inpatient hospice) in community hospital.",
+        "columns": [
+          {
+            "key": "2006",
+            "value": "14.1"
+          },
+          {
+            "key": "2007",
+            "value": "14.4"
+          },
+          {
+            "key": "2008",
+            "value": "16.4"
+          },
+          {
+            "key": "2009",
+            "value": "16.4"
+          },
+          {
+            "key": "2010",
+            "value": "16.9"
+          },
+          {
+            "key": "2011",
+            "value": "17.5"
+          },
+          {
+            "key": "2012",
+            "value": "16"
+          },
+          {
+            "key": "2013",
+            "value": "16.8"
+          },
+          {
+            "key": "2014",
+            "value": "16.7"
+          },
+          {
+            "key": "2015",
+            "value": "18"
+          },
+          {
+            "key": "2016",
+            "value": "23.3"
+          },
+          {
+            "key": "2017",
+            "value": "26.2"
+          },
+          {
+            "key": "2018",
+            "value": "26.7"
+          },
+          {
+            "key": "2019",
+            "value": "27.9"
+          },
+          {
+            "key": "2020",
+            "value": "23"
+          },
+          {
+            "key": "2021",
+            "value": "24.8"
+          },
+          {
+            "key": "2022",
+            "value": "25.5"
+          },
+          {
+            "key": "2023",
+            "value": "24.8"
+          },
+          {
+            "key": "2024",
+            "value": "30.4"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

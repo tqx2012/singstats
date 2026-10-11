@@ -1,0 +1,1142 @@
+{
+  "Data": {
+    "id": "9001",
+    "tableType": "General Household Survey 2005",
+    "groupTitle": null,
+    "title": "Resident Population Aged 65 Years and Over in Resident Households by Living Arrangements, Age Group and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: Data exclude elderly who were overseas for 6 months or more.For residents aged 65 years and over in resident households, the Living Arrangement categories are based on presence of their spouse and/or children (including children-in-law) in the same household. The classification also incorporates the labour force status of their children.Data on Living Arrangement of Residents Aged 65 and Over have been updated in June 2026 to incorporate refinements to the identification of child-in-law.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "09/07/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Elderly Profile",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "278884"
+              },
+              {
+                "key": "Males",
+                "value": "121191"
+              },
+              {
+                "key": "Females",
+                "value": "157693"
+              }
+            ]
+          },
+          {
+            "key": "65 - 69 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "101339"
+              },
+              {
+                "key": "Males",
+                "value": "47011"
+              },
+              {
+                "key": "Females",
+                "value": "54328"
+              }
+            ]
+          },
+          {
+            "key": "70 - 74 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "75964"
+              },
+              {
+                "key": "Males",
+                "value": "33914"
+              },
+              {
+                "key": "Females",
+                "value": "42051"
+              }
+            ]
+          },
+          {
+            "key": "75 - 79 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "52353"
+              },
+              {
+                "key": "Males",
+                "value": "22172"
+              },
+              {
+                "key": "Females",
+                "value": "30181"
+              }
+            ]
+          },
+          {
+            "key": "80 Years & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "49227"
+              },
+              {
+                "key": "Males",
+                "value": "18095"
+              },
+              {
+                "key": "Females",
+                "value": "31133"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Living With Spouse",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "145951"
+              },
+              {
+                "key": "Males",
+                "value": "91374"
+              },
+              {
+                "key": "Females",
+                "value": "54577"
+              }
+            ]
+          },
+          {
+            "key": "65 - 69 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "67766"
+              },
+              {
+                "key": "Males",
+                "value": "39061"
+              },
+              {
+                "key": "Females",
+                "value": "28705"
+              }
+            ]
+          },
+          {
+            "key": "70 - 74 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41816"
+              },
+              {
+                "key": "Males",
+                "value": "26334"
+              },
+              {
+                "key": "Females",
+                "value": "15483"
+              }
+            ]
+          },
+          {
+            "key": "75 - 79 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22464"
+              },
+              {
+                "key": "Males",
+                "value": "15386"
+              },
+              {
+                "key": "Females",
+                "value": "7077"
+              }
+            ]
+          },
+          {
+            "key": "80 Years & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13905"
+              },
+              {
+                "key": "Males",
+                "value": "10592"
+              },
+              {
+                "key": "Females",
+                "value": "3312"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1",
+        "rowText": "No Children in Household",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "48447"
+              },
+              {
+                "key": "Males",
+                "value": "29144"
+              },
+              {
+                "key": "Females",
+                "value": "19303"
+              }
+            ]
+          },
+          {
+            "key": "65 - 69 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21268"
+              },
+              {
+                "key": "Males",
+                "value": "11317"
+              },
+              {
+                "key": "Females",
+                "value": "9951"
+              }
+            ]
+          },
+          {
+            "key": "70 - 74 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14529"
+              },
+              {
+                "key": "Males",
+                "value": "9069"
+              },
+              {
+                "key": "Females",
+                "value": "5460"
+              }
+            ]
+          },
+          {
+            "key": "75 - 79 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7798"
+              },
+              {
+                "key": "Males",
+                "value": "5109"
+              },
+              {
+                "key": "Females",
+                "value": "2690"
+              }
+            ]
+          },
+          {
+            "key": "80 Years & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4851"
+              },
+              {
+                "key": "Males",
+                "value": "3649"
+              },
+              {
+                "key": "Females",
+                "value": "1202"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.2",
+        "rowText": "With Working Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "87066"
+              },
+              {
+                "key": "Males",
+                "value": "55299"
+              },
+              {
+                "key": "Females",
+                "value": "31767"
+              }
+            ]
+          },
+          {
+            "key": "65 - 69 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41554"
+              },
+              {
+                "key": "Males",
+                "value": "24505"
+              },
+              {
+                "key": "Females",
+                "value": "17048"
+              }
+            ]
+          },
+          {
+            "key": "70 - 74 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24485"
+              },
+              {
+                "key": "Males",
+                "value": "15497"
+              },
+              {
+                "key": "Females",
+                "value": "8989"
+              }
+            ]
+          },
+          {
+            "key": "75 - 79 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13045"
+              },
+              {
+                "key": "Males",
+                "value": "9099"
+              },
+              {
+                "key": "Females",
+                "value": "3946"
+              }
+            ]
+          },
+          {
+            "key": "80 Years & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7982"
+              },
+              {
+                "key": "Males",
+                "value": "6198"
+              },
+              {
+                "key": "Females",
+                "value": "1785"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.3",
+        "rowText": "With Non-Working Children Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10439"
+              },
+              {
+                "key": "Males",
+                "value": "6931"
+              },
+              {
+                "key": "Females",
+                "value": "3508"
+              }
+            ]
+          },
+          {
+            "key": "65 - 69 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4945"
+              },
+              {
+                "key": "Males",
+                "value": "3239"
+              },
+              {
+                "key": "Females",
+                "value": "1706"
+              }
+            ]
+          },
+          {
+            "key": "70 - 74 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2802"
+              },
+              {
+                "key": "Males",
+                "value": "1768"
+              },
+              {
+                "key": "Females",
+                "value": "1034"
+              }
+            ]
+          },
+          {
+            "key": "75 - 79 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1621"
+              },
+              {
+                "key": "Males",
+                "value": "1179"
+              },
+              {
+                "key": "Females",
+                "value": "442"
+              }
+            ]
+          },
+          {
+            "key": "80 Years & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1071"
+              },
+              {
+                "key": "Males",
+                "value": "745"
+              },
+              {
+                "key": "Females",
+                "value": "326"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Not Living With Spouse But With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "96412"
+              },
+              {
+                "key": "Males",
+                "value": "16522"
+              },
+              {
+                "key": "Females",
+                "value": "79890"
+              }
+            ]
+          },
+          {
+            "key": "65 - 69 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21003"
+              },
+              {
+                "key": "Males",
+                "value": "3183"
+              },
+              {
+                "key": "Females",
+                "value": "17821"
+              }
+            ]
+          },
+          {
+            "key": "70 - 74 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24310"
+              },
+              {
+                "key": "Males",
+                "value": "3857"
+              },
+              {
+                "key": "Females",
+                "value": "20453"
+              }
+            ]
+          },
+          {
+            "key": "75 - 79 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22878"
+              },
+              {
+                "key": "Males",
+                "value": "4217"
+              },
+              {
+                "key": "Females",
+                "value": "18661"
+              }
+            ]
+          },
+          {
+            "key": "80 Years & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "28221"
+              },
+              {
+                "key": "Males",
+                "value": "5266"
+              },
+              {
+                "key": "Females",
+                "value": "22955"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.1",
+        "rowText": "With Working Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "85318"
+              },
+              {
+                "key": "Males",
+                "value": "14979"
+              },
+              {
+                "key": "Females",
+                "value": "70339"
+              }
+            ]
+          },
+          {
+            "key": "65 - 69 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19384"
+              },
+              {
+                "key": "Males",
+                "value": "2904"
+              },
+              {
+                "key": "Females",
+                "value": "16480"
+              }
+            ]
+          },
+          {
+            "key": "70 - 74 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22075"
+              },
+              {
+                "key": "Males",
+                "value": "3575"
+              },
+              {
+                "key": "Females",
+                "value": "18500"
+              }
+            ]
+          },
+          {
+            "key": "75 - 79 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20465"
+              },
+              {
+                "key": "Males",
+                "value": "3822"
+              },
+              {
+                "key": "Females",
+                "value": "16643"
+              }
+            ]
+          },
+          {
+            "key": "80 Years & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23394"
+              },
+              {
+                "key": "Males",
+                "value": "4677"
+              },
+              {
+                "key": "Females",
+                "value": "18716"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.2",
+        "rowText": "With Non-Working Children Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11094"
+              },
+              {
+                "key": "Males",
+                "value": "1543"
+              },
+              {
+                "key": "Females",
+                "value": "9551"
+              }
+            ]
+          },
+          {
+            "key": "65 - 69 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1619"
+              },
+              {
+                "key": "Males",
+                "value": "278"
+              },
+              {
+                "key": "Females",
+                "value": "1341"
+              }
+            ]
+          },
+          {
+            "key": "70 - 74 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2235"
+              },
+              {
+                "key": "Males",
+                "value": "282"
+              },
+              {
+                "key": "Females",
+                "value": "1953"
+              }
+            ]
+          },
+          {
+            "key": "75 - 79 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2413"
+              },
+              {
+                "key": "Males",
+                "value": "394"
+              },
+              {
+                "key": "Females",
+                "value": "2019"
+              }
+            ]
+          },
+          {
+            "key": "80 Years & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4827"
+              },
+              {
+                "key": "Males",
+                "value": "589"
+              },
+              {
+                "key": "Females",
+                "value": "4239"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Not Living With Spouse or Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36521"
+              },
+              {
+                "key": "Males",
+                "value": "13296"
+              },
+              {
+                "key": "Females",
+                "value": "23226"
+              }
+            ]
+          },
+          {
+            "key": "65 - 69 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12570"
+              },
+              {
+                "key": "Males",
+                "value": "4767"
+              },
+              {
+                "key": "Females",
+                "value": "7803"
+              }
+            ]
+          },
+          {
+            "key": "70 - 74 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9838"
+              },
+              {
+                "key": "Males",
+                "value": "3723"
+              },
+              {
+                "key": "Females",
+                "value": "6115"
+              }
+            ]
+          },
+          {
+            "key": "75 - 79 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7012"
+              },
+              {
+                "key": "Males",
+                "value": "2569"
+              },
+              {
+                "key": "Females",
+                "value": "4443"
+              }
+            ]
+          },
+          {
+            "key": "80 Years & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7102"
+              },
+              {
+                "key": "Males",
+                "value": "2236"
+              },
+              {
+                "key": "Females",
+                "value": "4865"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "Alone",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21499"
+              },
+              {
+                "key": "Males",
+                "value": "7244"
+              },
+              {
+                "key": "Females",
+                "value": "14256"
+              }
+            ]
+          },
+          {
+            "key": "65 - 69 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7351"
+              },
+              {
+                "key": "Males",
+                "value": "2411"
+              },
+              {
+                "key": "Females",
+                "value": "4940"
+              }
+            ]
+          },
+          {
+            "key": "70 - 74 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6027"
+              },
+              {
+                "key": "Males",
+                "value": "2020"
+              },
+              {
+                "key": "Females",
+                "value": "4007"
+              }
+            ]
+          },
+          {
+            "key": "75 - 79 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4249"
+              },
+              {
+                "key": "Males",
+                "value": "1471"
+              },
+              {
+                "key": "Females",
+                "value": "2778"
+              }
+            ]
+          },
+          {
+            "key": "80 Years & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3873"
+              },
+              {
+                "key": "Males",
+                "value": "1342"
+              },
+              {
+                "key": "Females",
+                "value": "2531"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "With Other Elderly Persons Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3597"
+              },
+              {
+                "key": "Males",
+                "value": "1718"
+              },
+              {
+                "key": "Females",
+                "value": "1879"
+              }
+            ]
+          },
+          {
+            "key": "65 - 69 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1346"
+              },
+              {
+                "key": "Males",
+                "value": "681"
+              },
+              {
+                "key": "Females",
+                "value": "665"
+              }
+            ]
+          },
+          {
+            "key": "70 - 74 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "982"
+              },
+              {
+                "key": "Males",
+                "value": "464"
+              },
+              {
+                "key": "Females",
+                "value": "518"
+              }
+            ]
+          },
+          {
+            "key": "75 - 79 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "779"
+              },
+              {
+                "key": "Males",
+                "value": "372"
+              },
+              {
+                "key": "Females",
+                "value": "406"
+              }
+            ]
+          },
+          {
+            "key": "80 Years & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "490"
+              },
+              {
+                "key": "Males",
+                "value": "201"
+              },
+              {
+                "key": "Females",
+                "value": "289"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.3",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11425"
+              },
+              {
+                "key": "Males",
+                "value": "4334"
+              },
+              {
+                "key": "Females",
+                "value": "7091"
+              }
+            ]
+          },
+          {
+            "key": "65 - 69 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3873"
+              },
+              {
+                "key": "Males",
+                "value": "1675"
+              },
+              {
+                "key": "Females",
+                "value": "2197"
+              }
+            ]
+          },
+          {
+            "key": "70 - 74 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2830"
+              },
+              {
+                "key": "Males",
+                "value": "1239"
+              },
+              {
+                "key": "Females",
+                "value": "1591"
+              }
+            ]
+          },
+          {
+            "key": "75 - 79 Years",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1984"
+              },
+              {
+                "key": "Males",
+                "value": "726"
+              },
+              {
+                "key": "Females",
+                "value": "1258"
+              }
+            ]
+          },
+          {
+            "key": "80 Years & Over",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2739"
+              },
+              {
+                "key": "Males",
+                "value": "694"
+              },
+              {
+                "key": "Females",
+                "value": "2045"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

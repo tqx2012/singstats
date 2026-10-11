@@ -1,0 +1,836 @@
+{
+  "Data": {
+    "id": "17982",
+    "tableType": "Household Expenditure Survey 2023",
+    "groupTitle": null,
+    "title": "Average Monthly Household Expenditure Per Household Member Among Resident Households by Type of Goods and Services (Broad) and Type of Dwelling",
+    "frequency": "5 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "28/11/2024",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Household Expenditure",
+    "topic": "Household Expenditure Survey ",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Food and Non-Alcoholic Beverages",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "151.3"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "140.8"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "101.5"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "134.9"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "143.7"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "153.4"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "186.1"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "196.4"
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "Alcoholic Beverages and Tobacco",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "14.5"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14.7"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "27.2"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "18.4"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "13.5"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "9.6"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "15.1"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "8.9"
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "Clothing and Footwear",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "38.3"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30.4"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "13.7"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "26.2"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "31.7"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "36.8"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "69.4"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "55.8"
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "Housing and Utilities",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "218.8"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "133.6"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "124.6"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "146.5"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "125.8"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "137.5"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "563.6"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "332.9"
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "Furnishing, Household Equipment and Routine Household Maintenance",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "119.6"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "90.5"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "37.4"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "81.8"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "94.3"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "108.6"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "179.3"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "375.9"
+          }
+        ]
+      },
+      {
+        "rowNo": "6",
+        "rowText": "Health",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "169.5"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "155.3"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "132.9"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "176.3"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "149.8"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "153.9"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "217.7"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "234.2"
+          }
+        ]
+      },
+      {
+        "rowNo": "7",
+        "rowText": "Transport",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "299.8"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "218.6"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "90.4"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "157.1"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "226"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "295"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "555.7"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "700.3"
+          }
+        ]
+      },
+      {
+        "rowNo": "8",
+        "rowText": "Information and Communication",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "93.9"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "88"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "57.6"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "86.4"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "91"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "94.4"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "118.6"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "102.2"
+          }
+        ]
+      },
+      {
+        "rowNo": "9",
+        "rowText": "Recreation, Sport and Culture",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "113.2"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "88.6"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "37.9"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "66.6"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "98"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "107.8"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "209.6"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "168.1"
+          }
+        ]
+      },
+      {
+        "rowNo": "10",
+        "rowText": "Education",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "103"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "68.2"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "11.3"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "34.9"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "76"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "100.5"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "235.4"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "171.2"
+          }
+        ]
+      },
+      {
+        "rowNo": "11",
+        "rowText": "Food and Beverage Serving Services 1/",
+        "uoM": "Dollar",
+        "footnote": "1/ Food and Beverage Serving Services include meals bought from restaurants, cafes, hawker centres, food courts, coffee shops and food kiosks.",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "334.3"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "306.6"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "233.1"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "293.1"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "313"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "330.9"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "453"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "354.9"
+          }
+        ]
+      },
+      {
+        "rowNo": "12",
+        "rowText": "Accommodation Services",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "27.1"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16.8"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "4.2"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "11.7"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "16.7"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "24.6"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "67"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "53"
+          }
+        ]
+      },
+      {
+        "rowNo": "13",
+        "rowText": "Insurance and Financial Services",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "200.1"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "179.1"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "107.5"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "165.4"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "179.7"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "210.9"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "276"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "270.1"
+          }
+        ]
+      },
+      {
+        "rowNo": "14",
+        "rowText": "Miscellaneous Goods and Services 2/",
+        "uoM": "Dollar",
+        "footnote": "2/ Miscellaneous Goods and Services include personal care services such as hairdressing and social services.",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "97"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "83.8"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "33.4"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "70.6"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "94.6"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "94.4"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "144.5"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "142.3"
+          }
+        ]
+      },
+      {
+        "rowNo": "15",
+        "rowText": "Non-Assignable Expenditure",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "5.6"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5.3"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "2.8"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "3.8"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "5.5"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "6.9"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "7.6"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "4.6"
+          }
+        ]
+      },
+      {
+        "rowNo": "16",
+        "rowText": "Total",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "1986.1"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1620.1"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "1015.6"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "1473.7"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "1659.5"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "1865.1"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "3298.6"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "3170.9"
+          }
+        ]
+      },
+      {
+        "rowNo": "16.1",
+        "rowText": "Imputed rentals for owner-occupied accommodation",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "448.1"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "345.6"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "159.5"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "387.6"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "363.5"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "346.6"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "781.7"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "919.4"
+          }
+        ]
+      },
+      {
+        "rowNo": "17",
+        "rowText": "Total, including imputed rental of owner-occupied accommodation",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total 3/",
+            "value": "2434.3"
+          },
+          {
+            "key": "HDB Dwellings",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1965.7"
+              },
+              {
+                "key": "1- & 2-Room Flats 4/",
+                "value": "1175.1"
+              },
+              {
+                "key": "3-Room Flats",
+                "value": "1861.3"
+              },
+              {
+                "key": "4-Room Flats",
+                "value": "2023"
+              },
+              {
+                "key": "5-Room & Executive Flats",
+                "value": "2211.7"
+              }
+            ]
+          },
+          {
+            "key": "Condominiums & Other Apartments",
+            "value": "4080.3"
+          },
+          {
+            "key": "Landed Properties",
+            "value": "4090.2"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

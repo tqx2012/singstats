@@ -1,0 +1,1078 @@
+{
+  "Data": {
+    "id": "8504",
+    "tableType": "Census of Population 2010",
+    "groupTitle": null,
+    "title": "Resident Population Aged 5 Years and Over by Type of Dwelling, Ethnic Group and Language Most Frequently Spoken at Home",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data exclude persons who were unable to speak, and those in one-person households and households comprising only unrelated persons. For more information, please refer to the publication on 'Singapore Census of Population 2010, Statistical Release 1: Demographic Characteristics, Education, Language and Religion' (https://www.singstat.gov.sg/find-data/explore-data-themes/population/education-language-spoken-and-literacy/related-information).",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "22/03/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Education, Language Spoken and Literacy",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "824616"
+              },
+              {
+                "key": "Mandarin",
+                "value": "1206556"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "485765"
+              },
+              {
+                "key": "Others#",
+                "value": "10625"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "78090"
+              },
+              {
+                "key": "Malay",
+                "value": "379567"
+              },
+              {
+                "key": "Others#",
+                "value": "1553"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "125076"
+              },
+              {
+                "key": "Malay",
+                "value": "23839"
+              },
+              {
+                "key": "Tamil",
+                "value": "110274"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "39755"
+              },
+              {
+                "key": "Others#",
+                "value": "1643"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "69661"
+              },
+              {
+                "key": "Malay",
+                "value": "4777"
+              },
+              {
+                "key": "Others#",
+                "value": "37256"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "HDB Dwellings*",
+        "uoM": "Number",
+        "footnote": "* Includes non-privatised Housing and Urban Development Corporation (HUDC) flats.",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "518026"
+              },
+              {
+                "key": "Mandarin",
+                "value": "1071863"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "434264"
+              },
+              {
+                "key": "Others#",
+                "value": "7991"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "71161"
+              },
+              {
+                "key": "Malay",
+                "value": "373509"
+              },
+              {
+                "key": "Others#",
+                "value": "1293"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "94795"
+              },
+              {
+                "key": "Malay",
+                "value": "23352"
+              },
+              {
+                "key": "Tamil",
+                "value": "102398"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "29547"
+              },
+              {
+                "key": "Others#",
+                "value": "1288"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "43721"
+              },
+              {
+                "key": "Malay",
+                "value": "4505"
+              },
+              {
+                "key": "Others#",
+                "value": "27453"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.1",
+        "rowText": "1- And 2-Room Flats^",
+        "uoM": "Number",
+        "footnote": "^ Includes HDB studio apartments.",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "4087"
+              },
+              {
+                "key": "Mandarin",
+                "value": "16960"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "21661"
+              },
+              {
+                "key": "Others#",
+                "value": "381"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "1984"
+              },
+              {
+                "key": "Malay",
+                "value": "23438"
+              },
+              {
+                "key": "Others#",
+                "value": "101"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "2045"
+              },
+              {
+                "key": "Malay",
+                "value": "1838"
+              },
+              {
+                "key": "Tamil",
+                "value": "4399"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "303"
+              },
+              {
+                "key": "Others#",
+                "value": "41"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "942"
+              },
+              {
+                "key": "Malay",
+                "value": "373"
+              },
+              {
+                "key": "Others#",
+                "value": "326"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.2",
+        "rowText": "3-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "52376"
+              },
+              {
+                "key": "Mandarin",
+                "value": "196753"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "127262"
+              },
+              {
+                "key": "Others#",
+                "value": "1759"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "9240"
+              },
+              {
+                "key": "Malay",
+                "value": "72430"
+              },
+              {
+                "key": "Others#",
+                "value": "404"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "13581"
+              },
+              {
+                "key": "Malay",
+                "value": "4446"
+              },
+              {
+                "key": "Tamil",
+                "value": "27475"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "7342"
+              },
+              {
+                "key": "Others#",
+                "value": "226"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "8216"
+              },
+              {
+                "key": "Malay",
+                "value": "719"
+              },
+              {
+                "key": "Others#",
+                "value": "6799"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.3",
+        "rowText": "4-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "165195"
+              },
+              {
+                "key": "Mandarin",
+                "value": "496039"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "183590"
+              },
+              {
+                "key": "Others#",
+                "value": "3244"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "25342"
+              },
+              {
+                "key": "Malay",
+                "value": "169954"
+              },
+              {
+                "key": "Others#",
+                "value": "412"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "35263"
+              },
+              {
+                "key": "Malay",
+                "value": "10371"
+              },
+              {
+                "key": "Tamil",
+                "value": "44575"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "12706"
+              },
+              {
+                "key": "Others#",
+                "value": "664"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "17209"
+              },
+              {
+                "key": "Malay",
+                "value": "1870"
+              },
+              {
+                "key": "Others#",
+                "value": "11933"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.4",
+        "rowText": "5-Room And Executive Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "290567"
+              },
+              {
+                "key": "Mandarin",
+                "value": "360427"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "100813"
+              },
+              {
+                "key": "Others#",
+                "value": "2571"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "34353"
+              },
+              {
+                "key": "Malay",
+                "value": "107352"
+              },
+              {
+                "key": "Others#",
+                "value": "376"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "43387"
+              },
+              {
+                "key": "Malay",
+                "value": "6685"
+              },
+              {
+                "key": "Tamil",
+                "value": "25834"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "9145"
+              },
+              {
+                "key": "Others#",
+                "value": "357"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "17126"
+              },
+              {
+                "key": "Malay",
+                "value": "1543"
+              },
+              {
+                "key": "Others#",
+                "value": "8358"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "Condominiums And Other Apartments",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "181002"
+              },
+              {
+                "key": "Mandarin",
+                "value": "79297"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "25272"
+              },
+              {
+                "key": "Others#",
+                "value": "2254"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "4417"
+              },
+              {
+                "key": "Malay",
+                "value": "3511"
+              },
+              {
+                "key": "Others#",
+                "value": "221"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "19631"
+              },
+              {
+                "key": "Malay",
+                "value": "241"
+              },
+              {
+                "key": "Tamil",
+                "value": "5020"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "8819"
+              },
+              {
+                "key": "Others#",
+                "value": "237"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "16659"
+              },
+              {
+                "key": "Malay",
+                "value": "111"
+              },
+              {
+                "key": "Others#",
+                "value": "8375"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "Landed Properties",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "123969"
+              },
+              {
+                "key": "Mandarin",
+                "value": "50723"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "24161"
+              },
+              {
+                "key": "Others#",
+                "value": "350"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "2467"
+              },
+              {
+                "key": "Malay",
+                "value": "2403"
+              },
+              {
+                "key": "Others#",
+                "value": "40"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "10541"
+              },
+              {
+                "key": "Malay",
+                "value": "203"
+              },
+              {
+                "key": "Tamil",
+                "value": "2571"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "1353"
+              },
+              {
+                "key": "Others#",
+                "value": "119"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "9085"
+              },
+              {
+                "key": "Malay",
+                "value": "161"
+              },
+              {
+                "key": "Others#",
+                "value": "1107"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.1",
+        "rowText": "Bungalows",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "16857"
+              },
+              {
+                "key": "Mandarin",
+                "value": "4633"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "2906"
+              },
+              {
+                "key": "Others#",
+                "value": "109"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "185"
+              },
+              {
+                "key": "Malay",
+                "value": "126"
+              },
+              {
+                "key": "Others#",
+                "value": "8"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "1505"
+              },
+              {
+                "key": "Malay",
+                "value": "12"
+              },
+              {
+                "key": "Tamil",
+                "value": "206"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "413"
+              },
+              {
+                "key": "Others#"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "2455"
+              },
+              {
+                "key": "Malay",
+                "value": "25"
+              },
+              {
+                "key": "Others#",
+                "value": "173"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.2",
+        "rowText": "Semi-Detached Bungalows",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "38946"
+              },
+              {
+                "key": "Mandarin",
+                "value": "16019"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "7570"
+              },
+              {
+                "key": "Others#",
+                "value": "69"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "561"
+              },
+              {
+                "key": "Malay",
+                "value": "547"
+              },
+              {
+                "key": "Others#",
+                "value": "24"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "3150"
+              },
+              {
+                "key": "Malay",
+                "value": "21"
+              },
+              {
+                "key": "Tamil",
+                "value": "569"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "401"
+              },
+              {
+                "key": "Others#",
+                "value": "80"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "2525"
+              },
+              {
+                "key": "Malay",
+                "value": "62"
+              },
+              {
+                "key": "Others#",
+                "value": "403"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.3",
+        "rowText": "Terrace Houses",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "68166"
+              },
+              {
+                "key": "Mandarin",
+                "value": "30071"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "13685"
+              },
+              {
+                "key": "Others#",
+                "value": "172"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "1722"
+              },
+              {
+                "key": "Malay",
+                "value": "1731"
+              },
+              {
+                "key": "Others#",
+                "value": "8"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "5885"
+              },
+              {
+                "key": "Malay",
+                "value": "170"
+              },
+              {
+                "key": "Tamil",
+                "value": "1796"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "539"
+              },
+              {
+                "key": "Others#",
+                "value": "39"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "4104"
+              },
+              {
+                "key": "Malay",
+                "value": "74"
+              },
+              {
+                "key": "Others#",
+                "value": "531"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Chinese",
+            "columns": [
+              {
+                "key": "English",
+                "value": "1619"
+              },
+              {
+                "key": "Mandarin",
+                "value": "4672"
+              },
+              {
+                "key": "Chinese Dialects",
+                "value": "2068"
+              },
+              {
+                "key": "Others#",
+                "value": "30"
+              }
+            ]
+          },
+          {
+            "key": "Malays",
+            "columns": [
+              {
+                "key": "English",
+                "value": "45"
+              },
+              {
+                "key": "Malay",
+                "value": "142"
+              },
+              {
+                "key": "Others#"
+              }
+            ]
+          },
+          {
+            "key": "Indians",
+            "columns": [
+              {
+                "key": "English",
+                "value": "109"
+              },
+              {
+                "key": "Malay",
+                "value": "43"
+              },
+              {
+                "key": "Tamil",
+                "value": "285"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "36"
+              },
+              {
+                "key": "Others#"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "English",
+                "value": "196"
+              },
+              {
+                "key": "Malay"
+              },
+              {
+                "key": "Others#",
+                "value": "321"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

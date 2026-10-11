@@ -1,0 +1,938 @@
+{
+  "Data": {
+    "id": "8491",
+    "tableType": "Census of Population 2010",
+    "groupTitle": null,
+    "title": "Resident Population Aged 65 Years and Over in Resident Households by Type of Dwelling, Mobility Status and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "18/03/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Elderly Profile",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "340748"
+              },
+              {
+                "key": "Males",
+                "value": "148907"
+              },
+              {
+                "key": "Females",
+                "value": "191842"
+              }
+            ]
+          },
+          {
+            "key": "Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "296421"
+              },
+              {
+                "key": "Males",
+                "value": "135161"
+              },
+              {
+                "key": "Females",
+                "value": "161260"
+              }
+            ]
+          },
+          {
+            "key": "Semi-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36178"
+              },
+              {
+                "key": "Males",
+                "value": "11265"
+              },
+              {
+                "key": "Females",
+                "value": "24913"
+              }
+            ]
+          },
+          {
+            "key": "Non-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8150"
+              },
+              {
+                "key": "Males",
+                "value": "2481"
+              },
+              {
+                "key": "Females",
+                "value": "5669"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "HDB Dwellings*",
+        "uoM": "Number",
+        "footnote": "* Includes non-privatised Housing and Urban Development Corporation (HUDC) flats.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "282097"
+              },
+              {
+                "key": "Males",
+                "value": "123314"
+              },
+              {
+                "key": "Females",
+                "value": "158783"
+              }
+            ]
+          },
+          {
+            "key": "Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "244318"
+              },
+              {
+                "key": "Males",
+                "value": "111690"
+              },
+              {
+                "key": "Females",
+                "value": "132628"
+              }
+            ]
+          },
+          {
+            "key": "Semi-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30836"
+              },
+              {
+                "key": "Males",
+                "value": "9470"
+              },
+              {
+                "key": "Females",
+                "value": "21366"
+              }
+            ]
+          },
+          {
+            "key": "Non-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6943"
+              },
+              {
+                "key": "Males",
+                "value": "2154"
+              },
+              {
+                "key": "Females",
+                "value": "4789"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.1",
+        "rowText": "1- And 2-Room Flats^",
+        "uoM": "Number",
+        "footnote": "^ Includes HDB studio apartments.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "26037"
+              },
+              {
+                "key": "Males",
+                "value": "12698"
+              },
+              {
+                "key": "Females",
+                "value": "13340"
+              }
+            ]
+          },
+          {
+            "key": "Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21850"
+              },
+              {
+                "key": "Males",
+                "value": "11173"
+              },
+              {
+                "key": "Females",
+                "value": "10677"
+              }
+            ]
+          },
+          {
+            "key": "Semi-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3577"
+              },
+              {
+                "key": "Males",
+                "value": "1329"
+              },
+              {
+                "key": "Females",
+                "value": "2247"
+              }
+            ]
+          },
+          {
+            "key": "Non-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "611"
+              },
+              {
+                "key": "Males",
+                "value": "195"
+              },
+              {
+                "key": "Females",
+                "value": "415"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.2",
+        "rowText": "3-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "80652"
+              },
+              {
+                "key": "Males",
+                "value": "35063"
+              },
+              {
+                "key": "Females",
+                "value": "45589"
+              }
+            ]
+          },
+          {
+            "key": "Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "70219"
+              },
+              {
+                "key": "Males",
+                "value": "31704"
+              },
+              {
+                "key": "Females",
+                "value": "38515"
+              }
+            ]
+          },
+          {
+            "key": "Semi-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8575"
+              },
+              {
+                "key": "Males",
+                "value": "2744"
+              },
+              {
+                "key": "Females",
+                "value": "5831"
+              }
+            ]
+          },
+          {
+            "key": "Non-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1858"
+              },
+              {
+                "key": "Males",
+                "value": "615"
+              },
+              {
+                "key": "Females",
+                "value": "1243"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.3",
+        "rowText": "4-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "102143"
+              },
+              {
+                "key": "Males",
+                "value": "44293"
+              },
+              {
+                "key": "Females",
+                "value": "57850"
+              }
+            ]
+          },
+          {
+            "key": "Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "88631"
+              },
+              {
+                "key": "Males",
+                "value": "40313"
+              },
+              {
+                "key": "Females",
+                "value": "48318"
+              }
+            ]
+          },
+          {
+            "key": "Semi-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10972"
+              },
+              {
+                "key": "Males",
+                "value": "3207"
+              },
+              {
+                "key": "Females",
+                "value": "7765"
+              }
+            ]
+          },
+          {
+            "key": "Non-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2540"
+              },
+              {
+                "key": "Males",
+                "value": "773"
+              },
+              {
+                "key": "Females",
+                "value": "1767"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2.4",
+        "rowText": "5-Room And Executive Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "72275"
+              },
+              {
+                "key": "Males",
+                "value": "30758"
+              },
+              {
+                "key": "Females",
+                "value": "41518"
+              }
+            ]
+          },
+          {
+            "key": "Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "62736"
+              },
+              {
+                "key": "Males",
+                "value": "28016"
+              },
+              {
+                "key": "Females",
+                "value": "34720"
+              }
+            ]
+          },
+          {
+            "key": "Semi-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7636"
+              },
+              {
+                "key": "Males",
+                "value": "2177"
+              },
+              {
+                "key": "Females",
+                "value": "5459"
+              }
+            ]
+          },
+          {
+            "key": "Non-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1903"
+              },
+              {
+                "key": "Males",
+                "value": "564"
+              },
+              {
+                "key": "Females",
+                "value": "1338"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "Condominiums And Other Apartments",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22935"
+              },
+              {
+                "key": "Males",
+                "value": "10148"
+              },
+              {
+                "key": "Females",
+                "value": "12786"
+              }
+            ]
+          },
+          {
+            "key": "Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20488"
+              },
+              {
+                "key": "Males",
+                "value": "9346"
+              },
+              {
+                "key": "Females",
+                "value": "11142"
+              }
+            ]
+          },
+          {
+            "key": "Semi-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1983"
+              },
+              {
+                "key": "Males",
+                "value": "668"
+              },
+              {
+                "key": "Females",
+                "value": "1316"
+              }
+            ]
+          },
+          {
+            "key": "Non-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "463"
+              },
+              {
+                "key": "Males",
+                "value": "135"
+              },
+              {
+                "key": "Females",
+                "value": "329"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "Landed Properties",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34110"
+              },
+              {
+                "key": "Males",
+                "value": "14703"
+              },
+              {
+                "key": "Females",
+                "value": "19407"
+              }
+            ]
+          },
+          {
+            "key": "Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30164"
+              },
+              {
+                "key": "Males",
+                "value": "13434"
+              },
+              {
+                "key": "Females",
+                "value": "16730"
+              }
+            ]
+          },
+          {
+            "key": "Semi-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3228"
+              },
+              {
+                "key": "Males",
+                "value": "1089"
+              },
+              {
+                "key": "Females",
+                "value": "2138"
+              }
+            ]
+          },
+          {
+            "key": "Non-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "718"
+              },
+              {
+                "key": "Males",
+                "value": "180"
+              },
+              {
+                "key": "Females",
+                "value": "538"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.1",
+        "rowText": "Bungalows",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5424"
+              },
+              {
+                "key": "Males",
+                "value": "2342"
+              },
+              {
+                "key": "Females",
+                "value": "3082"
+              }
+            ]
+          },
+          {
+            "key": "Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4761"
+              },
+              {
+                "key": "Males",
+                "value": "2140"
+              },
+              {
+                "key": "Females",
+                "value": "2621"
+              }
+            ]
+          },
+          {
+            "key": "Semi-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "575"
+              },
+              {
+                "key": "Males",
+                "value": "190"
+              },
+              {
+                "key": "Females",
+                "value": "385"
+              }
+            ]
+          },
+          {
+            "key": "Non-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "88"
+              },
+              {
+                "key": "Males",
+                "value": "12"
+              },
+              {
+                "key": "Females",
+                "value": "76"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.2",
+        "rowText": "Semi-Detached Bungalows",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11323"
+              },
+              {
+                "key": "Males",
+                "value": "4867"
+              },
+              {
+                "key": "Females",
+                "value": "6456"
+              }
+            ]
+          },
+          {
+            "key": "Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10011"
+              },
+              {
+                "key": "Males",
+                "value": "4433"
+              },
+              {
+                "key": "Females",
+                "value": "5577"
+              }
+            ]
+          },
+          {
+            "key": "Semi-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1032"
+              },
+              {
+                "key": "Males",
+                "value": "364"
+              },
+              {
+                "key": "Females",
+                "value": "668"
+              }
+            ]
+          },
+          {
+            "key": "Non-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "280"
+              },
+              {
+                "key": "Males",
+                "value": "69"
+              },
+              {
+                "key": "Females",
+                "value": "211"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4.3",
+        "rowText": "Terrace Houses",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17363"
+              },
+              {
+                "key": "Males",
+                "value": "7494"
+              },
+              {
+                "key": "Females",
+                "value": "9869"
+              }
+            ]
+          },
+          {
+            "key": "Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15392"
+              },
+              {
+                "key": "Males",
+                "value": "6860"
+              },
+              {
+                "key": "Females",
+                "value": "8532"
+              }
+            ]
+          },
+          {
+            "key": "Semi-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1621"
+              },
+              {
+                "key": "Males",
+                "value": "535"
+              },
+              {
+                "key": "Females",
+                "value": "1085"
+              }
+            ]
+          },
+          {
+            "key": "Non-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "350"
+              },
+              {
+                "key": "Males",
+                "value": "99"
+              },
+              {
+                "key": "Females",
+                "value": "251"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1607"
+              },
+              {
+                "key": "Males",
+                "value": "742"
+              },
+              {
+                "key": "Females",
+                "value": "865"
+              }
+            ]
+          },
+          {
+            "key": "Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1451"
+              },
+              {
+                "key": "Males",
+                "value": "692"
+              },
+              {
+                "key": "Females",
+                "value": "760"
+              }
+            ]
+          },
+          {
+            "key": "Semi-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "131"
+              },
+              {
+                "key": "Males",
+                "value": "38"
+              },
+              {
+                "key": "Females",
+                "value": "92"
+              }
+            ]
+          },
+          {
+            "key": "Non-Ambulant",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25"
+              },
+              {
+                "key": "Males",
+                "value": "12"
+              },
+              {
+                "key": "Females",
+                "value": "13"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

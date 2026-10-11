@@ -1,0 +1,806 @@
+{
+  "Data": {
+    "id": "9079",
+    "tableType": "Census of Population 2000",
+    "groupTitle": null,
+    "title": "Resident Households by Predominant Household Language and Age Group of Head of Household",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data exclude one-person households and households comprising unrelated persons.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "04/04/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "828887"
+          },
+          {
+            "key": "Below 25",
+            "value": "3374"
+          },
+          {
+            "key": "25-29",
+            "value": "34725"
+          },
+          {
+            "key": "30-34",
+            "value": "88692"
+          },
+          {
+            "key": "35-39",
+            "value": "128161"
+          },
+          {
+            "key": "40-44",
+            "value": "139629"
+          },
+          {
+            "key": "45-49",
+            "value": "126859"
+          },
+          {
+            "key": "50-54",
+            "value": "104949"
+          },
+          {
+            "key": "55-59",
+            "value": "62919"
+          },
+          {
+            "key": "60-64",
+            "value": "51925"
+          },
+          {
+            "key": "65-69",
+            "value": "38619"
+          },
+          {
+            "key": "70-74",
+            "value": "25258"
+          },
+          {
+            "key": "75 & Over",
+            "value": "23776"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "201571"
+          },
+          {
+            "key": "Below 25",
+            "value": "714"
+          },
+          {
+            "key": "25-29",
+            "value": "8864"
+          },
+          {
+            "key": "30-34",
+            "value": "25621"
+          },
+          {
+            "key": "35-39",
+            "value": "36387"
+          },
+          {
+            "key": "40-44",
+            "value": "41338"
+          },
+          {
+            "key": "45-49",
+            "value": "33272"
+          },
+          {
+            "key": "50-54",
+            "value": "25656"
+          },
+          {
+            "key": "55-59",
+            "value": "11598"
+          },
+          {
+            "key": "60-64",
+            "value": "7666"
+          },
+          {
+            "key": "65-69",
+            "value": "4784"
+          },
+          {
+            "key": "70-74",
+            "value": "3041"
+          },
+          {
+            "key": "75 & Over",
+            "value": "2630"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Mandarin",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "281216"
+          },
+          {
+            "key": "Below 25",
+            "value": "1172"
+          },
+          {
+            "key": "25-29",
+            "value": "13566"
+          },
+          {
+            "key": "30-34",
+            "value": "33014"
+          },
+          {
+            "key": "35-39",
+            "value": "48695"
+          },
+          {
+            "key": "40-44",
+            "value": "53765"
+          },
+          {
+            "key": "45-49",
+            "value": "52263"
+          },
+          {
+            "key": "50-54",
+            "value": "37871"
+          },
+          {
+            "key": "55-59",
+            "value": "18771"
+          },
+          {
+            "key": "60-64",
+            "value": "11718"
+          },
+          {
+            "key": "65-69",
+            "value": "5817"
+          },
+          {
+            "key": "70-74",
+            "value": "2684"
+          },
+          {
+            "key": "75 & Over",
+            "value": "1880"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Chinese Dialects",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "204322"
+          },
+          {
+            "key": "Below 25",
+            "value": "526"
+          },
+          {
+            "key": "25-29",
+            "value": "5536"
+          },
+          {
+            "key": "30-34",
+            "value": "12235"
+          },
+          {
+            "key": "35-39",
+            "value": "16888"
+          },
+          {
+            "key": "40-44",
+            "value": "19268"
+          },
+          {
+            "key": "45-49",
+            "value": "21484"
+          },
+          {
+            "key": "50-54",
+            "value": "26068"
+          },
+          {
+            "key": "55-59",
+            "value": "24142"
+          },
+          {
+            "key": "60-64",
+            "value": "25018"
+          },
+          {
+            "key": "65-69",
+            "value": "21891"
+          },
+          {
+            "key": "70-74",
+            "value": "15257"
+          },
+          {
+            "key": "75 & Over",
+            "value": "16009"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "Hokkien",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "96050"
+          },
+          {
+            "key": "Below 25",
+            "value": "293"
+          },
+          {
+            "key": "25-29",
+            "value": "2786"
+          },
+          {
+            "key": "30-34",
+            "value": "5882"
+          },
+          {
+            "key": "35-39",
+            "value": "8361"
+          },
+          {
+            "key": "40-44",
+            "value": "9761"
+          },
+          {
+            "key": "45-49",
+            "value": "10836"
+          },
+          {
+            "key": "50-54",
+            "value": "12948"
+          },
+          {
+            "key": "55-59",
+            "value": "11803"
+          },
+          {
+            "key": "60-64",
+            "value": "10990"
+          },
+          {
+            "key": "65-69",
+            "value": "9925"
+          },
+          {
+            "key": "70-74",
+            "value": "6565"
+          },
+          {
+            "key": "75 & Over",
+            "value": "5901"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Teochew",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "41171"
+          },
+          {
+            "key": "Below 25",
+            "value": "66"
+          },
+          {
+            "key": "25-29",
+            "value": "726"
+          },
+          {
+            "key": "30-34",
+            "value": "1954"
+          },
+          {
+            "key": "35-39",
+            "value": "2764"
+          },
+          {
+            "key": "40-44",
+            "value": "3490"
+          },
+          {
+            "key": "45-49",
+            "value": "3910"
+          },
+          {
+            "key": "50-54",
+            "value": "5468"
+          },
+          {
+            "key": "55-59",
+            "value": "5294"
+          },
+          {
+            "key": "60-64",
+            "value": "5560"
+          },
+          {
+            "key": "65-69",
+            "value": "4684"
+          },
+          {
+            "key": "70-74",
+            "value": "3537"
+          },
+          {
+            "key": "75 & Over",
+            "value": "3717"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.3",
+        "rowText": "Cantonese",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "51521"
+          },
+          {
+            "key": "Below 25",
+            "value": "138"
+          },
+          {
+            "key": "25-29",
+            "value": "1605"
+          },
+          {
+            "key": "30-34",
+            "value": "3399"
+          },
+          {
+            "key": "35-39",
+            "value": "4526"
+          },
+          {
+            "key": "40-44",
+            "value": "4799"
+          },
+          {
+            "key": "45-49",
+            "value": "5663"
+          },
+          {
+            "key": "50-54",
+            "value": "6573"
+          },
+          {
+            "key": "55-59",
+            "value": "5653"
+          },
+          {
+            "key": "60-64",
+            "value": "6558"
+          },
+          {
+            "key": "65-69",
+            "value": "5299"
+          },
+          {
+            "key": "70-74",
+            "value": "3316"
+          },
+          {
+            "key": "75 & Over",
+            "value": "3992"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.4",
+        "rowText": "Other Chinese Dialects",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "15581"
+          },
+          {
+            "key": "Below 25",
+            "value": "29"
+          },
+          {
+            "key": "25-29",
+            "value": "420"
+          },
+          {
+            "key": "30-34",
+            "value": "1000"
+          },
+          {
+            "key": "35-39",
+            "value": "1237"
+          },
+          {
+            "key": "40-44",
+            "value": "1217"
+          },
+          {
+            "key": "45-49",
+            "value": "1076"
+          },
+          {
+            "key": "50-54",
+            "value": "1079"
+          },
+          {
+            "key": "55-59",
+            "value": "1392"
+          },
+          {
+            "key": "60-64",
+            "value": "1911"
+          },
+          {
+            "key": "65-69",
+            "value": "1983"
+          },
+          {
+            "key": "70-74",
+            "value": "1839"
+          },
+          {
+            "key": "75 & Over",
+            "value": "2398"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Malay",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "105176"
+          },
+          {
+            "key": "Below 25",
+            "value": "789"
+          },
+          {
+            "key": "25-29",
+            "value": "5404"
+          },
+          {
+            "key": "30-34",
+            "value": "12840"
+          },
+          {
+            "key": "35-39",
+            "value": "19681"
+          },
+          {
+            "key": "40-44",
+            "value": "19276"
+          },
+          {
+            "key": "45-49",
+            "value": "15224"
+          },
+          {
+            "key": "50-54",
+            "value": "11752"
+          },
+          {
+            "key": "55-59",
+            "value": "5964"
+          },
+          {
+            "key": "60-64",
+            "value": "5332"
+          },
+          {
+            "key": "65-69",
+            "value": "4126"
+          },
+          {
+            "key": "70-74",
+            "value": "2677"
+          },
+          {
+            "key": "75 & Over",
+            "value": "2111"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "Indian Languages",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "34715"
+          },
+          {
+            "key": "Below 25",
+            "value": "148"
+          },
+          {
+            "key": "25-29",
+            "value": "1276"
+          },
+          {
+            "key": "30-34",
+            "value": "4683"
+          },
+          {
+            "key": "35-39",
+            "value": "6169"
+          },
+          {
+            "key": "40-44",
+            "value": "5751"
+          },
+          {
+            "key": "45-49",
+            "value": "4317"
+          },
+          {
+            "key": "50-54",
+            "value": "3317"
+          },
+          {
+            "key": "55-59",
+            "value": "2324"
+          },
+          {
+            "key": "60-64",
+            "value": "2100"
+          },
+          {
+            "key": "65-69",
+            "value": "1964"
+          },
+          {
+            "key": "70-74",
+            "value": "1559"
+          },
+          {
+            "key": "75 & Over",
+            "value": "1106"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5.1",
+        "rowText": "Tamil",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "28414"
+          },
+          {
+            "key": "Below 25",
+            "value": "132"
+          },
+          {
+            "key": "25-29",
+            "value": "1039"
+          },
+          {
+            "key": "30-34",
+            "value": "3551"
+          },
+          {
+            "key": "35-39",
+            "value": "4920"
+          },
+          {
+            "key": "40-44",
+            "value": "4834"
+          },
+          {
+            "key": "45-49",
+            "value": "3730"
+          },
+          {
+            "key": "50-54",
+            "value": "2876"
+          },
+          {
+            "key": "55-59",
+            "value": "1982"
+          },
+          {
+            "key": "60-64",
+            "value": "1723"
+          },
+          {
+            "key": "65-69",
+            "value": "1569"
+          },
+          {
+            "key": "70-74",
+            "value": "1189"
+          },
+          {
+            "key": "75 & Over",
+            "value": "869"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5.2",
+        "rowText": "Other Indian Languages",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "6302"
+          },
+          {
+            "key": "Below 25",
+            "value": "16"
+          },
+          {
+            "key": "25-29",
+            "value": "236"
+          },
+          {
+            "key": "30-34",
+            "value": "1132"
+          },
+          {
+            "key": "35-39",
+            "value": "1250"
+          },
+          {
+            "key": "40-44",
+            "value": "917"
+          },
+          {
+            "key": "45-49",
+            "value": "588"
+          },
+          {
+            "key": "50-54",
+            "value": "441"
+          },
+          {
+            "key": "55-59",
+            "value": "342"
+          },
+          {
+            "key": "60-64",
+            "value": "377"
+          },
+          {
+            "key": "65-69",
+            "value": "395"
+          },
+          {
+            "key": "70-74",
+            "value": "370"
+          },
+          {
+            "key": "75 & Over",
+            "value": "238"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1886"
+          },
+          {
+            "key": "Below 25",
+            "value": "25"
+          },
+          {
+            "key": "25-29",
+            "value": "78"
+          },
+          {
+            "key": "30-34",
+            "value": "299"
+          },
+          {
+            "key": "35-39",
+            "value": "341"
+          },
+          {
+            "key": "40-44",
+            "value": "231"
+          },
+          {
+            "key": "45-49",
+            "value": "299"
+          },
+          {
+            "key": "50-54",
+            "value": "285"
+          },
+          {
+            "key": "55-59",
+            "value": "120"
+          },
+          {
+            "key": "60-64",
+            "value": "90"
+          },
+          {
+            "key": "65-69",
+            "value": "37"
+          },
+          {
+            "key": "70-74",
+            "value": "41"
+          },
+          {
+            "key": "75 & Over",
+            "value": "39"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

@@ -1,0 +1,634 @@
+{
+  "Data": {
+    "id": "C020105",
+    "tableType": "General Household Survey 2025",
+    "groupTitle": null,
+    "title": "Resident Households by Monthly Household Market Income Per Household Member and Number of Employed Persons in Household",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: Data on household market income per member for 2025 is preliminary.Data has been rounded to the nearest 100 and may not add up due to rounding.\n‘ - ’ denotes Nil or negligible. Users are advised to exercise caution when drawing inferences from survey estimates with small sample sizes or those denoted as ‘ - ’, as these estimates are based on a sample survey and subject to sampling variability. For more information, refer to the write up on the GHS 2025 Sample Design and Sampling Variability (https://go.gov.sg/ghs2025-sample-design-and-variability). ",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Household Income",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1487100"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "211100"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "478200"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "555200"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "164700"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "77800"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Below 1,000",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "149500"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "120500"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "23400"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "5200"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "300"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "1,000 - 1,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "80600"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "28200"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "35900"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "14000"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "2200"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "300"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "1,500 - 1,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "89800"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "17800"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "41700"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "23200"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "6200"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "1000"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "2,000 - 2,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "102000"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "10300"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "43100"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "34100"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "10600"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "3900"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "2,500 - 2,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "105300"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "7000"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "38400"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "43400"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "10800"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "5700"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "3,000 - 3,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "97700"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "5900"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "29900"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "42200"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "13400"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "6400"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "3,500 - 3,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "91000"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "3400"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "28800"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "38200"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "14500"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "6100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "4,000 - 4,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "81100"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "3000"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "21200"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "36500"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "12500"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "7800"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.9",
+        "rowText": "4,500 - 4,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "78700"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "2700"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "20400"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "35200"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "13900"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "6500"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.10",
+        "rowText": "5,000 - 5,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "70900"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "2400"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "18000"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "31500"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "12100"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "6900"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.11",
+        "rowText": "5,500 - 5,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "61700"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "1700"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "17500"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "25400"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "10300"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "6900"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.12",
+        "rowText": "6,000 - 6,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "100200"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "2100"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "28200"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "45700"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "15900"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "8300"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.13",
+        "rowText": "7,000 - 7,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "78900"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "1300"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "22800"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "37900"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "11100"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "5800"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.14",
+        "rowText": "8,000 - 8,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "56600"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "900"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "14600"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "30000"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "6800"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "4400"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.15",
+        "rowText": "9,000 - 9,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "45100"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "600"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "12600"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "23800"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "5600"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "2500"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.16",
+        "rowText": "10,000 - 10,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "39600"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "800"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "12800"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "19500"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "4700"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "1800"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.17",
+        "rowText": "11,000 - 11,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "27100"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "400"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "9200"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "13600"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "3200"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "800"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.18",
+        "rowText": "12,000 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "131100"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "2100"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "59800"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "56000"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "10500"
+          },
+          {
+            "key": "4 or More Employed Persons",
+            "value": "2800"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

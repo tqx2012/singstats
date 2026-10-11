@@ -1,0 +1,2330 @@
+{
+  "Data": {
+    "id": "C020151",
+    "tableType": "General Household Survey 2025",
+    "groupTitle": null,
+    "title": "Employed Residents Aged 15 Years and Over by Planning Area of Workplace and Occupation",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: Planning areas refer to areas demarcated in the Urban Redevelopment Authority's Master Plan 2019.Data has been rounded to the nearest 100 and may not add up due to rounding.\n‘ - ’ denotes Nil or negligible. Users are advised to exercise caution when drawing inferences from survey estimates with small sample sizes or those denoted as ‘ - ’, as these estimates are based on a sample survey and subject to sampling variability. For more information, refer to the write up on the GHS 2025 Sample Design and Sampling Variability (https://go.gov.sg/ghs2025-sample-design-and-variability). ",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Geographic Distribution",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "2379300"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "406800"
+          },
+          {
+            "key": "Professionals",
+            "value": "625100"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "496100"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "201100"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "247200"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "51700"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "128900"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "167700"
+          },
+          {
+            "key": "Others1/",
+            "value": "54700"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Ang Mo Kio",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "50000"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "7500"
+          },
+          {
+            "key": "Professionals",
+            "value": "15600"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "9600"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "3700"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "5300"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1200"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "2100"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "4900"
+          },
+          {
+            "key": "Others1/",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Bedok",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "61500"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "8900"
+          },
+          {
+            "key": "Professionals",
+            "value": "11200"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "13200"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "5900"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "8700"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1600"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "3200"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "7800"
+          },
+          {
+            "key": "Others1/",
+            "value": "900"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Bishan",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "28400"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "4600"
+          },
+          {
+            "key": "Professionals",
+            "value": "5600"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "7800"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "2700"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "3200"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1000"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "1100"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "2200"
+          },
+          {
+            "key": "Others1/",
+            "value": "300"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Boon Lay",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "15200"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "3400"
+          },
+          {
+            "key": "Professionals",
+            "value": "2400"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "3600"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "1900"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "300"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "800"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "1200"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "1600"
+          },
+          {
+            "key": "Others1/",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "Bukit Batok",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "40800"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "6400"
+          },
+          {
+            "key": "Professionals",
+            "value": "8500"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "7000"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "3100"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "4100"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "900"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "1500"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "3700"
+          },
+          {
+            "key": "Others1/",
+            "value": "5600"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "Bukit Merah",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "105400"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "16100"
+          },
+          {
+            "key": "Professionals",
+            "value": "32600"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "22800"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "9500"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "12600"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1800"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "2000"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "7000"
+          },
+          {
+            "key": "Others1/",
+            "value": "1100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "Bukit Panjang",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "11800"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "1000"
+          },
+          {
+            "key": "Professionals",
+            "value": "2600"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "2200"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "1100"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "2800"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "100"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "400"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "1500"
+          },
+          {
+            "key": "Others1/",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "Bukit Timah",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "18000"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "2000"
+          },
+          {
+            "key": "Professionals",
+            "value": "5500"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "4100"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "1200"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "2500"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "500"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "400"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "1300"
+          },
+          {
+            "key": "Others1/",
+            "value": "500"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.9",
+        "rowText": "Changi",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "66900"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "5600"
+          },
+          {
+            "key": "Professionals",
+            "value": "12200"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "16400"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "7700"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "15400"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1400"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "1700"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "4900"
+          },
+          {
+            "key": "Others1/",
+            "value": "1700"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.10",
+        "rowText": "Choa Chu Kang",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "14400"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "600"
+          },
+          {
+            "key": "Professionals",
+            "value": "4100"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "2700"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "1000"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "2800"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "100"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "600"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "1500"
+          },
+          {
+            "key": "Others1/",
+            "value": "1000"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.11",
+        "rowText": "Clementi",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "37700"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "7100"
+          },
+          {
+            "key": "Professionals",
+            "value": "6900"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "7700"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "4600"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "4300"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "900"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "1600"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "3600"
+          },
+          {
+            "key": "Others1/",
+            "value": "1200"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.12",
+        "rowText": "Downtown Core",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "332600"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "86700"
+          },
+          {
+            "key": "Professionals",
+            "value": "133300"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "56400"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "24600"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "18600"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1300"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "2700"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "8600"
+          },
+          {
+            "key": "Others1/",
+            "value": "400"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.13",
+        "rowText": "Geylang",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "125700"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "24800"
+          },
+          {
+            "key": "Professionals",
+            "value": "21700"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "29200"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "15300"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "13100"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "4000"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "5100"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "11300"
+          },
+          {
+            "key": "Others1/",
+            "value": "1100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.14",
+        "rowText": "Hougang",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "50900"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "5900"
+          },
+          {
+            "key": "Professionals",
+            "value": "11200"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "10700"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "6200"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "7300"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1300"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "2400"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "5300"
+          },
+          {
+            "key": "Others1/",
+            "value": "500"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.15",
+        "rowText": "Jurong East",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "62200"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "10900"
+          },
+          {
+            "key": "Professionals",
+            "value": "15500"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "13400"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "6200"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "7300"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1100"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "3300"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "4400"
+          },
+          {
+            "key": "Others1/",
+            "value": "200"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.16",
+        "rowText": "Jurong West",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "47500"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "4700"
+          },
+          {
+            "key": "Professionals",
+            "value": "8300"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "9500"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "5400"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "6500"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1500"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "2500"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "6100"
+          },
+          {
+            "key": "Others1/",
+            "value": "3000"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.17",
+        "rowText": "Kallang",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "72300"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "12900"
+          },
+          {
+            "key": "Professionals",
+            "value": "20400"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "16300"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "6200"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "8800"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "900"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "2300"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "4400"
+          },
+          {
+            "key": "Others1/",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.18",
+        "rowText": "Marine Parade",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "12100"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "900"
+          },
+          {
+            "key": "Professionals",
+            "value": "2500"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "3600"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "1300"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "1700"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "600"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "400"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "1000"
+          },
+          {
+            "key": "Others1/",
+            "value": "200"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.19",
+        "rowText": "Museum",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "16500"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "4000"
+          },
+          {
+            "key": "Professionals",
+            "value": "5700"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "2600"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "1500"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "1800"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "-"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "300"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "600"
+          },
+          {
+            "key": "Others1/",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.20",
+        "rowText": "Newton",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "13600"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "1600"
+          },
+          {
+            "key": "Professionals",
+            "value": "4900"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "3600"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "1200"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "1300"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "100"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "100"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "700"
+          },
+          {
+            "key": "Others1/",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.21",
+        "rowText": "Novena",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "44900"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "5900"
+          },
+          {
+            "key": "Professionals",
+            "value": "16300"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "10000"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "4700"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "4000"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "300"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "500"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "2500"
+          },
+          {
+            "key": "Others1/",
+            "value": "700"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.22",
+        "rowText": "Orchard",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "48900"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "8700"
+          },
+          {
+            "key": "Professionals",
+            "value": "8400"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "10300"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "4900"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "12100"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "800"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "300"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "3500"
+          },
+          {
+            "key": "Others1/",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.23",
+        "rowText": "Outram",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "38000"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "7900"
+          },
+          {
+            "key": "Professionals",
+            "value": "11000"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "6700"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "4000"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "4600"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "600"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "500"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "2500"
+          },
+          {
+            "key": "Others1/",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.24",
+        "rowText": "Pasir Ris",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "25000"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "2400"
+          },
+          {
+            "key": "Professionals",
+            "value": "5500"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "5000"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "2300"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "3800"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "700"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "700"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "2500"
+          },
+          {
+            "key": "Others1/",
+            "value": "2000"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.25",
+        "rowText": "Paya Lebar",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "13900"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "1800"
+          },
+          {
+            "key": "Professionals",
+            "value": "3600"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "3600"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "1100"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "400"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "500"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "400"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "400"
+          },
+          {
+            "key": "Others1/",
+            "value": "2200"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.26",
+        "rowText": "Pioneer",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "32800"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "6200"
+          },
+          {
+            "key": "Professionals",
+            "value": "7700"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "7300"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "3600"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "1800"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1300"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "1800"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "2000"
+          },
+          {
+            "key": "Others1/",
+            "value": "1200"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.27",
+        "rowText": "Punggol",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "14200"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "1300"
+          },
+          {
+            "key": "Professionals",
+            "value": "3900"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "3400"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "500"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "2500"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "100"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "600"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "2000"
+          },
+          {
+            "key": "Others1/",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.28",
+        "rowText": "Queenstown",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "159200"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "33700"
+          },
+          {
+            "key": "Professionals",
+            "value": "66400"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "29200"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "10300"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "9200"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "800"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "3600"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "5700"
+          },
+          {
+            "key": "Others1/",
+            "value": "300"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.29",
+        "rowText": "Rochor",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "33900"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "5500"
+          },
+          {
+            "key": "Professionals",
+            "value": "6800"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "6500"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "4000"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "6500"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "600"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "600"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "3300"
+          },
+          {
+            "key": "Others1/",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.30",
+        "rowText": "Seletar",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "6500"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "900"
+          },
+          {
+            "key": "Professionals",
+            "value": "1800"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "1800"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "800"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "100"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "300"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "300"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "100"
+          },
+          {
+            "key": "Others1/",
+            "value": "300"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.31",
+        "rowText": "Sembawang",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "36400"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "5700"
+          },
+          {
+            "key": "Professionals",
+            "value": "5400"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "8400"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "4500"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "3100"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1400"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "3100"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "3800"
+          },
+          {
+            "key": "Others1/",
+            "value": "900"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.32",
+        "rowText": "Sengkang",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "23500"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "900"
+          },
+          {
+            "key": "Professionals",
+            "value": "5600"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "5700"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "1700"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "5500"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "200"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "500"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "3200"
+          },
+          {
+            "key": "Others1/",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.33",
+        "rowText": "Serangoon",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "36900"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "6700"
+          },
+          {
+            "key": "Professionals",
+            "value": "9300"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "8300"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "2500"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "4600"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1200"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "1600"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "2600"
+          },
+          {
+            "key": "Others1/",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.34",
+        "rowText": "Singapore River",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "18500"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "3800"
+          },
+          {
+            "key": "Professionals",
+            "value": "3600"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "5100"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "1900"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "2700"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "100"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "200"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "900"
+          },
+          {
+            "key": "Others1/",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.35",
+        "rowText": "Southern Islands",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "7400"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "1000"
+          },
+          {
+            "key": "Professionals",
+            "value": "900"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "1500"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "500"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "2300"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "300"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "100"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "900"
+          },
+          {
+            "key": "Others1/",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.36",
+        "rowText": "Sungei Kadut",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "15400"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "2900"
+          },
+          {
+            "key": "Professionals",
+            "value": "2900"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "3100"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "1600"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "800"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "800"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "1300"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "1000"
+          },
+          {
+            "key": "Others1/",
+            "value": "900"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.37",
+        "rowText": "Tampines",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "88800"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "14800"
+          },
+          {
+            "key": "Professionals",
+            "value": "29200"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "16900"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "8300"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "9000"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1900"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "1600"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "7100"
+          },
+          {
+            "key": "Others1/",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.38",
+        "rowText": "Tanglin",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "12100"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "2000"
+          },
+          {
+            "key": "Professionals",
+            "value": "3100"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "2900"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "1400"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "1400"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "300"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "100"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "800"
+          },
+          {
+            "key": "Others1/",
+            "value": "200"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.39",
+        "rowText": "Toa Payoh",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "55100"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "9300"
+          },
+          {
+            "key": "Professionals",
+            "value": "14400"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "12800"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "5800"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "5400"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1300"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "1800"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "4200"
+          },
+          {
+            "key": "Others1/",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.40",
+        "rowText": "Tuas",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "44200"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "7300"
+          },
+          {
+            "key": "Professionals",
+            "value": "11200"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "12400"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "4000"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "1300"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1800"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "3100"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "3000"
+          },
+          {
+            "key": "Others1/",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.41",
+        "rowText": "Western Islands",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "11300"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "1800"
+          },
+          {
+            "key": "Professionals",
+            "value": "4000"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "3900"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "300"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "400"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "100"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "400"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "300"
+          },
+          {
+            "key": "Others1/",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.42",
+        "rowText": "Western Water Catchment",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "29500"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "1700"
+          },
+          {
+            "key": "Professionals",
+            "value": "7200"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "4900"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "1100"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "900"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "100"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "300"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "1300"
+          },
+          {
+            "key": "Others1/",
+            "value": "12100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.43",
+        "rowText": "Woodlands",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "50300"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "6400"
+          },
+          {
+            "key": "Professionals",
+            "value": "12000"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "10400"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "5000"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "7200"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1800"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "1800"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "5500"
+          },
+          {
+            "key": "Others1/",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.44",
+        "rowText": "Yishun",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "40900"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "3600"
+          },
+          {
+            "key": "Professionals",
+            "value": "8900"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "7200"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "2700"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "5900"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1000"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "1100"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "5200"
+          },
+          {
+            "key": "Others1/",
+            "value": "5100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.45",
+        "rowText": "Other Planning Areas or Outside Singapore2/",
+        "uoM": "Number",
+        "footnote": "2/ Includes unknown planning areas due to invalid workplace address.",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "24700"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "2400"
+          },
+          {
+            "key": "Professionals",
+            "value": "2600"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "4600"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "1500"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "3700"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "500"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "700"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "1300"
+          },
+          {
+            "key": "Others1/",
+            "value": "7400"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.46",
+        "rowText": "No Fixed Location for Work",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "201500"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "21100"
+          },
+          {
+            "key": "Professionals",
+            "value": "18000"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "43300"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "2700"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "17000"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "10700"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "67000"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "19100"
+          },
+          {
+            "key": "Others1/",
+            "value": "2600"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.47",
+        "rowText": "Works from Home",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "82200"
+          },
+          {
+            "key": "Legislators, Senior Officials & Managers",
+            "value": "25400"
+          },
+          {
+            "key": "Professionals",
+            "value": "24500"
+          },
+          {
+            "key": "Associate Professionals & Technicians",
+            "value": "18500"
+          },
+          {
+            "key": "Clerical Support Workers",
+            "value": "9200"
+          },
+          {
+            "key": "Service & Sales Workers",
+            "value": "2700"
+          },
+          {
+            "key": "Craftsmen & Related Trades Workers",
+            "value": "1300"
+          },
+          {
+            "key": "Plant & Machine Operators & Assemblers",
+            "value": "200"
+          },
+          {
+            "key": "Cleaners, Labourers & Related Workers",
+            "value": "400"
+          },
+          {
+            "key": "Others1/",
+            "value": "-"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

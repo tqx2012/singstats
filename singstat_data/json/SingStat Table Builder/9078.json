@@ -1,0 +1,598 @@
+{
+  "Data": {
+    "id": "9078",
+    "tableType": "Census of Population 2000",
+    "groupTitle": null,
+    "title": "Resident Households by Predominant Household Language and Highest Qualification of Head of Household",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data exclude one-person households and households comprising unrelated persons and those headed by students.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "04/04/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "827747"
+          },
+          {
+            "key": "No Qualification",
+            "value": "148846"
+          },
+          {
+            "key": "Primary",
+            "value": "110576"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "105614"
+          },
+          {
+            "key": "Secondary",
+            "value": "203466"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "75421"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "42717"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "40216"
+          },
+          {
+            "key": "University",
+            "value": "100890"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "English",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "201192"
+          },
+          {
+            "key": "No Qualification",
+            "value": "4813"
+          },
+          {
+            "key": "Primary",
+            "value": "6212"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "13126"
+          },
+          {
+            "key": "Secondary",
+            "value": "58583"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "24764"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "18499"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "20104"
+          },
+          {
+            "key": "University",
+            "value": "55091"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Mandarin",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "280830"
+          },
+          {
+            "key": "No Qualification",
+            "value": "37981"
+          },
+          {
+            "key": "Primary",
+            "value": "44133"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "45644"
+          },
+          {
+            "key": "Secondary",
+            "value": "70828"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "27863"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "15803"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "10796"
+          },
+          {
+            "key": "University",
+            "value": "27783"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Chinese Dialects",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "204126"
+          },
+          {
+            "key": "No Qualification",
+            "value": "81961"
+          },
+          {
+            "key": "Primary",
+            "value": "36080"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "22626"
+          },
+          {
+            "key": "Secondary",
+            "value": "32468"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "10690"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "5444"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "5571"
+          },
+          {
+            "key": "University",
+            "value": "9286"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "Hokkien",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "95980"
+          },
+          {
+            "key": "No Qualification",
+            "value": "42947"
+          },
+          {
+            "key": "Primary",
+            "value": "18093"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "10841"
+          },
+          {
+            "key": "Secondary",
+            "value": "13616"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "4127"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "1975"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "1868"
+          },
+          {
+            "key": "University",
+            "value": "2513"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Teochew",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "41147"
+          },
+          {
+            "key": "No Qualification",
+            "value": "17853"
+          },
+          {
+            "key": "Primary",
+            "value": "7365"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "4466"
+          },
+          {
+            "key": "Secondary",
+            "value": "6209"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "2090"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "998"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "873"
+          },
+          {
+            "key": "University",
+            "value": "1292"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.3",
+        "rowText": "Cantonese",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "51432"
+          },
+          {
+            "key": "No Qualification",
+            "value": "15257"
+          },
+          {
+            "key": "Primary",
+            "value": "8045"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "5746"
+          },
+          {
+            "key": "Secondary",
+            "value": "10162"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "3447"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "2042"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "2388"
+          },
+          {
+            "key": "University",
+            "value": "4346"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.4",
+        "rowText": "Other Chinese Dialects",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "15567"
+          },
+          {
+            "key": "No Qualification",
+            "value": "5904"
+          },
+          {
+            "key": "Primary",
+            "value": "2577"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "1573"
+          },
+          {
+            "key": "Secondary",
+            "value": "2481"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "1025"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "429"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "442"
+          },
+          {
+            "key": "University",
+            "value": "1136"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Malay",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "105063"
+          },
+          {
+            "key": "No Qualification",
+            "value": "18294"
+          },
+          {
+            "key": "Primary",
+            "value": "18614"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "19299"
+          },
+          {
+            "key": "Secondary",
+            "value": "33639"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "9578"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "2102"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "1976"
+          },
+          {
+            "key": "University",
+            "value": "1561"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "Indian Languages",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "34650"
+          },
+          {
+            "key": "No Qualification",
+            "value": "5587"
+          },
+          {
+            "key": "Primary",
+            "value": "5405"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "4817"
+          },
+          {
+            "key": "Secondary",
+            "value": "7776"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "2405"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "818"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "1683"
+          },
+          {
+            "key": "University",
+            "value": "6160"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5.1",
+        "rowText": "Tamil",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "28372"
+          },
+          {
+            "key": "No Qualification",
+            "value": "4991"
+          },
+          {
+            "key": "Primary",
+            "value": "5036"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "4480"
+          },
+          {
+            "key": "Secondary",
+            "value": "6646"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "1942"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "577"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "1064"
+          },
+          {
+            "key": "University",
+            "value": "3636"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5.2",
+        "rowText": "Other Indian Languages",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "6278"
+          },
+          {
+            "key": "No Qualification",
+            "value": "596"
+          },
+          {
+            "key": "Primary",
+            "value": "369"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "337"
+          },
+          {
+            "key": "Secondary",
+            "value": "1130"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "463"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "240"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "618"
+          },
+          {
+            "key": "University",
+            "value": "2524"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1886"
+          },
+          {
+            "key": "No Qualification",
+            "value": "210"
+          },
+          {
+            "key": "Primary",
+            "value": "132"
+          },
+          {
+            "key": "Lower Secondary",
+            "value": "103"
+          },
+          {
+            "key": "Secondary",
+            "value": "173"
+          },
+          {
+            "key": "Upper Secondary",
+            "value": "121"
+          },
+          {
+            "key": "Polytechnic",
+            "value": "52"
+          },
+          {
+            "key": "Other Diploma",
+            "value": "86"
+          },
+          {
+            "key": "University",
+            "value": "1008"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

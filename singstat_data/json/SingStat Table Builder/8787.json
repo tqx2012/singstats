@@ -1,0 +1,2196 @@
+{
+  "Data": {
+    "id": "8787",
+    "tableType": "General Household Survey 2005",
+    "groupTitle": null,
+    "title": "Resident Working Persons Aged 15 Years and Over by Monthly Income from Work, Industry and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data on income from work have been updated to include Additional MediSave Contributions from employers with the release of the Key Household Income Trends 2025 report in February 2026. For more information, you may refer to the Technical Note on Household Income (https://go.gov.sg/khit2025-tech-note) which explains the concepts and components of our household income coverage.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "09/07/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Economic Characteristics",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1647294"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "275176"
+              },
+              {
+                "key": "Construction",
+                "value": "81626"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "303633"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "103199"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "163085"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "64492"
+              },
+              {
+                "key": "Financial Services",
+                "value": "102134"
+              },
+              {
+                "key": "Business Services",
+                "value": "207043"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "329067"
+              },
+              {
+                "key": "Others",
+                "value": "17839"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "959689"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "170963"
+              },
+              {
+                "key": "Construction",
+                "value": "67283"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "169961"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "49461"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "126567"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "37147"
+              },
+              {
+                "key": "Financial Services",
+                "value": "44513"
+              },
+              {
+                "key": "Business Services",
+                "value": "114763"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "165429"
+              },
+              {
+                "key": "Others",
+                "value": "13601"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "687605"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "104213"
+              },
+              {
+                "key": "Construction",
+                "value": "14343"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "133671"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "53738"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "36518"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "27345"
+              },
+              {
+                "key": "Financial Services",
+                "value": "57621"
+              },
+              {
+                "key": "Business Services",
+                "value": "92281"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "163638"
+              },
+              {
+                "key": "Others",
+                "value": "4237"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Below 500",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "58389"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "2186"
+              },
+              {
+                "key": "Construction",
+                "value": "1588"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "7963"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "7071"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "2617"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "749"
+              },
+              {
+                "key": "Financial Services",
+                "value": "1132"
+              },
+              {
+                "key": "Business Services",
+                "value": "5997"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "28746"
+              },
+              {
+                "key": "Others",
+                "value": "340"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38763"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "764"
+              },
+              {
+                "key": "Construction",
+                "value": "1374"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "3486"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "2102"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "2118"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "467"
+              },
+              {
+                "key": "Financial Services",
+                "value": "684"
+              },
+              {
+                "key": "Business Services",
+                "value": "2963"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "24554"
+              },
+              {
+                "key": "Others",
+                "value": "251"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19626"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "1422"
+              },
+              {
+                "key": "Construction",
+                "value": "214"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "4477"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "4969"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "499"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "282"
+              },
+              {
+                "key": "Financial Services",
+                "value": "448"
+              },
+              {
+                "key": "Business Services",
+                "value": "3034"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "4191"
+              },
+              {
+                "key": "Others",
+                "value": "89"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "500 - 999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "137056"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "15017"
+              },
+              {
+                "key": "Construction",
+                "value": "7121"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "21145"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "22317"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "14158"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "1241"
+              },
+              {
+                "key": "Financial Services",
+                "value": "1379"
+              },
+              {
+                "key": "Business Services",
+                "value": "22525"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "30604"
+              },
+              {
+                "key": "Others",
+                "value": "1549"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "67660"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "3705"
+              },
+              {
+                "key": "Construction",
+                "value": "5695"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "7933"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "7788"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "12128"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "392"
+              },
+              {
+                "key": "Financial Services",
+                "value": "616"
+              },
+              {
+                "key": "Business Services",
+                "value": "10964"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "17368"
+              },
+              {
+                "key": "Others",
+                "value": "1071"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "69396"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "11312"
+              },
+              {
+                "key": "Construction",
+                "value": "1426"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "13212"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "14529"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "2030"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "849"
+              },
+              {
+                "key": "Financial Services",
+                "value": "763"
+              },
+              {
+                "key": "Business Services",
+                "value": "11561"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "13235"
+              },
+              {
+                "key": "Others",
+                "value": "478"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "1,000 - 1,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "196740"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "30657"
+              },
+              {
+                "key": "Construction",
+                "value": "11077"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "40551"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "26211"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "28558"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "2244"
+              },
+              {
+                "key": "Financial Services",
+                "value": "3726"
+              },
+              {
+                "key": "Business Services",
+                "value": "22209"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "29772"
+              },
+              {
+                "key": "Others",
+                "value": "1735"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "106379"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "11662"
+              },
+              {
+                "key": "Construction",
+                "value": "9507"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "19336"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "11004"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "25810"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "1227"
+              },
+              {
+                "key": "Financial Services",
+                "value": "1303"
+              },
+              {
+                "key": "Business Services",
+                "value": "14674"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "10570"
+              },
+              {
+                "key": "Others",
+                "value": "1287"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "90360"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "18995"
+              },
+              {
+                "key": "Construction",
+                "value": "1570"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "21215"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "15207"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "2748"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "1017"
+              },
+              {
+                "key": "Financial Services",
+                "value": "2423"
+              },
+              {
+                "key": "Business Services",
+                "value": "7535"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "19202"
+              },
+              {
+                "key": "Others",
+                "value": "448"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "1,500 - 1,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "191247"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "30760"
+              },
+              {
+                "key": "Construction",
+                "value": "10620"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "43645"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "17694"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "24621"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "4306"
+              },
+              {
+                "key": "Financial Services",
+                "value": "6280"
+              },
+              {
+                "key": "Business Services",
+                "value": "20483"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "30877"
+              },
+              {
+                "key": "Others",
+                "value": "1963"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "104014"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "14921"
+              },
+              {
+                "key": "Construction",
+                "value": "8678"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "23248"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "9329"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "20207"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "2202"
+              },
+              {
+                "key": "Financial Services",
+                "value": "2251"
+              },
+              {
+                "key": "Business Services",
+                "value": "11373"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "10243"
+              },
+              {
+                "key": "Others",
+                "value": "1562"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "87234"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "15839"
+              },
+              {
+                "key": "Construction",
+                "value": "1941"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "20396"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "8365"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "4414"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "2105"
+              },
+              {
+                "key": "Financial Services",
+                "value": "4029"
+              },
+              {
+                "key": "Business Services",
+                "value": "9109"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "20634"
+              },
+              {
+                "key": "Others",
+                "value": "402"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "2,000 - 2,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "327997"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "54794"
+              },
+              {
+                "key": "Construction",
+                "value": "20236"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "68305"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "17110"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "35710"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "12346"
+              },
+              {
+                "key": "Financial Services",
+                "value": "18879"
+              },
+              {
+                "key": "Business Services",
+                "value": "42190"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "54918"
+              },
+              {
+                "key": "Others",
+                "value": "3509"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "183375"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "33889"
+              },
+              {
+                "key": "Construction",
+                "value": "16262"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "38682"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "10798"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "25866"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "6239"
+              },
+              {
+                "key": "Financial Services",
+                "value": "6890"
+              },
+              {
+                "key": "Business Services",
+                "value": "20851"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "21366"
+              },
+              {
+                "key": "Others",
+                "value": "2531"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "144622"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "20905"
+              },
+              {
+                "key": "Construction",
+                "value": "3974"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "29623"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "6312"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "9844"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "6107"
+              },
+              {
+                "key": "Financial Services",
+                "value": "11989"
+              },
+              {
+                "key": "Business Services",
+                "value": "21339"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "33552"
+              },
+              {
+                "key": "Others",
+                "value": "978"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "3,000 - 3,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "236644"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "46353"
+              },
+              {
+                "key": "Construction",
+                "value": "13671"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "40614"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "6473"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "22033"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "11815"
+              },
+              {
+                "key": "Financial Services",
+                "value": "17309"
+              },
+              {
+                "key": "Business Services",
+                "value": "29653"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "45770"
+              },
+              {
+                "key": "Others",
+                "value": "2954"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "136499"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "32275"
+              },
+              {
+                "key": "Construction",
+                "value": "11092"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "22557"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "4278"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "14291"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "6325"
+              },
+              {
+                "key": "Financial Services",
+                "value": "6268"
+              },
+              {
+                "key": "Business Services",
+                "value": "15011"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "22219"
+              },
+              {
+                "key": "Others",
+                "value": "2182"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "100146"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "14078"
+              },
+              {
+                "key": "Construction",
+                "value": "2579"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "18057"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "2195"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "7742"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "5491"
+              },
+              {
+                "key": "Financial Services",
+                "value": "11041"
+              },
+              {
+                "key": "Business Services",
+                "value": "14642"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "23551"
+              },
+              {
+                "key": "Others",
+                "value": "772"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "4,000 - 4,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "143900"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "29595"
+              },
+              {
+                "key": "Construction",
+                "value": "6566"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "23249"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "2671"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "13119"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "8374"
+              },
+              {
+                "key": "Financial Services",
+                "value": "11665"
+              },
+              {
+                "key": "Business Services",
+                "value": "17723"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "29187"
+              },
+              {
+                "key": "Others",
+                "value": "1750"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "86552"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "21845"
+              },
+              {
+                "key": "Construction",
+                "value": "5353"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "13893"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "1753"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "8987"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "4840"
+              },
+              {
+                "key": "Financial Services",
+                "value": "4119"
+              },
+              {
+                "key": "Business Services",
+                "value": "9462"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "14959"
+              },
+              {
+                "key": "Others",
+                "value": "1340"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "57348"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "7749"
+              },
+              {
+                "key": "Construction",
+                "value": "1214"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "9356"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "918"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "4133"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "3533"
+              },
+              {
+                "key": "Financial Services",
+                "value": "7545"
+              },
+              {
+                "key": "Business Services",
+                "value": "8261"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "14229"
+              },
+              {
+                "key": "Others",
+                "value": "410"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "5,000 - 5,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "98425"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "19217"
+              },
+              {
+                "key": "Construction",
+                "value": "3941"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "15623"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "1429"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "6647"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "6682"
+              },
+              {
+                "key": "Financial Services",
+                "value": "8407"
+              },
+              {
+                "key": "Business Services",
+                "value": "13239"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "21850"
+              },
+              {
+                "key": "Others",
+                "value": "1390"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "61989"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "14565"
+              },
+              {
+                "key": "Construction",
+                "value": "3327"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "10140"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "980"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "4754"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "4199"
+              },
+              {
+                "key": "Financial Services",
+                "value": "3537"
+              },
+              {
+                "key": "Business Services",
+                "value": "7490"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "11765"
+              },
+              {
+                "key": "Others",
+                "value": "1233"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36436"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "4651"
+              },
+              {
+                "key": "Construction",
+                "value": "614"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "5482"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "449"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "1893"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "2484"
+              },
+              {
+                "key": "Financial Services",
+                "value": "4870"
+              },
+              {
+                "key": "Business Services",
+                "value": "5749"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "10085"
+              },
+              {
+                "key": "Others",
+                "value": "158"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.9",
+        "rowText": "6,000 - 6,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "63533"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "12624"
+              },
+              {
+                "key": "Construction",
+                "value": "2320"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "10130"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "718"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "3808"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "4536"
+              },
+              {
+                "key": "Financial Services",
+                "value": "6375"
+              },
+              {
+                "key": "Business Services",
+                "value": "7456"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "14849"
+              },
+              {
+                "key": "Others",
+                "value": "716"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "40031"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "9869"
+              },
+              {
+                "key": "Construction",
+                "value": "1953"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "6703"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "441"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "2737"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "2729"
+              },
+              {
+                "key": "Financial Services",
+                "value": "2872"
+              },
+              {
+                "key": "Business Services",
+                "value": "4172"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "8037"
+              },
+              {
+                "key": "Others",
+                "value": "520"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23502"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "2755"
+              },
+              {
+                "key": "Construction",
+                "value": "367"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "3427"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "277"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "1072"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "1807"
+              },
+              {
+                "key": "Financial Services",
+                "value": "3503"
+              },
+              {
+                "key": "Business Services",
+                "value": "3284"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "6812"
+              },
+              {
+                "key": "Others",
+                "value": "196"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.10",
+        "rowText": "7,000 - 7,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44930"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "8602"
+              },
+              {
+                "key": "Construction",
+                "value": "1495"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "6889"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "403"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "2881"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "2837"
+              },
+              {
+                "key": "Financial Services",
+                "value": "4441"
+              },
+              {
+                "key": "Business Services",
+                "value": "5508"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "11201"
+              },
+              {
+                "key": "Others",
+                "value": "673"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29219"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "6719"
+              },
+              {
+                "key": "Construction",
+                "value": "1355"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "4710"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "288"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "2104"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "1897"
+              },
+              {
+                "key": "Financial Services",
+                "value": "2234"
+              },
+              {
+                "key": "Business Services",
+                "value": "3532"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "5836"
+              },
+              {
+                "key": "Others",
+                "value": "545"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15711"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "1884"
+              },
+              {
+                "key": "Construction",
+                "value": "141"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "2178"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "115"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "777"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "941"
+              },
+              {
+                "key": "Financial Services",
+                "value": "2207"
+              },
+              {
+                "key": "Business Services",
+                "value": "1976"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "5365"
+              },
+              {
+                "key": "Others",
+                "value": "128"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.11",
+        "rowText": "8,000 - 8,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "32180"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "6092"
+              },
+              {
+                "key": "Construction",
+                "value": "645"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "5260"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "338"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "1823"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "1970"
+              },
+              {
+                "key": "Financial Services",
+                "value": "3249"
+              },
+              {
+                "key": "Business Services",
+                "value": "4348"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "8239"
+              },
+              {
+                "key": "Others",
+                "value": "217"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21206"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "4921"
+              },
+              {
+                "key": "Construction",
+                "value": "581"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "3796"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "185"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "1430"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "1359"
+              },
+              {
+                "key": "Financial Services",
+                "value": "1593"
+              },
+              {
+                "key": "Business Services",
+                "value": "2875"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "4275"
+              },
+              {
+                "key": "Others",
+                "value": "192"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10974"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "1171"
+              },
+              {
+                "key": "Construction",
+                "value": "64"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "1464"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "153"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "393"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "611"
+              },
+              {
+                "key": "Financial Services",
+                "value": "1656"
+              },
+              {
+                "key": "Business Services",
+                "value": "1473"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "3964"
+              },
+              {
+                "key": "Others",
+                "value": "26"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.12",
+        "rowText": "9,000 - 9,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23043"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "4244"
+              },
+              {
+                "key": "Construction",
+                "value": "554"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "3188"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "101"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "1259"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "1539"
+              },
+              {
+                "key": "Financial Services",
+                "value": "2782"
+              },
+              {
+                "key": "Business Services",
+                "value": "3197"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "5916"
+              },
+              {
+                "key": "Others",
+                "value": "263"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15307"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "3407"
+              },
+              {
+                "key": "Construction",
+                "value": "498"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "2377"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "89"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "1075"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "1086"
+              },
+              {
+                "key": "Financial Services",
+                "value": "1314"
+              },
+              {
+                "key": "Business Services",
+                "value": "2133"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "3117"
+              },
+              {
+                "key": "Others",
+                "value": "212"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7736"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "837"
+              },
+              {
+                "key": "Construction",
+                "value": "56"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "811"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "13"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "184"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "453"
+              },
+              {
+                "key": "Financial Services",
+                "value": "1469"
+              },
+              {
+                "key": "Business Services",
+                "value": "1063"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "2799"
+              },
+              {
+                "key": "Others",
+                "value": "51"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.13",
+        "rowText": "10,000 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "93209"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "15037"
+              },
+              {
+                "key": "Construction",
+                "value": "1792"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "17071"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "662"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "5851"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "5853"
+              },
+              {
+                "key": "Financial Services",
+                "value": "16511"
+              },
+              {
+                "key": "Business Services",
+                "value": "12516"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "17138"
+              },
+              {
+                "key": "Others",
+                "value": "779"
+              }
+            ]
+          },
+          {
+            "key": "Males",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "68696"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "12421"
+              },
+              {
+                "key": "Construction",
+                "value": "1608"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "13099"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "426"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "5062"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "4186"
+              },
+              {
+                "key": "Financial Services",
+                "value": "10833"
+              },
+              {
+                "key": "Business Services",
+                "value": "9263"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "11120"
+              },
+              {
+                "key": "Others",
+                "value": "677"
+              }
+            ]
+          },
+          {
+            "key": "Females",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24513"
+              },
+              {
+                "key": "Manufacturing",
+                "value": "2616"
+              },
+              {
+                "key": "Construction",
+                "value": "183"
+              },
+              {
+                "key": "Wholesale & Retail Trade",
+                "value": "3972"
+              },
+              {
+                "key": "Hotels & Restaurants",
+                "value": "235"
+              },
+              {
+                "key": "Transport & Storage",
+                "value": "790"
+              },
+              {
+                "key": "Information & Communications",
+                "value": "1667"
+              },
+              {
+                "key": "Financial Services",
+                "value": "5677"
+              },
+              {
+                "key": "Business Services",
+                "value": "3253"
+              },
+              {
+                "key": "Community, Social & Personal Services",
+                "value": "6018"
+              },
+              {
+                "key": "Others",
+                "value": "102"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

@@ -1,0 +1,2536 @@
+{
+  "Data": {
+    "theme": "Economy & Prices",
+    "subject": "Public Finance",
+    "topic": "Taxable Individuals and Companies",
+    "id": "M130551",
+    "groupTitle": null,
+    "title": "Taxable Companies By Economic Sector, Annual",
+    "frequency": "Annual",
+    "adjustmentType": null,
+    "datasource": "INLAND REVENUE AUTHORITY OF SINGAPORE",
+    "footnote": "From Year of Assessment 2009, the industries are classified according to Singapore Standard Industrial Classification (SSIC) 2010.  From Year of Assessment 2016, the industries are classified according to SSIC 2015.  From Year of Assessment 2018, the industries are classified according to SSIC 2015 (Version 2018).  From Year of Assessment 2021, the industries are classified according to SSIC 2020.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "22/07/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "sortBy": null,
+    "timeFilter": null,
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "seriesNo": "1",
+        "rowText": "Total Number Of Companies",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "42219"
+          },
+          {
+            "key": "2009",
+            "value": "50344"
+          },
+          {
+            "key": "2010",
+            "value": "52042"
+          },
+          {
+            "key": "2011",
+            "value": "53569"
+          },
+          {
+            "key": "2012",
+            "value": "57096"
+          },
+          {
+            "key": "2013",
+            "value": "60535"
+          },
+          {
+            "key": "2014",
+            "value": "64770"
+          },
+          {
+            "key": "2015",
+            "value": "69919"
+          },
+          {
+            "key": "2016",
+            "value": "74286"
+          },
+          {
+            "key": "2017",
+            "value": "76364"
+          },
+          {
+            "key": "2018",
+            "value": "77797"
+          },
+          {
+            "key": "2019",
+            "value": "78537"
+          },
+          {
+            "key": "2020",
+            "value": "95159"
+          },
+          {
+            "key": "2021",
+            "value": "91202"
+          },
+          {
+            "key": "2022",
+            "value": "97940"
+          },
+          {
+            "key": "2023",
+            "value": "107745"
+          },
+          {
+            "key": "2024",
+            "value": "114709"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.3",
+        "rowText": "Manufacturing",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "3444"
+          },
+          {
+            "key": "2009",
+            "value": "4278"
+          },
+          {
+            "key": "2010",
+            "value": "4286"
+          },
+          {
+            "key": "2011",
+            "value": "4349"
+          },
+          {
+            "key": "2012",
+            "value": "4508"
+          },
+          {
+            "key": "2013",
+            "value": "4700"
+          },
+          {
+            "key": "2014",
+            "value": "4890"
+          },
+          {
+            "key": "2015",
+            "value": "5144"
+          },
+          {
+            "key": "2016",
+            "value": "5155"
+          },
+          {
+            "key": "2017",
+            "value": "4912"
+          },
+          {
+            "key": "2018",
+            "value": "4840"
+          },
+          {
+            "key": "2019",
+            "value": "4822"
+          },
+          {
+            "key": "2020",
+            "value": "5465"
+          },
+          {
+            "key": "2021",
+            "value": "5010"
+          },
+          {
+            "key": "2022",
+            "value": "5487"
+          },
+          {
+            "key": "2023",
+            "value": "6161"
+          },
+          {
+            "key": "2024",
+            "value": "6386"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.4",
+        "rowText": "Construction",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "2891"
+          },
+          {
+            "key": "2009",
+            "value": "3912"
+          },
+          {
+            "key": "2010",
+            "value": "4360"
+          },
+          {
+            "key": "2011",
+            "value": "4437"
+          },
+          {
+            "key": "2012",
+            "value": "4672"
+          },
+          {
+            "key": "2013",
+            "value": "4878"
+          },
+          {
+            "key": "2014",
+            "value": "5204"
+          },
+          {
+            "key": "2015",
+            "value": "5660"
+          },
+          {
+            "key": "2016",
+            "value": "5981"
+          },
+          {
+            "key": "2017",
+            "value": "5929"
+          },
+          {
+            "key": "2018",
+            "value": "5693"
+          },
+          {
+            "key": "2019",
+            "value": "5383"
+          },
+          {
+            "key": "2020",
+            "value": "6971"
+          },
+          {
+            "key": "2021",
+            "value": "6109"
+          },
+          {
+            "key": "2022",
+            "value": "6950"
+          },
+          {
+            "key": "2023",
+            "value": "8436"
+          },
+          {
+            "key": "2024",
+            "value": "9396"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.5",
+        "rowText": "Utilities",
+        "uoM": "Number",
+        "footnote": "Includes Electricity, Gas, Steam & Air-Conditioning Supply, Water Supply, Sewerage, and Waste Management & Remediation Activities.",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "92"
+          },
+          {
+            "key": "2009",
+            "value": "114"
+          },
+          {
+            "key": "2010",
+            "value": "118"
+          },
+          {
+            "key": "2011",
+            "value": "138"
+          },
+          {
+            "key": "2012",
+            "value": "144"
+          },
+          {
+            "key": "2013",
+            "value": "171"
+          },
+          {
+            "key": "2014",
+            "value": "176"
+          },
+          {
+            "key": "2015",
+            "value": "187"
+          },
+          {
+            "key": "2016",
+            "value": "194"
+          },
+          {
+            "key": "2017",
+            "value": "202"
+          },
+          {
+            "key": "2018",
+            "value": "193"
+          },
+          {
+            "key": "2019",
+            "value": "200"
+          },
+          {
+            "key": "2020",
+            "value": "251"
+          },
+          {
+            "key": "2021",
+            "value": "240"
+          },
+          {
+            "key": "2022",
+            "value": "274"
+          },
+          {
+            "key": "2023",
+            "value": "315"
+          },
+          {
+            "key": "2024",
+            "value": "348"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.7",
+        "rowText": "Wholesale & Retail Trade",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "13789"
+          },
+          {
+            "key": "2009",
+            "value": "15942"
+          },
+          {
+            "key": "2010",
+            "value": "16082"
+          },
+          {
+            "key": "2011",
+            "value": "16293"
+          },
+          {
+            "key": "2012",
+            "value": "17256"
+          },
+          {
+            "key": "2013",
+            "value": "17741"
+          },
+          {
+            "key": "2014",
+            "value": "18451"
+          },
+          {
+            "key": "2015",
+            "value": "19261"
+          },
+          {
+            "key": "2016",
+            "value": "20094"
+          },
+          {
+            "key": "2017",
+            "value": "20275"
+          },
+          {
+            "key": "2018",
+            "value": "20480"
+          },
+          {
+            "key": "2019",
+            "value": "20692"
+          },
+          {
+            "key": "2020",
+            "value": "24811"
+          },
+          {
+            "key": "2021",
+            "value": "24131"
+          },
+          {
+            "key": "2022",
+            "value": "25688"
+          },
+          {
+            "key": "2023",
+            "value": "27349"
+          },
+          {
+            "key": "2024",
+            "value": "28396"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.8",
+        "rowText": "Accommodation & Food Service Activities",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "826"
+          },
+          {
+            "key": "2009",
+            "value": "1151"
+          },
+          {
+            "key": "2010",
+            "value": "1240"
+          },
+          {
+            "key": "2011",
+            "value": "1379"
+          },
+          {
+            "key": "2012",
+            "value": "1553"
+          },
+          {
+            "key": "2013",
+            "value": "1779"
+          },
+          {
+            "key": "2014",
+            "value": "1984"
+          },
+          {
+            "key": "2015",
+            "value": "2232"
+          },
+          {
+            "key": "2016",
+            "value": "2441"
+          },
+          {
+            "key": "2017",
+            "value": "2472"
+          },
+          {
+            "key": "2018",
+            "value": "2544"
+          },
+          {
+            "key": "2019",
+            "value": "2388"
+          },
+          {
+            "key": "2020",
+            "value": "3295"
+          },
+          {
+            "key": "2021",
+            "value": "2775"
+          },
+          {
+            "key": "2022",
+            "value": "2877"
+          },
+          {
+            "key": "2023",
+            "value": "3343"
+          },
+          {
+            "key": "2024",
+            "value": "3632"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.10",
+        "rowText": "Transportation & Storage",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "2665"
+          },
+          {
+            "key": "2009",
+            "value": "3052"
+          },
+          {
+            "key": "2010",
+            "value": "2909"
+          },
+          {
+            "key": "2011",
+            "value": "2806"
+          },
+          {
+            "key": "2012",
+            "value": "2952"
+          },
+          {
+            "key": "2013",
+            "value": "3130"
+          },
+          {
+            "key": "2014",
+            "value": "3455"
+          },
+          {
+            "key": "2015",
+            "value": "3670"
+          },
+          {
+            "key": "2016",
+            "value": "3808"
+          },
+          {
+            "key": "2017",
+            "value": "3707"
+          },
+          {
+            "key": "2018",
+            "value": "3712"
+          },
+          {
+            "key": "2019",
+            "value": "3804"
+          },
+          {
+            "key": "2020",
+            "value": "4541"
+          },
+          {
+            "key": "2021",
+            "value": "4276"
+          },
+          {
+            "key": "2022",
+            "value": "4509"
+          },
+          {
+            "key": "2023",
+            "value": "5103"
+          },
+          {
+            "key": "2024",
+            "value": "5417"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.11",
+        "rowText": "Information & Communications",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "1600"
+          },
+          {
+            "key": "2009",
+            "value": "2093"
+          },
+          {
+            "key": "2010",
+            "value": "2178"
+          },
+          {
+            "key": "2011",
+            "value": "2096"
+          },
+          {
+            "key": "2012",
+            "value": "2204"
+          },
+          {
+            "key": "2013",
+            "value": "2488"
+          },
+          {
+            "key": "2014",
+            "value": "2777"
+          },
+          {
+            "key": "2015",
+            "value": "3244"
+          },
+          {
+            "key": "2016",
+            "value": "3498"
+          },
+          {
+            "key": "2017",
+            "value": "3901"
+          },
+          {
+            "key": "2018",
+            "value": "4114"
+          },
+          {
+            "key": "2019",
+            "value": "4211"
+          },
+          {
+            "key": "2020",
+            "value": "5720"
+          },
+          {
+            "key": "2021",
+            "value": "5994"
+          },
+          {
+            "key": "2022",
+            "value": "6662"
+          },
+          {
+            "key": "2023",
+            "value": "7420"
+          },
+          {
+            "key": "2024",
+            "value": "8015"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.12",
+        "rowText": "Financial & Insurance Activities",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "4495"
+          },
+          {
+            "key": "2009",
+            "value": "4969"
+          },
+          {
+            "key": "2010",
+            "value": "5155"
+          },
+          {
+            "key": "2011",
+            "value": "5669"
+          },
+          {
+            "key": "2012",
+            "value": "6249"
+          },
+          {
+            "key": "2013",
+            "value": "6681"
+          },
+          {
+            "key": "2014",
+            "value": "7333"
+          },
+          {
+            "key": "2015",
+            "value": "8128"
+          },
+          {
+            "key": "2016",
+            "value": "9023"
+          },
+          {
+            "key": "2017",
+            "value": "9726"
+          },
+          {
+            "key": "2018",
+            "value": "10140"
+          },
+          {
+            "key": "2019",
+            "value": "10356"
+          },
+          {
+            "key": "2020",
+            "value": "11153"
+          },
+          {
+            "key": "2021",
+            "value": "11322"
+          },
+          {
+            "key": "2022",
+            "value": "11827"
+          },
+          {
+            "key": "2023",
+            "value": "12702"
+          },
+          {
+            "key": "2024",
+            "value": "13770"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.13",
+        "rowText": "Real Estate & Business Activities",
+        "uoM": "Number",
+        "footnote": "Includes Real Estate Activities, Professional, Scientific & Technical Activities, and Administrative & Support Service Activities.",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "9627"
+          },
+          {
+            "key": "2009",
+            "value": "11199"
+          },
+          {
+            "key": "2010",
+            "value": "11666"
+          },
+          {
+            "key": "2011",
+            "value": "12141"
+          },
+          {
+            "key": "2012",
+            "value": "12951"
+          },
+          {
+            "key": "2013",
+            "value": "13906"
+          },
+          {
+            "key": "2014",
+            "value": "15052"
+          },
+          {
+            "key": "2015",
+            "value": "16383"
+          },
+          {
+            "key": "2016",
+            "value": "17587"
+          },
+          {
+            "key": "2017",
+            "value": "18386"
+          },
+          {
+            "key": "2018",
+            "value": "18930"
+          },
+          {
+            "key": "2019",
+            "value": "19447"
+          },
+          {
+            "key": "2020",
+            "value": "24053"
+          },
+          {
+            "key": "2021",
+            "value": "23037"
+          },
+          {
+            "key": "2022",
+            "value": "24556"
+          },
+          {
+            "key": "2023",
+            "value": "26900"
+          },
+          {
+            "key": "2024",
+            "value": "28779"
+          }
+        ]
+      },
+      {
+        "seriesNo": "1.14",
+        "rowText": "Other Goods And Services Industries",
+        "uoM": "Number",
+        "footnote": "Includes Agriculture & Fishing, Mining & Quarrying, and all other industries such as Education, Health & Social Services, Arts, Entertainment & Recreation, Other Service Activities.",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "2790"
+          },
+          {
+            "key": "2009",
+            "value": "3634"
+          },
+          {
+            "key": "2010",
+            "value": "4048"
+          },
+          {
+            "key": "2011",
+            "value": "4261"
+          },
+          {
+            "key": "2012",
+            "value": "4607"
+          },
+          {
+            "key": "2013",
+            "value": "5061"
+          },
+          {
+            "key": "2014",
+            "value": "5448"
+          },
+          {
+            "key": "2015",
+            "value": "6010"
+          },
+          {
+            "key": "2016",
+            "value": "6505"
+          },
+          {
+            "key": "2017",
+            "value": "6854"
+          },
+          {
+            "key": "2018",
+            "value": "7151"
+          },
+          {
+            "key": "2019",
+            "value": "7234"
+          },
+          {
+            "key": "2020",
+            "value": "8899"
+          },
+          {
+            "key": "2021",
+            "value": "8308"
+          },
+          {
+            "key": "2022",
+            "value": "9110"
+          },
+          {
+            "key": "2023",
+            "value": "10016"
+          },
+          {
+            "key": "2024",
+            "value": "10570"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2",
+        "rowText": "Chargeable Income",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "69310305"
+          },
+          {
+            "key": "2009",
+            "value": "71351658"
+          },
+          {
+            "key": "2010",
+            "value": "73684645"
+          },
+          {
+            "key": "2011",
+            "value": "85247952"
+          },
+          {
+            "key": "2012",
+            "value": "97126118"
+          },
+          {
+            "key": "2013",
+            "value": "97542672"
+          },
+          {
+            "key": "2014",
+            "value": "101859829"
+          },
+          {
+            "key": "2015",
+            "value": "108647017"
+          },
+          {
+            "key": "2016",
+            "value": "113840457"
+          },
+          {
+            "key": "2017",
+            "value": "120764803"
+          },
+          {
+            "key": "2018",
+            "value": "150382005"
+          },
+          {
+            "key": "2019",
+            "value": "163805106"
+          },
+          {
+            "key": "2020",
+            "value": "154938600"
+          },
+          {
+            "key": "2021",
+            "value": "144105016"
+          },
+          {
+            "key": "2022",
+            "value": "202754250"
+          },
+          {
+            "key": "2023",
+            "value": "254920563"
+          },
+          {
+            "key": "2024",
+            "value": "273864726"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2.3",
+        "rowText": "Manufacturing",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "13710625"
+          },
+          {
+            "key": "2009",
+            "value": "11279731"
+          },
+          {
+            "key": "2010",
+            "value": "10992835"
+          },
+          {
+            "key": "2011",
+            "value": "11758075"
+          },
+          {
+            "key": "2012",
+            "value": "12981389"
+          },
+          {
+            "key": "2013",
+            "value": "13404154"
+          },
+          {
+            "key": "2014",
+            "value": "9955207"
+          },
+          {
+            "key": "2015",
+            "value": "12577692"
+          },
+          {
+            "key": "2016",
+            "value": "13225622"
+          },
+          {
+            "key": "2017",
+            "value": "16137408"
+          },
+          {
+            "key": "2018",
+            "value": "21911779"
+          },
+          {
+            "key": "2019",
+            "value": "34035092"
+          },
+          {
+            "key": "2020",
+            "value": "26052451"
+          },
+          {
+            "key": "2021",
+            "value": "21133973"
+          },
+          {
+            "key": "2022",
+            "value": "32020437"
+          },
+          {
+            "key": "2023",
+            "value": "47778981"
+          },
+          {
+            "key": "2024",
+            "value": "36358016"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2.4",
+        "rowText": "Construction",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "983896"
+          },
+          {
+            "key": "2009",
+            "value": "1615221"
+          },
+          {
+            "key": "2010",
+            "value": "2632143"
+          },
+          {
+            "key": "2011",
+            "value": "3173299"
+          },
+          {
+            "key": "2012",
+            "value": "3472638"
+          },
+          {
+            "key": "2013",
+            "value": "3426270"
+          },
+          {
+            "key": "2014",
+            "value": "3402899"
+          },
+          {
+            "key": "2015",
+            "value": "3076259"
+          },
+          {
+            "key": "2016",
+            "value": "3117129"
+          },
+          {
+            "key": "2017",
+            "value": "3074399"
+          },
+          {
+            "key": "2018",
+            "value": "2565240"
+          },
+          {
+            "key": "2019",
+            "value": "2759098"
+          },
+          {
+            "key": "2020",
+            "value": "2439645"
+          },
+          {
+            "key": "2021",
+            "value": "1741549"
+          },
+          {
+            "key": "2022",
+            "value": "2162006"
+          },
+          {
+            "key": "2023",
+            "value": "2972950"
+          },
+          {
+            "key": "2024",
+            "value": "3663764"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2.5",
+        "rowText": "Utilities",
+        "uoM": "Thousand Dollars",
+        "footnote": "Includes Electricity, Gas, Steam & Air-Conditioning Supply, Water Supply, Sewerage, and Waste Management & Remediation Activities.",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "1094942"
+          },
+          {
+            "key": "2009",
+            "value": "1021818"
+          },
+          {
+            "key": "2010",
+            "value": "476163"
+          },
+          {
+            "key": "2011",
+            "value": "930222"
+          },
+          {
+            "key": "2012",
+            "value": "1763770"
+          },
+          {
+            "key": "2013",
+            "value": "1717358"
+          },
+          {
+            "key": "2014",
+            "value": "910110"
+          },
+          {
+            "key": "2015",
+            "value": "771355"
+          },
+          {
+            "key": "2016",
+            "value": "801841"
+          },
+          {
+            "key": "2017",
+            "value": "881937"
+          },
+          {
+            "key": "2018",
+            "value": "861611"
+          },
+          {
+            "key": "2019",
+            "value": "941730"
+          },
+          {
+            "key": "2020",
+            "value": "937219"
+          },
+          {
+            "key": "2021",
+            "value": "497970"
+          },
+          {
+            "key": "2022",
+            "value": "1143988"
+          },
+          {
+            "key": "2023",
+            "value": "2345328"
+          },
+          {
+            "key": "2024",
+            "value": "4048913"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2.7",
+        "rowText": "Wholesale & Retail Trade",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "17055120"
+          },
+          {
+            "key": "2009",
+            "value": "18857302"
+          },
+          {
+            "key": "2010",
+            "value": "17205622"
+          },
+          {
+            "key": "2011",
+            "value": "19837142"
+          },
+          {
+            "key": "2012",
+            "value": "23540437"
+          },
+          {
+            "key": "2013",
+            "value": "22623583"
+          },
+          {
+            "key": "2014",
+            "value": "24043581"
+          },
+          {
+            "key": "2015",
+            "value": "25093313"
+          },
+          {
+            "key": "2016",
+            "value": "27371346"
+          },
+          {
+            "key": "2017",
+            "value": "29260530"
+          },
+          {
+            "key": "2018",
+            "value": "35020384"
+          },
+          {
+            "key": "2019",
+            "value": "38036372"
+          },
+          {
+            "key": "2020",
+            "value": "41864711"
+          },
+          {
+            "key": "2021",
+            "value": "46199785"
+          },
+          {
+            "key": "2022",
+            "value": "60523796"
+          },
+          {
+            "key": "2023",
+            "value": "72013687"
+          },
+          {
+            "key": "2024",
+            "value": "92275849"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2.8",
+        "rowText": "Accommodation & Food Service Activities",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "922199"
+          },
+          {
+            "key": "2009",
+            "value": "1113697"
+          },
+          {
+            "key": "2010",
+            "value": "816466"
+          },
+          {
+            "key": "2011",
+            "value": "904859"
+          },
+          {
+            "key": "2012",
+            "value": "1298301"
+          },
+          {
+            "key": "2013",
+            "value": "1274351"
+          },
+          {
+            "key": "2014",
+            "value": "1348453"
+          },
+          {
+            "key": "2015",
+            "value": "1358228"
+          },
+          {
+            "key": "2016",
+            "value": "1284906"
+          },
+          {
+            "key": "2017",
+            "value": "1331099"
+          },
+          {
+            "key": "2018",
+            "value": "1367124"
+          },
+          {
+            "key": "2019",
+            "value": "1537546"
+          },
+          {
+            "key": "2020",
+            "value": "1581254"
+          },
+          {
+            "key": "2021",
+            "value": "817310"
+          },
+          {
+            "key": "2022",
+            "value": "734193"
+          },
+          {
+            "key": "2023",
+            "value": "1444344"
+          },
+          {
+            "key": "2024",
+            "value": "2033240"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2.10",
+        "rowText": "Transportation & Storage",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "3675013"
+          },
+          {
+            "key": "2009",
+            "value": "5129884"
+          },
+          {
+            "key": "2010",
+            "value": "3950611"
+          },
+          {
+            "key": "2011",
+            "value": "3947718"
+          },
+          {
+            "key": "2012",
+            "value": "6310337"
+          },
+          {
+            "key": "2013",
+            "value": "6089735"
+          },
+          {
+            "key": "2014",
+            "value": "5410695"
+          },
+          {
+            "key": "2015",
+            "value": "5945369"
+          },
+          {
+            "key": "2016",
+            "value": "5691292"
+          },
+          {
+            "key": "2017",
+            "value": "4982353"
+          },
+          {
+            "key": "2018",
+            "value": "5549703"
+          },
+          {
+            "key": "2019",
+            "value": "5449933"
+          },
+          {
+            "key": "2020",
+            "value": "6176837"
+          },
+          {
+            "key": "2021",
+            "value": "5684923"
+          },
+          {
+            "key": "2022",
+            "value": "6597848"
+          },
+          {
+            "key": "2023",
+            "value": "7238479"
+          },
+          {
+            "key": "2024",
+            "value": "7737157"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2.11",
+        "rowText": "Information & Communications",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "2550162"
+          },
+          {
+            "key": "2009",
+            "value": "2549711"
+          },
+          {
+            "key": "2010",
+            "value": "2846491"
+          },
+          {
+            "key": "2011",
+            "value": "3401812"
+          },
+          {
+            "key": "2012",
+            "value": "3714281"
+          },
+          {
+            "key": "2013",
+            "value": "2977668"
+          },
+          {
+            "key": "2014",
+            "value": "3285197"
+          },
+          {
+            "key": "2015",
+            "value": "3651677"
+          },
+          {
+            "key": "2016",
+            "value": "4233640"
+          },
+          {
+            "key": "2017",
+            "value": "3915731"
+          },
+          {
+            "key": "2018",
+            "value": "4731166"
+          },
+          {
+            "key": "2019",
+            "value": "6718019"
+          },
+          {
+            "key": "2020",
+            "value": "5735536"
+          },
+          {
+            "key": "2021",
+            "value": "5741514"
+          },
+          {
+            "key": "2022",
+            "value": "9497738"
+          },
+          {
+            "key": "2023",
+            "value": "9166728"
+          },
+          {
+            "key": "2024",
+            "value": "11072807"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2.12",
+        "rowText": "Financial & Insurance Activities",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "21951629"
+          },
+          {
+            "key": "2009",
+            "value": "18998912"
+          },
+          {
+            "key": "2010",
+            "value": "21574449"
+          },
+          {
+            "key": "2011",
+            "value": "25155298"
+          },
+          {
+            "key": "2012",
+            "value": "25568294"
+          },
+          {
+            "key": "2013",
+            "value": "26764831"
+          },
+          {
+            "key": "2014",
+            "value": "30552578"
+          },
+          {
+            "key": "2015",
+            "value": "31091407"
+          },
+          {
+            "key": "2016",
+            "value": "33271639"
+          },
+          {
+            "key": "2017",
+            "value": "31465247"
+          },
+          {
+            "key": "2018",
+            "value": "39181974"
+          },
+          {
+            "key": "2019",
+            "value": "37149526"
+          },
+          {
+            "key": "2020",
+            "value": "40680264"
+          },
+          {
+            "key": "2021",
+            "value": "33616412"
+          },
+          {
+            "key": "2022",
+            "value": "49949107"
+          },
+          {
+            "key": "2023",
+            "value": "60480541"
+          },
+          {
+            "key": "2024",
+            "value": "68257351"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2.13",
+        "rowText": "Real Estate & Business Activities",
+        "uoM": "Thousand Dollars",
+        "footnote": "Includes Real Estate Activities, Professional, Scientific & Technical Activities, and Administrative & Support Service Activities.",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "6444267"
+          },
+          {
+            "key": "2009",
+            "value": "9038126"
+          },
+          {
+            "key": "2010",
+            "value": "11609591"
+          },
+          {
+            "key": "2011",
+            "value": "14445690"
+          },
+          {
+            "key": "2012",
+            "value": "16606203"
+          },
+          {
+            "key": "2013",
+            "value": "17058592"
+          },
+          {
+            "key": "2014",
+            "value": "19527292"
+          },
+          {
+            "key": "2015",
+            "value": "21013798"
+          },
+          {
+            "key": "2016",
+            "value": "21356825"
+          },
+          {
+            "key": "2017",
+            "value": "26620744"
+          },
+          {
+            "key": "2018",
+            "value": "33532409"
+          },
+          {
+            "key": "2019",
+            "value": "32665231"
+          },
+          {
+            "key": "2020",
+            "value": "26106756"
+          },
+          {
+            "key": "2021",
+            "value": "24972833"
+          },
+          {
+            "key": "2022",
+            "value": "30345618"
+          },
+          {
+            "key": "2023",
+            "value": "39637550"
+          },
+          {
+            "key": "2024",
+            "value": "38070314"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2.14",
+        "rowText": "Other Goods And Services Industries",
+        "uoM": "Thousand Dollars",
+        "footnote": "Includes Agriculture & Fishing, Mining & Quarrying, and all other industries such as Education, Health & Social Services, Arts, Entertainment & Recreation, Other Service Activities.",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "922452"
+          },
+          {
+            "key": "2009",
+            "value": "1747256"
+          },
+          {
+            "key": "2010",
+            "value": "1580274"
+          },
+          {
+            "key": "2011",
+            "value": "1693837"
+          },
+          {
+            "key": "2012",
+            "value": "1870468"
+          },
+          {
+            "key": "2013",
+            "value": "2206130"
+          },
+          {
+            "key": "2014",
+            "value": "3423817"
+          },
+          {
+            "key": "2015",
+            "value": "4067919"
+          },
+          {
+            "key": "2016",
+            "value": "3486217"
+          },
+          {
+            "key": "2017",
+            "value": "3095355"
+          },
+          {
+            "key": "2018",
+            "value": "5660615"
+          },
+          {
+            "key": "2019",
+            "value": "4512559"
+          },
+          {
+            "key": "2020",
+            "value": "3363927"
+          },
+          {
+            "key": "2021",
+            "value": "3698748"
+          },
+          {
+            "key": "2022",
+            "value": "9779519"
+          },
+          {
+            "key": "2023",
+            "value": "11841974"
+          },
+          {
+            "key": "2024",
+            "value": "10347315"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3",
+        "rowText": "Net Tax Assessed",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "10297401"
+          },
+          {
+            "key": "2009",
+            "value": "10832387"
+          },
+          {
+            "key": "2010",
+            "value": "10471607"
+          },
+          {
+            "key": "2011",
+            "value": "11595639"
+          },
+          {
+            "key": "2012",
+            "value": "13330238"
+          },
+          {
+            "key": "2013",
+            "value": "12920275"
+          },
+          {
+            "key": "2014",
+            "value": "13209324"
+          },
+          {
+            "key": "2015",
+            "value": "13593767"
+          },
+          {
+            "key": "2016",
+            "value": "14107378"
+          },
+          {
+            "key": "2017",
+            "value": "14376520"
+          },
+          {
+            "key": "2018",
+            "value": "15923790"
+          },
+          {
+            "key": "2019",
+            "value": "17072282"
+          },
+          {
+            "key": "2020",
+            "value": "17792098"
+          },
+          {
+            "key": "2021",
+            "value": "16214068"
+          },
+          {
+            "key": "2022",
+            "value": "21773188"
+          },
+          {
+            "key": "2023",
+            "value": "27916734"
+          },
+          {
+            "key": "2024",
+            "value": "29951949"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3.3",
+        "rowText": "Manufacturing",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "1593402"
+          },
+          {
+            "key": "2009",
+            "value": "1554005"
+          },
+          {
+            "key": "2010",
+            "value": "1452225"
+          },
+          {
+            "key": "2011",
+            "value": "1524448"
+          },
+          {
+            "key": "2012",
+            "value": "1495100"
+          },
+          {
+            "key": "2013",
+            "value": "1491936"
+          },
+          {
+            "key": "2014",
+            "value": "1295965"
+          },
+          {
+            "key": "2015",
+            "value": "1473370"
+          },
+          {
+            "key": "2016",
+            "value": "1449054"
+          },
+          {
+            "key": "2017",
+            "value": "1617032"
+          },
+          {
+            "key": "2018",
+            "value": "1869659"
+          },
+          {
+            "key": "2019",
+            "value": "2408970"
+          },
+          {
+            "key": "2020",
+            "value": "2496753"
+          },
+          {
+            "key": "2021",
+            "value": "2189259"
+          },
+          {
+            "key": "2022",
+            "value": "2909620"
+          },
+          {
+            "key": "2023",
+            "value": "4025297"
+          },
+          {
+            "key": "2024",
+            "value": "3376932"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3.4",
+        "rowText": "Construction",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "176586"
+          },
+          {
+            "key": "2009",
+            "value": "288220"
+          },
+          {
+            "key": "2010",
+            "value": "446475"
+          },
+          {
+            "key": "2011",
+            "value": "528396"
+          },
+          {
+            "key": "2012",
+            "value": "589600"
+          },
+          {
+            "key": "2013",
+            "value": "560912"
+          },
+          {
+            "key": "2014",
+            "value": "543489"
+          },
+          {
+            "key": "2015",
+            "value": "485047"
+          },
+          {
+            "key": "2016",
+            "value": "488888"
+          },
+          {
+            "key": "2017",
+            "value": "475734"
+          },
+          {
+            "key": "2018",
+            "value": "408330"
+          },
+          {
+            "key": "2019",
+            "value": "453023"
+          },
+          {
+            "key": "2020",
+            "value": "390860"
+          },
+          {
+            "key": "2021",
+            "value": "295722"
+          },
+          {
+            "key": "2022",
+            "value": "365379"
+          },
+          {
+            "key": "2023",
+            "value": "505244"
+          },
+          {
+            "key": "2024",
+            "value": "546983"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3.5",
+        "rowText": "Utilities",
+        "uoM": "Thousand Dollars",
+        "footnote": "Includes Electricity, Gas, Steam & Air-Conditioning Supply, Water Supply, Sewerage, and Waste Management & Remediation Activities.",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "197089"
+          },
+          {
+            "key": "2009",
+            "value": "183937"
+          },
+          {
+            "key": "2010",
+            "value": "80924"
+          },
+          {
+            "key": "2011",
+            "value": "157667"
+          },
+          {
+            "key": "2012",
+            "value": "299825"
+          },
+          {
+            "key": "2013",
+            "value": "290975"
+          },
+          {
+            "key": "2014",
+            "value": "150918"
+          },
+          {
+            "key": "2015",
+            "value": "129054"
+          },
+          {
+            "key": "2016",
+            "value": "134679"
+          },
+          {
+            "key": "2017",
+            "value": "147957"
+          },
+          {
+            "key": "2018",
+            "value": "145235"
+          },
+          {
+            "key": "2019",
+            "value": "159188"
+          },
+          {
+            "key": "2020",
+            "value": "148949"
+          },
+          {
+            "key": "2021",
+            "value": "80829"
+          },
+          {
+            "key": "2022",
+            "value": "146979"
+          },
+          {
+            "key": "2023",
+            "value": "338466"
+          },
+          {
+            "key": "2024",
+            "value": "672360"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3.7",
+        "rowText": "Wholesale & Retail Trade",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "2582419"
+          },
+          {
+            "key": "2009",
+            "value": "2682171"
+          },
+          {
+            "key": "2010",
+            "value": "2267331"
+          },
+          {
+            "key": "2011",
+            "value": "2459257"
+          },
+          {
+            "key": "2012",
+            "value": "2925410"
+          },
+          {
+            "key": "2013",
+            "value": "2640138"
+          },
+          {
+            "key": "2014",
+            "value": "2673820"
+          },
+          {
+            "key": "2015",
+            "value": "2849540"
+          },
+          {
+            "key": "2016",
+            "value": "2908321"
+          },
+          {
+            "key": "2017",
+            "value": "3096608"
+          },
+          {
+            "key": "2018",
+            "value": "3506200"
+          },
+          {
+            "key": "2019",
+            "value": "3859121"
+          },
+          {
+            "key": "2020",
+            "value": "4198599"
+          },
+          {
+            "key": "2021",
+            "value": "4529493"
+          },
+          {
+            "key": "2022",
+            "value": "5811386"
+          },
+          {
+            "key": "2023",
+            "value": "7625291"
+          },
+          {
+            "key": "2024",
+            "value": "9298390"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3.8",
+        "rowText": "Accommodation & Food Service Activities",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "165976"
+          },
+          {
+            "key": "2009",
+            "value": "197643"
+          },
+          {
+            "key": "2010",
+            "value": "138347"
+          },
+          {
+            "key": "2011",
+            "value": "152021"
+          },
+          {
+            "key": "2012",
+            "value": "212304"
+          },
+          {
+            "key": "2013",
+            "value": "208656"
+          },
+          {
+            "key": "2014",
+            "value": "218405"
+          },
+          {
+            "key": "2015",
+            "value": "220099"
+          },
+          {
+            "key": "2016",
+            "value": "204618"
+          },
+          {
+            "key": "2017",
+            "value": "211357"
+          },
+          {
+            "key": "2018",
+            "value": "222402"
+          },
+          {
+            "key": "2019",
+            "value": "254654"
+          },
+          {
+            "key": "2020",
+            "value": "258964"
+          },
+          {
+            "key": "2021",
+            "value": "136097"
+          },
+          {
+            "key": "2022",
+            "value": "124491"
+          },
+          {
+            "key": "2023",
+            "value": "244967"
+          },
+          {
+            "key": "2024",
+            "value": "319376"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3.10",
+        "rowText": "Transportation & Storage",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "638860"
+          },
+          {
+            "key": "2009",
+            "value": "856805"
+          },
+          {
+            "key": "2010",
+            "value": "625505"
+          },
+          {
+            "key": "2011",
+            "value": "586057"
+          },
+          {
+            "key": "2012",
+            "value": "1001639"
+          },
+          {
+            "key": "2013",
+            "value": "910132"
+          },
+          {
+            "key": "2014",
+            "value": "793174"
+          },
+          {
+            "key": "2015",
+            "value": "881754"
+          },
+          {
+            "key": "2016",
+            "value": "857103"
+          },
+          {
+            "key": "2017",
+            "value": "733611"
+          },
+          {
+            "key": "2018",
+            "value": "823216"
+          },
+          {
+            "key": "2019",
+            "value": "806684"
+          },
+          {
+            "key": "2020",
+            "value": "893459"
+          },
+          {
+            "key": "2021",
+            "value": "817614"
+          },
+          {
+            "key": "2022",
+            "value": "843286"
+          },
+          {
+            "key": "2023",
+            "value": "1082282"
+          },
+          {
+            "key": "2024",
+            "value": "1104338"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3.11",
+        "rowText": "Information & Communications",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "434754"
+          },
+          {
+            "key": "2009",
+            "value": "450996"
+          },
+          {
+            "key": "2010",
+            "value": "449932"
+          },
+          {
+            "key": "2011",
+            "value": "442668"
+          },
+          {
+            "key": "2012",
+            "value": "583015"
+          },
+          {
+            "key": "2013",
+            "value": "446831"
+          },
+          {
+            "key": "2014",
+            "value": "491457"
+          },
+          {
+            "key": "2015",
+            "value": "549161"
+          },
+          {
+            "key": "2016",
+            "value": "517525"
+          },
+          {
+            "key": "2017",
+            "value": "600830"
+          },
+          {
+            "key": "2018",
+            "value": "712652"
+          },
+          {
+            "key": "2019",
+            "value": "946263"
+          },
+          {
+            "key": "2020",
+            "value": "820136"
+          },
+          {
+            "key": "2021",
+            "value": "843518"
+          },
+          {
+            "key": "2022",
+            "value": "1137158"
+          },
+          {
+            "key": "2023",
+            "value": "1222778"
+          },
+          {
+            "key": "2024",
+            "value": "1418151"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3.12",
+        "rowText": "Financial & Insurance Activities",
+        "uoM": "Thousand Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "3234165"
+          },
+          {
+            "key": "2009",
+            "value": "2835445"
+          },
+          {
+            "key": "2010",
+            "value": "2879170"
+          },
+          {
+            "key": "2011",
+            "value": "3164642"
+          },
+          {
+            "key": "2012",
+            "value": "3303260"
+          },
+          {
+            "key": "2013",
+            "value": "3495814"
+          },
+          {
+            "key": "2014",
+            "value": "3859679"
+          },
+          {
+            "key": "2015",
+            "value": "3726204"
+          },
+          {
+            "key": "2016",
+            "value": "4196441"
+          },
+          {
+            "key": "2017",
+            "value": "3815630"
+          },
+          {
+            "key": "2018",
+            "value": "4451027"
+          },
+          {
+            "key": "2019",
+            "value": "4432786"
+          },
+          {
+            "key": "2020",
+            "value": "4857529"
+          },
+          {
+            "key": "2021",
+            "value": "3978727"
+          },
+          {
+            "key": "2022",
+            "value": "5840505"
+          },
+          {
+            "key": "2023",
+            "value": "7084486"
+          },
+          {
+            "key": "2024",
+            "value": "7986000"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3.13",
+        "rowText": "Real Estate & Business Activities",
+        "uoM": "Thousand Dollars",
+        "footnote": "Includes Real Estate Activities, Professional, Scientific & Technical Activities, and Administrative & Support Service Activities.",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "1109889"
+          },
+          {
+            "key": "2009",
+            "value": "1546183"
+          },
+          {
+            "key": "2010",
+            "value": "1879095"
+          },
+          {
+            "key": "2011",
+            "value": "2324995"
+          },
+          {
+            "key": "2012",
+            "value": "2629402"
+          },
+          {
+            "key": "2013",
+            "value": "2572553"
+          },
+          {
+            "key": "2014",
+            "value": "2860319"
+          },
+          {
+            "key": "2015",
+            "value": "2891398"
+          },
+          {
+            "key": "2016",
+            "value": "2921737"
+          },
+          {
+            "key": "2017",
+            "value": "3251569"
+          },
+          {
+            "key": "2018",
+            "value": "3327039"
+          },
+          {
+            "key": "2019",
+            "value": "3169978"
+          },
+          {
+            "key": "2020",
+            "value": "3202298"
+          },
+          {
+            "key": "2021",
+            "value": "2719399"
+          },
+          {
+            "key": "2022",
+            "value": "3515004"
+          },
+          {
+            "key": "2023",
+            "value": "4412423"
+          },
+          {
+            "key": "2024",
+            "value": "4199689"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3.14",
+        "rowText": "Other Goods And Services Industries",
+        "uoM": "Thousand Dollars",
+        "footnote": "Includes Agriculture & Fishing, Mining & Quarrying, and all other industries such as Education, Health & Social Services, Arts, Entertainment & Recreation, Other Service Activities.",
+        "columns": [
+          {
+            "key": "2008",
+            "value": "164261"
+          },
+          {
+            "key": "2009",
+            "value": "236982"
+          },
+          {
+            "key": "2010",
+            "value": "252603"
+          },
+          {
+            "key": "2011",
+            "value": "255488"
+          },
+          {
+            "key": "2012",
+            "value": "290683"
+          },
+          {
+            "key": "2013",
+            "value": "302328"
+          },
+          {
+            "key": "2014",
+            "value": "322098"
+          },
+          {
+            "key": "2015",
+            "value": "388140"
+          },
+          {
+            "key": "2016",
+            "value": "429012"
+          },
+          {
+            "key": "2017",
+            "value": "426192"
+          },
+          {
+            "key": "2018",
+            "value": "458030"
+          },
+          {
+            "key": "2019",
+            "value": "581615"
+          },
+          {
+            "key": "2020",
+            "value": "524551"
+          },
+          {
+            "key": "2021",
+            "value": "623407"
+          },
+          {
+            "key": "2022",
+            "value": "1079380"
+          },
+          {
+            "key": "2023",
+            "value": "1375501"
+          },
+          {
+            "key": "2024",
+            "value": "1029730"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

@@ -1,0 +1,598 @@
+{
+  "Data": {
+    "id": "C030011",
+    "tableType": "Household Income, Annual",
+    "groupTitle": null,
+    "title": "Average Monthly Household Market Income Per Household Member Among Resident Households by Deciles, 2015 - 2025",
+    "frequency": "Annual",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: It is notable that some resident households in the lowest income decile owned a car (5.5%), employed a domestic worker (19.8%), lived in private property (6.7%) or were resident households comprising solely non-employed persons aged 65 years and over (49.3%) in 2025. Not all households are consistently in the same decile group from one year to the next. For example, a household may move from a higher to a lower decile in a particular year due to reduced income if a household member is temporarily unemployed, before moving up the deciles when the member resumes employment in the subsequent year. In comparing the performance of any particular decile group over time, it is therefore relevant to note that the comparison may not pertain to the same group of households. Data for the latest year are preliminary.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "09/02/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Household Income",
+    "topic": "Average Household Income by Deciles/Type of Dwelling",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "3852"
+          },
+          {
+            "key": "2016",
+            "value": "3815"
+          },
+          {
+            "key": "2017",
+            "value": "3925"
+          },
+          {
+            "key": "2018",
+            "value": "4085"
+          },
+          {
+            "key": "2019",
+            "value": "4177"
+          },
+          {
+            "key": "2020",
+            "value": "4111"
+          },
+          {
+            "key": "2021",
+            "value": "4425"
+          },
+          {
+            "key": "2022",
+            "value": "4723"
+          },
+          {
+            "key": "2023",
+            "value": "4985"
+          },
+          {
+            "key": "2024",
+            "value": "5221"
+          },
+          {
+            "key": "2025",
+            "value": "5579"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "1st (Lowest)",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "277"
+          },
+          {
+            "key": "2016",
+            "value": "249"
+          },
+          {
+            "key": "2017",
+            "value": "234"
+          },
+          {
+            "key": "2018",
+            "value": "256"
+          },
+          {
+            "key": "2019",
+            "value": "246"
+          },
+          {
+            "key": "2020",
+            "value": "267"
+          },
+          {
+            "key": "2021",
+            "value": "368"
+          },
+          {
+            "key": "2022",
+            "value": "390"
+          },
+          {
+            "key": "2023",
+            "value": "426"
+          },
+          {
+            "key": "2024",
+            "value": "446"
+          },
+          {
+            "key": "2025",
+            "value": "506"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "2nd",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "917"
+          },
+          {
+            "key": "2016",
+            "value": "898"
+          },
+          {
+            "key": "2017",
+            "value": "891"
+          },
+          {
+            "key": "2018",
+            "value": "916"
+          },
+          {
+            "key": "2019",
+            "value": "920"
+          },
+          {
+            "key": "2020",
+            "value": "925"
+          },
+          {
+            "key": "2021",
+            "value": "1110"
+          },
+          {
+            "key": "2022",
+            "value": "1191"
+          },
+          {
+            "key": "2023",
+            "value": "1255"
+          },
+          {
+            "key": "2024",
+            "value": "1314"
+          },
+          {
+            "key": "2025",
+            "value": "1450"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "3rd",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "1418"
+          },
+          {
+            "key": "2016",
+            "value": "1422"
+          },
+          {
+            "key": "2017",
+            "value": "1444"
+          },
+          {
+            "key": "2018",
+            "value": "1480"
+          },
+          {
+            "key": "2019",
+            "value": "1517"
+          },
+          {
+            "key": "2020",
+            "value": "1514"
+          },
+          {
+            "key": "2021",
+            "value": "1715"
+          },
+          {
+            "key": "2022",
+            "value": "1856"
+          },
+          {
+            "key": "2023",
+            "value": "1966"
+          },
+          {
+            "key": "2024",
+            "value": "2066"
+          },
+          {
+            "key": "2025",
+            "value": "2259"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "4th",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "1893"
+          },
+          {
+            "key": "2016",
+            "value": "1902"
+          },
+          {
+            "key": "2017",
+            "value": "1941"
+          },
+          {
+            "key": "2018",
+            "value": "2003"
+          },
+          {
+            "key": "2019",
+            "value": "2075"
+          },
+          {
+            "key": "2020",
+            "value": "2061"
+          },
+          {
+            "key": "2021",
+            "value": "2291"
+          },
+          {
+            "key": "2022",
+            "value": "2462"
+          },
+          {
+            "key": "2023",
+            "value": "2630"
+          },
+          {
+            "key": "2024",
+            "value": "2739"
+          },
+          {
+            "key": "2025",
+            "value": "2977"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.5",
+        "rowText": "5th",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "2369"
+          },
+          {
+            "key": "2016",
+            "value": "2403"
+          },
+          {
+            "key": "2017",
+            "value": "2464"
+          },
+          {
+            "key": "2018",
+            "value": "2555"
+          },
+          {
+            "key": "2019",
+            "value": "2655"
+          },
+          {
+            "key": "2020",
+            "value": "2637"
+          },
+          {
+            "key": "2021",
+            "value": "2882"
+          },
+          {
+            "key": "2022",
+            "value": "3112"
+          },
+          {
+            "key": "2023",
+            "value": "3324"
+          },
+          {
+            "key": "2024",
+            "value": "3458"
+          },
+          {
+            "key": "2025",
+            "value": "3745"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.6",
+        "rowText": "6th",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "2922"
+          },
+          {
+            "key": "2016",
+            "value": "2977"
+          },
+          {
+            "key": "2017",
+            "value": "3082"
+          },
+          {
+            "key": "2018",
+            "value": "3185"
+          },
+          {
+            "key": "2019",
+            "value": "3321"
+          },
+          {
+            "key": "2020",
+            "value": "3297"
+          },
+          {
+            "key": "2021",
+            "value": "3559"
+          },
+          {
+            "key": "2022",
+            "value": "3834"
+          },
+          {
+            "key": "2023",
+            "value": "4096"
+          },
+          {
+            "key": "2024",
+            "value": "4262"
+          },
+          {
+            "key": "2025",
+            "value": "4629"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.7",
+        "rowText": "7th",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "3619"
+          },
+          {
+            "key": "2016",
+            "value": "3696"
+          },
+          {
+            "key": "2017",
+            "value": "3833"
+          },
+          {
+            "key": "2018",
+            "value": "3963"
+          },
+          {
+            "key": "2019",
+            "value": "4155"
+          },
+          {
+            "key": "2020",
+            "value": "4102"
+          },
+          {
+            "key": "2021",
+            "value": "4398"
+          },
+          {
+            "key": "2022",
+            "value": "4721"
+          },
+          {
+            "key": "2023",
+            "value": "5041"
+          },
+          {
+            "key": "2024",
+            "value": "5261"
+          },
+          {
+            "key": "2025",
+            "value": "5672"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.8",
+        "rowText": "8th",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "4590"
+          },
+          {
+            "key": "2016",
+            "value": "4705"
+          },
+          {
+            "key": "2017",
+            "value": "4874"
+          },
+          {
+            "key": "2018",
+            "value": "5087"
+          },
+          {
+            "key": "2019",
+            "value": "5289"
+          },
+          {
+            "key": "2020",
+            "value": "5208"
+          },
+          {
+            "key": "2021",
+            "value": "5529"
+          },
+          {
+            "key": "2022",
+            "value": "5965"
+          },
+          {
+            "key": "2023",
+            "value": "6346"
+          },
+          {
+            "key": "2024",
+            "value": "6595"
+          },
+          {
+            "key": "2025",
+            "value": "7105"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.9",
+        "rowText": "9th",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "6295"
+          },
+          {
+            "key": "2016",
+            "value": "6366"
+          },
+          {
+            "key": "2017",
+            "value": "6622"
+          },
+          {
+            "key": "2018",
+            "value": "6955"
+          },
+          {
+            "key": "2019",
+            "value": "7172"
+          },
+          {
+            "key": "2020",
+            "value": "7049"
+          },
+          {
+            "key": "2021",
+            "value": "7505"
+          },
+          {
+            "key": "2022",
+            "value": "8048"
+          },
+          {
+            "key": "2023",
+            "value": "8484"
+          },
+          {
+            "key": "2024",
+            "value": "8833"
+          },
+          {
+            "key": "2025",
+            "value": "9488"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.10",
+        "rowText": "10th (Highest)",
+        "uoM": "Dollar",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "2015",
+            "value": "14221"
+          },
+          {
+            "key": "2016",
+            "value": "13534"
+          },
+          {
+            "key": "2017",
+            "value": "13860"
+          },
+          {
+            "key": "2018",
+            "value": "14451"
+          },
+          {
+            "key": "2019",
+            "value": "14423"
+          },
+          {
+            "key": "2020",
+            "value": "14055"
+          },
+          {
+            "key": "2021",
+            "value": "14892"
+          },
+          {
+            "key": "2022",
+            "value": "15647"
+          },
+          {
+            "key": "2023",
+            "value": "16278"
+          },
+          {
+            "key": "2024",
+            "value": "17232"
+          },
+          {
+            "key": "2025",
+            "value": "17958"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

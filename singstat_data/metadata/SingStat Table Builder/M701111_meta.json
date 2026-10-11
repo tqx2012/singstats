@@ -1,0 +1,87 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Industry",
+      "subject": "Finance and Insurance",
+      "topic": "Money and Banking",
+      "id": "M701111",
+      "groupTitle": "Money Supply (End Of Period)",
+      "title": "Money Supply (End Of Period), Monthly",
+      "frequency": "Monthly",
+      "adjustmentType": "",
+      "dataSource": "MONETARY AUTHORITY OF SINGAPORE",
+      "footnote": "Net deposits with non-bank financial institutions excludes these institutions' deposits with banks.  There are changes to the data submitted by financial institutions with the revision of MAS Notices 610 and 1003 and the removal of the Domestic Banking Unit (DBU) - Asian Currency Unit (ACU) divide on 1 July 2021.  Hence, money supply data have been revised from July 2021.  The historical series on money supply were previously presented on DBU which were mostly denominated in Singapore dollar (SGD), while the current series report solely SGD-denominated activities.  Data on money supply until June 2021 which have been discontinued are available via  https://tablebuilder.singstat.gov.sg/table/TS/M920281",
+      "dataLastUpdated": "31/08/2026",
+      "startPeriod": "2021 Jul",
+      "endPeriod": "2026 Jul",
+      "total": 610,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "M3",
+          "uoM": "Million Dollars",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "M2",
+          "uoM": "Million Dollars",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1.1",
+          "rowText": "M1",
+          "uoM": "Million Dollars",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1.1.1",
+          "rowText": "Currency In Active Circulation",
+          "uoM": "Million Dollars",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1.1.2",
+          "rowText": "Demand Deposits",
+          "uoM": "Million Dollars",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1.2",
+          "rowText": "Quasi-Money - Total",
+          "uoM": "Million Dollars",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1.2.1",
+          "rowText": "Quasi-Money - Fixed Deposits",
+          "uoM": "Million Dollars",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1.2.2",
+          "rowText": "Quasi-Money - S$ Negotiable Certificate Of Deposits (NCDs)",
+          "uoM": "Million Dollars",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1.2.999",
+          "rowText": "Quasi-Money - Savings And Other Deposits",
+          "uoM": "Million Dollars",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "Net Deposits With Finance Companies",
+          "uoM": "Million Dollars",
+          "footnote": ""
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

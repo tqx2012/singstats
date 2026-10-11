@@ -1,0 +1,1423 @@
+{
+  "Data": {
+    "id": "6404",
+    "tableType": "General Household Survey 2005",
+    "groupTitle": null,
+    "title": "Resident Students Aged 5 Years and Over by Usual Mode of Transport to School, Level of Education Attending and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "13/10/2015",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Mode of Transport",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "778569"
+              },
+              {
+                "key": "Males",
+                "value": "402443"
+              },
+              {
+                "key": "Females",
+                "value": "376126"
+              }
+            ]
+          },
+          {
+            "key": "Pre-Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "65709"
+              },
+              {
+                "key": "Males",
+                "value": "33902"
+              },
+              {
+                "key": "Females",
+                "value": "31808"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "315639"
+              },
+              {
+                "key": "Males",
+                "value": "165655"
+              },
+              {
+                "key": "Females",
+                "value": "149985"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "234889"
+              },
+              {
+                "key": "Males",
+                "value": "123897"
+              },
+              {
+                "key": "Females",
+                "value": "110992"
+              }
+            ]
+          },
+          {
+            "key": "Upper Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "55747"
+              },
+              {
+                "key": "Males",
+                "value": "26461"
+              },
+              {
+                "key": "Females",
+                "value": "29286"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "61008"
+              },
+              {
+                "key": "Males",
+                "value": "31250"
+              },
+              {
+                "key": "Females",
+                "value": "29758"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45576"
+              },
+              {
+                "key": "Males",
+                "value": "21278"
+              },
+              {
+                "key": "Females",
+                "value": "24298"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "No Transport Required",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "244965"
+              },
+              {
+                "key": "Males",
+                "value": "130830"
+              },
+              {
+                "key": "Females",
+                "value": "114135"
+              }
+            ]
+          },
+          {
+            "key": "Pre-Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "38803"
+              },
+              {
+                "key": "Males",
+                "value": "20262"
+              },
+              {
+                "key": "Females",
+                "value": "18541"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "149388"
+              },
+              {
+                "key": "Males",
+                "value": "80194"
+              },
+              {
+                "key": "Females",
+                "value": "69195"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "49781"
+              },
+              {
+                "key": "Males",
+                "value": "26755"
+              },
+              {
+                "key": "Females",
+                "value": "23026"
+              }
+            ]
+          },
+          {
+            "key": "Upper Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2564"
+              },
+              {
+                "key": "Males",
+                "value": "1267"
+              },
+              {
+                "key": "Females",
+                "value": "1296"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1379"
+              },
+              {
+                "key": "Males",
+                "value": "855"
+              },
+              {
+                "key": "Females",
+                "value": "524"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3051"
+              },
+              {
+                "key": "Males",
+                "value": "1498"
+              },
+              {
+                "key": "Females",
+                "value": "1554"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "One Mode Of Transport",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "423303"
+              },
+              {
+                "key": "Males",
+                "value": "217046"
+              },
+              {
+                "key": "Females",
+                "value": "206257"
+              }
+            ]
+          },
+          {
+            "key": "Pre-Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25884"
+              },
+              {
+                "key": "Males",
+                "value": "13139"
+              },
+              {
+                "key": "Females",
+                "value": "12746"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "155458"
+              },
+              {
+                "key": "Males",
+                "value": "80026"
+              },
+              {
+                "key": "Females",
+                "value": "75432"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "149140"
+              },
+              {
+                "key": "Males",
+                "value": "78184"
+              },
+              {
+                "key": "Females",
+                "value": "70956"
+              }
+            ]
+          },
+          {
+            "key": "Upper Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34501"
+              },
+              {
+                "key": "Males",
+                "value": "16497"
+              },
+              {
+                "key": "Females",
+                "value": "18003"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "37256"
+              },
+              {
+                "key": "Males",
+                "value": "19002"
+              },
+              {
+                "key": "Females",
+                "value": "18254"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21063"
+              },
+              {
+                "key": "Males",
+                "value": "10198"
+              },
+              {
+                "key": "Females",
+                "value": "10865"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.1",
+        "rowText": "Public Bus Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "211076"
+              },
+              {
+                "key": "Males",
+                "value": "108127"
+              },
+              {
+                "key": "Females",
+                "value": "102950"
+              }
+            ]
+          },
+          {
+            "key": "Pre-Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3387"
+              },
+              {
+                "key": "Males",
+                "value": "1842"
+              },
+              {
+                "key": "Females",
+                "value": "1545"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "39146"
+              },
+              {
+                "key": "Males",
+                "value": "20110"
+              },
+              {
+                "key": "Females",
+                "value": "19035"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "106749"
+              },
+              {
+                "key": "Males",
+                "value": "56726"
+              },
+              {
+                "key": "Females",
+                "value": "50022"
+              }
+            ]
+          },
+          {
+            "key": "Upper Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23699"
+              },
+              {
+                "key": "Males",
+                "value": "11276"
+              },
+              {
+                "key": "Females",
+                "value": "12424"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25327"
+              },
+              {
+                "key": "Males",
+                "value": "12455"
+              },
+              {
+                "key": "Females",
+                "value": "12873"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12768"
+              },
+              {
+                "key": "Males",
+                "value": "5717"
+              },
+              {
+                "key": "Females",
+                "value": "7051"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.2",
+        "rowText": "Private Chartered Bus/Van Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "92003"
+              },
+              {
+                "key": "Males",
+                "value": "46516"
+              },
+              {
+                "key": "Females",
+                "value": "45488"
+              }
+            ]
+          },
+          {
+            "key": "Pre-Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12541"
+              },
+              {
+                "key": "Males",
+                "value": "6406"
+              },
+              {
+                "key": "Females",
+                "value": "6135"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "74875"
+              },
+              {
+                "key": "Males",
+                "value": "38015"
+              },
+              {
+                "key": "Females",
+                "value": "36859"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3987"
+              },
+              {
+                "key": "Males",
+                "value": "1810"
+              },
+              {
+                "key": "Females",
+                "value": "2177"
+              }
+            ]
+          },
+          {
+            "key": "Upper Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "274"
+              },
+              {
+                "key": "Males",
+                "value": "129"
+              },
+              {
+                "key": "Females",
+                "value": "145"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "94"
+              },
+              {
+                "key": "Males",
+                "value": "26"
+              },
+              {
+                "key": "Females",
+                "value": "68"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "232"
+              },
+              {
+                "key": "Males",
+                "value": "129"
+              },
+              {
+                "key": "Females",
+                "value": "103"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.3",
+        "rowText": "MRT Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30031"
+              },
+              {
+                "key": "Males",
+                "value": "15283"
+              },
+              {
+                "key": "Females",
+                "value": "14748"
+              }
+            ]
+          },
+          {
+            "key": "Pre-Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "280"
+              },
+              {
+                "key": "Males",
+                "value": "147"
+              },
+              {
+                "key": "Females",
+                "value": "132"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1520"
+              },
+              {
+                "key": "Males",
+                "value": "966"
+              },
+              {
+                "key": "Females",
+                "value": "554"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9647"
+              },
+              {
+                "key": "Males",
+                "value": "5181"
+              },
+              {
+                "key": "Females",
+                "value": "4466"
+              }
+            ]
+          },
+          {
+            "key": "Upper Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5090"
+              },
+              {
+                "key": "Males",
+                "value": "2262"
+              },
+              {
+                "key": "Females",
+                "value": "2828"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10059"
+              },
+              {
+                "key": "Males",
+                "value": "5177"
+              },
+              {
+                "key": "Females",
+                "value": "4882"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3434"
+              },
+              {
+                "key": "Males",
+                "value": "1549"
+              },
+              {
+                "key": "Females",
+                "value": "1885"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.4",
+        "rowText": "Car Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "71042"
+              },
+              {
+                "key": "Males",
+                "value": "35597"
+              },
+              {
+                "key": "Females",
+                "value": "35445"
+              }
+            ]
+          },
+          {
+            "key": "Pre-Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8206"
+              },
+              {
+                "key": "Males",
+                "value": "3869"
+              },
+              {
+                "key": "Females",
+                "value": "4337"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31271"
+              },
+              {
+                "key": "Males",
+                "value": "16050"
+              },
+              {
+                "key": "Females",
+                "value": "15221"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22845"
+              },
+              {
+                "key": "Males",
+                "value": "11116"
+              },
+              {
+                "key": "Females",
+                "value": "11729"
+              }
+            ]
+          },
+          {
+            "key": "Upper Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4427"
+              },
+              {
+                "key": "Males",
+                "value": "2123"
+              },
+              {
+                "key": "Females",
+                "value": "2303"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "876"
+              },
+              {
+                "key": "Males",
+                "value": "547"
+              },
+              {
+                "key": "Females",
+                "value": "329"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3418"
+              },
+              {
+                "key": "Males",
+                "value": "1891"
+              },
+              {
+                "key": "Females",
+                "value": "1527"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19151"
+              },
+              {
+                "key": "Males",
+                "value": "11524"
+              },
+              {
+                "key": "Females",
+                "value": "7627"
+              }
+            ]
+          },
+          {
+            "key": "Pre-Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1470"
+              },
+              {
+                "key": "Males",
+                "value": "873"
+              },
+              {
+                "key": "Females",
+                "value": "597"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8647"
+              },
+              {
+                "key": "Males",
+                "value": "4884"
+              },
+              {
+                "key": "Females",
+                "value": "3763"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5912"
+              },
+              {
+                "key": "Males",
+                "value": "3350"
+              },
+              {
+                "key": "Females",
+                "value": "2562"
+              }
+            ]
+          },
+          {
+            "key": "Upper Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1010"
+              },
+              {
+                "key": "Males",
+                "value": "707"
+              },
+              {
+                "key": "Females",
+                "value": "303"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "900"
+              },
+              {
+                "key": "Males",
+                "value": "797"
+              },
+              {
+                "key": "Females",
+                "value": "102"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1211"
+              },
+              {
+                "key": "Males",
+                "value": "912"
+              },
+              {
+                "key": "Females",
+                "value": "299"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Two Or More Modes Of Transport",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "110301"
+              },
+              {
+                "key": "Males",
+                "value": "54567"
+              },
+              {
+                "key": "Females",
+                "value": "55734"
+              }
+            ]
+          },
+          {
+            "key": "Pre-Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1022"
+              },
+              {
+                "key": "Males",
+                "value": "501"
+              },
+              {
+                "key": "Females",
+                "value": "521"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10793"
+              },
+              {
+                "key": "Males",
+                "value": "5435"
+              },
+              {
+                "key": "Females",
+                "value": "5358"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35968"
+              },
+              {
+                "key": "Males",
+                "value": "18958"
+              },
+              {
+                "key": "Females",
+                "value": "17010"
+              }
+            ]
+          },
+          {
+            "key": "Upper Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18683"
+              },
+              {
+                "key": "Males",
+                "value": "8697"
+              },
+              {
+                "key": "Females",
+                "value": "9986"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22373"
+              },
+              {
+                "key": "Males",
+                "value": "11393"
+              },
+              {
+                "key": "Females",
+                "value": "10980"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21462"
+              },
+              {
+                "key": "Males",
+                "value": "9583"
+              },
+              {
+                "key": "Females",
+                "value": "11879"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "MRT & Public Bus Only",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "80050"
+              },
+              {
+                "key": "Males",
+                "value": "39781"
+              },
+              {
+                "key": "Females",
+                "value": "40269"
+              }
+            ]
+          },
+          {
+            "key": "Pre-Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "240"
+              },
+              {
+                "key": "Males",
+                "value": "90"
+              },
+              {
+                "key": "Females",
+                "value": "150"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3147"
+              },
+              {
+                "key": "Males",
+                "value": "1640"
+              },
+              {
+                "key": "Females",
+                "value": "1506"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24171"
+              },
+              {
+                "key": "Males",
+                "value": "12820"
+              },
+              {
+                "key": "Females",
+                "value": "11351"
+              }
+            ]
+          },
+          {
+            "key": "Upper Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14849"
+              },
+              {
+                "key": "Males",
+                "value": "7124"
+              },
+              {
+                "key": "Females",
+                "value": "7725"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19454"
+              },
+              {
+                "key": "Males",
+                "value": "9927"
+              },
+              {
+                "key": "Females",
+                "value": "9526"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18190"
+              },
+              {
+                "key": "Males",
+                "value": "8179"
+              },
+              {
+                "key": "Females",
+                "value": "10010"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "30251"
+              },
+              {
+                "key": "Males",
+                "value": "14786"
+              },
+              {
+                "key": "Females",
+                "value": "15465"
+              }
+            ]
+          },
+          {
+            "key": "Pre-Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "782"
+              },
+              {
+                "key": "Males",
+                "value": "411"
+              },
+              {
+                "key": "Females",
+                "value": "371"
+              }
+            ]
+          },
+          {
+            "key": "Primary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7647"
+              },
+              {
+                "key": "Males",
+                "value": "3795"
+              },
+              {
+                "key": "Females",
+                "value": "3852"
+              }
+            ]
+          },
+          {
+            "key": "Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11796"
+              },
+              {
+                "key": "Males",
+                "value": "6137"
+              },
+              {
+                "key": "Females",
+                "value": "5659"
+              }
+            ]
+          },
+          {
+            "key": "Upper Secondary",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3834"
+              },
+              {
+                "key": "Males",
+                "value": "1573"
+              },
+              {
+                "key": "Females",
+                "value": "2261"
+              }
+            ]
+          },
+          {
+            "key": "Polytechnic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2920"
+              },
+              {
+                "key": "Males",
+                "value": "1466"
+              },
+              {
+                "key": "Females",
+                "value": "1454"
+              }
+            ]
+          },
+          {
+            "key": "University",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3272"
+              },
+              {
+                "key": "Males",
+                "value": "1403"
+              },
+              {
+                "key": "Females",
+                "value": "1869"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

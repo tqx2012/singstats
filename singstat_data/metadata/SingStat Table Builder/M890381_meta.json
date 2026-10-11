@@ -1,0 +1,45 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Industry",
+      "subject": "Energy and Utilities",
+      "topic": "Gas Access and Sales",
+      "id": "M890381",
+      "groupTitle": "Piped Gas Sales",
+      "title": "Piped Gas Sales, Annual",
+      "frequency": "Annual",
+      "adjustmentType": "",
+      "dataSource": "CITY ENERGY PTE. LTD. (AS TRUSTEE OF CITY ENERGY TRUST)",
+      "footnote": "City Gas Pte Ltd (as Trustee) is rebranded as City Energy Pte. Ltd. (as Trustee of City Energy Trust) wef 1 December 2021.",
+      "dataLastUpdated": "06/04/2026",
+      "startPeriod": "1985",
+      "endPeriod": "2025",
+      "total": 123,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Total Piped Gas Sales (Town Gas)",
+          "uoM": "Million Units",
+          "footnote": "One unit is equivalent to one kilowatt hour."
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "Domestic",
+          "uoM": "Million Units",
+          "footnote": "One unit is equivalent to one kilowatt hour."
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "Non-Domestic",
+          "uoM": "Million Units",
+          "footnote": "One unit is equivalent to one kilowatt hour."
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

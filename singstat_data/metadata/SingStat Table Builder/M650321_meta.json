@@ -1,0 +1,57 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Industry",
+      "subject": "Transport",
+      "topic": "Public Roads",
+      "id": "M650321",
+      "groupTitle": "Public Roads (End Of Period)",
+      "title": "Public Roads (End Of Period), Annual",
+      "frequency": "Annual",
+      "adjustmentType": "",
+      "dataSource": "LAND TRANSPORT AUTHORITY",
+      "footnote": "Data include all public roads maintained by the Land Transport Authority.  Excludes all roads maintained by the other agencies and on privately-owned areas.",
+      "dataLastUpdated": "27/04/2026",
+      "startPeriod": "1990",
+      "endPeriod": "2025",
+      "total": 180,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Total Paved Roads",
+          "uoM": "Lane-Kilometres",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "Expressways",
+          "uoM": "Lane-Kilometres",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "Arterial Roads",
+          "uoM": "Lane-Kilometres",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.3",
+          "rowText": "Primary Access",
+          "uoM": "Lane-Kilometres",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.4",
+          "rowText": "Local Access",
+          "uoM": "Lane-Kilometres",
+          "footnote": ""
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

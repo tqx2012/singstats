@@ -1,0 +1,748 @@
+{
+  "Data": {
+    "theme": "Economy & Prices",
+    "subject": "Public Sector",
+    "topic": "Judiciary",
+    "id": "M920371",
+    "groupTitle": null,
+    "title": "Workload Statistics Of Supreme Court, State Courts And Family Justice Courts, Annual",
+    "frequency": "Annual",
+    "adjustmentType": null,
+    "datasource": "SINGAPORE COURTS",
+    "footnote": "The number of cases disposed in a year can exceed the number of cases filed in a year as the number of cases disposed of in any year are not a subset of the cases filed in that year.  Please refer to the Sustainable Development Goals (SDG) Global Metadata (https://unstats.un.org/sdgs/metadata) for more information on SDG 16.3.3.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "22/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "sortBy": null,
+    "timeFilter": null,
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "seriesNo": "1",
+        "rowText": "State Courts - Number Of Cases Filed (Criminal Cases)",
+        "uoM": "Number",
+        "footnote": "Data for Criminal Cases comprise: i. Criminal charges (including DAC, MAC, PSS, PS & other charges), ii. Departmental or Statutory Board charges and summonses, iii. Traffic charges and summonses, iv. Coroner's Court cases, v. Non-Relational Magistrate's Complaints",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "303487"
+          },
+          {
+            "key": "2019",
+            "value": "196647"
+          },
+          {
+            "key": "2020",
+            "value": "143728"
+          },
+          {
+            "key": "2021",
+            "value": "149505"
+          },
+          {
+            "key": "2022",
+            "value": "125410"
+          },
+          {
+            "key": "2023",
+            "value": "144147"
+          },
+          {
+            "key": "2024",
+            "value": "119156"
+          },
+          {
+            "key": "2025",
+            "value": "175922"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2",
+        "rowText": "State Courts - Number Of Cases Filed (Civil Cases)",
+        "uoM": "Number",
+        "footnote": "Data for Civil Cases comprise: i. Originating Processes, ii. Interlocutory Applications, iii. Taxations, iv. Assessment of Damages",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "41530"
+          },
+          {
+            "key": "2019",
+            "value": "39047"
+          },
+          {
+            "key": "2020",
+            "value": "31189"
+          },
+          {
+            "key": "2021",
+            "value": "29245"
+          },
+          {
+            "key": "2022",
+            "value": "22187"
+          },
+          {
+            "key": "2023",
+            "value": "20358"
+          },
+          {
+            "key": "2024",
+            "value": "22945"
+          },
+          {
+            "key": "2025",
+            "value": "24803"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2.1",
+        "rowText": "State Courts - Number Of Cases Filed (Civil Cases) (Originating Processes)",
+        "uoM": "Number",
+        "footnote": "Data for Originating Processes comprise: i. Writs of Summons and Originating Claims (Writ of Summons is called Originating Claim under the Rules of Court 2021 with effect from 1 April 2022.); and ii. Originating Summonses and Originating Applications (Originating Summons is called Originating Application under the Rules of Court 2021, with effect from 1 April 2022.). Data are used for SDG 16.3.3 'Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism'.",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "26642"
+          },
+          {
+            "key": "2019",
+            "value": "24661"
+          },
+          {
+            "key": "2020",
+            "value": "18831"
+          },
+          {
+            "key": "2021",
+            "value": "16205"
+          },
+          {
+            "key": "2022",
+            "value": "12086"
+          },
+          {
+            "key": "2023",
+            "value": "11740"
+          },
+          {
+            "key": "2024",
+            "value": "14416"
+          },
+          {
+            "key": "2025",
+            "value": "15128"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3",
+        "rowText": "State Courts - Number Of Cases Filed (Community Courts And Tribunals Cases)",
+        "uoM": "Number",
+        "footnote": "Data for Community Justice and Tribunals Cases comprise : i. Community Disputes Resolution Tribunals (CDRT) claims, ii. Employment Claims Tribunals (ECT) claims, iii. Relational Magistrate's Complaints, iv. Protection from Harassment Court (PHC) cases, v. Small Claims Tribunals (SCT) claims. Data are used for SDG 16.3.3 'Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism'.",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "14047"
+          },
+          {
+            "key": "2019",
+            "value": "14260"
+          },
+          {
+            "key": "2020",
+            "value": "12099"
+          },
+          {
+            "key": "2021",
+            "value": "12336"
+          },
+          {
+            "key": "2022",
+            "value": "12201"
+          },
+          {
+            "key": "2023",
+            "value": "13575"
+          },
+          {
+            "key": "2024",
+            "value": "15274"
+          },
+          {
+            "key": "2025",
+            "value": "16570"
+          }
+        ]
+      },
+      {
+        "seriesNo": "4",
+        "rowText": "State Courts - Number Of Cases Disposed Of (Criminal Cases)",
+        "uoM": "Number",
+        "footnote": "Data for Criminal Cases comprise: i. Criminal charges (including DAC, MAC, PSS, PS & other charges), ii. Departmental or Statutory Board charges and summonses, iii. Traffic charges and summonses, iv. Coroner's Court cases, v. Non-Relational Magistrate's Complaints",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "317203"
+          },
+          {
+            "key": "2019",
+            "value": "247658"
+          },
+          {
+            "key": "2020",
+            "value": "156129"
+          },
+          {
+            "key": "2021",
+            "value": "166162"
+          },
+          {
+            "key": "2022",
+            "value": "143878"
+          },
+          {
+            "key": "2023",
+            "value": "138253"
+          },
+          {
+            "key": "2024",
+            "value": "137522"
+          },
+          {
+            "key": "2025",
+            "value": "156878"
+          }
+        ]
+      },
+      {
+        "seriesNo": "5",
+        "rowText": "State Courts - Number Of Cases Disposed Of (Civil Cases)",
+        "uoM": "Number",
+        "footnote": "Data for Civil Cases comprise: i. Originating Processes, ii. Interlocutory Applications, iii. Taxations, iv. Assessment of Damages",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "40214"
+          },
+          {
+            "key": "2019",
+            "value": "38559"
+          },
+          {
+            "key": "2020",
+            "value": "33193"
+          },
+          {
+            "key": "2021",
+            "value": "31571"
+          },
+          {
+            "key": "2022",
+            "value": "24506"
+          },
+          {
+            "key": "2023",
+            "value": "21816"
+          },
+          {
+            "key": "2024",
+            "value": "22160"
+          },
+          {
+            "key": "2025",
+            "value": "23869"
+          }
+        ]
+      },
+      {
+        "seriesNo": "6",
+        "rowText": "State Courts - Number Of Cases Disposed Of (Community Courts And Tribunals Cases)",
+        "uoM": "Number",
+        "footnote": "Data for Community Justice and Tribunals Cases comprise : i. Community Disputes Resolution Tribunals (CDRT) claims, ii. Employment Claims Tribunals (ECT) claims, iii. Relational Magistrate's Complaints, iv. Protection from Harassment Court (PHC) cases, v. Small Claims Tribunals (SCT) claims",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "13671"
+          },
+          {
+            "key": "2019",
+            "value": "13796"
+          },
+          {
+            "key": "2020",
+            "value": "13139"
+          },
+          {
+            "key": "2021",
+            "value": "13008"
+          },
+          {
+            "key": "2022",
+            "value": "11973"
+          },
+          {
+            "key": "2023",
+            "value": "13385"
+          },
+          {
+            "key": "2024",
+            "value": "14420"
+          },
+          {
+            "key": "2025",
+            "value": "15802"
+          }
+        ]
+      },
+      {
+        "seriesNo": "7",
+        "rowText": "State Courts - Court Dispute Resolution",
+        "uoM": "Number",
+        "footnote": "Refers to fresh cases handled by the Court Dispute Resolution cluster and is not included in the State Courts' caseload statistics. ",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "6897"
+          },
+          {
+            "key": "2019",
+            "value": "7068"
+          },
+          {
+            "key": "2020",
+            "value": "5434"
+          },
+          {
+            "key": "2021",
+            "value": "4994"
+          },
+          {
+            "key": "2022",
+            "value": "3972"
+          },
+          {
+            "key": "2023",
+            "value": "3391"
+          },
+          {
+            "key": "2024",
+            "value": "3930"
+          },
+          {
+            "key": "2025",
+            "value": "4205"
+          }
+        ]
+      },
+      {
+        "seriesNo": "8",
+        "rowText": "Supreme Court - Number Of Cases Filed (Civil Jurisdiction)",
+        "uoM": "Number",
+        "footnote": "Data for Civil Jurisdiction comprises: i. Civil Originating Processes ii. Civil Interlocutory Applications iii. Appeals before the General Division of the High Court iv. Appeals before the Appellate Division of the High Court v. Applications before the Appellate Division of the High Court vi. Appeals before the Court of Appeal vii. Applications before the Court of Appeal",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "14256"
+          },
+          {
+            "key": "2019",
+            "value": "15265"
+          },
+          {
+            "key": "2020",
+            "value": "13388"
+          },
+          {
+            "key": "2021",
+            "value": "13538"
+          },
+          {
+            "key": "2022",
+            "value": "12238"
+          },
+          {
+            "key": "2023",
+            "value": "11936"
+          },
+          {
+            "key": "2024",
+            "value": "12954"
+          },
+          {
+            "key": "2025",
+            "value": "13685"
+          }
+        ]
+      },
+      {
+        "seriesNo": "9",
+        "rowText": "Supreme Court - Number Of Cases Filed (Criminal Jurisdiction)",
+        "uoM": "Number",
+        "footnote": "Data for Criminal Jurisdiction comprises: i. Criminal Cases ii. Criminal Motions before the General Division of the High Court iii. Magistrate's Appeals iv. Criminal Revisions v. Criminal Appeals vi. Criminal Motions and References before the Court of Appeal",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "524"
+          },
+          {
+            "key": "2019",
+            "value": "437"
+          },
+          {
+            "key": "2020",
+            "value": "451"
+          },
+          {
+            "key": "2021",
+            "value": "488"
+          },
+          {
+            "key": "2022",
+            "value": "430"
+          },
+          {
+            "key": "2023",
+            "value": "427"
+          },
+          {
+            "key": "2024",
+            "value": "429"
+          },
+          {
+            "key": "2025",
+            "value": "387"
+          }
+        ]
+      },
+      {
+        "seriesNo": "10",
+        "rowText": "Supreme Court - Number Of Cases Disposed Of (Civil Jurisdiction)",
+        "uoM": "Number",
+        "footnote": "Data for Civil Jurisdiction comprises: i. Civil Originating Processes ii. Civil Interlocutory Applications iii. Appeals before the General Division of the High Court iv. Appeals before the Appellate Division of the High Court v. Applications before the Appellate Division of the High Court vi. Appeals before the Court of Appeal vii. Applications before the Court of Appeal",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "13832"
+          },
+          {
+            "key": "2019",
+            "value": "14609"
+          },
+          {
+            "key": "2020",
+            "value": "12858"
+          },
+          {
+            "key": "2021",
+            "value": "14225"
+          },
+          {
+            "key": "2022",
+            "value": "11582"
+          },
+          {
+            "key": "2023",
+            "value": "11878"
+          },
+          {
+            "key": "2024",
+            "value": "11858"
+          },
+          {
+            "key": "2025",
+            "value": "13701"
+          }
+        ]
+      },
+      {
+        "seriesNo": "11",
+        "rowText": "Supreme Court - Number Of Cases Disposed Of (Criminal Jurisdiction)",
+        "uoM": "Number",
+        "footnote": "Data for Criminal Jurisdiction comprises: i. Criminal Cases ii. Criminal Motions before the General Division of the High Court iii. Magistrate's Appeals iv. Criminal Revisions v. Criminal Appeals vi. Criminal Motions and References before the Court of Appeal",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "527"
+          },
+          {
+            "key": "2019",
+            "value": "432"
+          },
+          {
+            "key": "2020",
+            "value": "459"
+          },
+          {
+            "key": "2021",
+            "value": "485"
+          },
+          {
+            "key": "2022",
+            "value": "477"
+          },
+          {
+            "key": "2023",
+            "value": "388"
+          },
+          {
+            "key": "2024",
+            "value": "455"
+          },
+          {
+            "key": "2025",
+            "value": "422"
+          }
+        ]
+      },
+      {
+        "seriesNo": "12",
+        "rowText": "Family Justice Courts - Number Of Cases Filed (Maintenance And Protection Cases)",
+        "uoM": "Number",
+        "footnote": "Data for Protection cases from 2019 exclude breach cases and include Vulnerable Adults Act cases.",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "7401"
+          },
+          {
+            "key": "2019",
+            "value": "7112"
+          },
+          {
+            "key": "2020",
+            "value": "5680"
+          },
+          {
+            "key": "2021",
+            "value": "5020"
+          },
+          {
+            "key": "2022",
+            "value": "4998"
+          },
+          {
+            "key": "2023",
+            "value": "5315"
+          },
+          {
+            "key": "2024",
+            "value": "5315"
+          },
+          {
+            "key": "2025",
+            "value": "5503"
+          }
+        ]
+      },
+      {
+        "seriesNo": "13",
+        "rowText": "Family Justice Courts - Number Of Cases Filed (Divorce Cases, Originating Summonses, Probate Cases And Summonses)",
+        "uoM": "Number",
+        "footnote": "Data from 2018 include summonses and data from 2019 onwards include Mental Capacity Act (Simplified) cases.",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "18856"
+          },
+          {
+            "key": "2019",
+            "value": "19640"
+          },
+          {
+            "key": "2020",
+            "value": "18924"
+          },
+          {
+            "key": "2021",
+            "value": "20790"
+          },
+          {
+            "key": "2022",
+            "value": "21809"
+          },
+          {
+            "key": "2023",
+            "value": "22071"
+          },
+          {
+            "key": "2024",
+            "value": "22344"
+          },
+          {
+            "key": "2025",
+            "value": "23362"
+          }
+        ]
+      },
+      {
+        "seriesNo": "14",
+        "rowText": "Family Justice Courts - Number Of Cases Filed (Youth Court Cases)",
+        "uoM": "Number",
+        "footnote": "Data from 2020 include Family Guidance Order cases and Enhanced Care and Protection Order cases.",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "1064"
+          },
+          {
+            "key": "2019",
+            "value": "1120"
+          },
+          {
+            "key": "2020",
+            "value": "1163"
+          },
+          {
+            "key": "2021",
+            "value": "1285"
+          },
+          {
+            "key": "2022",
+            "value": "1016"
+          },
+          {
+            "key": "2023",
+            "value": "817"
+          },
+          {
+            "key": "2024",
+            "value": "882"
+          },
+          {
+            "key": "2025",
+            "value": "1324"
+          }
+        ]
+      },
+      {
+        "seriesNo": "15",
+        "rowText": "Family Justice Courts - Number Of Cases Disposed Of (Maintenance And Protection Cases)",
+        "uoM": "Number",
+        "footnote": "Data for Protection cases from 2019 exclude breach cases and include Vulnerable Adults Act cases.",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "7520"
+          },
+          {
+            "key": "2019",
+            "value": "7042"
+          },
+          {
+            "key": "2020",
+            "value": "5499"
+          },
+          {
+            "key": "2021",
+            "value": "5473"
+          },
+          {
+            "key": "2022",
+            "value": "4999"
+          },
+          {
+            "key": "2023",
+            "value": "5229"
+          },
+          {
+            "key": "2024",
+            "value": "5202"
+          },
+          {
+            "key": "2025",
+            "value": "5571"
+          }
+        ]
+      },
+      {
+        "seriesNo": "16",
+        "rowText": "Family Justice Courts - Number Of Cases Disposed Of (Divorce Cases, Originating Summonses, Probate Cases And Summonses)",
+        "uoM": "Number",
+        "footnote": "Data from 2018 include summonses and data from 2019 onwards include Mental Capacity Act (Simplified) cases.",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "18997"
+          },
+          {
+            "key": "2019",
+            "value": "19190"
+          },
+          {
+            "key": "2020",
+            "value": "18673"
+          },
+          {
+            "key": "2021",
+            "value": "20830"
+          },
+          {
+            "key": "2022",
+            "value": "21350"
+          },
+          {
+            "key": "2023",
+            "value": "21572"
+          },
+          {
+            "key": "2024",
+            "value": "22194"
+          },
+          {
+            "key": "2025",
+            "value": "23302"
+          }
+        ]
+      },
+      {
+        "seriesNo": "17",
+        "rowText": "Family Justice Courts - Number Of Cases Disposed Of (Youth Court Cases)",
+        "uoM": "Number",
+        "footnote": "Data from 2020 include Family Guidance Order cases and Enhanced Care and Protection Order cases.",
+        "columns": [
+          {
+            "key": "2018",
+            "value": "1236"
+          },
+          {
+            "key": "2019",
+            "value": "1218"
+          },
+          {
+            "key": "2020",
+            "value": "1055"
+          },
+          {
+            "key": "2021",
+            "value": "1181"
+          },
+          {
+            "key": "2022",
+            "value": "1025"
+          },
+          {
+            "key": "2023",
+            "value": "784"
+          },
+          {
+            "key": "2024",
+            "value": "739"
+          },
+          {
+            "key": "2025",
+            "value": "1246"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

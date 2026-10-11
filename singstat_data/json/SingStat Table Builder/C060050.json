@@ -1,0 +1,3941 @@
+{
+  "Data": {
+    "id": "C060050",
+    "tableType": "Supply, Use and Input-Output Tables",
+    "groupTitle": null,
+    "title": "Industry By Industry Input-Output Table By Broad Sector, 2015",
+    "frequency": "Annual",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "This table shows flows of goods and services between industries of the economy. Each row shows how an industry's output is used for intermediate consumption by industries, and final demand whilst each column shows what an industry purchases to produce its output.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "25/03/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Economy & Prices",
+    "subject": "Supply, Use and Input-Output Tables",
+    "topic": "Supply, Use and Input-Output Tables (SU-IOTs) by Broad Sectors",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "001 Other Goods Industries",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "6.0048"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "30.7987"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "0.1272"
+              },
+              {
+                "key": "004 Construction",
+                "value": "6.1743"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "1.7157"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "0.159"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "3.1257"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "2.0046"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "52.8498"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "0.79"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "0.7166"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "0.8927"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "0.1018"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "2.4046"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "2.1324"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "0.517"
+              },
+              {
+                "key": "017 Education",
+                "value": "0.1772"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "0.4059"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "0.7466"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "0.6083"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "31.4821"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "0.062"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "0.7477"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-46.5674"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "208.4499"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "112.4529"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "194.1742"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "306.6272"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "002 Manufacturing",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "9.912"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "56536.9598"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "392.0991"
+              },
+              {
+                "key": "004 Construction",
+                "value": "5591.6618"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "3228.815"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "216.9162"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "5495.3218"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "305.3871"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "1569.2962"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "2722.6424"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "516.2551"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "822.0601"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "43.2375"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "3073.3459"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "1175.6389"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "1393.7694"
+              },
+              {
+                "key": "017 Education",
+                "value": "477.482"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "874.6283"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "272.0609"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "360.3495"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "3813.6044"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "97.8733"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "9391.223"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-679.0125"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "207974.7554"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "85077.839"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "220598.4435"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "305676.2817"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "003 Utilities",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "11.8416"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "3350.8992"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "3144.5428"
+              },
+              {
+                "key": "004 Construction",
+                "value": "207.1544"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "369.6802"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "315.0983"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "591.8747"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "231.7826"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "478.2585"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "455.0537"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "231.7745"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "757.4086"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "2.1698"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "256.0733"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "56.6252"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "1413.462"
+              },
+              {
+                "key": "017 Education",
+                "value": "220.7077"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "191.0303"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "243.0526"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "89.9161"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "1943.2166"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "5.4037"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "64.2497"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-57.7818"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "1191.4433"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "12618.406"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "3146.5315"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "15764.9368"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "004 Construction",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "0.2716"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "500.2747"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "76.6768"
+              },
+              {
+                "key": "004 Construction",
+                "value": "32240.604"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "111.131"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "43.1737"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "150.7089"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "59.3837"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "39.1393"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "67.3656"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "71.8549"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "568.0506"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "1705.398"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "262.2512"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "38.5756"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "199.3989"
+              },
+              {
+                "key": "017 Education",
+                "value": "95.7466"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "36.1066"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "74.8199"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "9.3347"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "31.1254"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "4.9785"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "39437.1857"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "1406.6707"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "36350.2663"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "40879.9603"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "77230.2264"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "005 Wholesale Trade",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "14.7222"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "9710.7295"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "243.568"
+              },
+              {
+                "key": "004 Construction",
+                "value": "1345.9155"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "4037.3648"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "269.5127"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "1239.2104"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "230.6939"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "669.863"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "1761.193"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "652.1676"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "417.5855"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "51.6667"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "1042.3045"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "390.7169"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "486.2013"
+              },
+              {
+                "key": "017 Education",
+                "value": "236.2723"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "364.6576"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "123.4056"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "124.0354"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "2029.0158"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "112.5331"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "4126.2218"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-2.6914"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "115537.339"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "23411.7863"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "121802.4182"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "145214.2044"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6",
+        "rowText": "006 Retail Trade",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "0.1748"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "56.2411"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "4.6546"
+              },
+              {
+                "key": "004 Construction",
+                "value": "134.5326"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "596.474"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "252.851"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "118.5129"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "9.2342"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "20.5523"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "82.9215"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "45.3126"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "38.1556"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "7.4937"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "90.1999"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "26.9739"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "45.0235"
+              },
+              {
+                "key": "017 Education",
+                "value": "28.7109"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "42.1168"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "16.5098"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "21.0634"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "10883.8533"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "5.6709"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "133.736"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "2439.4598"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "1637.7091"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "13462.7199"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "15100.4293"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "7",
+        "rowText": "007 Transportation & Storage",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "10.137"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "2921.4521"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "68.5222"
+              },
+              {
+                "key": "004 Construction",
+                "value": "624.3711"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "13343.8991"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "640.3777"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "18923.9794"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "47.1289"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "162.0718"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "1001.6335"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "709.3609"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "419.1706"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "15.7532"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "801.077"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "523.5663"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "218.9964"
+              },
+              {
+                "key": "017 Education",
+                "value": "155.599"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "114.9491"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "104.1262"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "94.3789"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "7005.5747"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "11.4688"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "644.7062"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-0.8485"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "68664.6904"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "40900.5504"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "76325.5916"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "117226.1416"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "8",
+        "rowText": "008 Accommodation",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "0.7224"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "103.6514"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "5.2991"
+              },
+              {
+                "key": "004 Construction",
+                "value": "65.8605"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "149.9122"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "31.8202"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "227.505"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "9.6993"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "33.9548"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "58.3773"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "95.8445"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "22.2097"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "0.652"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "77.4517"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "95.0974"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "59.8807"
+              },
+              {
+                "key": "017 Education",
+                "value": "18.7621"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "17.8583"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "47.871"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "8.2284"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "1268.454"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "9.3751"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "61.8162"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "3992.8421"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "1130.6581"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "5332.4873"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "6463.1451"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "9",
+        "rowText": "009 Food & Beverage Services",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "5.522"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "144.4796"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "5.997"
+              },
+              {
+                "key": "004 Construction",
+                "value": "147.9124"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "684.9428"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "61.6442"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "1079.9844"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "39.572"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "191.3524"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "218.2238"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "174.7232"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "52.2406"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "0.4437"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "100.2648"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "21.5682"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "83.8933"
+              },
+              {
+                "key": "017 Education",
+                "value": "91.1193"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "67.998"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "330.5836"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "37.8798"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "7601.6513"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "0.1993"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "126.3829"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "2811.9707"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "3540.3451"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "10540.2042"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "14080.5493"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "10",
+        "rowText": "010 Information & Communications",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "1.0173"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "1795.7532"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "91.3182"
+              },
+              {
+                "key": "004 Construction",
+                "value": "183.505"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "2955.8846"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "194.5358"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "695.8865"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "58.6538"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "65.1655"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "7696.4828"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "2567.259"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "301.6053"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "14.5885"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "1568.3474"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "326.2141"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "1065.3134"
+              },
+              {
+                "key": "017 Education",
+                "value": "260.9265"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "314.9492"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "217.1224"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "106.4569"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "5270.1651"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "291.8171"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "3676.3585"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-0.0256"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "26361.9962"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "20480.9852"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "35600.3113"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "56081.2968"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "11",
+        "rowText": "011 Finance & Insurance",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "13.0837"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "2016.8379"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "250.0843"
+              },
+              {
+                "key": "004 Construction",
+                "value": "555.0534"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "5991.4534"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "553.9134"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "1407.1195"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "176.0502"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "180.5461"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "934.6833"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "15448.2781"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "4175.3131"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "1819.7063"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "1109.0251"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "454.5797"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "3808.7802"
+              },
+              {
+                "key": "017 Education",
+                "value": "157.8941"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "254.6737"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "154.1927"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "112.2485"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "13253.0279"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "22.1732"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "423.8898"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "41964.3866"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "39573.5164"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "55663.4775"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "95236.9927"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "12",
+        "rowText": "012 Real Estate",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "0.3991"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "1081.344"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "131.8327"
+              },
+              {
+                "key": "004 Construction",
+                "value": "467.2192"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "1930.139"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "3723.1589"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "868.5372"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "476.558"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "1479.5073"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "918.3348"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "1703.5599"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "1973.8306"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "7.7706"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "1350.8647"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "388.5947"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "434.043"
+              },
+              {
+                "key": "017 Education",
+                "value": "308.7042"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "619.543"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "287.2476"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "400.5572"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "2091.1118"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "21.3784"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "12149.0925"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-0.0014"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "908.9133"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "18551.7457"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "15170.4946"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "33722.2405"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "13",
+        "rowText": "013 Ownership of Dwellings",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "-"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "-"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "-"
+              },
+              {
+                "key": "004 Construction",
+                "value": "-"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "-"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "-"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "-"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "-"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "-"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "-"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "-"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "-"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "-"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "-"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "-"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "-"
+              },
+              {
+                "key": "017 Education",
+                "value": "-"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "-"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "-"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "21932.5364"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "-"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "-"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "564.9178"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "-"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "22497.4542"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "22497.4541"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "14",
+        "rowText": "014 Professional Services",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "10.8465"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "3002.147"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "299.3375"
+              },
+              {
+                "key": "004 Construction",
+                "value": "1623.7441"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "4694.1027"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "483.0042"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "1488.725"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "281.2946"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "182.7206"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "2891.6007"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "1674.8927"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "2834.3819"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "379.7196"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "3689.6526"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "620.9361"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "1215.2539"
+              },
+              {
+                "key": "017 Education",
+                "value": "270.07"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "305.196"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "455.1752"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "173.5724"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "1001.1739"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "948.3621"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "6559.8234"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-4.7964"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "17663.1685"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "26576.3732"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "26167.7315"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "52744.1048"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "15",
+        "rowText": "015 Administrative & Support Services",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "8.5827"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "4200.9165"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "203.7294"
+              },
+              {
+                "key": "004 Construction",
+                "value": "1109.1595"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "2231.9411"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "175.2861"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "2487.2707"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "60.3955"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "141.013"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "1376.0588"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "980.1062"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "1802.6075"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "206.1259"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "808.105"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "2075.8264"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "765.5132"
+              },
+              {
+                "key": "017 Education",
+                "value": "230.0979"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "177.2566"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "302.879"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "108.9691"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "714.3034"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "11.2426"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "80.5951"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-0.1757"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "10489.3049"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "19451.8403"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "11295.2703"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "30747.1121"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "16",
+        "rowText": "016 Public Administration & Defence",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "0.433"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "159.0877"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "75.4093"
+              },
+              {
+                "key": "004 Construction",
+                "value": "202.5894"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "334.6167"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "164.3354"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "166.9361"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "35.733"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "68.454"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "143.1381"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "185.2868"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "140.2175"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "5.7371"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "168.6326"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "28.9995"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "455.4826"
+              },
+              {
+                "key": "017 Education",
+                "value": "31.4632"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "58.0931"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "62.3418"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "24.9377"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "663.9404"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "33274.4752"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "557.4015"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-1.2274"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "472.4581"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "2511.9246"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "34967.0478"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "37478.9724"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "17",
+        "rowText": "017 Education",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "0.6057"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "178.3832"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "15.8396"
+              },
+              {
+                "key": "004 Construction",
+                "value": "39.8438"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "179.233"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "45.2193"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "67.9907"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "28.6582"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "22.1639"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "128.9187"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "97.4739"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "111.2653"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "12.0967"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "151.1129"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "28.4816"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "2548.6"
+              },
+              {
+                "key": "017 Education",
+                "value": "441.7699"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "40.9298"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "32.8381"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "12.6339"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "4604.4303"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "6530.8638"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "264.0182"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-0.0009"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "2413.5281"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "4184.0583"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "13812.8396"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "17996.8984"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "18",
+        "rowText": "018 Health & Social Services",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "1.3339"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "21.5846"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "5.0595"
+              },
+              {
+                "key": "004 Construction",
+                "value": "24.1474"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "38.3596"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "21.9271"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "31.4819"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "4.7889"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "10.8408"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "23.3423"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "45.9034"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "24.7862"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "1.8112"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "46.1552"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "12.447"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "5515.3641"
+              },
+              {
+                "key": "017 Education",
+                "value": "20.2005"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "2323.6606"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "13.0363"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "77.7638"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "7476.0495"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "613.3419"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "87.5118"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "1401.0465"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "8263.9944"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "9577.9498"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "17841.9438"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "19",
+        "rowText": "019 Arts, Entertainment & Recreation",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "0.306"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "23.0434"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "2.9442"
+              },
+              {
+                "key": "004 Construction",
+                "value": "83.3191"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "65.9152"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "32.9578"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "60.7288"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "12.5823"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "16.8585"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "81.9465"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "141.9485"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "19.5123"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "0.5255"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "68.006"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "37.132"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "34.1642"
+              },
+              {
+                "key": "017 Education",
+                "value": "142.83"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "18.5569"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "349.938"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "19.8852"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "1869.0952"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "1153.4897"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "75.7948"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "4964.7864"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "1213.1006"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "8063.1661"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "9276.2664"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "20",
+        "rowText": "020 Other Services – Others",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "1.4897"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "179.0376"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "34.3356"
+              },
+              {
+                "key": "004 Construction",
+                "value": "127.9968"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "270.9563"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "80.8958"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "502.1142"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "87.2438"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "30.1808"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "176.2908"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "200.0908"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "40.1477"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "122.3645"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "214.956"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "69.619"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "227.6981"
+              },
+              {
+                "key": "017 Education",
+                "value": "137.0209"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "162.9925"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "136.8906"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "212.0662"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "4618.0782"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "38.0656"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "65.8158"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "549.913"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "3014.3879"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "5271.8726"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "8286.2609"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "21",
+        "rowText": "Total domestic use at basic prices",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "97.4059"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "86013.6213"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "5051.3771"
+              },
+              {
+                "key": "004 Construction",
+                "value": "44780.7643"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "41216.5364"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "7306.7868"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "35607.0137"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "2156.8446"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "5414.7887"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "20738.9977"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "25542.809"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "14521.4414"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "4397.3623"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "14880.2303"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "6373.7249"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "19971.3552"
+              },
+              {
+                "key": "017 Education",
+                "value": "3325.5545"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "5985.6023"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "3224.838"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "1994.8854"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "98101.8895"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "43152.774"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "77926.5704"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-793.129"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "511982.0408"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "348601.9394"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "730370.1456"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "1078972.0851"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "22",
+        "rowText": "Imports of goods and services",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "70.1963"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "143460.6211"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "4805.3583"
+              },
+              {
+                "key": "004 Construction",
+                "value": "11989.9109"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "45676.6216"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "502.8046"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "51599.626"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "691.8807"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "3211.5414"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "19424.8555"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "19268.6168"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "398.22"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "-"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "13620.1525"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "3949.8862"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "6822.2323"
+              },
+              {
+                "key": "017 Education",
+                "value": "1121.1477"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "1696.3856"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "741.047"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "826.8928"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "40490.9177"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "-"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "33143.4998"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-7121.371"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "246345.0866"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "329877.9943"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "312858.1331"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "642736.1274"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "23",
+        "rowText": "Taxes less subsidies on products",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "0.8617"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "64.4897"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "32.6928"
+              },
+              {
+                "key": "004 Construction",
+                "value": "10.1581"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "20.9387"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "8.2835"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "110.0139"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "9.9205"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "293.2034"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "44.1127"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "222.6019"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "146.1113"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "-"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "34.3092"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "11.2841"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "56.3149"
+              },
+              {
+                "key": "017 Education",
+                "value": "29.8295"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "138.1347"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "59.146"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "12.3563"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "18750.8659"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "-"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "4201.0759"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "1304.7622"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "22951.9418"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "24256.704"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "24",
+        "rowText": "Total use at purchasers' prices",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "168.4634"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "229538.7284"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "9889.4287"
+              },
+              {
+                "key": "004 Construction",
+                "value": "56780.8342"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "86914.0967"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "7817.8748"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "87316.6523"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "2858.6462"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "8919.5336"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "40207.9675"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "45034.0282"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "15065.7726"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "4397.3623"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "28534.6909"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "10334.8934"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "26849.9028"
+              },
+              {
+                "key": "017 Education",
+                "value": "4476.5317"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "7820.1222"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "4025.0315"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "2834.1342"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "157343.673"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "43152.774"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "115271.1461"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-7914.5"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "758327.1274"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "679784.6959"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "1066180.2205"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "1745964.9164"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "25",
+        "rowText": "Compensation of employees",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "66.3001"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "24956.5945"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "1479.3601"
+              },
+              {
+                "key": "004 Construction",
+                "value": "12465.3"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "21347.7"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "4441.0193"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "12070.4087"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "1628.9951"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "3415.5996"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "9559.9681"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "23507.2003"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "3097.3145"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "-"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "17058.5578"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "6887.354"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "10335.9162"
+              },
+              {
+                "key": "017 Education",
+                "value": "10503.6506"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "8398.2487"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "2210.2208"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "4257.1626"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "-"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "-"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "-"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "177686.8712"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "-"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "177686.8712"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "26",
+        "rowText": "Other taxes less subsidies on production",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "10.2"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "898.05"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "208.9"
+              },
+              {
+                "key": "004 Construction",
+                "value": "2026.85"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "44.9"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "27.8"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "404.7"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "138"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "71.2"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "176.4"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "30.3999"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "1551.2678"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "987.5"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "70.5086"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "-17.9266"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "24.2542"
+              },
+              {
+                "key": "017 Education",
+                "value": "-60.8947"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "-87.7066"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "88.2887"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "438.8084"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "-"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "-"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "-"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "7031.5"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "-"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "7031.5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "27",
+        "rowText": "Gross operating surplus",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "61.6636"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "50282.9084"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "4187.2488"
+              },
+              {
+                "key": "004 Construction",
+                "value": "5957.2427"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "36907.5078"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "2813.7351"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "17434.3795"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "1837.5038"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "1674.2165"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "6136.9624"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "26665.3642"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "14007.8853"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "17112.5918"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "7080.3468"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "13542.7906"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "268.8994"
+              },
+              {
+                "key": "017 Education",
+                "value": "3077.6113"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "1711.2793"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "2952.7257"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "756.1554"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "-"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "-"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "-"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "214469.0179"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "-"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "214469.0179"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "28",
+        "rowText": "Value added at basic prices",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "138.1637"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "76137.5529"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "5875.5089"
+              },
+              {
+                "key": "004 Construction",
+                "value": "20449.3927"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "58300.1078"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "7282.5544"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "29909.4882"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "3604.4989"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "5161.0161"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "15873.3305"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "50202.9644"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "18656.4676"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "18100.0918"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "24209.4132"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "20412.218"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "10629.0698"
+              },
+              {
+                "key": "017 Education",
+                "value": "13520.3672"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "10021.8214"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "5251.2352"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "5452.1264"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "-"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "-"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "-"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "399187.3891"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "-"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "399187.3891"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "29",
+        "rowText": "Total inputs at basic prices",
+        "uoM": "Million Dollars",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Purchases by Industry",
+            "columns": [
+              {
+                "key": "001 Other Goods Industries",
+                "value": "306.6272"
+              },
+              {
+                "key": "002 Manufacturing",
+                "value": "305676.2817"
+              },
+              {
+                "key": "003 Utilities",
+                "value": "15764.9368"
+              },
+              {
+                "key": "004 Construction",
+                "value": "77230.2264"
+              },
+              {
+                "key": "005 Wholesale Trade",
+                "value": "145214.2044"
+              },
+              {
+                "key": "006 Retail Trade",
+                "value": "15100.4293"
+              },
+              {
+                "key": "007 Transportation & Storage",
+                "value": "117226.1416"
+              },
+              {
+                "key": "008 Accommodation",
+                "value": "6463.1451"
+              },
+              {
+                "key": "009 Food & Beverage Services",
+                "value": "14080.5493"
+              },
+              {
+                "key": "010 Information & Communications",
+                "value": "56081.2968"
+              },
+              {
+                "key": "011 Finance & Insurance",
+                "value": "95236.9927"
+              },
+              {
+                "key": "012 Real Estate",
+                "value": "33722.2405"
+              },
+              {
+                "key": "013 Ownership of Dwellings",
+                "value": "22497.4541"
+              },
+              {
+                "key": "014 Professional Services",
+                "value": "52744.1048"
+              },
+              {
+                "key": "015 Administrative & Support Services",
+                "value": "30747.1121"
+              },
+              {
+                "key": "016 Public Administration & Defence",
+                "value": "37478.9724"
+              },
+              {
+                "key": "017 Education",
+                "value": "17996.8984"
+              },
+              {
+                "key": "018 Health & Social Services",
+                "value": "17841.9438"
+              },
+              {
+                "key": "019 Arts, Entertainment & Recreation",
+                "value": "9276.2664"
+              },
+              {
+                "key": "020 Other Services – Others",
+                "value": "8286.2609"
+              }
+            ]
+          },
+          {
+            "key": "Purchases by Final Demand",
+            "columns": [
+              {
+                "key": "Household and NPISHs final consumption expenditure",
+                "value": "157343.673"
+              },
+              {
+                "key": "Government final consumption expenditure",
+                "value": "43152.774"
+              },
+              {
+                "key": "Gross fixed capital formation",
+                "value": "115271.1461"
+              },
+              {
+                "key": "Changes in inventories",
+                "value": "-7914.5"
+              },
+              {
+                "key": "Exports of goods & services",
+                "value": "758327.1274"
+              }
+            ]
+          },
+          {
+            "key": "Totals",
+            "columns": [
+              {
+                "key": "Total intermediate use at basic prices",
+                "value": "1078972.0851"
+              },
+              {
+                "key": "Total final output at basic prices",
+                "value": "1066180.2205"
+              },
+              {
+                "key": "Total output at basic prices",
+                "value": "2145152.3055"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

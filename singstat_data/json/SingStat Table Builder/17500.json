@@ -1,0 +1,1106 @@
+{
+  "Data": {
+    "id": "17500",
+    "tableType": "Census of Population 2020",
+    "groupTitle": null,
+    "title": "Resident Households by Age Group of Household Reference Person & Household Living Arrangement and Number of Employed Persons in Household",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data on Household Living Arrangement have been revised in June 2026 to be based on the composition of members within the household, instead of the characteristics of the household reference person, to provide a more holistic view of household living arrangements.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "30/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "1372559"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "182445"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "461941"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "499639"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "153187"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "58365"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "16983"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "691279"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "14250"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "155022"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "330581"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "126408"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "51403"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "13614"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "230197"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "54325"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "64575"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "100245"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "7307"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "2532"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "1212"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "127987"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "15707"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "60507"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "37106"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "12132"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "2240"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "294"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "220270"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "73581"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "146689"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "102828"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "24581"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "35149"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "31707"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "7340"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "2189"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "1862"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "Household Reference Persons Aged Below 35 Years",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "130367"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "4801"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "46487"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "67689"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "7684"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "2454"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "1252"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "50874"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "747"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "12247"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "32509"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "3807"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "1038"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "527"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "32595"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "223"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "3854"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "26150"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "1520"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "552"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "296"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "8414"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "902"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "4468"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "2263"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "668"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "114"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "25009"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "2149"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "22860"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "13475"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "780"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "3058"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "6768"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "1689"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "750"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "429"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "Household Reference Persons Aged 35-49 Years",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "446511"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "15231"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "172735"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "219403"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "28204"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "7832"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "3105"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "269120"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "3183"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "70520"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "166553"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "21414"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "5689"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "1760"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "50393"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "638"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "10629"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "35022"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "2665"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "941"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "499"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "38388"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "3685"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "23700"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "8269"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "2282"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "408"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "44"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "63363"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "5844"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "57518"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "25247"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "1881"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "10367"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "9559"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "1844"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "794"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "803"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3",
+        "rowText": "Household Reference Persons Aged 50-64 Years",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "500232"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "44104"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "157587"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "158649"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "91517"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "38274"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "10102"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "281941"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "5552"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "50364"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "102693"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "78651"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "35550"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "9132"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "56782"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "6957"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "21954"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "24341"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "2337"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "857"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "336"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "59335"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "6782"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "23334"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "20229"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "7476"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "1347"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "167"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "68101"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "19723"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "48378"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.3.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "34072"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "5090"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "13557"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "11385"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "3053"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "520"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "467"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4",
+        "rowText": "Household Reference Persons Aged 65 Years & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "295450"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "118308"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "85133"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "53898"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "25782"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "9805"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "2524"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.1",
+        "rowText": "Married Couple-Based With Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "89343"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "4768"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "21891"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "28826"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "22537"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "9127"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "2195"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.2",
+        "rowText": "Married Couple-Based Without Children",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "90427"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "46508"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "28137"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "14733"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "785"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "182"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "82"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.3",
+        "rowText": "Lone Parent",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "21850"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "4339"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "9005"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "6346"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "1706"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "371"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "83"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.4",
+        "rowText": "One-Person",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "63797"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "45865"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "17932"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "-"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "-"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.4.5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "30033"
+          },
+          {
+            "key": "No Employed Person",
+            "value": "16829"
+          },
+          {
+            "key": "1 Employed Person",
+            "value": "8168"
+          },
+          {
+            "key": "2 Employed Persons",
+            "value": "3994"
+          },
+          {
+            "key": "3 Employed Persons",
+            "value": "754"
+          },
+          {
+            "key": "4 Employed Persons",
+            "value": "125"
+          },
+          {
+            "key": "5 or More Employed Persons",
+            "value": "163"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

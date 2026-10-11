@@ -1,0 +1,51 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Society",
+      "subject": "Public Safety",
+      "topic": "Emergency Medical Services and Health Preparedness",
+      "id": "M890951",
+      "groupTitle": "Emergency Medical Services",
+      "title": "Emergency Medical Services, Annual",
+      "frequency": "Annual",
+      "adjustmentType": "",
+      "dataSource": "SINGAPORE CIVIL DEFENCE FORCE",
+      "footnote": "With effect from 2016, the data compiled are based on a revised classification of the following categories of calls by 'Emergency Calls', 'Non-Emergency Calls', and 'False Alarm Calls'.  Due to the revised classification, the breakdown of Singapore Civil Defence Force (SCDF)'s Emergency Medical Services (EMS) statistics from 2016 are not comparable with prior figures.",
+      "dataLastUpdated": "24/02/2026",
+      "startPeriod": "2000",
+      "endPeriod": "2025",
+      "total": 104,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Total Calls To Emergency Medical Services",
+          "uoM": "Number",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "Emergency Medical Services - Emergency Calls",
+          "uoM": "Number",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "Emergency Medical Services - Non-Emergency Calls",
+          "uoM": "Number",
+          "footnote": "Non-Emergency Calls refer to cases where urgent medical assistance by the Singapore Civil Defence Force (SCDF) Emergency Medical Services (EMS) is not required.  Examples of non-emergencies include toothaches, diarrhoea, coughs, headaches, slight burns or scalds, constipation, or medical check-ups."
+        },
+        {
+          "seriesNo": "1.3",
+          "rowText": "Emergency Medical Services - False Alarm Calls",
+          "uoM": "Number",
+          "footnote": "False alarm calls include incidents where calls were cancelled or where no patients were found at the scene upon the arrival of the ambulance crew."
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

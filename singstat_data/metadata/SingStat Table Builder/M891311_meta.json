@@ -1,0 +1,69 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Industry",
+      "subject": "Energy and Utilities",
+      "topic": "Energy Products and Consumption",
+      "id": "M891311",
+      "groupTitle": "Stock Change Of Energy Products",
+      "title": "Stock Change Of Energy Products, Annual",
+      "frequency": "Annual",
+      "adjustmentType": "",
+      "dataSource": "ENERGY MARKET AUTHORITY",
+      "footnote": "Numbers may not add up to the totals due to rounding.",
+      "dataLastUpdated": "23/06/2026",
+      "startPeriod": "2009",
+      "endPeriod": "2023",
+      "total": 100,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Total Stock Change Of Energy Products",
+          "uoM": "Ktoe",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "Crude Oil & Natural Gas Liquids (NGL)",
+          "uoM": "Ktoe",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "Petroleum Products",
+          "uoM": "Ktoe",
+          "footnote": "Petroleum Products include Ethane, LPG, Aviation Gasoline, Motor Gasoline, Jet Fuel, Kerosene, Gas/Diesel Oil, Fuel Oil, Naphtha, White Spirit, Lubricants, Bitumen, Paraffin Waxes, Petroleum Coke and other Petroleum Products.  The corresponding HS 2022 codes for the energy products mentioned are available in https://www.ema.gov.sg/resources/singapore-energy-statistics/technical-notes-glossary"
+        },
+        {
+          "seriesNo": "1.2.1",
+          "rowText": "Light Distillates",
+          "uoM": "Ktoe",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.2.2",
+          "rowText": "Middle Distillates",
+          "uoM": "Ktoe",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.2.3",
+          "rowText": "Heavy Distillates & Residuum",
+          "uoM": "Ktoe",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.3",
+          "rowText": "Natural Gas",
+          "uoM": "Ktoe",
+          "footnote": "Natural Gas includes Natural Gas (excluding Natural Gas Liquids) and Town Gas.  The corresponding HS 2022 codes for the energy products mentioned are available in https://www.ema.gov.sg/resources/singapore-energy-statistics/technical-notes-glossary"
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

@@ -1,0 +1,2340 @@
+{
+  "Data": {
+    "id": "6354",
+    "tableType": "Census of Population 2000",
+    "groupTitle": null,
+    "title": "Resident Population Aged 15 Years and Over by Age Group, Religion and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "06/10/2015",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Religion",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2494630"
+              },
+              {
+                "key": "Males",
+                "value": "1229758"
+              },
+              {
+                "key": "Females",
+                "value": "1264872"
+              }
+            ]
+          },
+          {
+            "key": "No Religion",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "370094"
+              },
+              {
+                "key": "Males",
+                "value": "197926"
+              },
+              {
+                "key": "Females",
+                "value": "172168"
+              }
+            ]
+          },
+          {
+            "key": "Buddhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1060662"
+              },
+              {
+                "key": "Males",
+                "value": "521253"
+              },
+              {
+                "key": "Females",
+                "value": "539409"
+              }
+            ]
+          },
+          {
+            "key": "Taoism*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "212344"
+              },
+              {
+                "key": "Males",
+                "value": "107077"
+              },
+              {
+                "key": "Females",
+                "value": "105267"
+              }
+            ]
+          },
+          {
+            "key": "Islam",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "371660"
+              },
+              {
+                "key": "Males",
+                "value": "185856"
+              },
+              {
+                "key": "Females",
+                "value": "185804"
+              }
+            ]
+          },
+          {
+            "key": "Hinduism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "99904"
+              },
+              {
+                "key": "Males",
+                "value": "50783"
+              },
+              {
+                "key": "Females",
+                "value": "49120"
+              }
+            ]
+          },
+          {
+            "key": "Sikhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9733"
+              },
+              {
+                "key": "Males",
+                "value": "4710"
+              },
+              {
+                "key": "Females",
+                "value": "5023"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Catholic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "118980"
+              },
+              {
+                "key": "Males",
+                "value": "52901"
+              },
+              {
+                "key": "Females",
+                "value": "66079"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Other Christians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "245107"
+              },
+              {
+                "key": "Males",
+                "value": "106234"
+              },
+              {
+                "key": "Females",
+                "value": "138873"
+              }
+            ]
+          },
+          {
+            "key": "Other Religions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6146"
+              },
+              {
+                "key": "Males",
+                "value": "3017"
+              },
+              {
+                "key": "Females",
+                "value": "3129"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "15 - 19",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "211495"
+              },
+              {
+                "key": "Males",
+                "value": "110257"
+              },
+              {
+                "key": "Females",
+                "value": "101239"
+              }
+            ]
+          },
+          {
+            "key": "No Religion",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36122"
+              },
+              {
+                "key": "Males",
+                "value": "19115"
+              },
+              {
+                "key": "Females",
+                "value": "17007"
+              }
+            ]
+          },
+          {
+            "key": "Buddhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "77322"
+              },
+              {
+                "key": "Males",
+                "value": "40929"
+              },
+              {
+                "key": "Females",
+                "value": "36393"
+              }
+            ]
+          },
+          {
+            "key": "Taoism*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18569"
+              },
+              {
+                "key": "Males",
+                "value": "9842"
+              },
+              {
+                "key": "Females",
+                "value": "8726"
+              }
+            ]
+          },
+          {
+            "key": "Islam",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "44079"
+              },
+              {
+                "key": "Males",
+                "value": "22767"
+              },
+              {
+                "key": "Females",
+                "value": "21312"
+              }
+            ]
+          },
+          {
+            "key": "Hinduism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8156"
+              },
+              {
+                "key": "Males",
+                "value": "4234"
+              },
+              {
+                "key": "Females",
+                "value": "3922"
+              }
+            ]
+          },
+          {
+            "key": "Sikhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1022"
+              },
+              {
+                "key": "Males",
+                "value": "594"
+              },
+              {
+                "key": "Females",
+                "value": "429"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Catholic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8842"
+              },
+              {
+                "key": "Males",
+                "value": "4410"
+              },
+              {
+                "key": "Females",
+                "value": "4432"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Other Christians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16977"
+              },
+              {
+                "key": "Males",
+                "value": "8150"
+              },
+              {
+                "key": "Females",
+                "value": "8827"
+              }
+            ]
+          },
+          {
+            "key": "Other Religions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "407"
+              },
+              {
+                "key": "Males",
+                "value": "216"
+              },
+              {
+                "key": "Females",
+                "value": "191"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "20 - 24",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "201301"
+              },
+              {
+                "key": "Males",
+                "value": "101775"
+              },
+              {
+                "key": "Females",
+                "value": "99526"
+              }
+            ]
+          },
+          {
+            "key": "No Religion",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35141"
+              },
+              {
+                "key": "Males",
+                "value": "17861"
+              },
+              {
+                "key": "Females",
+                "value": "17280"
+              }
+            ]
+          },
+          {
+            "key": "Buddhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "83069"
+              },
+              {
+                "key": "Males",
+                "value": "42682"
+              },
+              {
+                "key": "Females",
+                "value": "40387"
+              }
+            ]
+          },
+          {
+            "key": "Taoism*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15936"
+              },
+              {
+                "key": "Males",
+                "value": "8637"
+              },
+              {
+                "key": "Females",
+                "value": "7299"
+              }
+            ]
+          },
+          {
+            "key": "Islam",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "32540"
+              },
+              {
+                "key": "Males",
+                "value": "16476"
+              },
+              {
+                "key": "Females",
+                "value": "16064"
+              }
+            ]
+          },
+          {
+            "key": "Hinduism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6400"
+              },
+              {
+                "key": "Males",
+                "value": "3039"
+              },
+              {
+                "key": "Females",
+                "value": "3361"
+              }
+            ]
+          },
+          {
+            "key": "Sikhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "706"
+              },
+              {
+                "key": "Males",
+                "value": "327"
+              },
+              {
+                "key": "Females",
+                "value": "380"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Catholic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8122"
+              },
+              {
+                "key": "Males",
+                "value": "4006"
+              },
+              {
+                "key": "Females",
+                "value": "4116"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Other Christians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18861"
+              },
+              {
+                "key": "Males",
+                "value": "8506"
+              },
+              {
+                "key": "Females",
+                "value": "10355"
+              }
+            ]
+          },
+          {
+            "key": "Other Religions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "526"
+              },
+              {
+                "key": "Males",
+                "value": "242"
+              },
+              {
+                "key": "Females",
+                "value": "284"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "25 - 29",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "256733"
+              },
+              {
+                "key": "Males",
+                "value": "122950"
+              },
+              {
+                "key": "Females",
+                "value": "133783"
+              }
+            ]
+          },
+          {
+            "key": "No Religion",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "47055"
+              },
+              {
+                "key": "Males",
+                "value": "22304"
+              },
+              {
+                "key": "Females",
+                "value": "24751"
+              }
+            ]
+          },
+          {
+            "key": "Buddhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "104383"
+              },
+              {
+                "key": "Males",
+                "value": "51764"
+              },
+              {
+                "key": "Females",
+                "value": "52619"
+              }
+            ]
+          },
+          {
+            "key": "Taoism*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15089"
+              },
+              {
+                "key": "Males",
+                "value": "8064"
+              },
+              {
+                "key": "Females",
+                "value": "7025"
+              }
+            ]
+          },
+          {
+            "key": "Islam",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "37312"
+              },
+              {
+                "key": "Males",
+                "value": "17988"
+              },
+              {
+                "key": "Females",
+                "value": "19324"
+              }
+            ]
+          },
+          {
+            "key": "Hinduism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10663"
+              },
+              {
+                "key": "Males",
+                "value": "4641"
+              },
+              {
+                "key": "Females",
+                "value": "6021"
+              }
+            ]
+          },
+          {
+            "key": "Sikhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "900"
+              },
+              {
+                "key": "Males",
+                "value": "416"
+              },
+              {
+                "key": "Females",
+                "value": "483"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Catholic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11650"
+              },
+              {
+                "key": "Males",
+                "value": "5141"
+              },
+              {
+                "key": "Females",
+                "value": "6510"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Other Christians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29117"
+              },
+              {
+                "key": "Males",
+                "value": "12377"
+              },
+              {
+                "key": "Females",
+                "value": "16740"
+              }
+            ]
+          },
+          {
+            "key": "Other Religions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "564"
+              },
+              {
+                "key": "Males",
+                "value": "255"
+              },
+              {
+                "key": "Females",
+                "value": "309"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "30 - 34",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "280379"
+              },
+              {
+                "key": "Males",
+                "value": "136475"
+              },
+              {
+                "key": "Females",
+                "value": "143904"
+              }
+            ]
+          },
+          {
+            "key": "No Religion",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "50342"
+              },
+              {
+                "key": "Males",
+                "value": "24876"
+              },
+              {
+                "key": "Females",
+                "value": "25465"
+              }
+            ]
+          },
+          {
+            "key": "Buddhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "111625"
+              },
+              {
+                "key": "Males",
+                "value": "54975"
+              },
+              {
+                "key": "Females",
+                "value": "56649"
+              }
+            ]
+          },
+          {
+            "key": "Taoism*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14947"
+              },
+              {
+                "key": "Males",
+                "value": "7764"
+              },
+              {
+                "key": "Females",
+                "value": "7183"
+              }
+            ]
+          },
+          {
+            "key": "Islam",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43590"
+              },
+              {
+                "key": "Males",
+                "value": "21141"
+              },
+              {
+                "key": "Females",
+                "value": "22449"
+              }
+            ]
+          },
+          {
+            "key": "Hinduism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14294"
+              },
+              {
+                "key": "Males",
+                "value": "7384"
+              },
+              {
+                "key": "Females",
+                "value": "6910"
+              }
+            ]
+          },
+          {
+            "key": "Sikhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1071"
+              },
+              {
+                "key": "Males",
+                "value": "526"
+              },
+              {
+                "key": "Females",
+                "value": "546"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Catholic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12759"
+              },
+              {
+                "key": "Males",
+                "value": "5947"
+              },
+              {
+                "key": "Females",
+                "value": "6812"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Other Christians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "31144"
+              },
+              {
+                "key": "Males",
+                "value": "13593"
+              },
+              {
+                "key": "Females",
+                "value": "17552"
+              }
+            ]
+          },
+          {
+            "key": "Other Religions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "607"
+              },
+              {
+                "key": "Males",
+                "value": "269"
+              },
+              {
+                "key": "Females",
+                "value": "338"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "6",
+        "rowText": "35 - 39",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "311100"
+              },
+              {
+                "key": "Males",
+                "value": "156479"
+              },
+              {
+                "key": "Females",
+                "value": "154622"
+              }
+            ]
+          },
+          {
+            "key": "No Religion",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "48710"
+              },
+              {
+                "key": "Males",
+                "value": "25854"
+              },
+              {
+                "key": "Females",
+                "value": "22856"
+              }
+            ]
+          },
+          {
+            "key": "Buddhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "125991"
+              },
+              {
+                "key": "Males",
+                "value": "64007"
+              },
+              {
+                "key": "Females",
+                "value": "61985"
+              }
+            ]
+          },
+          {
+            "key": "Taoism*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19046"
+              },
+              {
+                "key": "Males",
+                "value": "10093"
+              },
+              {
+                "key": "Females",
+                "value": "8953"
+              }
+            ]
+          },
+          {
+            "key": "Islam",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "51012"
+              },
+              {
+                "key": "Males",
+                "value": "25722"
+              },
+              {
+                "key": "Females",
+                "value": "25290"
+              }
+            ]
+          },
+          {
+            "key": "Hinduism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15184"
+              },
+              {
+                "key": "Males",
+                "value": "8177"
+              },
+              {
+                "key": "Females",
+                "value": "7007"
+              }
+            ]
+          },
+          {
+            "key": "Sikhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1336"
+              },
+              {
+                "key": "Males",
+                "value": "691"
+              },
+              {
+                "key": "Females",
+                "value": "645"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Catholic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13600"
+              },
+              {
+                "key": "Males",
+                "value": "5980"
+              },
+              {
+                "key": "Females",
+                "value": "7620"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Other Christians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "35486"
+              },
+              {
+                "key": "Males",
+                "value": "15593"
+              },
+              {
+                "key": "Females",
+                "value": "19893"
+              }
+            ]
+          },
+          {
+            "key": "Other Religions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "734"
+              },
+              {
+                "key": "Males",
+                "value": "363"
+              },
+              {
+                "key": "Females",
+                "value": "372"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "7",
+        "rowText": "40 - 44",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "304735"
+              },
+              {
+                "key": "Males",
+                "value": "153014"
+              },
+              {
+                "key": "Females",
+                "value": "151720"
+              }
+            ]
+          },
+          {
+            "key": "No Religion",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "43512"
+              },
+              {
+                "key": "Males",
+                "value": "23398"
+              },
+              {
+                "key": "Females",
+                "value": "20114"
+              }
+            ]
+          },
+          {
+            "key": "Buddhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "129682"
+              },
+              {
+                "key": "Males",
+                "value": "66179"
+              },
+              {
+                "key": "Females",
+                "value": "63503"
+              }
+            ]
+          },
+          {
+            "key": "Taoism*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23717"
+              },
+              {
+                "key": "Males",
+                "value": "12092"
+              },
+              {
+                "key": "Females",
+                "value": "11625"
+              }
+            ]
+          },
+          {
+            "key": "Islam",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45978"
+              },
+              {
+                "key": "Males",
+                "value": "23321"
+              },
+              {
+                "key": "Females",
+                "value": "22656"
+              }
+            ]
+          },
+          {
+            "key": "Hinduism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12447"
+              },
+              {
+                "key": "Males",
+                "value": "6539"
+              },
+              {
+                "key": "Females",
+                "value": "5907"
+              }
+            ]
+          },
+          {
+            "key": "Sikhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1223"
+              },
+              {
+                "key": "Males",
+                "value": "624"
+              },
+              {
+                "key": "Females",
+                "value": "599"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Catholic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13790"
+              },
+              {
+                "key": "Males",
+                "value": "5892"
+              },
+              {
+                "key": "Females",
+                "value": "7898"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Other Christians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "33570"
+              },
+              {
+                "key": "Males",
+                "value": "14562"
+              },
+              {
+                "key": "Females",
+                "value": "19008"
+              }
+            ]
+          },
+          {
+            "key": "Other Religions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "817"
+              },
+              {
+                "key": "Males",
+                "value": "407"
+              },
+              {
+                "key": "Females",
+                "value": "410"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "8",
+        "rowText": "45 - 49",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "256906"
+              },
+              {
+                "key": "Males",
+                "value": "128741"
+              },
+              {
+                "key": "Females",
+                "value": "128165"
+              }
+            ]
+          },
+          {
+            "key": "No Religion",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36010"
+              },
+              {
+                "key": "Males",
+                "value": "20015"
+              },
+              {
+                "key": "Females",
+                "value": "15995"
+              }
+            ]
+          },
+          {
+            "key": "Buddhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "114815"
+              },
+              {
+                "key": "Males",
+                "value": "57543"
+              },
+              {
+                "key": "Females",
+                "value": "57272"
+              }
+            ]
+          },
+          {
+            "key": "Taoism*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "23605"
+              },
+              {
+                "key": "Males",
+                "value": "12268"
+              },
+              {
+                "key": "Females",
+                "value": "11338"
+              }
+            ]
+          },
+          {
+            "key": "Islam",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "33986"
+              },
+              {
+                "key": "Males",
+                "value": "16744"
+              },
+              {
+                "key": "Females",
+                "value": "17242"
+              }
+            ]
+          },
+          {
+            "key": "Hinduism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9639"
+              },
+              {
+                "key": "Males",
+                "value": "4924"
+              },
+              {
+                "key": "Females",
+                "value": "4716"
+              }
+            ]
+          },
+          {
+            "key": "Sikhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "934"
+              },
+              {
+                "key": "Males",
+                "value": "504"
+              },
+              {
+                "key": "Females",
+                "value": "430"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Catholic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13117"
+              },
+              {
+                "key": "Males",
+                "value": "5631"
+              },
+              {
+                "key": "Females",
+                "value": "7486"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Other Christians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24149"
+              },
+              {
+                "key": "Males",
+                "value": "10758"
+              },
+              {
+                "key": "Females",
+                "value": "13391"
+              }
+            ]
+          },
+          {
+            "key": "Other Religions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "650"
+              },
+              {
+                "key": "Males",
+                "value": "354"
+              },
+              {
+                "key": "Females",
+                "value": "296"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "9",
+        "rowText": "50 - 54",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "204939"
+              },
+              {
+                "key": "Males",
+                "value": "102467"
+              },
+              {
+                "key": "Females",
+                "value": "102472"
+              }
+            ]
+          },
+          {
+            "key": "No Religion",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27248"
+              },
+              {
+                "key": "Males",
+                "value": "16191"
+              },
+              {
+                "key": "Females",
+                "value": "11057"
+              }
+            ]
+          },
+          {
+            "key": "Buddhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "92528"
+              },
+              {
+                "key": "Males",
+                "value": "45731"
+              },
+              {
+                "key": "Females",
+                "value": "46798"
+              }
+            ]
+          },
+          {
+            "key": "Taoism*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22139"
+              },
+              {
+                "key": "Males",
+                "value": "11234"
+              },
+              {
+                "key": "Females",
+                "value": "10905"
+              }
+            ]
+          },
+          {
+            "key": "Islam",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "25901"
+              },
+              {
+                "key": "Males",
+                "value": "12705"
+              },
+              {
+                "key": "Females",
+                "value": "13196"
+              }
+            ]
+          },
+          {
+            "key": "Hinduism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6809"
+              },
+              {
+                "key": "Males",
+                "value": "3338"
+              },
+              {
+                "key": "Females",
+                "value": "3471"
+              }
+            ]
+          },
+          {
+            "key": "Sikhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "647"
+              },
+              {
+                "key": "Males",
+                "value": "330"
+              },
+              {
+                "key": "Females",
+                "value": "317"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Catholic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11478"
+              },
+              {
+                "key": "Males",
+                "value": "4959"
+              },
+              {
+                "key": "Females",
+                "value": "6518"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Other Christians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17596"
+              },
+              {
+                "key": "Males",
+                "value": "7724"
+              },
+              {
+                "key": "Females",
+                "value": "9872"
+              }
+            ]
+          },
+          {
+            "key": "Other Religions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "593"
+              },
+              {
+                "key": "Males",
+                "value": "255"
+              },
+              {
+                "key": "Females",
+                "value": "338"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "10",
+        "rowText": "55 - 59",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "125039"
+              },
+              {
+                "key": "Males",
+                "value": "61937"
+              },
+              {
+                "key": "Females",
+                "value": "63102"
+              }
+            ]
+          },
+          {
+            "key": "No Religion",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15083"
+              },
+              {
+                "key": "Males",
+                "value": "9213"
+              },
+              {
+                "key": "Females",
+                "value": "5870"
+              }
+            ]
+          },
+          {
+            "key": "Buddhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "59494"
+              },
+              {
+                "key": "Males",
+                "value": "28405"
+              },
+              {
+                "key": "Females",
+                "value": "31088"
+              }
+            ]
+          },
+          {
+            "key": "Taoism*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15487"
+              },
+              {
+                "key": "Males",
+                "value": "7796"
+              },
+              {
+                "key": "Females",
+                "value": "7691"
+              }
+            ]
+          },
+          {
+            "key": "Islam",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14249"
+              },
+              {
+                "key": "Males",
+                "value": "7351"
+              },
+              {
+                "key": "Females",
+                "value": "6898"
+              }
+            ]
+          },
+          {
+            "key": "Hinduism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4021"
+              },
+              {
+                "key": "Males",
+                "value": "1891"
+              },
+              {
+                "key": "Females",
+                "value": "2129"
+              }
+            ]
+          },
+          {
+            "key": "Sikhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "486"
+              },
+              {
+                "key": "Males",
+                "value": "178"
+              },
+              {
+                "key": "Females",
+                "value": "308"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Catholic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6851"
+              },
+              {
+                "key": "Males",
+                "value": "2959"
+              },
+              {
+                "key": "Females",
+                "value": "3892"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Other Christians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9005"
+              },
+              {
+                "key": "Males",
+                "value": "3947"
+              },
+              {
+                "key": "Females",
+                "value": "5058"
+              }
+            ]
+          },
+          {
+            "key": "Other Religions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "363"
+              },
+              {
+                "key": "Males",
+                "value": "196"
+              },
+              {
+                "key": "Females",
+                "value": "167"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "11",
+        "rowText": "60 - 64",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "110670"
+              },
+              {
+                "key": "Males",
+                "value": "53469"
+              },
+              {
+                "key": "Females",
+                "value": "57200"
+              }
+            ]
+          },
+          {
+            "key": "No Religion",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10941"
+              },
+              {
+                "key": "Males",
+                "value": "6802"
+              },
+              {
+                "key": "Females",
+                "value": "4140"
+              }
+            ]
+          },
+          {
+            "key": "Buddhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "52775"
+              },
+              {
+                "key": "Males",
+                "value": "24968"
+              },
+              {
+                "key": "Females",
+                "value": "27806"
+              }
+            ]
+          },
+          {
+            "key": "Taoism*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13155"
+              },
+              {
+                "key": "Males",
+                "value": "6428"
+              },
+              {
+                "key": "Females",
+                "value": "6727"
+              }
+            ]
+          },
+          {
+            "key": "Islam",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13654"
+              },
+              {
+                "key": "Males",
+                "value": "6894"
+              },
+              {
+                "key": "Females",
+                "value": "6760"
+              }
+            ]
+          },
+          {
+            "key": "Hinduism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4031"
+              },
+              {
+                "key": "Males",
+                "value": "1723"
+              },
+              {
+                "key": "Females",
+                "value": "2308"
+              }
+            ]
+          },
+          {
+            "key": "Sikhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "499"
+              },
+              {
+                "key": "Males",
+                "value": "177"
+              },
+              {
+                "key": "Females",
+                "value": "322"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Catholic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6584"
+              },
+              {
+                "key": "Males",
+                "value": "2914"
+              },
+              {
+                "key": "Females",
+                "value": "3671"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Other Christians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8762"
+              },
+              {
+                "key": "Males",
+                "value": "3451"
+              },
+              {
+                "key": "Females",
+                "value": "5311"
+              }
+            ]
+          },
+          {
+            "key": "Other Religions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "268"
+              },
+              {
+                "key": "Males",
+                "value": "112"
+              },
+              {
+                "key": "Females",
+                "value": "156"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "12",
+        "rowText": "65 - 69",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "87600"
+              },
+              {
+                "key": "Males",
+                "value": "41679"
+              },
+              {
+                "key": "Females",
+                "value": "45921"
+              }
+            ]
+          },
+          {
+            "key": "No Religion",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7790"
+              },
+              {
+                "key": "Males",
+                "value": "5024"
+              },
+              {
+                "key": "Females",
+                "value": "2766"
+              }
+            ]
+          },
+          {
+            "key": "Buddhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41206"
+              },
+              {
+                "key": "Males",
+                "value": "18894"
+              },
+              {
+                "key": "Females",
+                "value": "22312"
+              }
+            ]
+          },
+          {
+            "key": "Taoism*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10947"
+              },
+              {
+                "key": "Males",
+                "value": "5297"
+              },
+              {
+                "key": "Females",
+                "value": "5650"
+              }
+            ]
+          },
+          {
+            "key": "Islam",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12233"
+              },
+              {
+                "key": "Males",
+                "value": "5643"
+              },
+              {
+                "key": "Females",
+                "value": "6591"
+              }
+            ]
+          },
+          {
+            "key": "Hinduism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3328"
+              },
+              {
+                "key": "Males",
+                "value": "1897"
+              },
+              {
+                "key": "Females",
+                "value": "1431"
+              }
+            ]
+          },
+          {
+            "key": "Sikhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "380"
+              },
+              {
+                "key": "Males",
+                "value": "134"
+              },
+              {
+                "key": "Females",
+                "value": "245"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Catholic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4514"
+              },
+              {
+                "key": "Males",
+                "value": "2008"
+              },
+              {
+                "key": "Females",
+                "value": "2506"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Other Christians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6970"
+              },
+              {
+                "key": "Males",
+                "value": "2646"
+              },
+              {
+                "key": "Females",
+                "value": "4323"
+              }
+            ]
+          },
+          {
+            "key": "Other Religions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "232"
+              },
+              {
+                "key": "Males",
+                "value": "135"
+              },
+              {
+                "key": "Females",
+                "value": "97"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "13",
+        "rowText": "70 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "143735"
+              },
+              {
+                "key": "Males",
+                "value": "60516"
+              },
+              {
+                "key": "Females",
+                "value": "83218"
+              }
+            ]
+          },
+          {
+            "key": "No Religion",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12141"
+              },
+              {
+                "key": "Males",
+                "value": "7272"
+              },
+              {
+                "key": "Females",
+                "value": "4869"
+              }
+            ]
+          },
+          {
+            "key": "Buddhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "67772"
+              },
+              {
+                "key": "Males",
+                "value": "25176"
+              },
+              {
+                "key": "Females",
+                "value": "42596"
+              }
+            ]
+          },
+          {
+            "key": "Taoism*",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19707"
+              },
+              {
+                "key": "Males",
+                "value": "7562"
+              },
+              {
+                "key": "Females",
+                "value": "12145"
+              }
+            ]
+          },
+          {
+            "key": "Islam",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17126"
+              },
+              {
+                "key": "Males",
+                "value": "9104"
+              },
+              {
+                "key": "Females",
+                "value": "8022"
+              }
+            ]
+          },
+          {
+            "key": "Hinduism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4932"
+              },
+              {
+                "key": "Males",
+                "value": "2996"
+              },
+              {
+                "key": "Females",
+                "value": "1936"
+              }
+            ]
+          },
+          {
+            "key": "Sikhism",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "529"
+              },
+              {
+                "key": "Males",
+                "value": "210"
+              },
+              {
+                "key": "Females",
+                "value": "319"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Catholic",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7673"
+              },
+              {
+                "key": "Males",
+                "value": "3055"
+              },
+              {
+                "key": "Females",
+                "value": "4618"
+              }
+            ]
+          },
+          {
+            "key": "Christianity - Other Christians",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13470"
+              },
+              {
+                "key": "Males",
+                "value": "4928"
+              },
+              {
+                "key": "Females",
+                "value": "8542"
+              }
+            ]
+          },
+          {
+            "key": "Other Religions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "384"
+              },
+              {
+                "key": "Males",
+                "value": "214"
+              },
+              {
+                "key": "Females",
+                "value": "171"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

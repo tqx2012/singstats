@@ -1,0 +1,57 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Economy & Prices",
+      "subject": "Property Price Indices",
+      "topic": "Private Property Price and Rental Indices",
+      "id": "M212171",
+      "groupTitle": "Rental Index Of Industrial Space, (4th Quarter 2012 = 100)",
+      "title": "Rental Index Of Industrial Space, (4th Quarter 2012 = 100), Quarterly",
+      "frequency": "Quarterly",
+      "adjustmentType": "",
+      "dataSource": "JTC CORPORATION",
+      "footnote": "",
+      "dataLastUpdated": "23/07/2026",
+      "startPeriod": "1990 1Q",
+      "endPeriod": "2026 2Q",
+      "total": 500,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "All Industrial",
+          "uoM": "Index",
+          "footnote": "Before 4th Quarter 2014, the rental index is computed based on transactions of multiple-user factories and multiple-user warehouses in the Central region, with weights updated every quarter using past 12 quarters transaction values.  From 4th Quarter 2014, the rental index is computed based on island-wide transactions of multiple-user factories, single-user factories, business parks and warehouses.  From 4th Quarter 2014 and 1st Quarter 2016, the weights used are fixed using 2012 and 2015 transaction values respectively.  The rental index is also re-scaled to 100 at 4th Quarter 2012.  Due to rounding, there could be some differences in the quarterly rental change compared to the rental index before re-scaling."
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "Multiple-User Factory",
+          "uoM": "Index",
+          "footnote": "Before 4th Quarter 2014, the rental index is computed based on transactions in the Central region.  From 4th Quarter 2014, the scope of rental index is expanded to include transactions outside Central region.  From 4th Quarter 2014 and 1st Quarter 2016, the weights used are fixed using 2012 and 2015 transaction values respectively.  The rental index is also re-scaled to 100 at 4th Quarter 2012.  Due to rounding, there could be some differences in the quarterly rental change compared to the rental index before re-scaling."
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "Warehouse",
+          "uoM": "Index",
+          "footnote": "Before 4th Quarter 2014, the rental index is computed based on transactions in the Central region.  From 4th Quarter 2014, the scope of rental index is expanded to include transactions outside Central region.  From 4th Quarter 2014 and 1st Quarter 2016, the weights used are fixed using 2012 and 2015 transaction values respectively.  The rental index is also re-scaled to 100 at 4th Quarter 2012.  Due to rounding, there could be some differences in the quarterly rental change compared to the rental index before re-scaling."
+        },
+        {
+          "seriesNo": "1.3",
+          "rowText": "Single-User Factory",
+          "uoM": "Index",
+          "footnote": "The index is computed using fixed weights based on 2009 transaction values before 1st Quarter 2013.  From 1st Quarter 2013 and 1st Quarter 2016, the weights used are fixed using 2012 and 2015 transaction values respectively."
+        },
+        {
+          "seriesNo": "1.4",
+          "rowText": "Business Park",
+          "uoM": "Index",
+          "footnote": "The index is computed using fixed weights based on 2009 transaction values before 1st Quarter 2013.  From 1st Quarter 2013 and 1st Quarter 2016, the weights used are fixed using 2012 and 2015 transaction values respectively."
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

@@ -1,0 +1,956 @@
+{
+  "Data": {
+    "id": "8957",
+    "tableType": "Census of Population 2000",
+    "groupTitle": null,
+    "title": "Resident University Graduates Aged 15 Years and Over by Country Where Highest Qualification was Attained, Year When Highest Qualification was Attained and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "For more information, please refer to the publication on 'Singapore Census of Population 2000, Statistical Release 2: Education, Language and Religion' (https://www.singstat.gov.sg/find-data/explore-data-themes/population/education-language-spoken-and-literacy/related-information).",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "31/03/2016",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Education, Language Spoken and Literacy",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "266631"
+              },
+              {
+                "key": "Males",
+                "value": "147958"
+              },
+              {
+                "key": "Females",
+                "value": "118673"
+              }
+            ]
+          },
+          {
+            "key": "Before 1971",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12812"
+              },
+              {
+                "key": "Males",
+                "value": "9195"
+              },
+              {
+                "key": "Females",
+                "value": "3617"
+              }
+            ]
+          },
+          {
+            "key": "1971 - 1980",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "26453"
+              },
+              {
+                "key": "Males",
+                "value": "16431"
+              },
+              {
+                "key": "Females",
+                "value": "10022"
+              }
+            ]
+          },
+          {
+            "key": "1981 - 1990",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "68213"
+              },
+              {
+                "key": "Males",
+                "value": "38281"
+              },
+              {
+                "key": "Females",
+                "value": "29932"
+              }
+            ]
+          },
+          {
+            "key": "1991 - 2000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "159152"
+              },
+              {
+                "key": "Males",
+                "value": "84050"
+              },
+              {
+                "key": "Females",
+                "value": "75102"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "Singapore",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "127912"
+              },
+              {
+                "key": "Males",
+                "value": "65987"
+              },
+              {
+                "key": "Females",
+                "value": "61926"
+              }
+            ]
+          },
+          {
+            "key": "Before 1971",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5715"
+              },
+              {
+                "key": "Males",
+                "value": "3991"
+              },
+              {
+                "key": "Females",
+                "value": "1724"
+              }
+            ]
+          },
+          {
+            "key": "1971 - 1980",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12906"
+              },
+              {
+                "key": "Males",
+                "value": "7080"
+              },
+              {
+                "key": "Females",
+                "value": "5825"
+              }
+            ]
+          },
+          {
+            "key": "1981 - 1990",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "26924"
+              },
+              {
+                "key": "Males",
+                "value": "13073"
+              },
+              {
+                "key": "Females",
+                "value": "13851"
+              }
+            ]
+          },
+          {
+            "key": "1991 - 2000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "82368"
+              },
+              {
+                "key": "Males",
+                "value": "41841"
+              },
+              {
+                "key": "Females",
+                "value": "40526"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "Outside Singapore",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "138718"
+              },
+              {
+                "key": "Males",
+                "value": "81971"
+              },
+              {
+                "key": "Females",
+                "value": "56747"
+              }
+            ]
+          },
+          {
+            "key": "Before 1971",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7097"
+              },
+              {
+                "key": "Males",
+                "value": "5204"
+              },
+              {
+                "key": "Females",
+                "value": "1893"
+              }
+            ]
+          },
+          {
+            "key": "1971 - 1980",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13548"
+              },
+              {
+                "key": "Males",
+                "value": "9351"
+              },
+              {
+                "key": "Females",
+                "value": "4197"
+              }
+            ]
+          },
+          {
+            "key": "1981 - 1990",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41289"
+              },
+              {
+                "key": "Males",
+                "value": "25208"
+              },
+              {
+                "key": "Females",
+                "value": "16081"
+              }
+            ]
+          },
+          {
+            "key": "1991 - 2000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "76785"
+              },
+              {
+                "key": "Males",
+                "value": "42209"
+              },
+              {
+                "key": "Females",
+                "value": "34576"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.1",
+        "rowText": "United Kingdom",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34645"
+              },
+              {
+                "key": "Males",
+                "value": "23754"
+              },
+              {
+                "key": "Females",
+                "value": "10890"
+              }
+            ]
+          },
+          {
+            "key": "Before 1971",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1507"
+              },
+              {
+                "key": "Males",
+                "value": "1242"
+              },
+              {
+                "key": "Females",
+                "value": "265"
+              }
+            ]
+          },
+          {
+            "key": "1971 - 1980",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3890"
+              },
+              {
+                "key": "Males",
+                "value": "3048"
+              },
+              {
+                "key": "Females",
+                "value": "843"
+              }
+            ]
+          },
+          {
+            "key": "1981 - 1990",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7303"
+              },
+              {
+                "key": "Males",
+                "value": "5034"
+              },
+              {
+                "key": "Females",
+                "value": "2269"
+              }
+            ]
+          },
+          {
+            "key": "1991 - 2000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21944"
+              },
+              {
+                "key": "Males",
+                "value": "14431"
+              },
+              {
+                "key": "Females",
+                "value": "7513"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.2",
+        "rowText": "USA",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20555"
+              },
+              {
+                "key": "Males",
+                "value": "13019"
+              },
+              {
+                "key": "Females",
+                "value": "7536"
+              }
+            ]
+          },
+          {
+            "key": "Before 1971",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "582"
+              },
+              {
+                "key": "Males",
+                "value": "458"
+              },
+              {
+                "key": "Females",
+                "value": "124"
+              }
+            ]
+          },
+          {
+            "key": "1971 - 1980",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1466"
+              },
+              {
+                "key": "Males",
+                "value": "1023"
+              },
+              {
+                "key": "Females",
+                "value": "442"
+              }
+            ]
+          },
+          {
+            "key": "1981 - 1990",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8222"
+              },
+              {
+                "key": "Males",
+                "value": "5286"
+              },
+              {
+                "key": "Females",
+                "value": "2936"
+              }
+            ]
+          },
+          {
+            "key": "1991 - 2000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10286"
+              },
+              {
+                "key": "Males",
+                "value": "6253"
+              },
+              {
+                "key": "Females",
+                "value": "4033"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.3",
+        "rowText": "Canada",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5611"
+              },
+              {
+                "key": "Males",
+                "value": "3241"
+              },
+              {
+                "key": "Females",
+                "value": "2369"
+              }
+            ]
+          },
+          {
+            "key": "Before 1971",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "198"
+              },
+              {
+                "key": "Males",
+                "value": "142"
+              },
+              {
+                "key": "Females",
+                "value": "56"
+              }
+            ]
+          },
+          {
+            "key": "1971 - 1980",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "569"
+              },
+              {
+                "key": "Males",
+                "value": "395"
+              },
+              {
+                "key": "Females",
+                "value": "174"
+              }
+            ]
+          },
+          {
+            "key": "1981 - 1990",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2704"
+              },
+              {
+                "key": "Males",
+                "value": "1482"
+              },
+              {
+                "key": "Females",
+                "value": "1222"
+              }
+            ]
+          },
+          {
+            "key": "1991 - 2000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2139"
+              },
+              {
+                "key": "Males",
+                "value": "1222"
+              },
+              {
+                "key": "Females",
+                "value": "917"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.4",
+        "rowText": "Australia And New Zealand",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34672"
+              },
+              {
+                "key": "Males",
+                "value": "18646"
+              },
+              {
+                "key": "Females",
+                "value": "16025"
+              }
+            ]
+          },
+          {
+            "key": "Before 1971",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1163"
+              },
+              {
+                "key": "Males",
+                "value": "932"
+              },
+              {
+                "key": "Females",
+                "value": "231"
+              }
+            ]
+          },
+          {
+            "key": "1971 - 1980",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1555"
+              },
+              {
+                "key": "Males",
+                "value": "1178"
+              },
+              {
+                "key": "Females",
+                "value": "377"
+              }
+            ]
+          },
+          {
+            "key": "1981 - 1990",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4786"
+              },
+              {
+                "key": "Males",
+                "value": "2969"
+              },
+              {
+                "key": "Females",
+                "value": "1817"
+              }
+            ]
+          },
+          {
+            "key": "1991 - 2000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27168"
+              },
+              {
+                "key": "Males",
+                "value": "13568"
+              },
+              {
+                "key": "Females",
+                "value": "13600"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.5",
+        "rowText": "China, Hong Kong And Taiwan",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15515"
+              },
+              {
+                "key": "Males",
+                "value": "8889"
+              },
+              {
+                "key": "Females",
+                "value": "6626"
+              }
+            ]
+          },
+          {
+            "key": "Before 1971",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1675"
+              },
+              {
+                "key": "Males",
+                "value": "1151"
+              },
+              {
+                "key": "Females",
+                "value": "524"
+              }
+            ]
+          },
+          {
+            "key": "1971 - 1980",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1240"
+              },
+              {
+                "key": "Males",
+                "value": "754"
+              },
+              {
+                "key": "Females",
+                "value": "486"
+              }
+            ]
+          },
+          {
+            "key": "1981 - 1990",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8006"
+              },
+              {
+                "key": "Males",
+                "value": "4664"
+              },
+              {
+                "key": "Females",
+                "value": "3343"
+              }
+            ]
+          },
+          {
+            "key": "1991 - 2000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4594"
+              },
+              {
+                "key": "Males",
+                "value": "2320"
+              },
+              {
+                "key": "Females",
+                "value": "2274"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.6",
+        "rowText": "India",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "15323"
+              },
+              {
+                "key": "Males",
+                "value": "7804"
+              },
+              {
+                "key": "Females",
+                "value": "7519"
+              }
+            ]
+          },
+          {
+            "key": "Before 1971",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "828"
+              },
+              {
+                "key": "Males",
+                "value": "460"
+              },
+              {
+                "key": "Females",
+                "value": "367"
+              }
+            ]
+          },
+          {
+            "key": "1971 - 1980",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2233"
+              },
+              {
+                "key": "Males",
+                "value": "1318"
+              },
+              {
+                "key": "Females",
+                "value": "914"
+              }
+            ]
+          },
+          {
+            "key": "1981 - 1990",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6229"
+              },
+              {
+                "key": "Males",
+                "value": "3769"
+              },
+              {
+                "key": "Females",
+                "value": "2460"
+              }
+            ]
+          },
+          {
+            "key": "1991 - 2000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6034"
+              },
+              {
+                "key": "Males",
+                "value": "2256"
+              },
+              {
+                "key": "Females",
+                "value": "3778"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "3.7",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12398"
+              },
+              {
+                "key": "Males",
+                "value": "6617"
+              },
+              {
+                "key": "Females",
+                "value": "5782"
+              }
+            ]
+          },
+          {
+            "key": "Before 1971",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1144"
+              },
+              {
+                "key": "Males",
+                "value": "818"
+              },
+              {
+                "key": "Females",
+                "value": "326"
+              }
+            ]
+          },
+          {
+            "key": "1971 - 1980",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2595"
+              },
+              {
+                "key": "Males",
+                "value": "1634"
+              },
+              {
+                "key": "Females",
+                "value": "961"
+              }
+            ]
+          },
+          {
+            "key": "1981 - 1990",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4039"
+              },
+              {
+                "key": "Males",
+                "value": "2004"
+              },
+              {
+                "key": "Females",
+                "value": "2035"
+              }
+            ]
+          },
+          {
+            "key": "1991 - 2000",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4620"
+              },
+              {
+                "key": "Males",
+                "value": "2160"
+              },
+              {
+                "key": "Females",
+                "value": "2460"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

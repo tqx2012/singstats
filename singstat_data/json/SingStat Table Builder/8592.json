@@ -1,0 +1,866 @@
+{
+  "Data": {
+    "id": "8592",
+    "tableType": "Census of Population 2010",
+    "groupTitle": null,
+    "title": "Resident Households by Type of Dwelling and Predominant Household Language",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Note: Data exclude one-person households and households comprising only unrelated persons.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "23/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "988823"
+          },
+          {
+            "key": "English",
+            "value": "318305"
+          },
+          {
+            "key": "Mandarin",
+            "value": "350420"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "155868"
+              },
+              {
+                "key": "Hokkien",
+                "value": "74989"
+              },
+              {
+                "key": "Teochew",
+                "value": "29828"
+              },
+              {
+                "key": "Cantonese",
+                "value": "40369"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "10681"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "103650"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "48669"
+              },
+              {
+                "key": "Tamil",
+                "value": "34987"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "13682"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "11912"
+          }
+        ]
+      },
+      {
+        "rowNo": "2",
+        "rowText": "HDB Dwellings*",
+        "uoM": "Number",
+        "footnote": "* Includes non-privatised Housing and Urban Development Corporation (HUDC) flats.",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "817813"
+          },
+          {
+            "key": "English",
+            "value": "210849"
+          },
+          {
+            "key": "Mandarin",
+            "value": "312847"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "141433"
+              },
+              {
+                "key": "Hokkien",
+                "value": "69418"
+              },
+              {
+                "key": "Teochew",
+                "value": "27198"
+              },
+              {
+                "key": "Cantonese",
+                "value": "35263"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "9555"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "101564"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "42722"
+              },
+              {
+                "key": "Tamil",
+                "value": "32501"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "10221"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "8398"
+          }
+        ]
+      },
+      {
+        "rowNo": "2.1",
+        "rowText": "1- and 2-Room Flats^",
+        "uoM": "Number",
+        "footnote": "^ Includes HDB studio apartments. ",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "29784"
+          },
+          {
+            "key": "English",
+            "value": "3268"
+          },
+          {
+            "key": "Mandarin",
+            "value": "6395"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9535"
+              },
+              {
+                "key": "Hokkien",
+                "value": "5387"
+              },
+              {
+                "key": "Teochew",
+                "value": "1561"
+              },
+              {
+                "key": "Cantonese",
+                "value": "2132"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "454"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "8786"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1743"
+              },
+              {
+                "key": "Tamil",
+                "value": "1624"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "118"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "57"
+          }
+        ]
+      },
+      {
+        "rowNo": "2.2",
+        "rowText": "3-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "175399"
+          },
+          {
+            "key": "English",
+            "value": "27327"
+          },
+          {
+            "key": "Mandarin",
+            "value": "63856"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "47025"
+              },
+              {
+                "key": "Hokkien",
+                "value": "22945"
+              },
+              {
+                "key": "Teochew",
+                "value": "8819"
+              },
+              {
+                "key": "Cantonese",
+                "value": "12067"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "3194"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "22702"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12323"
+              },
+              {
+                "key": "Tamil",
+                "value": "9564"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "2759"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "2166"
+          }
+        ]
+      },
+      {
+        "rowNo": "2.3",
+        "rowText": "4-Room Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "334057"
+          },
+          {
+            "key": "English",
+            "value": "69970"
+          },
+          {
+            "key": "Mandarin",
+            "value": "141692"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "56926"
+              },
+              {
+                "key": "Hokkien",
+                "value": "29208"
+              },
+              {
+                "key": "Teochew",
+                "value": "11140"
+              },
+              {
+                "key": "Cantonese",
+                "value": "12756"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "3821"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "43771"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "18092"
+              },
+              {
+                "key": "Tamil",
+                "value": "13785"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "4307"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "3606"
+          }
+        ]
+      },
+      {
+        "rowNo": "2.4",
+        "rowText": "5-Room and Executive Flats",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "275920"
+          },
+          {
+            "key": "English",
+            "value": "108477"
+          },
+          {
+            "key": "Mandarin",
+            "value": "100462"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "27680"
+              },
+              {
+                "key": "Hokkien",
+                "value": "11785"
+              },
+              {
+                "key": "Teochew",
+                "value": "5633"
+              },
+              {
+                "key": "Cantonese",
+                "value": "8202"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "2060"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "26214"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10524"
+              },
+              {
+                "key": "Tamil",
+                "value": "7508"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "3016"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "2562"
+          }
+        ]
+      },
+      {
+        "rowNo": "3",
+        "rowText": "Condominiums and Other Apartments",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "108420"
+          },
+          {
+            "key": "English",
+            "value": "67788"
+          },
+          {
+            "key": "Mandarin",
+            "value": "23702"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7750"
+              },
+              {
+                "key": "Hokkien",
+                "value": "2670"
+              },
+              {
+                "key": "Teochew",
+                "value": "1073"
+              },
+              {
+                "key": "Cantonese",
+                "value": "3502"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "505"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "1308"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4827"
+              },
+              {
+                "key": "Tamil",
+                "value": "1706"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "3121"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "3045"
+          }
+        ]
+      },
+      {
+        "rowNo": "4",
+        "rowText": "Landed Properties",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "59510"
+          },
+          {
+            "key": "English",
+            "value": "39048"
+          },
+          {
+            "key": "Mandarin",
+            "value": "12417"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5948"
+              },
+              {
+                "key": "Hokkien",
+                "value": "2582"
+              },
+              {
+                "key": "Teochew",
+                "value": "1373"
+              },
+              {
+                "key": "Cantonese",
+                "value": "1506"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "487"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "713"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1006"
+              },
+              {
+                "key": "Tamil",
+                "value": "680"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "326"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "378"
+          }
+        ]
+      },
+      {
+        "rowNo": "4.1",
+        "rowText": "Bungalows",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "7659"
+          },
+          {
+            "key": "English",
+            "value": "5712"
+          },
+          {
+            "key": "Mandarin",
+            "value": "1068"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "652"
+              },
+              {
+                "key": "Hokkien",
+                "value": "258"
+              },
+              {
+                "key": "Teochew",
+                "value": "182"
+              },
+              {
+                "key": "Cantonese",
+                "value": "193"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "19"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "47"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "118"
+              },
+              {
+                "key": "Tamil",
+                "value": "53"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "65"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "62"
+          }
+        ]
+      },
+      {
+        "rowNo": "4.2",
+        "rowText": "Semi-Detached Bungalows",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "18102"
+          },
+          {
+            "key": "English",
+            "value": "11941"
+          },
+          {
+            "key": "Mandarin",
+            "value": "3829"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1804"
+              },
+              {
+                "key": "Hokkien",
+                "value": "776"
+              },
+              {
+                "key": "Teochew",
+                "value": "424"
+              },
+              {
+                "key": "Cantonese",
+                "value": "414"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "189"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "166"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "219"
+              },
+              {
+                "key": "Tamil",
+                "value": "133"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "86"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "144"
+          }
+        ]
+      },
+      {
+        "rowNo": "4.3",
+        "rowText": "Terrace Houses",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "33749"
+          },
+          {
+            "key": "English",
+            "value": "21395"
+          },
+          {
+            "key": "Mandarin",
+            "value": "7521"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3492"
+              },
+              {
+                "key": "Hokkien",
+                "value": "1548"
+              },
+              {
+                "key": "Teochew",
+                "value": "767"
+              },
+              {
+                "key": "Cantonese",
+                "value": "899"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "279"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "500"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "669"
+              },
+              {
+                "key": "Tamil",
+                "value": "494"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "175"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "172"
+          }
+        ]
+      },
+      {
+        "rowNo": "5",
+        "rowText": "Others",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "3080"
+          },
+          {
+            "key": "English",
+            "value": "620"
+          },
+          {
+            "key": "Mandarin",
+            "value": "1453"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "737"
+              },
+              {
+                "key": "Hokkien",
+                "value": "320"
+              },
+              {
+                "key": "Teochew",
+                "value": "185"
+              },
+              {
+                "key": "Cantonese",
+                "value": "98"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "135"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "65"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "114"
+              },
+              {
+                "key": "Tamil",
+                "value": "100"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "14"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "91"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

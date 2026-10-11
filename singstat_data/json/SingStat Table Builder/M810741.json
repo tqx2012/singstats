@@ -1,0 +1,636 @@
+{
+  "Data": {
+    "theme": "Population",
+    "subject": "Births and Fertility",
+    "topic": "Births, Crude Birth Rate (CBR), Total Fertility Rate (TFR) and Reproduction Rates",
+    "id": "M810741",
+    "groupTitle": null,
+    "title": "Median Age Of Mothers At First Birth, Annual",
+    "frequency": "Annual",
+    "adjustmentType": null,
+    "datasource": "IMMIGRATION AND CHECKPOINTS AUTHORITY",
+    "footnote": "Data are based on date of occurrence. For births registered from 29 May 2022 onwards, birth order statistics are based solely on declared information.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "06/05/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "sortBy": null,
+    "timeFilter": null,
+    "between": null,
+    "search": null,
+    "row": [
+      {
+        "seriesNo": "1",
+        "rowText": "Median Age Of Mothers At First Birth For Resident Births",
+        "uoM": "Years",
+        "footnote": "Resident births refer to births with at least one parent who is a Singapore citizen or permanent resident.",
+        "columns": [
+          {
+            "key": "1990",
+            "value": "27.5"
+          },
+          {
+            "key": "1991",
+            "value": "27.6"
+          },
+          {
+            "key": "1992",
+            "value": "27.8"
+          },
+          {
+            "key": "1993",
+            "value": "28"
+          },
+          {
+            "key": "1994",
+            "value": "28.1"
+          },
+          {
+            "key": "1995",
+            "value": "28.2"
+          },
+          {
+            "key": "1996",
+            "value": "28.3"
+          },
+          {
+            "key": "1997",
+            "value": "28.4"
+          },
+          {
+            "key": "1998",
+            "value": "28.4"
+          },
+          {
+            "key": "1999",
+            "value": "28.5"
+          },
+          {
+            "key": "2000",
+            "value": "28.5"
+          },
+          {
+            "key": "2001",
+            "value": "28.7"
+          },
+          {
+            "key": "2002",
+            "value": "29"
+          },
+          {
+            "key": "2003",
+            "value": "29.1"
+          },
+          {
+            "key": "2004",
+            "value": "29.3"
+          },
+          {
+            "key": "2005",
+            "value": "29.2"
+          },
+          {
+            "key": "2006",
+            "value": "29.4"
+          },
+          {
+            "key": "2007",
+            "value": "29.6"
+          },
+          {
+            "key": "2008",
+            "value": "29.5"
+          },
+          {
+            "key": "2009",
+            "value": "29.7"
+          },
+          {
+            "key": "2010",
+            "value": "29.8"
+          },
+          {
+            "key": "2011",
+            "value": "29.9"
+          },
+          {
+            "key": "2012",
+            "value": "30.2"
+          },
+          {
+            "key": "2013",
+            "value": "30.3"
+          },
+          {
+            "key": "2014",
+            "value": "30.4"
+          },
+          {
+            "key": "2015",
+            "value": "30.5"
+          },
+          {
+            "key": "2016",
+            "value": "30.5"
+          },
+          {
+            "key": "2017",
+            "value": "30.6"
+          },
+          {
+            "key": "2018",
+            "value": "30.6"
+          },
+          {
+            "key": "2019",
+            "value": "30.8"
+          },
+          {
+            "key": "2020",
+            "value": "31"
+          },
+          {
+            "key": "2021",
+            "value": "31.3"
+          },
+          {
+            "key": "2022",
+            "value": "31.4"
+          },
+          {
+            "key": "2023",
+            "value": "31.6"
+          },
+          {
+            "key": "2024",
+            "value": "31.9"
+          },
+          {
+            "key": "2025",
+            "value": "32.1"
+          }
+        ]
+      },
+      {
+        "seriesNo": "2",
+        "rowText": "Median Age Of Mothers At First Birth For Citizen Births",
+        "uoM": "Years",
+        "footnote": "Citizen births refer to births with at least one parent who is a Singapore citizen.",
+        "columns": [
+          {
+            "key": "1990",
+            "value": "27.5"
+          },
+          {
+            "key": "1991",
+            "value": "27.6"
+          },
+          {
+            "key": "1992",
+            "value": "27.8"
+          },
+          {
+            "key": "1993",
+            "value": "28"
+          },
+          {
+            "key": "1994",
+            "value": "28.1"
+          },
+          {
+            "key": "1995",
+            "value": "28.2"
+          },
+          {
+            "key": "1996",
+            "value": "28.3"
+          },
+          {
+            "key": "1997",
+            "value": "28.4"
+          },
+          {
+            "key": "1998",
+            "value": "28.4"
+          },
+          {
+            "key": "1999",
+            "value": "28.5"
+          },
+          {
+            "key": "2000",
+            "value": "28.5"
+          },
+          {
+            "key": "2001",
+            "value": "28.7"
+          },
+          {
+            "key": "2002",
+            "value": "28.9"
+          },
+          {
+            "key": "2003",
+            "value": "29"
+          },
+          {
+            "key": "2004",
+            "value": "29.2"
+          },
+          {
+            "key": "2005",
+            "value": "29.1"
+          },
+          {
+            "key": "2006",
+            "value": "29.3"
+          },
+          {
+            "key": "2007",
+            "value": "29.4"
+          },
+          {
+            "key": "2008",
+            "value": "29.4"
+          },
+          {
+            "key": "2009",
+            "value": "29.5"
+          },
+          {
+            "key": "2010",
+            "value": "29.7"
+          },
+          {
+            "key": "2011",
+            "value": "29.7"
+          },
+          {
+            "key": "2012",
+            "value": "30"
+          },
+          {
+            "key": "2013",
+            "value": "30.1"
+          },
+          {
+            "key": "2014",
+            "value": "30.3"
+          },
+          {
+            "key": "2015",
+            "value": "30.3"
+          },
+          {
+            "key": "2016",
+            "value": "30.3"
+          },
+          {
+            "key": "2017",
+            "value": "30.4"
+          },
+          {
+            "key": "2018",
+            "value": "30.4"
+          },
+          {
+            "key": "2019",
+            "value": "30.7"
+          },
+          {
+            "key": "2020",
+            "value": "30.9"
+          },
+          {
+            "key": "2021",
+            "value": "31.2"
+          },
+          {
+            "key": "2022",
+            "value": "31.3"
+          },
+          {
+            "key": "2023",
+            "value": "31.6"
+          },
+          {
+            "key": "2024",
+            "value": "31.8"
+          },
+          {
+            "key": "2025",
+            "value": "32"
+          }
+        ]
+      },
+      {
+        "seriesNo": "3",
+        "rowText": "Median Age Of Resident Mothers At First Birth",
+        "uoM": "Years",
+        "footnote": "Resident mothers refer to mothers who is a Singapore citizen or permanent resident.",
+        "columns": [
+          {
+            "key": "1990",
+            "value": "27.5"
+          },
+          {
+            "key": "1991",
+            "value": "27.7"
+          },
+          {
+            "key": "1992",
+            "value": "27.9"
+          },
+          {
+            "key": "1993",
+            "value": "28"
+          },
+          {
+            "key": "1994",
+            "value": "28.1"
+          },
+          {
+            "key": "1995",
+            "value": "28.2"
+          },
+          {
+            "key": "1996",
+            "value": "28.4"
+          },
+          {
+            "key": "1997",
+            "value": "28.5"
+          },
+          {
+            "key": "1998",
+            "value": "28.6"
+          },
+          {
+            "key": "1999",
+            "value": "28.6"
+          },
+          {
+            "key": "2000",
+            "value": "28.7"
+          },
+          {
+            "key": "2001",
+            "value": "28.9"
+          },
+          {
+            "key": "2002",
+            "value": "29.1"
+          },
+          {
+            "key": "2003",
+            "value": "29.2"
+          },
+          {
+            "key": "2004",
+            "value": "29.4"
+          },
+          {
+            "key": "2005",
+            "value": "29.3"
+          },
+          {
+            "key": "2006",
+            "value": "29.5"
+          },
+          {
+            "key": "2007",
+            "value": "29.7"
+          },
+          {
+            "key": "2008",
+            "value": "29.7"
+          },
+          {
+            "key": "2009",
+            "value": "29.8"
+          },
+          {
+            "key": "2010",
+            "value": "30.1"
+          },
+          {
+            "key": "2011",
+            "value": "30.1"
+          },
+          {
+            "key": "2012",
+            "value": "30.4"
+          },
+          {
+            "key": "2013",
+            "value": "30.5"
+          },
+          {
+            "key": "2014",
+            "value": "30.7"
+          },
+          {
+            "key": "2015",
+            "value": "30.7"
+          },
+          {
+            "key": "2016",
+            "value": "30.7"
+          },
+          {
+            "key": "2017",
+            "value": "30.7"
+          },
+          {
+            "key": "2018",
+            "value": "30.7"
+          },
+          {
+            "key": "2019",
+            "value": "30.9"
+          },
+          {
+            "key": "2020",
+            "value": "31.1"
+          },
+          {
+            "key": "2021",
+            "value": "31.3"
+          },
+          {
+            "key": "2022",
+            "value": "31.4"
+          },
+          {
+            "key": "2023",
+            "value": "31.7"
+          },
+          {
+            "key": "2024",
+            "value": "32"
+          },
+          {
+            "key": "2025",
+            "value": "32.2"
+          }
+        ]
+      },
+      {
+        "seriesNo": "4",
+        "rowText": "Median Age Of Citizen Mothers At First Birth",
+        "uoM": "Years",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "1990",
+            "value": "27.5"
+          },
+          {
+            "key": "1991",
+            "value": "27.6"
+          },
+          {
+            "key": "1992",
+            "value": "27.9"
+          },
+          {
+            "key": "1993",
+            "value": "28.1"
+          },
+          {
+            "key": "1994",
+            "value": "28.2"
+          },
+          {
+            "key": "1995",
+            "value": "28.4"
+          },
+          {
+            "key": "1996",
+            "value": "28.5"
+          },
+          {
+            "key": "1997",
+            "value": "28.5"
+          },
+          {
+            "key": "1998",
+            "value": "28.6"
+          },
+          {
+            "key": "1999",
+            "value": "28.6"
+          },
+          {
+            "key": "2000",
+            "value": "28.6"
+          },
+          {
+            "key": "2001",
+            "value": "28.7"
+          },
+          {
+            "key": "2002",
+            "value": "29"
+          },
+          {
+            "key": "2003",
+            "value": "29.2"
+          },
+          {
+            "key": "2004",
+            "value": "29.2"
+          },
+          {
+            "key": "2005",
+            "value": "29.2"
+          },
+          {
+            "key": "2006",
+            "value": "29.4"
+          },
+          {
+            "key": "2007",
+            "value": "29.4"
+          },
+          {
+            "key": "2008",
+            "value": "29.4"
+          },
+          {
+            "key": "2009",
+            "value": "29.6"
+          },
+          {
+            "key": "2010",
+            "value": "29.8"
+          },
+          {
+            "key": "2011",
+            "value": "29.8"
+          },
+          {
+            "key": "2012",
+            "value": "30.1"
+          },
+          {
+            "key": "2013",
+            "value": "30.2"
+          },
+          {
+            "key": "2014",
+            "value": "30.3"
+          },
+          {
+            "key": "2015",
+            "value": "30.3"
+          },
+          {
+            "key": "2016",
+            "value": "30.3"
+          },
+          {
+            "key": "2017",
+            "value": "30.3"
+          },
+          {
+            "key": "2018",
+            "value": "30.4"
+          },
+          {
+            "key": "2019",
+            "value": "30.6"
+          },
+          {
+            "key": "2020",
+            "value": "30.8"
+          },
+          {
+            "key": "2021",
+            "value": "31"
+          },
+          {
+            "key": "2022",
+            "value": "31.3"
+          },
+          {
+            "key": "2023",
+            "value": "31.4"
+          },
+          {
+            "key": "2024",
+            "value": "31.6"
+          },
+          {
+            "key": "2025",
+            "value": "31.9"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

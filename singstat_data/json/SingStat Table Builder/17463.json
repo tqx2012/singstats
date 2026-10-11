@@ -1,0 +1,2366 @@
+{
+  "Data": {
+    "id": "17463",
+    "tableType": "Census of Population 2020",
+    "groupTitle": null,
+    "title": "Resident Population Aged 15 Years and Over by Religion, Place of Birth and Sex",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "12/06/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Population",
+    "subject": "Religion",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3459093"
+              },
+              {
+                "key": "Males",
+                "value": "1663560"
+              },
+              {
+                "key": "Females",
+                "value": "1795534"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2600845"
+              },
+              {
+                "key": "Males",
+                "value": "1302326"
+              },
+              {
+                "key": "Females",
+                "value": "1298520"
+              }
+            ]
+          },
+          {
+            "key": "Malaysia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "410664"
+              },
+              {
+                "key": "Males",
+                "value": "174259"
+              },
+              {
+                "key": "Females",
+                "value": "236404"
+              }
+            ]
+          },
+          {
+            "key": "Mainland China",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "165204"
+              },
+              {
+                "key": "Males",
+                "value": "60851"
+              },
+              {
+                "key": "Females",
+                "value": "104353"
+              }
+            ]
+          },
+          {
+            "key": "India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "103286"
+              },
+              {
+                "key": "Males",
+                "value": "53703"
+              },
+              {
+                "key": "Females",
+                "value": "49583"
+              }
+            ]
+          },
+          {
+            "key": "Indonesia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "54045"
+              },
+              {
+                "key": "Males",
+                "value": "17503"
+              },
+              {
+                "key": "Females",
+                "value": "36543"
+              }
+            ]
+          },
+          {
+            "key": "Other Asian Countries / Regions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "99540"
+              },
+              {
+                "key": "Males",
+                "value": "38680"
+              },
+              {
+                "key": "Females",
+                "value": "60860"
+              }
+            ]
+          },
+          {
+            "key": "Europe",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14255"
+              },
+              {
+                "key": "Males",
+                "value": "9661"
+              },
+              {
+                "key": "Females",
+                "value": "4594"
+              }
+            ]
+          },
+          {
+            "key": "USA and Canada",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5335"
+              },
+              {
+                "key": "Males",
+                "value": "3238"
+              },
+              {
+                "key": "Females",
+                "value": "2097"
+              }
+            ]
+          },
+          {
+            "key": "Australia and New Zealand",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3610"
+              },
+              {
+                "key": "Males",
+                "value": "2114"
+              },
+              {
+                "key": "Females",
+                "value": "1496"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2309"
+              },
+              {
+                "key": "Males",
+                "value": "1225"
+              },
+              {
+                "key": "Females",
+                "value": "1084"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.1",
+        "rowText": "No Religion",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "692528"
+              },
+              {
+                "key": "Males",
+                "value": "356071"
+              },
+              {
+                "key": "Females",
+                "value": "336457"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "499331"
+              },
+              {
+                "key": "Males",
+                "value": "268415"
+              },
+              {
+                "key": "Females",
+                "value": "230916"
+              }
+            ]
+          },
+          {
+            "key": "Malaysia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "61291"
+              },
+              {
+                "key": "Males",
+                "value": "29484"
+              },
+              {
+                "key": "Females",
+                "value": "31807"
+              }
+            ]
+          },
+          {
+            "key": "Mainland China",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "96481"
+              },
+              {
+                "key": "Males",
+                "value": "39706"
+              },
+              {
+                "key": "Females",
+                "value": "56775"
+              }
+            ]
+          },
+          {
+            "key": "India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1957"
+              },
+              {
+                "key": "Males",
+                "value": "1234"
+              },
+              {
+                "key": "Females",
+                "value": "724"
+              }
+            ]
+          },
+          {
+            "key": "Indonesia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "4912"
+              },
+              {
+                "key": "Males",
+                "value": "2276"
+              },
+              {
+                "key": "Females",
+                "value": "2636"
+              }
+            ]
+          },
+          {
+            "key": "Other Asian Countries / Regions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "19354"
+              },
+              {
+                "key": "Males",
+                "value": "8532"
+              },
+              {
+                "key": "Females",
+                "value": "10822"
+              }
+            ]
+          },
+          {
+            "key": "Europe",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5611"
+              },
+              {
+                "key": "Males",
+                "value": "4142"
+              },
+              {
+                "key": "Females",
+                "value": "1469"
+              }
+            ]
+          },
+          {
+            "key": "USA and Canada",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1782"
+              },
+              {
+                "key": "Males",
+                "value": "1147"
+              },
+              {
+                "key": "Females",
+                "value": "634"
+              }
+            ]
+          },
+          {
+            "key": "Australia and New Zealand",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1333"
+              },
+              {
+                "key": "Males",
+                "value": "834"
+              },
+              {
+                "key": "Females",
+                "value": "499"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "476"
+              },
+              {
+                "key": "Males",
+                "value": "301"
+              },
+              {
+                "key": "Females",
+                "value": "175"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2",
+        "rowText": "With Religion",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2766566"
+              },
+              {
+                "key": "Males",
+                "value": "1307489"
+              },
+              {
+                "key": "Females",
+                "value": "1459077"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2101514"
+              },
+              {
+                "key": "Males",
+                "value": "1033910"
+              },
+              {
+                "key": "Females",
+                "value": "1067603"
+              }
+            ]
+          },
+          {
+            "key": "Malaysia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "349373"
+              },
+              {
+                "key": "Males",
+                "value": "144776"
+              },
+              {
+                "key": "Females",
+                "value": "204597"
+              }
+            ]
+          },
+          {
+            "key": "Mainland China",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "68723"
+              },
+              {
+                "key": "Males",
+                "value": "21145"
+              },
+              {
+                "key": "Females",
+                "value": "47578"
+              }
+            ]
+          },
+          {
+            "key": "India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "101329"
+              },
+              {
+                "key": "Males",
+                "value": "52470"
+              },
+              {
+                "key": "Females",
+                "value": "48860"
+              }
+            ]
+          },
+          {
+            "key": "Indonesia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "49134"
+              },
+              {
+                "key": "Males",
+                "value": "15227"
+              },
+              {
+                "key": "Females",
+                "value": "33907"
+              }
+            ]
+          },
+          {
+            "key": "Other Asian Countries / Regions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "80185"
+              },
+              {
+                "key": "Males",
+                "value": "30148"
+              },
+              {
+                "key": "Females",
+                "value": "50038"
+              }
+            ]
+          },
+          {
+            "key": "Europe",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8644"
+              },
+              {
+                "key": "Males",
+                "value": "5519"
+              },
+              {
+                "key": "Females",
+                "value": "3125"
+              }
+            ]
+          },
+          {
+            "key": "USA and Canada",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3554"
+              },
+              {
+                "key": "Males",
+                "value": "2091"
+              },
+              {
+                "key": "Females",
+                "value": "1463"
+              }
+            ]
+          },
+          {
+            "key": "Australia and New Zealand",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2277"
+              },
+              {
+                "key": "Males",
+                "value": "1280"
+              },
+              {
+                "key": "Females",
+                "value": "997"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1834"
+              },
+              {
+                "key": "Males",
+                "value": "925"
+              },
+              {
+                "key": "Females",
+                "value": "909"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.1",
+        "rowText": "Buddhism",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1074159"
+              },
+              {
+                "key": "Males",
+                "value": "512493"
+              },
+              {
+                "key": "Females",
+                "value": "561666"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "780356"
+              },
+              {
+                "key": "Males",
+                "value": "399395"
+              },
+              {
+                "key": "Females",
+                "value": "380961"
+              }
+            ]
+          },
+          {
+            "key": "Malaysia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "205495"
+              },
+              {
+                "key": "Males",
+                "value": "85887"
+              },
+              {
+                "key": "Females",
+                "value": "119609"
+              }
+            ]
+          },
+          {
+            "key": "Mainland China",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41289"
+              },
+              {
+                "key": "Males",
+                "value": "12369"
+              },
+              {
+                "key": "Females",
+                "value": "28920"
+              }
+            ]
+          },
+          {
+            "key": "India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "67"
+              },
+              {
+                "key": "Males",
+                "value": "67"
+              },
+              {
+                "key": "Females",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "key": "Indonesia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16018"
+              },
+              {
+                "key": "Males",
+                "value": "4798"
+              },
+              {
+                "key": "Females",
+                "value": "11220"
+              }
+            ]
+          },
+          {
+            "key": "Other Asian Countries / Regions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "29840"
+              },
+              {
+                "key": "Males",
+                "value": "9366"
+              },
+              {
+                "key": "Females",
+                "value": "20474"
+              }
+            ]
+          },
+          {
+            "key": "Europe",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "466"
+              },
+              {
+                "key": "Males",
+                "value": "273"
+              },
+              {
+                "key": "Females",
+                "value": "193"
+              }
+            ]
+          },
+          {
+            "key": "USA and Canada",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "245"
+              },
+              {
+                "key": "Males",
+                "value": "127"
+              },
+              {
+                "key": "Females",
+                "value": "119"
+              }
+            ]
+          },
+          {
+            "key": "Australia and New Zealand",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "290"
+              },
+              {
+                "key": "Males",
+                "value": "164"
+              },
+              {
+                "key": "Females",
+                "value": "126"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "92"
+              },
+              {
+                "key": "Males",
+                "value": "47"
+              },
+              {
+                "key": "Females",
+                "value": "45"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.2",
+        "rowText": "Taoism1/",
+        "uoM": "Number",
+        "footnote": "1/ 'Taoism' includes Chinese Traditional Beliefs.",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "303960"
+              },
+              {
+                "key": "Males",
+                "value": "149247"
+              },
+              {
+                "key": "Females",
+                "value": "154713"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "247093"
+              },
+              {
+                "key": "Males",
+                "value": "126881"
+              },
+              {
+                "key": "Females",
+                "value": "120212"
+              }
+            ]
+          },
+          {
+            "key": "Malaysia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "41347"
+              },
+              {
+                "key": "Males",
+                "value": "17303"
+              },
+              {
+                "key": "Females",
+                "value": "24044"
+              }
+            ]
+          },
+          {
+            "key": "Mainland China",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10502"
+              },
+              {
+                "key": "Males",
+                "value": "3807"
+              },
+              {
+                "key": "Females",
+                "value": "6696"
+              }
+            ]
+          },
+          {
+            "key": "India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "-"
+              },
+              {
+                "key": "Males",
+                "value": "-"
+              },
+              {
+                "key": "Females",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "key": "Indonesia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2846"
+              },
+              {
+                "key": "Males",
+                "value": "658"
+              },
+              {
+                "key": "Females",
+                "value": "2188"
+              }
+            ]
+          },
+          {
+            "key": "Other Asian Countries / Regions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2012"
+              },
+              {
+                "key": "Males",
+                "value": "552"
+              },
+              {
+                "key": "Females",
+                "value": "1460"
+              }
+            ]
+          },
+          {
+            "key": "Europe",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "-"
+              },
+              {
+                "key": "Males",
+                "value": "-"
+              },
+              {
+                "key": "Females",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "key": "USA and Canada",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "104"
+              },
+              {
+                "key": "Males",
+                "value": "45"
+              },
+              {
+                "key": "Females",
+                "value": "58"
+              }
+            ]
+          },
+          {
+            "key": "Australia and New Zealand",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3"
+              },
+              {
+                "key": "Males",
+                "value": "-"
+              },
+              {
+                "key": "Females",
+                "value": "3"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "51"
+              },
+              {
+                "key": "Males",
+                "value": "-"
+              },
+              {
+                "key": "Females",
+                "value": "51"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.3",
+        "rowText": "Islam",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "539251"
+              },
+              {
+                "key": "Males",
+                "value": "263134"
+              },
+              {
+                "key": "Females",
+                "value": "276117"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "487281"
+              },
+              {
+                "key": "Males",
+                "value": "241758"
+              },
+              {
+                "key": "Females",
+                "value": "245523"
+              }
+            ]
+          },
+          {
+            "key": "Malaysia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "21351"
+              },
+              {
+                "key": "Males",
+                "value": "8164"
+              },
+              {
+                "key": "Females",
+                "value": "13187"
+              }
+            ]
+          },
+          {
+            "key": "Mainland China",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "211"
+              },
+              {
+                "key": "Males",
+                "value": "82"
+              },
+              {
+                "key": "Females",
+                "value": "128"
+              }
+            ]
+          },
+          {
+            "key": "India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13712"
+              },
+              {
+                "key": "Males",
+                "value": "7404"
+              },
+              {
+                "key": "Females",
+                "value": "6308"
+              }
+            ]
+          },
+          {
+            "key": "Indonesia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9636"
+              },
+              {
+                "key": "Males",
+                "value": "2148"
+              },
+              {
+                "key": "Females",
+                "value": "7488"
+              }
+            ]
+          },
+          {
+            "key": "Other Asian Countries / Regions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5789"
+              },
+              {
+                "key": "Males",
+                "value": "2745"
+              },
+              {
+                "key": "Females",
+                "value": "3043"
+              }
+            ]
+          },
+          {
+            "key": "Europe",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "722"
+              },
+              {
+                "key": "Males",
+                "value": "444"
+              },
+              {
+                "key": "Females",
+                "value": "277"
+              }
+            ]
+          },
+          {
+            "key": "USA and Canada",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "138"
+              },
+              {
+                "key": "Males",
+                "value": "117"
+              },
+              {
+                "key": "Females",
+                "value": "21"
+              }
+            ]
+          },
+          {
+            "key": "Australia and New Zealand",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "182"
+              },
+              {
+                "key": "Males",
+                "value": "106"
+              },
+              {
+                "key": "Females",
+                "value": "76"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "230"
+              },
+              {
+                "key": "Males",
+                "value": "165"
+              },
+              {
+                "key": "Females",
+                "value": "65"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.4",
+        "rowText": "Hinduism",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "172963"
+              },
+              {
+                "key": "Males",
+                "value": "86414"
+              },
+              {
+                "key": "Females",
+                "value": "86548"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "83274"
+              },
+              {
+                "key": "Males",
+                "value": "40635"
+              },
+              {
+                "key": "Females",
+                "value": "42638"
+              }
+            ]
+          },
+          {
+            "key": "Malaysia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11022"
+              },
+              {
+                "key": "Males",
+                "value": "5131"
+              },
+              {
+                "key": "Females",
+                "value": "5891"
+              }
+            ]
+          },
+          {
+            "key": "Mainland China",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7"
+              },
+              {
+                "key": "Males",
+                "value": "-"
+              },
+              {
+                "key": "Females",
+                "value": "7"
+              }
+            ]
+          },
+          {
+            "key": "India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "75349"
+              },
+              {
+                "key": "Males",
+                "value": "39155"
+              },
+              {
+                "key": "Females",
+                "value": "36194"
+              }
+            ]
+          },
+          {
+            "key": "Indonesia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "257"
+              },
+              {
+                "key": "Males",
+                "value": "101"
+              },
+              {
+                "key": "Females",
+                "value": "156"
+              }
+            ]
+          },
+          {
+            "key": "Other Asian Countries / Regions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2139"
+              },
+              {
+                "key": "Males",
+                "value": "1087"
+              },
+              {
+                "key": "Females",
+                "value": "1051"
+              }
+            ]
+          },
+          {
+            "key": "Europe",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "273"
+              },
+              {
+                "key": "Males",
+                "value": "88"
+              },
+              {
+                "key": "Females",
+                "value": "185"
+              }
+            ]
+          },
+          {
+            "key": "USA and Canada",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "318"
+              },
+              {
+                "key": "Males",
+                "value": "116"
+              },
+              {
+                "key": "Females",
+                "value": "202"
+              }
+            ]
+          },
+          {
+            "key": "Australia and New Zealand",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "61"
+              },
+              {
+                "key": "Males",
+                "value": "26"
+              },
+              {
+                "key": "Females",
+                "value": "35"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "263"
+              },
+              {
+                "key": "Males",
+                "value": "75"
+              },
+              {
+                "key": "Females",
+                "value": "189"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.5",
+        "rowText": "Sikhism",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12051"
+              },
+              {
+                "key": "Males",
+                "value": "6196"
+              },
+              {
+                "key": "Females",
+                "value": "5855"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8369"
+              },
+              {
+                "key": "Males",
+                "value": "4713"
+              },
+              {
+                "key": "Females",
+                "value": "3656"
+              }
+            ]
+          },
+          {
+            "key": "Malaysia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1148"
+              },
+              {
+                "key": "Males",
+                "value": "438"
+              },
+              {
+                "key": "Females",
+                "value": "711"
+              }
+            ]
+          },
+          {
+            "key": "Mainland China",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "-"
+              },
+              {
+                "key": "Males",
+                "value": "-"
+              },
+              {
+                "key": "Females",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "key": "India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2253"
+              },
+              {
+                "key": "Males",
+                "value": "948"
+              },
+              {
+                "key": "Females",
+                "value": "1304"
+              }
+            ]
+          },
+          {
+            "key": "Indonesia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "86"
+              },
+              {
+                "key": "Males",
+                "value": "24"
+              },
+              {
+                "key": "Females",
+                "value": "62"
+              }
+            ]
+          },
+          {
+            "key": "Other Asian Countries / Regions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "46"
+              },
+              {
+                "key": "Males",
+                "value": "9"
+              },
+              {
+                "key": "Females",
+                "value": "37"
+              }
+            ]
+          },
+          {
+            "key": "Europe",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "104"
+              },
+              {
+                "key": "Males",
+                "value": "60"
+              },
+              {
+                "key": "Females",
+                "value": "44"
+              }
+            ]
+          },
+          {
+            "key": "USA and Canada",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "36"
+              },
+              {
+                "key": "Males",
+                "value": "-"
+              },
+              {
+                "key": "Females",
+                "value": "36"
+              }
+            ]
+          },
+          {
+            "key": "Australia and New Zealand",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "-"
+              },
+              {
+                "key": "Males",
+                "value": "-"
+              },
+              {
+                "key": "Females",
+                "value": "-"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9"
+              },
+              {
+                "key": "Males",
+                "value": "4"
+              },
+              {
+                "key": "Females",
+                "value": "5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.6",
+        "rowText": "Christianity",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "654355"
+              },
+              {
+                "key": "Males",
+                "value": "285382"
+              },
+              {
+                "key": "Females",
+                "value": "368973"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "488402"
+              },
+              {
+                "key": "Males",
+                "value": "217237"
+              },
+              {
+                "key": "Females",
+                "value": "271165"
+              }
+            ]
+          },
+          {
+            "key": "Malaysia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "67952"
+              },
+              {
+                "key": "Males",
+                "value": "27503"
+              },
+              {
+                "key": "Females",
+                "value": "40449"
+              }
+            ]
+          },
+          {
+            "key": "Mainland China",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16480"
+              },
+              {
+                "key": "Males",
+                "value": "4834"
+              },
+              {
+                "key": "Females",
+                "value": "11646"
+              }
+            ]
+          },
+          {
+            "key": "India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9239"
+              },
+              {
+                "key": "Males",
+                "value": "4492"
+              },
+              {
+                "key": "Females",
+                "value": "4747"
+              }
+            ]
+          },
+          {
+            "key": "Indonesia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "20125"
+              },
+              {
+                "key": "Males",
+                "value": "7445"
+              },
+              {
+                "key": "Females",
+                "value": "12681"
+              }
+            ]
+          },
+          {
+            "key": "Other Asian Countries / Regions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "39845"
+              },
+              {
+                "key": "Males",
+                "value": "16212"
+              },
+              {
+                "key": "Females",
+                "value": "23633"
+              }
+            ]
+          },
+          {
+            "key": "Europe",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6879"
+              },
+              {
+                "key": "Males",
+                "value": "4517"
+              },
+              {
+                "key": "Females",
+                "value": "2361"
+              }
+            ]
+          },
+          {
+            "key": "USA and Canada",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2570"
+              },
+              {
+                "key": "Males",
+                "value": "1566"
+              },
+              {
+                "key": "Females",
+                "value": "1004"
+              }
+            ]
+          },
+          {
+            "key": "Australia and New Zealand",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1691"
+              },
+              {
+                "key": "Males",
+                "value": "951"
+              },
+              {
+                "key": "Females",
+                "value": "739"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1171"
+              },
+              {
+                "key": "Males",
+                "value": "624"
+              },
+              {
+                "key": "Females",
+                "value": "547"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.6.1",
+        "rowText": "Catholic",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "242681"
+              },
+              {
+                "key": "Males",
+                "value": "106084"
+              },
+              {
+                "key": "Females",
+                "value": "136597"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "171181"
+              },
+              {
+                "key": "Males",
+                "value": "75904"
+              },
+              {
+                "key": "Females",
+                "value": "95277"
+              }
+            ]
+          },
+          {
+            "key": "Malaysia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "22815"
+              },
+              {
+                "key": "Males",
+                "value": "9385"
+              },
+              {
+                "key": "Females",
+                "value": "13430"
+              }
+            ]
+          },
+          {
+            "key": "Mainland China",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3664"
+              },
+              {
+                "key": "Males",
+                "value": "980"
+              },
+              {
+                "key": "Females",
+                "value": "2684"
+              }
+            ]
+          },
+          {
+            "key": "India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5401"
+              },
+              {
+                "key": "Males",
+                "value": "2592"
+              },
+              {
+                "key": "Females",
+                "value": "2809"
+              }
+            ]
+          },
+          {
+            "key": "Indonesia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "8894"
+              },
+              {
+                "key": "Males",
+                "value": "3220"
+              },
+              {
+                "key": "Females",
+                "value": "5673"
+              }
+            ]
+          },
+          {
+            "key": "Other Asian Countries / Regions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24944"
+              },
+              {
+                "key": "Males",
+                "value": "10525"
+              },
+              {
+                "key": "Females",
+                "value": "14418"
+              }
+            ]
+          },
+          {
+            "key": "Europe",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3414"
+              },
+              {
+                "key": "Males",
+                "value": "2176"
+              },
+              {
+                "key": "Females",
+                "value": "1237"
+              }
+            ]
+          },
+          {
+            "key": "USA and Canada",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1020"
+              },
+              {
+                "key": "Males",
+                "value": "585"
+              },
+              {
+                "key": "Females",
+                "value": "435"
+              }
+            ]
+          },
+          {
+            "key": "Australia and New Zealand",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "652"
+              },
+              {
+                "key": "Males",
+                "value": "305"
+              },
+              {
+                "key": "Females",
+                "value": "347"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "698"
+              },
+              {
+                "key": "Males",
+                "value": "412"
+              },
+              {
+                "key": "Females",
+                "value": "286"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.6.2",
+        "rowText": "Other Christians",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "411674"
+              },
+              {
+                "key": "Males",
+                "value": "179298"
+              },
+              {
+                "key": "Females",
+                "value": "232376"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "317221"
+              },
+              {
+                "key": "Males",
+                "value": "141333"
+              },
+              {
+                "key": "Females",
+                "value": "175888"
+              }
+            ]
+          },
+          {
+            "key": "Malaysia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "45137"
+              },
+              {
+                "key": "Males",
+                "value": "18118"
+              },
+              {
+                "key": "Females",
+                "value": "27019"
+              }
+            ]
+          },
+          {
+            "key": "Mainland China",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12816"
+              },
+              {
+                "key": "Males",
+                "value": "3853"
+              },
+              {
+                "key": "Females",
+                "value": "8963"
+              }
+            ]
+          },
+          {
+            "key": "India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3839"
+              },
+              {
+                "key": "Males",
+                "value": "1901"
+              },
+              {
+                "key": "Females",
+                "value": "1938"
+              }
+            ]
+          },
+          {
+            "key": "Indonesia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11232"
+              },
+              {
+                "key": "Males",
+                "value": "4224"
+              },
+              {
+                "key": "Females",
+                "value": "7008"
+              }
+            ]
+          },
+          {
+            "key": "Other Asian Countries / Regions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14902"
+              },
+              {
+                "key": "Males",
+                "value": "5687"
+              },
+              {
+                "key": "Females",
+                "value": "9215"
+              }
+            ]
+          },
+          {
+            "key": "Europe",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3465"
+              },
+              {
+                "key": "Males",
+                "value": "2341"
+              },
+              {
+                "key": "Females",
+                "value": "1124"
+              }
+            ]
+          },
+          {
+            "key": "USA and Canada",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1550"
+              },
+              {
+                "key": "Males",
+                "value": "982"
+              },
+              {
+                "key": "Females",
+                "value": "569"
+              }
+            ]
+          },
+          {
+            "key": "Australia and New Zealand",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1039"
+              },
+              {
+                "key": "Males",
+                "value": "646"
+              },
+              {
+                "key": "Females",
+                "value": "392"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "473"
+              },
+              {
+                "key": "Males",
+                "value": "212"
+              },
+              {
+                "key": "Females",
+                "value": "260"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rowNo": "1.2.7",
+        "rowText": "Other Religions",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9827"
+              },
+              {
+                "key": "Males",
+                "value": "4623"
+              },
+              {
+                "key": "Females",
+                "value": "5204"
+              }
+            ]
+          },
+          {
+            "key": "Singapore",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "6740"
+              },
+              {
+                "key": "Males",
+                "value": "3292"
+              },
+              {
+                "key": "Females",
+                "value": "3448"
+              }
+            ]
+          },
+          {
+            "key": "Malaysia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1056"
+              },
+              {
+                "key": "Males",
+                "value": "349"
+              },
+              {
+                "key": "Females",
+                "value": "707"
+              }
+            ]
+          },
+          {
+            "key": "Mainland China",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "234"
+              },
+              {
+                "key": "Males",
+                "value": "53"
+              },
+              {
+                "key": "Females",
+                "value": "181"
+              }
+            ]
+          },
+          {
+            "key": "India",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "709"
+              },
+              {
+                "key": "Males",
+                "value": "403"
+              },
+              {
+                "key": "Females",
+                "value": "306"
+              }
+            ]
+          },
+          {
+            "key": "Indonesia",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "164"
+              },
+              {
+                "key": "Males",
+                "value": "52"
+              },
+              {
+                "key": "Females",
+                "value": "112"
+              }
+            ]
+          },
+          {
+            "key": "Other Asian Countries / Regions",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "515"
+              },
+              {
+                "key": "Males",
+                "value": "176"
+              },
+              {
+                "key": "Females",
+                "value": "339"
+              }
+            ]
+          },
+          {
+            "key": "Europe",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "201"
+              },
+              {
+                "key": "Males",
+                "value": "137"
+              },
+              {
+                "key": "Females",
+                "value": "64"
+              }
+            ]
+          },
+          {
+            "key": "USA and Canada",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "143"
+              },
+              {
+                "key": "Males",
+                "value": "119"
+              },
+              {
+                "key": "Females",
+                "value": "23"
+              }
+            ]
+          },
+          {
+            "key": "Australia and New Zealand",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "50"
+              },
+              {
+                "key": "Males",
+                "value": "32"
+              },
+              {
+                "key": "Females",
+                "value": "17"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17"
+              },
+              {
+                "key": "Males",
+                "value": "10"
+              },
+              {
+                "key": "Females",
+                "value": "7"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

@@ -1,0 +1,51 @@
+{
+  "Data": {
+    "records": {
+      "theme": "Industry",
+      "subject": "Manufacturing",
+      "topic": "Unit Business Cost (UBC)",
+      "id": "M183692",
+      "groupTitle": "Unit Business Cost Index Of Manufacturing (2015 = 100)",
+      "title": "Unit Business Cost Index Of Manufacturing (2015 = 100), Quarterly, Seasonally Adjusted",
+      "frequency": "Quarterly",
+      "adjustmentType": "Seasonally Adjusted",
+      "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+      "footnote": "",
+      "dataLastUpdated": "11/08/2026",
+      "startPeriod": "1980 1Q",
+      "endPeriod": "2026 2Q",
+      "total": 744,
+      "row": [
+        {
+          "seriesNo": "1",
+          "rowText": "Overall Unit Business Cost Index Of Manufacturing",
+          "uoM": "Index",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.1",
+          "rowText": "Unit Labour Cost Of Manufacturing",
+          "uoM": "Index",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.2",
+          "rowText": "Unit Services Cost",
+          "uoM": "Index",
+          "footnote": ""
+        },
+        {
+          "seriesNo": "1.3",
+          "rowText": "Unit Non-Labour Production Taxes",
+          "uoM": "Index",
+          "footnote": "Labour-related taxes on production (e.g. foreign workers' levy) are classified under unit labour cost.  Taxes on income (e.g. corporate income tax) are excluded."
+        }
+      ]
+    },
+    "generatedBy": "SingStat Table Builder",
+    "dateGenerated": "26/09/2026"
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}

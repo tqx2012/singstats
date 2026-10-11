@@ -1,0 +1,1216 @@
+{
+  "Data": {
+    "id": "9074",
+    "tableType": "Census of Population 2000",
+    "groupTitle": null,
+    "title": "Resident Households by Monthly Household Income from Work* and Predominant Household Language",
+    "frequency": "10 years",
+    "dataSource": "SINGAPORE DEPARTMENT OF STATISTICS",
+    "footnote": "Notes: Data exclude one-person households and households comprising only unrelated persons.\nData on income from work have been updated to include Additional MediSave Contributions from employers with the release of the Key Household Income Trends 2025 report in February 2026. For more information, you may refer to the Technical Note on Household Income (https://go.gov.sg/khit2025-tech-note) which explains the concepts and components of our household income coverage.",
+    "generatedBy": "SingStat Table Builder",
+    "dataLastUpdated": "09/07/2026",
+    "dateGenerated": "26/09/2026",
+    "offset": null,
+    "limit": "5000",
+    "between": null,
+    "search": null,
+    "theme": "Households",
+    "subject": "Resident Households",
+    "topic": "Census of Population and General Household Survey",
+    "row": [
+      {
+        "rowNo": "1",
+        "rowText": "Total",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "828887"
+          },
+          {
+            "key": "English",
+            "value": "201571"
+          },
+          {
+            "key": "Mandarin",
+            "value": "281216"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "204322"
+              },
+              {
+                "key": "Hokkien",
+                "value": "96050"
+              },
+              {
+                "key": "Teochew",
+                "value": "41171"
+              },
+              {
+                "key": "Cantonese",
+                "value": "51521"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "15581"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "105176"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "34715"
+              },
+              {
+                "key": "Tamil",
+                "value": "28414"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "6302"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "1886"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.1",
+        "rowText": "Below 500",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "55217"
+          },
+          {
+            "key": "English",
+            "value": "8959"
+          },
+          {
+            "key": "Mandarin",
+            "value": "11651"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "24747"
+              },
+              {
+                "key": "Hokkien",
+                "value": "10449"
+              },
+              {
+                "key": "Teochew",
+                "value": "5237"
+              },
+              {
+                "key": "Cantonese",
+                "value": "6598"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "2462"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "7410"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2277"
+              },
+              {
+                "key": "Tamil",
+                "value": "1805"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "472"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "173"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.2",
+        "rowText": "500 - 999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "18188"
+          },
+          {
+            "key": "English",
+            "value": "1132"
+          },
+          {
+            "key": "Mandarin",
+            "value": "5103"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7674"
+              },
+              {
+                "key": "Hokkien",
+                "value": "3951"
+              },
+              {
+                "key": "Teochew",
+                "value": "1657"
+              },
+              {
+                "key": "Cantonese",
+                "value": "1571"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "496"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "3308"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "912"
+              },
+              {
+                "key": "Tamil",
+                "value": "827"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "85"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "59"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.3",
+        "rowText": "1,000 - 1,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "43179"
+          },
+          {
+            "key": "English",
+            "value": "3398"
+          },
+          {
+            "key": "Mandarin",
+            "value": "15197"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13517"
+              },
+              {
+                "key": "Hokkien",
+                "value": "7240"
+              },
+              {
+                "key": "Teochew",
+                "value": "2801"
+              },
+              {
+                "key": "Cantonese",
+                "value": "2630"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "846"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "8578"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2426"
+              },
+              {
+                "key": "Tamil",
+                "value": "2230"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "196"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "63"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.4",
+        "rowText": "1,500 - 1,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "52488"
+          },
+          {
+            "key": "English",
+            "value": "5131"
+          },
+          {
+            "key": "Mandarin",
+            "value": "19700"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14063"
+              },
+              {
+                "key": "Hokkien",
+                "value": "7508"
+              },
+              {
+                "key": "Teochew",
+                "value": "2779"
+              },
+              {
+                "key": "Cantonese",
+                "value": "2773"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "1004"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "10973"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2557"
+              },
+              {
+                "key": "Tamil",
+                "value": "2297"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "260"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "63"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.5",
+        "rowText": "2,000 - 2,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "56459"
+          },
+          {
+            "key": "English",
+            "value": "6434"
+          },
+          {
+            "key": "Mandarin",
+            "value": "21524"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "14677"
+              },
+              {
+                "key": "Hokkien",
+                "value": "7677"
+              },
+              {
+                "key": "Teochew",
+                "value": "2987"
+              },
+              {
+                "key": "Cantonese",
+                "value": "2999"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "1015"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "11158"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2594"
+              },
+              {
+                "key": "Tamil",
+                "value": "2395"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "200"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "72"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.6",
+        "rowText": "2,500 - 2,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "53526"
+          },
+          {
+            "key": "English",
+            "value": "6476"
+          },
+          {
+            "key": "Mandarin",
+            "value": "20311"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12844"
+              },
+              {
+                "key": "Hokkien",
+                "value": "6601"
+              },
+              {
+                "key": "Teochew",
+                "value": "2519"
+              },
+              {
+                "key": "Cantonese",
+                "value": "2782"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "943"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "10816"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2978"
+              },
+              {
+                "key": "Tamil",
+                "value": "2589"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "389"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.7",
+        "rowText": "3,000 - 3,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "56067"
+          },
+          {
+            "key": "English",
+            "value": "8055"
+          },
+          {
+            "key": "Mandarin",
+            "value": "21818"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "13550"
+              },
+              {
+                "key": "Hokkien",
+                "value": "6863"
+              },
+              {
+                "key": "Teochew",
+                "value": "2621"
+              },
+              {
+                "key": "Cantonese",
+                "value": "3194"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "872"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "9814"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2765"
+              },
+              {
+                "key": "Tamil",
+                "value": "2401"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "364"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "65"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.8",
+        "rowText": "3,500 - 3,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "52092"
+          },
+          {
+            "key": "English",
+            "value": "8303"
+          },
+          {
+            "key": "Mandarin",
+            "value": "19961"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12515"
+              },
+              {
+                "key": "Hokkien",
+                "value": "6077"
+              },
+              {
+                "key": "Teochew",
+                "value": "2581"
+              },
+              {
+                "key": "Cantonese",
+                "value": "3022"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "835"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "8836"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2413"
+              },
+              {
+                "key": "Tamil",
+                "value": "2027"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "386"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "63"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.9",
+        "rowText": "4,000 - 4,499",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "46945"
+          },
+          {
+            "key": "English",
+            "value": "8392"
+          },
+          {
+            "key": "Mandarin",
+            "value": "18286"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "11141"
+              },
+              {
+                "key": "Hokkien",
+                "value": "5406"
+              },
+              {
+                "key": "Teochew",
+                "value": "2126"
+              },
+              {
+                "key": "Cantonese",
+                "value": "2769"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "841"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "6966"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2115"
+              },
+              {
+                "key": "Tamil",
+                "value": "1739"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "375"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "45"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.10",
+        "rowText": "4,500 - 4,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "42110"
+          },
+          {
+            "key": "English",
+            "value": "8521"
+          },
+          {
+            "key": "Mandarin",
+            "value": "16014"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "9723"
+              },
+              {
+                "key": "Hokkien",
+                "value": "4567"
+              },
+              {
+                "key": "Teochew",
+                "value": "1979"
+              },
+              {
+                "key": "Cantonese",
+                "value": "2481"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "695"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "5864"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1921"
+              },
+              {
+                "key": "Tamil",
+                "value": "1659"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "262"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "68"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.11",
+        "rowText": "5,000 - 5,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "72916"
+          },
+          {
+            "key": "English",
+            "value": "17378"
+          },
+          {
+            "key": "Mandarin",
+            "value": "27117"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "16685"
+              },
+              {
+                "key": "Hokkien",
+                "value": "7737"
+              },
+              {
+                "key": "Teochew",
+                "value": "3103"
+              },
+              {
+                "key": "Cantonese",
+                "value": "4534"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "1311"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "8204"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "3388"
+              },
+              {
+                "key": "Tamil",
+                "value": "2771"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "617"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "143"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.12",
+        "rowText": "6,000 - 6,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "58890"
+          },
+          {
+            "key": "English",
+            "value": "16638"
+          },
+          {
+            "key": "Mandarin",
+            "value": "21819"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "12721"
+              },
+              {
+                "key": "Hokkien",
+                "value": "5466"
+              },
+              {
+                "key": "Teochew",
+                "value": "2588"
+              },
+              {
+                "key": "Cantonese",
+                "value": "3628"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "1040"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "5224"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2334"
+              },
+              {
+                "key": "Tamil",
+                "value": "1776"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "558"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "153"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.13",
+        "rowText": "7,000 - 7,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "45390"
+          },
+          {
+            "key": "English",
+            "value": "14786"
+          },
+          {
+            "key": "Mandarin",
+            "value": "15752"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "10041"
+              },
+              {
+                "key": "Hokkien",
+                "value": "4412"
+              },
+              {
+                "key": "Teochew",
+                "value": "1978"
+              },
+              {
+                "key": "Cantonese",
+                "value": "2906"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "744"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "3139"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1541"
+              },
+              {
+                "key": "Tamil",
+                "value": "1194"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "347"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "131"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.14",
+        "rowText": "8,000 - 8,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "35156"
+          },
+          {
+            "key": "English",
+            "value": "13268"
+          },
+          {
+            "key": "Mandarin",
+            "value": "11645"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "7235"
+              },
+              {
+                "key": "Hokkien",
+                "value": "3054"
+              },
+              {
+                "key": "Teochew",
+                "value": "1558"
+              },
+              {
+                "key": "Cantonese",
+                "value": "2104"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "519"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "1763"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "1171"
+              },
+              {
+                "key": "Tamil",
+                "value": "793"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "378"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "74"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.15",
+        "rowText": "9,000 - 9,999",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "27425"
+          },
+          {
+            "key": "English",
+            "value": "11008"
+          },
+          {
+            "key": "Mandarin",
+            "value": "8829"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "5510"
+              },
+              {
+                "key": "Hokkien",
+                "value": "2352"
+              },
+              {
+                "key": "Teochew",
+                "value": "1111"
+              },
+              {
+                "key": "Cantonese",
+                "value": "1551"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "496"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "1201"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "785"
+              },
+              {
+                "key": "Tamil",
+                "value": "482"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "303"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "93"
+          }
+        ]
+      },
+      {
+        "rowNo": "1.0.16",
+        "rowText": "10,000 & Over",
+        "uoM": "Number",
+        "footnote": "",
+        "columns": [
+          {
+            "key": "Total",
+            "value": "112840"
+          },
+          {
+            "key": "English",
+            "value": "63691"
+          },
+          {
+            "key": "Mandarin",
+            "value": "26489"
+          },
+          {
+            "key": "Chinese Dialects",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "17679"
+              },
+              {
+                "key": "Hokkien",
+                "value": "6689"
+              },
+              {
+                "key": "Teochew",
+                "value": "3548"
+              },
+              {
+                "key": "Cantonese",
+                "value": "5980"
+              },
+              {
+                "key": "Other Chinese Dialects",
+                "value": "1463"
+              }
+            ]
+          },
+          {
+            "key": "Malay",
+            "value": "1923"
+          },
+          {
+            "key": "Indian Languages",
+            "columns": [
+              {
+                "key": "Total",
+                "value": "2538"
+              },
+              {
+                "key": "Tamil",
+                "value": "1429"
+              },
+              {
+                "key": "Other Indian Languages",
+                "value": "1109"
+              }
+            ]
+          },
+          {
+            "key": "Others",
+            "value": "520"
+          }
+        ]
+      }
+    ]
+  },
+  "DataCount": 1,
+  "StatusCode": 200,
+  "Message": ""
+}
