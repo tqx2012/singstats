@@ -1,84 +1,97 @@
-# SingStat Bulk Dataset Downloader
+# SingStat BI Studio — Singapore Statistical Intelligence
 
-A Python utility to systematically download all statistical datasets available on the Singapore Department of Statistics (SingStat) [Table Builder](https://tablebuilder.singstat.gov.sg/).
+An interactive, zero-dependency executive business intelligence (BI) dashboard exploring national data trends across Singapore's economy, society, housing, crime, and climate.
 
----
-
-## Overview
-
-SingStat hosts **~2,800 customizable tables** (~180,000 data series) covering economic indicators, population, business, labor, trade, education, and social statistics.
-
-This script uses the official SingStat Table Builder Developer API:
-1. **Catalog Query**: Uses the wildcard search (`keyword=%&searchOption=all`) on `https://tablebuilder.singstat.gov.sg/api/table/resourceid` to retrieve every dataset ID in the catalog.
-2. **Metadata & Table Extraction**: Iterates through each table ID to retrieve both metadata and complete time-series data.
-3. **Format Support**: Saves original responses as `.json` and converts table series into tabular `.csv` (Excel-compatible UTF-8 with BOM).
-4. **Rate Limit Handling**: Adheres to SingStat's **100 calls/min** threshold with automatic backoff retry logic.
-5. **Resume & Checkpointing**: Maintains a local `manifest.json`. If stopped or interrupted, re-running the script immediately resumes where it left off.
+Built with a Google Store-inspired aesthetic, Tableau-style drag-and-drop analytics, and Apache ECharts.
 
 ---
 
-## Requirements
+## 🚀 Live Demo
 
-The script uses Python's built-in standard library (`urllib`, `json`, `csv`, `time`, `logging`, `argparse`). **No extra `pip install` packages are required.**
+Open `index.html` directly in any web browser, or access the deployed version hosted on GitHub Pages:
 
-Compatible with Python 3.7+.
+> **[Open Live Dashboard](https://tqx2012.github.io/singstats/)** *(or open `index.html` locally)*
 
----
-
-## Usage
-
-### 1. Quick Test Run (e.g. 5 tables)
-Before downloading all ~2,800 datasets, run a quick test on the first 5 tables:
-```bash
-python download_singstat.py --limit 5
-```
-
-### 2. Download Every Single Dataset Available (~2,800 tables)
-```bash
-python download_singstat.py
-```
-*(At ~92 requests/minute, the full catalog of ~2,800 tables will take approximately 30–35 minutes to finish).*
-
-### 3. Filter by Subject / Keyword (Optional)
-If you only want specific topics (e.g., GDP, retail, CPI, population):
-```bash
-python download_singstat.py --keyword "consumer price index"
-python download_singstat.py --keyword "gdp"
-python download_singstat.py --keyword "retail"
-```
+No server setup, Node.js runtime, database, or API keys required. Everything runs 100% in the client browser.
 
 ---
 
-## Output Structure
+## ✨ Key Features
 
-The data is saved inside `singstat_data/` (or your custom `--output` directory):
+### 1. 📖 Interactive Story Hub (Guided Narratives)
+Explore curated data stories examining key issues and long-term structural trends in Singapore:
 
-```
-singstat_data/
-├── catalog.json          # Complete catalog index of all available tables
-├── catalog.csv           # Searchable table catalog in CSV format
-├── manifest.json         # State checkpoint tracking completed / failed downloads
-├── json/                 # Raw JSON responses from SingStat API
-│   ├── M212881.json
-│   └── ...
-├── csv/                  # Flattened time-series tables
-│   ├── M212881.csv
-│   └── ...
-└── metadata/             # Table schema & series definitions
-    ├── M212881_meta.json
-    └── ...
-```
+- **🚨 Scam & Cybercrime Epidemic**: Visualizing the surge in online scams and cybercrime overtaking traditional physical crime.
+- **📉 Total Fertility Rate (TFR) & Super-Aged Society**: Tracking the fertility rate drop alongside Singapore's rapid demographic shift towards 2026.
+- **🏘️ The Million-Dollar HDB Resale Era**: Price appreciation, resale volume trends, and town-by-town housing patterns.
+- **☀️ Climate & Extreme Heat Trends**: Decadal temperature rises, heatwave anomalies, and climate adaptation metrics.
+- **🌐 Non-Oil Domestic Exports (NODX) & Tech Cycles**: Singapore's trade resilience, electronics demand, and global tech supply chain exposure.
+- **🛒 CPI & Cost of Living Cycles**: Decades of inflation shifts, oil shocks, and cost-of-living basket trends.
+- **🇸🇬 60-Year Real GDP by Sector**: Long-term structural transformation across manufacturing, finance, and services.
+- **👥 Population Age Pyramid**: Interactive age-band and gender breakdowns.
+
+### 2. 🎛️ Tableau-Style Drag-and-Drop BI Studio
+- **Flexible Shelves**: Drag-and-drop dimensions into **Columns (X)** and **Rows (Y)**, numeric values into **Measures**, and breakdown categories into **Color / Breakdown**.
+- **Interactive Filtering**: Filter datasets on the fly with real-time multi-select filters.
+- **Multi-Aggregation Engine**: Dynamically calculate **Sum**, **Average (Mean)**, **Count**, **Min**, and **Max** on grouped data.
+- **Swap & Reset**: Instant one-click axes swapping (`⇄ Swap`) and workspace reset (`↺ Reset`).
+
+### 3. 📊 Versatile Visualizations (Apache ECharts)
+Switch across 9 visualization modes with a single click:
+- 🧱 **Stacked Bar** & 📊 **Grouped Bar**
+- 📑 **Horizontal Bar** (auto-sorted for ranking comparisons)
+- 📈 **Line Trend** & 🌊 **Stacked Area**
+- 🍩 **Donut / Pie Chart**
+- 🗂️ **Treemap**
+- 🔢 **Pivot Matrix Table** (hierarchical spreadsheet grid)
+- 🏆 **KPI Metric Cards**
+
+### 4. 🛠️ Power User Tools
+- **🔍 Catalog Search (2,820 Tables)**: Search through SingStat's comprehensive database table catalog directly from the UI.
+- **📁 Custom File Upload**: Drag or load any external CSV or JSON dataset to slice, dice, and graph within the BI studio.
+- **📷 High-Resolution PNG Export**: Export publication-ready chart figures.
+- **📊 Aggregated CSV Export**: Download the active slice and aggregated computations directly to CSV for Excel or Python analysis.
+- **☀️ Light & 🌙 Dark Mode**: Fully responsive, Google-styled light theme with dark mode toggle.
 
 ---
 
-## Command Line Options
+## 📂 Datasets Included
 
-| Argument | Default | Description |
+The built-in curated data (`data/singstat_curated.js`) aggregates official public datasets sourced from the **Singapore Department of Statistics (SingStat)**:
+
+| Topic | Coverage | Description |
 | :--- | :--- | :--- |
-| `--keyword` | `%` | Keyword to search. Default `%` selects all tables in SingStat. |
-| `--limit` | `None` | Limit number of datasets to download (great for test runs). |
-| `--output` | `singstat_data` | Directory where data files will be saved. |
-| `--delay` | `0.65` | Seconds between requests (0.65s = ~92 calls/min, safely below 100/min). |
-| `--no-csv` | `False` | Skip converting datasets to CSV format. |
-| `--no-meta` | `False` | Skip downloading separate metadata files. |
-| `--no-resume` | `False` | Ignore `manifest.json` and re-download everything from scratch. |
+| **Demographics** | Population & TFR | Population by age group, sex, ethnic group, and resident birth rates. |
+| **Economy** | Real GDP by Industry | Value added across manufacturing, construction, finance, wholesale, and services. |
+| **Inflation** | Consumer Price Index (CPI) | Multi-decade historical CPI series and inflation baskets. |
+| **Crime** | Police Force Crime Data | Commercial scams, cybercrimes, and traditional physical crime rates. |
+| **Trade** | NODX & Merchandise Trade | Export performance by major commodity groups and trading partners. |
+| **Housing** | Resale & Dwelling Stock | Resale transactions and dwelling unit distributions across 40 planning areas. |
+| **Climate** | Surface Air Temperatures | Long-term historical weather records and monthly extremes. |
+
+---
+
+## 💻 Local Quickstart
+
+### Running Locally
+Because all data and libraries are bundled locally, you only need a modern web browser:
+
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/tqx2012/singstats.git
+   cd singstats
+   ```
+2. Double-click `index.html` to open it in your browser (Chrome, Edge, Firefox, Safari), or serve it via a local static server:
+   ```bash
+   # Optional: Python static server
+   python -m http.server 8000
+   ```
+3. Open `http://localhost:8000` in your browser.
+
+---
+
+## ⚖️ Data Attribution & Licence
+
+- **Source**: Singapore Department of Statistics ([SingStat Table Builder](https://tablebuilder.singstat.gov.sg/)).
+- **Licence**: Public data accessed and published under the [Singapore Open Data Licence](https://data.gov.sg/open-data-licence).
+- Developer tools for re-scraping or updating raw API datasets are documented in [DATA_DOWNLOADER.md](DATA_DOWNLOADER.md).
